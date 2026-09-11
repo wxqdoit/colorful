@@ -1,0 +1,1137 @@
+[
+  {
+    "name": "coffee",
+    "family": "cup",
+    "visualReason": "Rounded cup wall cradles coffee; loop handle and rising steam."
+  },
+  {
+    "name": "gift",
+    "family": "gift",
+    "visualReason": "Ribbon wraps lid and box beneath two looped bows."
+  },
+  {
+    "name": "air-traffic-control",
+    "family": "architecture",
+    "visualReason": "Wide glazed control room crowns narrow support tower."
+  },
+  {
+    "name": "airplane",
+    "family": "airplane",
+    "visualReason": "Top view airplane with long fuselage, swept wings and tail."
+  },
+  {
+    "name": "airplane-in-flight",
+    "family": "airplane",
+    "visualReason": "Side fuselage with upright wing and tail in flight."
+  },
+  {
+    "name": "airplane-landing",
+    "family": "airplane",
+    "visualReason": "Downward aircraft attitude above landing runway."
+  },
+  {
+    "name": "airplane-takeoff",
+    "family": "airplane",
+    "visualReason": "Climbing airplane separates from runway."
+  },
+  {
+    "name": "airplane-taxiing",
+    "family": "airplane",
+    "visualReason": "Level plane has visible landing wheels for taxiing."
+  },
+  {
+    "name": "airplane-tilt",
+    "family": "airplane",
+    "visualReason": "Diagonal top view retains full wings and tail."
+  },
+  {
+    "name": "armchair",
+    "family": "selected-study",
+    "visualReason": "Adopted approved independently drawn soft object study with physical part layering."
+  },
+  {
+    "name": "axe",
+    "family": "tool",
+    "visualReason": "Curved axe blade fixed to long diagonal wooden handle."
+  },
+  {
+    "name": "backpack",
+    "family": "selected-study",
+    "visualReason": "Adopted approved independently drawn soft object study with physical part layering."
+  },
+  {
+    "name": "bag",
+    "family": "hand luggage",
+    "visualReason": "Structured bag with handle and clasp pocket."
+  },
+  {
+    "name": "bag-simple",
+    "family": "hand luggage",
+    "visualReason": "Simplified bag with soft taper and bent carrying handle."
+  },
+  {
+    "name": "balloon",
+    "family": "balloon",
+    "visualReason": "Inflated pear silhouette narrows to tied string."
+  },
+  {
+    "name": "bank",
+    "family": "architecture",
+    "visualReason": "Classical bank pediment rests on three broad columns."
+  },
+  {
+    "name": "barcode",
+    "family": "barcode",
+    "visualReason": "Parallel scanner bars of deliberately varied widths."
+  },
+  {
+    "name": "barn",
+    "family": "architecture",
+    "visualReason": "Barn roof bends at gambrel corners above crossed double doors."
+  },
+  {
+    "name": "barricade",
+    "family": "road",
+    "visualReason": "Road barricade with diagonal warning strips and supports."
+  },
+  {
+    "name": "baseball-cap",
+    "family": "cap",
+    "visualReason": "Domed cap crown overlaps projecting brim."
+  },
+  {
+    "name": "basket",
+    "family": "basket",
+    "visualReason": "Woven tapered basket with folding handles."
+  },
+  {
+    "name": "beanie",
+    "family": "beanie",
+    "visualReason": "Knitted dome, pompom and thick folded cuff."
+  },
+  {
+    "name": "beer-bottle",
+    "family": "bottle",
+    "visualReason": "Narrow neck over broad bottle with paper label."
+  },
+  {
+    "name": "beer-stein",
+    "family": "stein",
+    "visualReason": "Foamy head over tall tankard and side handle."
+  },
+  {
+    "name": "belt",
+    "family": "belt",
+    "visualReason": "Long leather strap passes through rounded buckle."
+  },
+  {
+    "name": "blueprint",
+    "family": "paper",
+    "visualReason": "Rolled blueprint page shows explicit floorplan."
+  },
+  {
+    "name": "boat",
+    "family": "boat",
+    "visualReason": "Ship bow projects forward beneath wheelhouse."
+  },
+  {
+    "name": "book-open-text",
+    "family": "book",
+    "visualReason": "Open book has two curved page blocks and visible text rows."
+  },
+  {
+    "name": "books",
+    "family": "book",
+    "visualReason": "Three separate volumes include one leaning book."
+  },
+  {
+    "name": "bowl-food",
+    "family": "bowl",
+    "visualReason": "Rice mound and chopsticks rise from serving bowl."
+  },
+  {
+    "name": "bowl-steam",
+    "family": "bowl",
+    "visualReason": "Curved serving bowl supports open rim and steam."
+  },
+  {
+    "name": "brandy",
+    "family": "stemware",
+    "visualReason": "Round snifter bowl holds liquid above short stem."
+  },
+  {
+    "name": "bread",
+    "family": "bread",
+    "visualReason": "Soft toast slice with crust surrounding crumb."
+  },
+  {
+    "name": "bridge",
+    "family": "architecture",
+    "visualReason": "Suspension bridge deck hangs from two towers."
+  },
+  {
+    "name": "building",
+    "family": "building",
+    "visualReason": "Upright block with roof slab, windows and entrance."
+  },
+  {
+    "name": "building-apartment",
+    "family": "building",
+    "visualReason": "Apartment balconies divide stacked residences."
+  },
+  {
+    "name": "building-office",
+    "family": "building",
+    "visualReason": "Sloping office roof and vertical window strip."
+  },
+  {
+    "name": "buildings",
+    "family": "building",
+    "visualReason": "Offset pair of buildings with independent heights."
+  },
+  {
+    "name": "bulldozer",
+    "family": "construction vehicle",
+    "visualReason": "Tracked bulldozer with tall curved blade."
+  },
+  {
+    "name": "bus",
+    "family": "bus",
+    "visualReason": "Tall front bus with wide passenger windshield."
+  },
+  {
+    "name": "cable-car",
+    "family": "cable car",
+    "visualReason": "Suspended gondola with trapezoid panoramic window."
+  },
+  {
+    "name": "call-bell",
+    "family": "bell",
+    "visualReason": "Service bell dome sits above broad desk base."
+  },
+  {
+    "name": "car",
+    "family": "car",
+    "visualReason": "Front car silhouette with broad windscreen and grille."
+  },
+  {
+    "name": "car-battery",
+    "family": "energy",
+    "visualReason": "Battery case with positive and negative terminals."
+  },
+  {
+    "name": "car-profile",
+    "family": "car",
+    "visualReason": "Side sedan has sloping cabin and separated wheels."
+  },
+  {
+    "name": "car-simple",
+    "family": "car",
+    "visualReason": "Simplified front car with two headlamps."
+  },
+  {
+    "name": "cardholder",
+    "family": "payment",
+    "visualReason": "Card peeks out from gently curved cardholder pocket."
+  },
+  {
+    "name": "cash-register",
+    "family": "payment",
+    "visualReason": "Register console, cash drawer and raised customer display."
+  },
+  {
+    "name": "castle-turret",
+    "family": "architecture",
+    "visualReason": "Crenellated battlement and arched stone doorway."
+  },
+  {
+    "name": "chair",
+    "family": "furniture",
+    "visualReason": "Dining chair with broad backrest and angled legs."
+  },
+  {
+    "name": "chalkboard",
+    "family": "board",
+    "visualReason": "Teaching board includes two simple chalk strokes."
+  },
+  {
+    "name": "chalkboard-simple",
+    "family": "board",
+    "visualReason": "Chalkboard surface framed on two splayed easel legs."
+  },
+  {
+    "name": "champagne",
+    "family": "stemware",
+    "visualReason": "Slender champagne flute with festive bubbles."
+  },
+  {
+    "name": "charging-station",
+    "family": "energy",
+    "visualReason": "Electric charger marked by bolt and plug lead."
+  },
+  {
+    "name": "cheers",
+    "family": "stemware",
+    "visualReason": "Two tilted flutes touch above separate stems."
+  },
+  {
+    "name": "cheese",
+    "family": "food",
+    "visualReason": "Wedge top and hole-pocked cheese face."
+  },
+  {
+    "name": "chef-hat",
+    "family": "clothing",
+    "visualReason": "Three inflated chef toque lobes gathered into hat band."
+  },
+  {
+    "name": "church",
+    "family": "architecture",
+    "visualReason": "Steeple and cross stand above pitched church nave."
+  },
+  {
+    "name": "city",
+    "family": "city",
+    "visualReason": "Three heights and rooftop antenna form city skyline."
+  },
+  {
+    "name": "coat-hanger",
+    "family": "clothing",
+    "visualReason": "Triangular clothes hanger with curved hook and lower rail."
+  },
+  {
+    "name": "coin",
+    "family": "money",
+    "visualReason": "Raised coin rim surrounds currency stroke."
+  },
+  {
+    "name": "coin-vertical",
+    "family": "money",
+    "visualReason": "Coin viewed obliquely has narrow elliptical face."
+  },
+  {
+    "name": "coins",
+    "family": "money",
+    "visualReason": "Overlapping upright coin and stacked horizontal coins."
+  },
+  {
+    "name": "compass",
+    "family": "navigation",
+    "visualReason": "Compass rose needle points diagonally within instrument face."
+  },
+  {
+    "name": "compass-rose",
+    "family": "navigation",
+    "visualReason": "Four pointed cardinal directions with alternating needle halves."
+  },
+  {
+    "name": "contactless-payment",
+    "family": "payment",
+    "visualReason": "Card transmits expanding contactless radio arcs."
+  },
+  {
+    "name": "cookie",
+    "family": "selected-study",
+    "visualReason": "Adopted approved independently drawn soft object study with physical part layering."
+  },
+  {
+    "name": "cooking-pot",
+    "family": "cookware",
+    "visualReason": "Deep stockpot beneath domed lid, two side handles."
+  },
+  {
+    "name": "couch",
+    "family": "furniture",
+    "visualReason": "Wide sofa carries paired cushions between rolled arms."
+  },
+  {
+    "name": "cowboy-hat",
+    "family": "hat",
+    "visualReason": "Pinched crown inside upturned western brim."
+  },
+  {
+    "name": "crane",
+    "family": "construction vehicle",
+    "visualReason": "Mobile crane has diagonal lifting boom and hanging hook."
+  },
+  {
+    "name": "crane-tower",
+    "family": "tower crane",
+    "visualReason": "Lattice tower supports horizontal jib and lifting cable."
+  },
+  {
+    "name": "credit-card",
+    "family": "payment",
+    "visualReason": "Rounded payment card has magnetic band and signature marks."
+  },
+  {
+    "name": "crosshair",
+    "family": "navigation",
+    "visualReason": "Target reticle centers four sight lines on small disc."
+  },
+  {
+    "name": "crosshair-simple",
+    "family": "navigation",
+    "visualReason": "Simple crosshair ring and four axis ticks."
+  },
+  {
+    "name": "desk",
+    "family": "furniture",
+    "visualReason": "Broad desk surface supports a suspended drawer cabinet."
+  },
+  {
+    "name": "disco-ball",
+    "family": "lighting",
+    "visualReason": "Suspended mirrored sphere divided into broad mosaic bands."
+  },
+  {
+    "name": "dress",
+    "family": "clothing",
+    "visualReason": "Fitted bodice meets waist ribbon and flaring skirt."
+  },
+  {
+    "name": "dresser",
+    "family": "furniture",
+    "visualReason": "Two broad dresser drawers with centered pulls."
+  },
+  {
+    "name": "elevator",
+    "family": "architecture",
+    "visualReason": "Paired lift doors and explicit up/down directions."
+  },
+  {
+    "name": "engine",
+    "family": "engine",
+    "visualReason": "Engine block with protruding ports and upper intake."
+  },
+  {
+    "name": "escalator-down",
+    "family": "architecture",
+    "visualReason": "Diagonal escalator with downward travel arrow."
+  },
+  {
+    "name": "escalator-up",
+    "family": "architecture",
+    "visualReason": "Diagonal escalator with upward travel arrow."
+  },
+  {
+    "name": "factory",
+    "family": "architecture",
+    "visualReason": "Sawtooth factory roof alongside tall tapered chimney."
+  },
+  {
+    "name": "fan",
+    "family": "appliance",
+    "visualReason": "Three broad fan blades turn around hub on upright stand."
+  },
+  {
+    "name": "flag",
+    "family": "flag",
+    "visualReason": "Waving cloth flag billows from upright pole."
+  },
+  {
+    "name": "flag-banner",
+    "family": "flag",
+    "visualReason": "Hanging vertical banner has notched swallowtail foot."
+  },
+  {
+    "name": "flag-banner-fold",
+    "family": "flag",
+    "visualReason": "Rolled top edge unfurls into swallowtail banner."
+  },
+  {
+    "name": "flag-checkered",
+    "family": "flag",
+    "visualReason": "Waving race flag with intentional contrasting checker cells."
+  },
+  {
+    "name": "flag-pennant",
+    "family": "flag",
+    "visualReason": "Triangular pennant attached to mast."
+  },
+  {
+    "name": "fork-knife",
+    "family": "cutlery",
+    "visualReason": "Fork tines and knife blade have separate filled handles."
+  },
+  {
+    "name": "garage",
+    "family": "architecture",
+    "visualReason": "Compact garage with three slatted shutter lines."
+  },
+  {
+    "name": "gas-can",
+    "family": "container",
+    "visualReason": "Fuel jerrycan with top handle, spout and pressed X ribs."
+  },
+  {
+    "name": "gas-pump",
+    "family": "energy",
+    "visualReason": "Fuel pump display with looping hose and nozzle."
+  },
+  {
+    "name": "gavel",
+    "family": "tool",
+    "visualReason": "Judge mallet above a separate sound block."
+  },
+  {
+    "name": "globe",
+    "family": "globe",
+    "visualReason": "Latitude bands cross full meridian globe."
+  },
+  {
+    "name": "globe-hemisphere-east",
+    "family": "globe",
+    "visualReason": "Eastern hemisphere with Eurasia, Africa and separate Australia."
+  },
+  {
+    "name": "globe-hemisphere-west",
+    "family": "globe",
+    "visualReason": "Western hemisphere shows connected North and South American land masses."
+  },
+  {
+    "name": "globe-simple",
+    "family": "globe",
+    "visualReason": "Simple meridian sphere without extra latitude lines."
+  },
+  {
+    "name": "globe-simple-x",
+    "family": "globe",
+    "visualReason": "Simple globe crossed by lower right X."
+  },
+  {
+    "name": "globe-stand",
+    "family": "globe",
+    "visualReason": "Tilted display globe cradled by curved supporting arm."
+  },
+  {
+    "name": "globe-x",
+    "family": "globe",
+    "visualReason": "Globe with explicit lower right X state."
+  },
+  {
+    "name": "gps",
+    "family": "navigation",
+    "visualReason": "Satellite position target with central filled location disc."
+  },
+  {
+    "name": "gps-fix",
+    "family": "navigation",
+    "visualReason": "Locked GPS target adds solid precise center."
+  },
+  {
+    "name": "gps-slash",
+    "family": "navigation",
+    "visualReason": "GPS target with diagonal unavailable slash."
+  },
+  {
+    "name": "graduation-cap",
+    "family": "clothing",
+    "visualReason": "Mortarboard floats above fitted cap and side tassel."
+  },
+  {
+    "name": "grains-slash",
+    "family": "food",
+    "visualReason": "Six close plump wheat kernels meet one continuous stalk under a prohibition slash."
+  },
+  {
+    "name": "hair-dryer",
+    "family": "appliance",
+    "visualReason": "Bulbous dryer barrel tapers to nozzle above angled handle."
+  },
+  {
+    "name": "hamburger",
+    "family": "food",
+    "visualReason": "Two bun halves contain wavy lettuce filling."
+  },
+  {
+    "name": "hammer",
+    "family": "tool",
+    "visualReason": "Claw hammer head and angled shaft."
+  },
+  {
+    "name": "handbag",
+    "family": "handbag",
+    "visualReason": "Curved purse flap and short handles."
+  },
+  {
+    "name": "handbag-simple",
+    "family": "handbag",
+    "visualReason": "Flared handbag body and short loop handles."
+  },
+  {
+    "name": "hard-hat",
+    "family": "helmet",
+    "visualReason": "Safety dome strengthened by center rib and wide brim."
+  },
+  {
+    "name": "headlights",
+    "family": "vehicle part",
+    "visualReason": "Domed headlamp throws three horizontal rays."
+  },
+  {
+    "name": "high-heel",
+    "family": "clothing",
+    "visualReason": "Curved shoe vamp, pointed toe and narrow raised heel."
+  },
+  {
+    "name": "hoodie",
+    "family": "clothing",
+    "visualReason": "Hood opening and kangaroo pocket define sweatshirt."
+  },
+  {
+    "name": "house",
+    "family": "selected-study",
+    "visualReason": "Adopted approved independently drawn soft object study with physical part layering."
+  },
+  {
+    "name": "house-line",
+    "family": "house",
+    "visualReason": "Roof, doorway and one window give the house structure."
+  },
+  {
+    "name": "house-simple",
+    "family": "house",
+    "visualReason": "Soft pitched roof sits over small doorway."
+  },
+  {
+    "name": "ice-cream",
+    "family": "food",
+    "visualReason": "Scooped ice cream overlaps tapered waffle cone."
+  },
+  {
+    "name": "invoice",
+    "family": "paper",
+    "visualReason": "Invoice sheet distinguishes header, rows and price column."
+  },
+  {
+    "name": "jar",
+    "family": "container",
+    "visualReason": "Glass jar has shoulder taper and sealed screw cap."
+  },
+  {
+    "name": "jar-label",
+    "family": "container",
+    "visualReason": "Broad paper label wraps glass jar belly."
+  },
+  {
+    "name": "jeep",
+    "family": "jeep",
+    "visualReason": "Boxy off-road cabin, upright windshield and raised wheels."
+  },
+  {
+    "name": "knife",
+    "family": "cutlery",
+    "visualReason": "Chef knife has wide curved blade and diagonal grip."
+  },
+  {
+    "name": "lamp",
+    "family": "selected-study",
+    "visualReason": "Adopted approved independently drawn soft object study with physical part layering."
+  },
+  {
+    "name": "lamp-pendant",
+    "family": "lighting",
+    "visualReason": "Hanging cable supports flared pendant shade and light interior."
+  },
+  {
+    "name": "lighthouse",
+    "family": "architecture",
+    "visualReason": "Tapered tower with beacon chamber and painted stripe."
+  },
+  {
+    "name": "lockers",
+    "family": "furniture",
+    "visualReason": "Pair of lockers with ventilation and vertical handles."
+  },
+  {
+    "name": "mailbox",
+    "family": "container",
+    "visualReason": "Arched mailbox with front door, post and raised flag."
+  },
+  {
+    "name": "map-pin",
+    "family": "map pin",
+    "visualReason": "Teardrop location marker around inset circular center."
+  },
+  {
+    "name": "map-pin-area",
+    "family": "map pin",
+    "visualReason": "Location pin above broad elliptical geographic area."
+  },
+  {
+    "name": "map-pin-line",
+    "family": "map pin",
+    "visualReason": "Location marker rests above a short baseline."
+  },
+  {
+    "name": "map-pin-plus",
+    "family": "map pin",
+    "visualReason": "Plus in marker center denotes adding a location."
+  },
+  {
+    "name": "map-pin-simple",
+    "family": "map pin",
+    "visualReason": "Simple round headed push location pin with long stem."
+  },
+  {
+    "name": "map-pin-simple-area",
+    "family": "map pin",
+    "visualReason": "Round pin over elliptical location area."
+  },
+  {
+    "name": "map-pin-simple-line",
+    "family": "map pin",
+    "visualReason": "Round location pin has baseline under pointed stem."
+  },
+  {
+    "name": "map-trifold",
+    "family": "map",
+    "visualReason": "Three map panels bend at alternating fold directions."
+  },
+  {
+    "name": "martini",
+    "family": "stemware",
+    "visualReason": "Conical cocktail bowl and skewered olive."
+  },
+  {
+    "name": "money",
+    "family": "money",
+    "visualReason": "Banknote with shaped corner security panels and central denomination."
+  },
+  {
+    "name": "money-wavy",
+    "family": "money",
+    "visualReason": "Flexible banknote waves across left and right edges."
+  },
+  {
+    "name": "moped",
+    "family": "moped",
+    "visualReason": "Step-through scooter has low foot deck and front apron."
+  },
+  {
+    "name": "moped-front",
+    "family": "moped",
+    "visualReason": "Front scooter with oval lamp and broad leg shield."
+  },
+  {
+    "name": "mosque",
+    "family": "architecture",
+    "visualReason": "Onion dome and flanking minarets frame mosque entrance."
+  },
+  {
+    "name": "motorcycle",
+    "family": "motorcycle",
+    "visualReason": "Motorbike tank lies between exposed frame and two wheels."
+  },
+  {
+    "name": "navigation-arrow",
+    "family": "navigation",
+    "visualReason": "Filled direction arrow folds toward northeast tip."
+  },
+  {
+    "name": "needle",
+    "family": "tool",
+    "visualReason": "Long tapered needle with eye in broad rounded end."
+  },
+  {
+    "name": "nuclear-plant",
+    "family": "architecture",
+    "visualReason": "Cooling towers widen at base beneath narrow necks."
+  },
+  {
+    "name": "office-chair",
+    "family": "furniture",
+    "visualReason": "Padded swivel chair with central pedestal and caster base."
+  },
+  {
+    "name": "onigiri",
+    "family": "food",
+    "visualReason": "Rounded rice triangle wrapped with a seaweed band."
+  },
+  {
+    "name": "oven",
+    "family": "appliance",
+    "visualReason": "Oven window, pull and top control knobs."
+  },
+  {
+    "name": "pants",
+    "family": "clothing",
+    "visualReason": "Wide waistband and separated trouser legs."
+  },
+  {
+    "name": "paper-plane",
+    "family": "paper airplane",
+    "visualReason": "Folded paper airplane points upward diagonally."
+  },
+  {
+    "name": "paper-plane-right",
+    "family": "paper airplane",
+    "visualReason": "Paper airplane nose faces right with folded underside."
+  },
+  {
+    "name": "paper-plane-tilt",
+    "family": "paper airplane",
+    "visualReason": "Steep diagonal paper airplane exposes central paper crease."
+  },
+  {
+    "name": "pipe",
+    "family": "pipe",
+    "visualReason": "Rounded elbow pipe with collars at both ends."
+  },
+  {
+    "name": "pipe-wrench",
+    "family": "tool",
+    "visualReason": "Adjustable toothed jaw over an angled pipe wrench handle."
+  },
+  {
+    "name": "pizza",
+    "family": "food",
+    "visualReason": "Soft triangular slice with curved crust and toppings."
+  },
+  {
+    "name": "police-car",
+    "family": "police car",
+    "visualReason": "Split roof beacon and shield distinguish police car."
+  },
+  {
+    "name": "popcorn",
+    "family": "food",
+    "visualReason": "Popped kernels overflow a striped tapered carton."
+  },
+  {
+    "name": "popsicle",
+    "family": "food",
+    "visualReason": "Round frozen bar covers wooden stick."
+  },
+  {
+    "name": "prohibit",
+    "family": "status",
+    "visualReason": "Prohibition disc cut by diagonal bar."
+  },
+  {
+    "name": "prohibit-inset",
+    "family": "status",
+    "visualReason": "Inset prohibition ring has generous surrounding face."
+  },
+  {
+    "name": "push-pin",
+    "family": "pin",
+    "visualReason": "Tilted pushpin cap, skirt and sharp stem."
+  },
+  {
+    "name": "push-pin-simple",
+    "family": "pin",
+    "visualReason": "Upright pushpin with broad skirt below narrow neck."
+  },
+  {
+    "name": "push-pin-simple-slash",
+    "family": "pin",
+    "visualReason": "Simple pushpin with disabled diagonal stroke."
+  },
+  {
+    "name": "push-pin-slash",
+    "family": "pin",
+    "visualReason": "Tilted pushpin matches the enabled standard pin; a separate diagonal slash disables it."
+  },
+  {
+    "name": "receipt",
+    "family": "paper",
+    "visualReason": "Narrow receipt strip has torn zigzag ends and item lines."
+  },
+  {
+    "name": "receipt-x",
+    "family": "paper",
+    "visualReason": "Receipt paper includes clear cancellation X."
+  },
+  {
+    "name": "road-horizon",
+    "family": "road",
+    "visualReason": "Perspective road broadens toward viewer with dashed center."
+  },
+  {
+    "name": "rocket-launch",
+    "family": "rocket",
+    "visualReason": "Pointed spacecraft, side fins and trailing flame."
+  },
+  {
+    "name": "sailboat",
+    "family": "sailboat",
+    "visualReason": "Two windfilled sails above curved narrow hull."
+  },
+  {
+    "name": "scales",
+    "family": "scales",
+    "visualReason": "Twin suspended pans balance across central beam."
+  },
+  {
+    "name": "screwdriver",
+    "family": "tool",
+    "visualReason": "Broad grip tapers into metal shaft and flat tip."
+  },
+  {
+    "name": "seat",
+    "family": "furniture",
+    "visualReason": "Side travel seat shows reclined back and forward cushion."
+  },
+  {
+    "name": "seatbelt",
+    "family": "vehicle part",
+    "visualReason": "Crossed safety straps join at rectangular buckle."
+  },
+  {
+    "name": "shipping-container",
+    "family": "cargo",
+    "visualReason": "Corrugated shipping container in oblique view."
+  },
+  {
+    "name": "shirt-folded",
+    "family": "clothing",
+    "visualReason": "Folded collared shirt with button placket and breast pocket."
+  },
+  {
+    "name": "shopping-bag",
+    "family": "shopping bag",
+    "visualReason": "Paper shopping sack with gusset and loop."
+  },
+  {
+    "name": "shopping-bag-open",
+    "family": "shopping bag",
+    "visualReason": "Open oval mouth shows sack interior."
+  },
+  {
+    "name": "shopping-cart",
+    "family": "shopping cart",
+    "visualReason": "Shopping cart adds two structural basket ribs."
+  },
+  {
+    "name": "shopping-cart-simple",
+    "family": "shopping cart",
+    "visualReason": "Tilted basket rests above frame and two wheels."
+  },
+  {
+    "name": "shovel",
+    "family": "tool",
+    "visualReason": "Spade blade with narrow shaft and triangular hand grip."
+  },
+  {
+    "name": "signpost",
+    "family": "road",
+    "visualReason": "Opposing directional boards attach to central post."
+  },
+  {
+    "name": "siren",
+    "family": "lighting",
+    "visualReason": "Emergency dome on mounting plinth with light rays."
+  },
+  {
+    "name": "sock",
+    "family": "clothing",
+    "visualReason": "Bent sock with thick rib cuff and contrasting toe."
+  },
+  {
+    "name": "solar-panel",
+    "family": "energy",
+    "visualReason": "Tilted solar panel divided into cells on stand."
+  },
+  {
+    "name": "solar-roof",
+    "family": "energy",
+    "visualReason": "House roof carries tilted photovoltaic cells."
+  },
+  {
+    "name": "stairs",
+    "family": "architecture",
+    "visualReason": "Ascending staircase formed from filled treads and risers."
+  },
+  {
+    "name": "steering-wheel",
+    "family": "vehicle part",
+    "visualReason": "Broad steering rim and three spokes around center hub."
+  },
+  {
+    "name": "steps",
+    "family": "architecture",
+    "visualReason": "Three separate stair treads stagger upward in perspective."
+  },
+  {
+    "name": "stool",
+    "family": "furniture",
+    "visualReason": "Oval stool cushion rests on splayed legs."
+  },
+  {
+    "name": "storefront",
+    "family": "architecture",
+    "visualReason": "Scalloped striped awning above shop window and door."
+  },
+  {
+    "name": "subway",
+    "family": "subway",
+    "visualReason": "Passenger train emerging from arched tunnel."
+  },
+  {
+    "name": "suitcase-rolling",
+    "family": "suitcase",
+    "visualReason": "Travel suitcase with telescoping pull and two wheels."
+  },
+  {
+    "name": "synagogue",
+    "family": "architecture",
+    "visualReason": "Twin roof volumes and six-point religious symbol."
+  },
+  {
+    "name": "t-shirt",
+    "family": "clothing",
+    "visualReason": "Soft cotton shirt with short sleeves and ribbed neckline."
+  },
+  {
+    "name": "tag",
+    "family": "tag",
+    "visualReason": "Price tag has punched hole and short writing stroke."
+  },
+  {
+    "name": "tag-chevron",
+    "family": "tag",
+    "visualReason": "Chevron label has forked tail and pointed leading edge."
+  },
+  {
+    "name": "tag-simple",
+    "family": "tag",
+    "visualReason": "Simple price label with rounded punched shoulder."
+  },
+  {
+    "name": "target",
+    "family": "navigation",
+    "visualReason": "Concentric target rings with arrow landing in center."
+  },
+  {
+    "name": "taxi",
+    "family": "taxi",
+    "visualReason": "Taxi roof sign above front windscreen."
+  },
+  {
+    "name": "tea-bag",
+    "family": "tea",
+    "visualReason": "Tea sachet with folded shoulders and string tag."
+  },
+  {
+    "name": "ticket",
+    "family": "paper",
+    "visualReason": "Admission ticket has side notches and detachable stub."
+  },
+  {
+    "name": "tip-jar",
+    "family": "container",
+    "visualReason": "Donation jar with coin slot and heartlike giving mark."
+  },
+  {
+    "name": "tire",
+    "family": "vehicle part",
+    "visualReason": "Thick tire ring with sparse tread marks and oval opening."
+  },
+  {
+    "name": "toolbox",
+    "family": "toolbox",
+    "visualReason": "Tool case with lid seam and two latch blocks."
+  },
+  {
+    "name": "tote",
+    "family": "tote",
+    "visualReason": "Cloth tote with reinforced bottom and long straps."
+  },
+  {
+    "name": "tote-simple",
+    "family": "tote",
+    "visualReason": "Single canvas sack and elongated handles."
+  },
+  {
+    "name": "towel",
+    "family": "cloth",
+    "visualReason": "Folded towel drapes over rail with parallel hem seams."
+  },
+  {
+    "name": "tractor",
+    "family": "tractor",
+    "visualReason": "Large rear drive wheel, small front wheel and exposed engine."
+  },
+  {
+    "name": "traffic-cone",
+    "family": "road",
+    "visualReason": "Tapered cone with reflective white band on broad base."
+  },
+  {
+    "name": "traffic-sign",
+    "family": "road",
+    "visualReason": "Rounded diamond road sign carries broad turn arrow."
+  },
+  {
+    "name": "traffic-signal",
+    "family": "road",
+    "visualReason": "Vertical traffic light housing with three stacked lamps."
+  },
+  {
+    "name": "train",
+    "family": "train",
+    "visualReason": "Rounded rail engine face with lights and diverging tracks."
+  },
+  {
+    "name": "train-regional",
+    "family": "train",
+    "visualReason": "Streamlined regional train in side view."
+  },
+  {
+    "name": "train-simple",
+    "family": "train",
+    "visualReason": "Simplified passenger train body and tracks."
+  },
+  {
+    "name": "tram",
+    "family": "tram",
+    "visualReason": "Street tram has overhead pantograph and broad windows."
+  },
+  {
+    "name": "truck",
+    "family": "truck",
+    "visualReason": "Box truck separates cargo rectangle and driver cab."
+  },
+  {
+    "name": "truck-trailer",
+    "family": "truck",
+    "visualReason": "Long independent trailer with paired rear axles and small cab."
+  },
+  {
+    "name": "van",
+    "family": "van",
+    "visualReason": "High van cabin and continuous body with long side windows."
+  },
+  {
+    "name": "wallet",
+    "family": "payment",
+    "visualReason": "Folded wallet wraps inserted notes and snap closure."
+  },
+  {
+    "name": "warehouse",
+    "family": "architecture",
+    "visualReason": "Broad warehouse gable encloses loading shutter."
+  },
+  {
+    "name": "washing-machine",
+    "family": "appliance",
+    "visualReason": "Front load washer has round drum under control strip."
+  },
+  {
+    "name": "windmill",
+    "family": "architecture",
+    "visualReason": "Four broad windmill sails cross over tapered mill."
+  },
+  {
+    "name": "wine",
+    "family": "stemware",
+    "visualReason": "Tulip wine glass with curved liquid bowl and stem."
+  },
+  {
+    "name": "wrench",
+    "family": "tool",
+    "visualReason": "Open crescent wrench head and rounded hanging-hole handle."
+  }
+]

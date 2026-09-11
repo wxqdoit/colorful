@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M7,2h5c0.556,0 0.833,0.278 0.833,0.833v10.833c0,0.556 -0.278,0.833 -0.833,0.833h-5c-0.556,0 -0.833,-0.278 -0.833,-0.833v-10.833c0,-0.556 0.278,-0.833 0.833,-0.833z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" data-layer="surface" />
+  <path d="M8.75,3.917c3.75,2.867 -3.25,5.333 0.5,8.667l-3.083,0l0,-8.667z" fill="var(--project-art-back, #d9c9ed)" stroke="none" data-layer="back" />
+  <path d="M12.833,7c3.587,0 6.771,2.295 7.906,5.698c1.134,3.403 -0.036,7.15 -2.906,9.302" fill="none" data-layer="detail" />
+  <path d="M2,22h20" fill="none" data-layer="detail" />
+  <path d="M6.167,17.833h6.667" fill="none" data-layer="detail" />
+</svg>

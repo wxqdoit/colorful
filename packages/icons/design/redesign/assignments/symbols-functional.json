@@ -1,0 +1,527 @@
+[
+  {
+    "name": "anchor",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "anchor-simple",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "angle",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "asclepius",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "bezier-curve",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "bluetooth",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "bluetooth-connected",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "bluetooth-slash",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "bluetooth-x",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "bounding-box",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-full",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-high",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-low",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-medium",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-none",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-slash",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cell-signal-x",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "circle",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "circle-dashed",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "circle-half",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "circle-half-tilt",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "circle-notch",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "crop",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cursor",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cursor-click",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "cursor-text",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dna",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "dot",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dot-outline",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-nine",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-six",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-six-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three-circle",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three-circle-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three-outline",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three-outline-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "dots-three-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "exclude",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "exclude-square",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "file-c",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-c-sharp",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-dashed",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-html",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-ini",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-js",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-py",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-rs",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "file-ts",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "folder-simple-user",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "folder-user",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "gender-female",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "gender-intersex",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "gender-male",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "gender-neuter",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "gender-nonbinary",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "gender-transgender",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "hexagon",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "intersect",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "intersect-square",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "intersect-three",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "line-segment",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "line-segments",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "line-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "octagon",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "parallelogram",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "path",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "pentagon",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "person-simple",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "person-simple-run",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "person-simple-ski",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "person-simple-tai-chi",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "person-simple-throw",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "person-simple-walk",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "playlist",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "polygon",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "pulse",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "rectangle",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "rectangle-dashed",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "resize",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-all",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-background",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-foreground",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-inverse",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-plus",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "selection-slash",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "signature",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "square",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "square-half",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "square-half-bottom",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "square-split-horizontal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "square-split-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "subtract",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "subtract-square",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "triangle",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "triangle-dashed",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "vector-three",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "vector-two",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "wave-sawtooth",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "wave-sine",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "wave-square",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "wave-triangle",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "wheelchair",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "wheelchair-motion",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  }
+]

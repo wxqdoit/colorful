@@ -1,0 +1,989 @@
+[
+  {
+    "name": "align-bottom",
+    "family": "alignment",
+    "visualReason": "Two unequal rounded blocks rests against the bottom alignment rail.",
+    "label": "底部对齐",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-bottom-simple",
+    "family": "alignment",
+    "visualReason": "One rounded block rests against the bottom alignment rail.",
+    "label": "底部对齐（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-center-horizontal",
+    "family": "alignment",
+    "visualReason": "Rounded blocks share a vertical center guide for horizontal centering.",
+    "label": "水平居中",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-center-horizontal-simple",
+    "family": "alignment",
+    "visualReason": "Rounded blocks share a vertical center guide for horizontal centering.",
+    "label": "水平居中（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-center-vertical",
+    "family": "alignment",
+    "visualReason": "Rounded blocks share a horizontal center guide for vertical centering.",
+    "label": "垂直居中",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-center-vertical-simple",
+    "family": "alignment",
+    "visualReason": "Rounded blocks share a horizontal center guide for vertical centering.",
+    "label": "垂直居中（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-left",
+    "family": "alignment",
+    "visualReason": "Two unequal rounded blocks rests against the left alignment rail.",
+    "label": "左侧对齐",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-left-simple",
+    "family": "alignment",
+    "visualReason": "One rounded block rests against the left alignment rail.",
+    "label": "左侧对齐（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-right",
+    "family": "alignment",
+    "visualReason": "Two unequal rounded blocks rests against the right alignment rail.",
+    "label": "右侧对齐",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-right-simple",
+    "family": "alignment",
+    "visualReason": "One rounded block rests against the right alignment rail.",
+    "label": "右侧对齐（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-top",
+    "family": "alignment",
+    "visualReason": "Two unequal rounded blocks rests against the top alignment rail.",
+    "label": "顶部对齐",
+    "category": "方向与布局"
+  },
+  {
+    "name": "align-top-simple",
+    "family": "alignment",
+    "visualReason": "One rounded block rests against the top alignment rail.",
+    "label": "顶部对齐（单对象）",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-arc-left",
+    "family": "arc-arrow",
+    "visualReason": "A broad arch curls down into the left arrowhead.",
+    "label": "向左弧形箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-arc-right",
+    "family": "arc-arrow",
+    "visualReason": "A broad arch curls down into the right arrowhead.",
+    "label": "向右弧形箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-double-up-left",
+    "family": "bend-arrow",
+    "visualReason": "A curved return terminates in two separate left-facing arrowheads.",
+    "label": "左上双头转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-double-up-right",
+    "family": "bend-arrow",
+    "visualReason": "A curved return terminates in two separate right-facing arrowheads.",
+    "label": "右上双头转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-down-left",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the down-left travel sequence and terminal direction.",
+    "label": "左下转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-down-right",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the down-right travel sequence and terminal direction.",
+    "label": "右下转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-left-down",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the left-down travel sequence and terminal direction.",
+    "label": "先左再下转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-left-up",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the left-up travel sequence and terminal direction.",
+    "label": "先左再上转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-right-down",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the right-down travel sequence and terminal direction.",
+    "label": "先右再下转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-right-up",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the right-up travel sequence and terminal direction.",
+    "label": "先右再上转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-up-left",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the up-left travel sequence and terminal direction.",
+    "label": "左上转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-bend-up-right",
+    "family": "bend-arrow",
+    "visualReason": "A generous quarter curve preserves the up-right travel sequence and terminal direction.",
+    "label": "右上转弯箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-down",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly down arrow.",
+    "label": "圆框向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-down-left",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly down-left arrow.",
+    "label": "圆框向左下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-down-right",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly down-right arrow.",
+    "label": "圆框向右下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-left",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly left arrow.",
+    "label": "圆框向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-right",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly right arrow.",
+    "label": "圆框向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-up",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly up arrow.",
+    "label": "圆框向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-up-left",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly up-left arrow.",
+    "label": "圆框向左上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-circle-up-right",
+    "family": "contained-arrow",
+    "visualReason": "The named circle encloses a clearly up-right arrow.",
+    "label": "圆框向右上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-clockwise",
+    "family": "rotation-arrow",
+    "visualReason": "One open circular arc runs clockwise; filled arrowheads expose the rotation direction.",
+    "label": "顺时针箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-counter-clockwise",
+    "family": "rotation-arrow",
+    "visualReason": "One open circular arc runs counterclockwise; filled arrowheads expose the rotation direction.",
+    "label": "逆时针箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-down",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point down.",
+    "label": "向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-down-left",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point down-left.",
+    "label": "向左下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-down-right",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point down-right.",
+    "label": "向右下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-down-left",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the down-left travel sequence and terminal direction.",
+    "label": "左下直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-down-right",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the down-right travel sequence and terminal direction.",
+    "label": "右下直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-left",
+    "family": "elbow-arrow",
+    "visualReason": "A diagonal elbow rises to an upper-left arrowhead.",
+    "label": "左直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-left-down",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the left-down travel sequence and terminal direction.",
+    "label": "先左再下直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-left-up",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the left-up travel sequence and terminal direction.",
+    "label": "先左再上直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-right",
+    "family": "elbow-arrow",
+    "visualReason": "A diagonal elbow rises to an upper-right arrowhead.",
+    "label": "右直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-right-down",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the right-down travel sequence and terminal direction.",
+    "label": "先右再下直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-right-up",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the right-up travel sequence and terminal direction.",
+    "label": "先右再上直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-up-left",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the up-left travel sequence and terminal direction.",
+    "label": "左上直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-elbow-up-right",
+    "family": "elbow-arrow",
+    "visualReason": "A compact rounded right-angle elbow preserves the up-right travel sequence and terminal direction.",
+    "label": "右上直角转折箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-down",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded down arrow with 0 detached tail lines.",
+    "label": "宽体向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-left",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded left arrow with 0 detached tail lines.",
+    "label": "宽体向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-line-down",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded down arrow with 1 detached tail line.",
+    "label": "单尾线宽体向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-line-left",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded left arrow with 1 detached tail line.",
+    "label": "单尾线宽体向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-line-right",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded right arrow with 1 detached tail line.",
+    "label": "单尾线宽体向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-line-up",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded up arrow with 1 detached tail line.",
+    "label": "单尾线宽体向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-lines-down",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded down arrow with 2 detached tail lines.",
+    "label": "双尾线宽体向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-lines-left",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded left arrow with 2 detached tail lines.",
+    "label": "双尾线宽体向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-lines-right",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded right arrow with 2 detached tail lines.",
+    "label": "双尾线宽体向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-lines-up",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded up arrow with 2 detached tail lines.",
+    "label": "双尾线宽体向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-right",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded right arrow with 0 detached tail lines.",
+    "label": "宽体向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-fat-up",
+    "family": "broad-arrow",
+    "visualReason": "Broad rounded up arrow with 0 detached tail lines.",
+    "label": "宽体向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-left",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point left.",
+    "label": "向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-down",
+    "family": "arrow-stop",
+    "visualReason": "A down arrow approaches its perpendicular end stop.",
+    "label": "向下至边线",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-down-left",
+    "family": "arrow-stop",
+    "visualReason": "Diagonal down-left arrow leaves a horizontal origin line, preserving the reference meaning.",
+    "label": "自横线向左下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-down-right",
+    "family": "arrow-stop",
+    "visualReason": "Diagonal down-right arrow leaves a horizontal origin line, preserving the reference meaning.",
+    "label": "自横线向右下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-left",
+    "family": "arrow-stop",
+    "visualReason": "A left arrow approaches its perpendicular end stop.",
+    "label": "向左至边线",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-right",
+    "family": "arrow-stop",
+    "visualReason": "A right arrow approaches its perpendicular end stop.",
+    "label": "向右至边线",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-up",
+    "family": "arrow-stop",
+    "visualReason": "A up arrow approaches its perpendicular end stop.",
+    "label": "向上至边线",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-up-left",
+    "family": "arrow-stop",
+    "visualReason": "Diagonal up-left arrow leaves a horizontal origin line, preserving the reference meaning.",
+    "label": "自横线向左上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-line-up-right",
+    "family": "arrow-stop",
+    "visualReason": "Diagonal up-right arrow leaves a horizontal origin line, preserving the reference meaning.",
+    "label": "自横线向右上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-right",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point right.",
+    "label": "向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-down",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly down arrow.",
+    "label": "方框向下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-down-left",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly down-left arrow.",
+    "label": "方框向左下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-down-right",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly down-right arrow.",
+    "label": "方框向右下箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-in",
+    "family": "boundary-arrow",
+    "visualReason": "The arrow enters the lower-left opening of a square.",
+    "label": "箭头进入方框",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-left",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly left arrow.",
+    "label": "方框向左箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-out",
+    "family": "boundary-arrow",
+    "visualReason": "The arrow leaves the upper-right corner of an open square.",
+    "label": "箭头离开方框",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-right",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly right arrow.",
+    "label": "方框向右箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-up",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly up arrow.",
+    "label": "方框向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-up-left",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly up-left arrow.",
+    "label": "方框向左上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-square-up-right",
+    "family": "contained-arrow",
+    "visualReason": "The named square encloses a clearly up-right arrow.",
+    "label": "方框向右上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-down-left",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the down-left travel sequence and terminal direction.",
+    "label": "左下回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-down-right",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the down-right travel sequence and terminal direction.",
+    "label": "右下回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-left-down",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the left-down travel sequence and terminal direction.",
+    "label": "先左再下回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-left-up",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the left-up travel sequence and terminal direction.",
+    "label": "先左再上回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-right-down",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the right-down travel sequence and terminal direction.",
+    "label": "先右再下回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-right-up",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the right-up travel sequence and terminal direction.",
+    "label": "先右再上回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-up-left",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the up-left travel sequence and terminal direction.",
+    "label": "左上回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-u-up-right",
+    "family": "u-arrow",
+    "visualReason": "A deep U-turn preserves the up-right travel sequence and terminal direction.",
+    "label": "右上回转箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-up",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point up.",
+    "label": "向上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-up-left",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point up-left.",
+    "label": "向左上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrow-up-right",
+    "family": "straight-arrow",
+    "visualReason": "An open shaft and rounded filled head point up-right.",
+    "label": "向右上箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-clockwise",
+    "family": "rotation-arrow",
+    "visualReason": "Two opposed arcs runs clockwise; filled arrowheads expose the rotation direction.",
+    "label": "顺时针双箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-counter-clockwise",
+    "family": "rotation-arrow",
+    "visualReason": "Two opposed arcs runs counterclockwise; filled arrowheads expose the rotation direction.",
+    "label": "逆时针双箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-down-up",
+    "family": "bidirectional-arrow",
+    "visualReason": "Two distinct parallel lanes point in opposite vertical directions.",
+    "label": "左下右上双箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-horizontal",
+    "family": "bidirectional-arrow",
+    "visualReason": "Two opposing heads share one horizontal shaft.",
+    "label": "水平双向箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-in",
+    "family": "expand-collapse",
+    "visualReason": "Inward heads on four diagonal axes leave the center open.",
+    "label": "四向斜角内收箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-in-cardinal",
+    "family": "expand-collapse",
+    "visualReason": "Inward heads on four cardinal axes leave the center open.",
+    "label": "四向正交内收箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-in-line-horizontal",
+    "family": "expand-collapse",
+    "visualReason": "Two horizontal arrows point toward the center divider.",
+    "label": "水平中线内收箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-in-line-vertical",
+    "family": "expand-collapse",
+    "visualReason": "Two vertical arrows point toward the center divider.",
+    "label": "垂直中线内收箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-in-simple",
+    "family": "expand-collapse",
+    "visualReason": "Inward heads on two opposite diagonal axes leave the center open.",
+    "label": "双向斜角内收箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-left-right",
+    "family": "bidirectional-arrow",
+    "visualReason": "Two distinct parallel lanes point in opposite horizontal directions.",
+    "label": "上左下右双箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-merge",
+    "family": "branch-arrow",
+    "visualReason": "Two upper lanes converge into one downward arrow.",
+    "label": "箭头合流",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-out",
+    "family": "expand-collapse",
+    "visualReason": "Outward heads on four diagonal axes leave the center open.",
+    "label": "四向斜角外扩箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-out-cardinal",
+    "family": "expand-collapse",
+    "visualReason": "Outward heads on four cardinal axes leave the center open.",
+    "label": "四向正交外扩箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-out-line-horizontal",
+    "family": "expand-collapse",
+    "visualReason": "Two horizontal arrows point away from the center divider.",
+    "label": "水平中线外扩箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-out-line-vertical",
+    "family": "expand-collapse",
+    "visualReason": "Two vertical arrows point away from the center divider.",
+    "label": "垂直中线外扩箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-out-simple",
+    "family": "expand-collapse",
+    "visualReason": "Outward heads on two opposite diagonal axes leave the center open.",
+    "label": "双向斜角外扩箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-split",
+    "family": "branch-arrow",
+    "visualReason": "One upper lane separates into two independently headed downward branches.",
+    "label": "箭头分流",
+    "category": "方向与布局"
+  },
+  {
+    "name": "arrows-vertical",
+    "family": "bidirectional-arrow",
+    "visualReason": "Two opposing heads share one vertical shaft.",
+    "label": "垂直双向箭头",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-double-down",
+    "family": "caret",
+    "visualReason": "Two successive rounded down chevron inside the named circle.",
+    "label": "圆框双向下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-double-left",
+    "family": "caret",
+    "visualReason": "Two successive rounded left chevron inside the named circle.",
+    "label": "圆框双向左折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-double-right",
+    "family": "caret",
+    "visualReason": "Two successive rounded right chevron inside the named circle.",
+    "label": "圆框双向右折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-double-up",
+    "family": "caret",
+    "visualReason": "Two successive rounded up chevron inside the named circle.",
+    "label": "圆框双向上折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-down",
+    "family": "caret",
+    "visualReason": "One rounded down chevron inside the named circle.",
+    "label": "圆框向下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-left",
+    "family": "caret",
+    "visualReason": "One rounded left chevron inside the named circle.",
+    "label": "圆框向左折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-right",
+    "family": "caret",
+    "visualReason": "One rounded right chevron inside the named circle.",
+    "label": "圆框向右折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-up",
+    "family": "caret",
+    "visualReason": "One rounded up chevron inside the named circle.",
+    "label": "圆框向上折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-circle-up-down",
+    "family": "caret",
+    "visualReason": "Separated upward and downward chevrons preserve the bidirectional selector meaning.",
+    "label": "圆框上下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-double-down",
+    "family": "caret",
+    "visualReason": "Two successive rounded down chevron.",
+    "label": "双向下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-double-left",
+    "family": "caret",
+    "visualReason": "Two successive rounded left chevron.",
+    "label": "双向左折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-double-right",
+    "family": "caret",
+    "visualReason": "Two successive rounded right chevron.",
+    "label": "双向右折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-double-up",
+    "family": "caret",
+    "visualReason": "Two successive rounded up chevron.",
+    "label": "双向上折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-down",
+    "family": "caret",
+    "visualReason": "One rounded down chevron.",
+    "label": "向下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-left",
+    "family": "caret",
+    "visualReason": "One rounded left chevron.",
+    "label": "向左折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-line-down",
+    "family": "caret",
+    "visualReason": "One rounded down chevron with a perpendicular stop line.",
+    "label": "带边线向下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-line-left",
+    "family": "caret",
+    "visualReason": "One rounded left chevron with a perpendicular stop line.",
+    "label": "带边线向左折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-line-right",
+    "family": "caret",
+    "visualReason": "One rounded right chevron with a perpendicular stop line.",
+    "label": "带边线向右折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-line-up",
+    "family": "caret",
+    "visualReason": "One rounded up chevron with a perpendicular stop line.",
+    "label": "带边线向上折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-right",
+    "family": "caret",
+    "visualReason": "One rounded right chevron.",
+    "label": "向右折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-up",
+    "family": "caret",
+    "visualReason": "One rounded up chevron.",
+    "label": "向上折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "caret-up-down",
+    "family": "caret",
+    "visualReason": "Separated upward and downward chevrons preserve the bidirectional selector meaning.",
+    "label": "上下折角",
+    "category": "方向与布局"
+  },
+  {
+    "name": "corners-in",
+    "family": "corners",
+    "visualReason": "Four local L-shaped corner pieces face inward without an unrelated filled rectangle.",
+    "label": "四角向内收拢",
+    "category": "方向与布局"
+  },
+  {
+    "name": "corners-out",
+    "family": "corners",
+    "visualReason": "Four local L-shaped corner pieces face outward without an unrelated filled rectangle.",
+    "label": "四角向外展开",
+    "category": "方向与布局"
+  },
+  {
+    "name": "shuffle",
+    "family": "shuffle",
+    "visualReason": "Smooth crossing routes preserve the crossing gap and two right endpoints.",
+    "label": "曲线随机交叉",
+    "category": "方向与布局"
+  },
+  {
+    "name": "shuffle-angular",
+    "family": "shuffle",
+    "visualReason": "Angled crossing routes preserve the crossing gap and two right endpoints.",
+    "label": "折线随机交叉",
+    "category": "方向与布局"
+  },
+  {
+    "name": "shuffle-simple",
+    "family": "shuffle",
+    "visualReason": "Diagonal crossing routes preserve the crossing gap and two right endpoints.",
+    "label": "简单双线交叉",
+    "category": "方向与布局"
+  },
+  {
+    "name": "sort-ascending",
+    "family": "sorting",
+    "visualReason": "Three descending-length rows pair with a downward arrow, matching the upstream ascending order symbol.",
+    "label": "升序排列",
+    "category": "方向与布局"
+  },
+  {
+    "name": "sort-descending",
+    "family": "sorting",
+    "visualReason": "Three ascending-length rows pair with an upward arrow, matching the upstream descending order symbol.",
+    "label": "降序排列",
+    "category": "方向与布局"
+  },
+  {
+    "name": "split-horizontal",
+    "family": "split-axis",
+    "visualReason": "Two vertical divider rails separate left and right pointing arrows.",
+    "label": "水平分隔展开",
+    "category": "方向与布局"
+  },
+  {
+    "name": "split-vertical",
+    "family": "split-axis",
+    "visualReason": "Two horizontal divider rails separate upward and downward arrows.",
+    "label": "垂直分隔展开",
+    "category": "方向与布局"
+  },
+  {
+    "name": "trend-down",
+    "family": "trend",
+    "visualReason": "A falling zigzag ends in a lower-right filled arrowhead.",
+    "label": "下降趋势",
+    "category": "方向与布局"
+  },
+  {
+    "name": "trend-up",
+    "family": "trend",
+    "visualReason": "A rising zigzag ends in an upper-right filled arrowhead.",
+    "label": "上升趋势",
+    "category": "方向与布局"
+  }
+]

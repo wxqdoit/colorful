@@ -1,0 +1,10 @@
+/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import SSRBase from "../lib/SSRBase";
+import weights from "../defs/OriginalFireEngine";
+
+/** 消防车 · 出行 */
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+I.displayName = "OriginalFireEngineIcon";
+export { I as OriginalFireEngineIcon, I as OriginalFireEngine };

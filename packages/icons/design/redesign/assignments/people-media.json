@@ -1,0 +1,4226 @@
+[
+  {
+    "name": "camera",
+    "component": "Camera",
+    "label": "相机",
+    "category": "媒体",
+    "tags": [
+      "photo",
+      "photography",
+      "拍摄",
+      "照片"
+    ]
+  },
+  {
+    "name": "music",
+    "component": "Music",
+    "label": "音乐",
+    "category": "媒体",
+    "tags": [
+      "audio",
+      "sound",
+      "音频",
+      "声音"
+    ]
+  },
+  {
+    "name": "video",
+    "component": "Video",
+    "label": "视频",
+    "category": "媒体",
+    "tags": [
+      "film",
+      "movie",
+      "影片",
+      "摄像"
+    ]
+  },
+  {
+    "name": "airplay",
+    "component": "Airplay",
+    "label": "Airplay",
+    "category": "媒体",
+    "tags": [
+      "apple",
+      "screencasting",
+      "television",
+      "tv",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "aperture",
+    "component": "Aperture",
+    "label": "Aperture",
+    "category": "媒体",
+    "tags": [
+      "photography",
+      "cameras",
+      "pictures",
+      "lens",
+      "design",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "article",
+    "component": "Article",
+    "label": "Article",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "writing",
+      "journals",
+      "periodicals",
+      "text",
+      "newspaper",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "article-medium",
+    "component": "ArticleMedium",
+    "label": "Article Medium",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "reading",
+      "writing",
+      "journals",
+      "periodicals",
+      "text",
+      "newspaper",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "article-ny-times",
+    "component": "ArticleNyTimes",
+    "label": "Article Ny Times",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "reading",
+      "writing",
+      "journals",
+      "periodicals",
+      "text",
+      "news",
+      "newspaper",
+      "nyt",
+      "new york times",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "baby",
+    "component": "Baby",
+    "label": "Baby",
+    "category": "人物",
+    "tags": [
+      "infant",
+      "child",
+      "children",
+      "toddler",
+      "people",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "baby-carriage",
+    "component": "BabyCarriage",
+    "label": "Baby Carriage",
+    "category": "人物",
+    "tags": [
+      "pram",
+      "stroller",
+      "infant",
+      "child",
+      "children",
+      "toddler",
+      "commerce",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bathtub",
+    "component": "Bathtub",
+    "label": "浴缸",
+    "category": "物件",
+    "tags": [
+      "bath",
+      "shower",
+      "bathroom",
+      "faucet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell",
+    "component": "Bell",
+    "label": "铃铛",
+    "category": "物件",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "calls",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-simple",
+    "component": "BellSimple",
+    "label": "铃铛 · simple",
+    "category": "物件",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "calls",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "book",
+    "component": "Book",
+    "label": "书本",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "library",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "book-bookmark",
+    "component": "BookBookmark",
+    "label": "书本 · bookmark",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "library",
+      "favorites",
+      "favorited",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "book-open",
+    "component": "BookOpen",
+    "label": "书本 · open",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "library",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "book-open-user",
+    "component": "BookOpenUser",
+    "label": "书本 · open user",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "reader",
+      "easy read",
+      "library",
+      "places",
+      "locations",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bookmark",
+    "component": "Bookmark",
+    "label": "Bookmark",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "placeholder",
+      "favorites",
+      "favorited",
+      "library",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bookmark-simple",
+    "component": "BookmarkSimple",
+    "label": "Bookmark Simple",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "placeholder",
+      "favorites",
+      "favorited",
+      "library",
+      "office",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "broom",
+    "component": "Broom",
+    "label": "Broom",
+    "category": "物件",
+    "tags": [
+      "sweeping",
+      "cleaning",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cake",
+    "component": "Cake",
+    "label": "蛋糕",
+    "category": "物件",
+    "tags": [
+      "dessert",
+      "birthday",
+      "celebration",
+      "event",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "camera-plus",
+    "component": "CameraPlus",
+    "label": "Camera Plus",
+    "category": "媒体",
+    "tags": [
+      "photography",
+      "pictures",
+      "album",
+      "add",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "camera-rotate",
+    "component": "CameraRotate",
+    "label": "Camera Rotate",
+    "category": "媒体",
+    "tags": [
+      "photography",
+      "pictures",
+      "orientation",
+      "portrait",
+      "landscape",
+      "selfie",
+      "flip",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "camera-slash",
+    "component": "CameraSlash",
+    "label": "Camera Slash",
+    "category": "媒体",
+    "tags": [
+      "photography",
+      "pictures",
+      "lens",
+      "disabled",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cassette-tape",
+    "component": "CassetteTape",
+    "label": "Cassette Tape",
+    "category": "媒体",
+    "tags": [
+      "recording",
+      "audio",
+      "album",
+      "music",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "certificate",
+    "component": "Certificate",
+    "label": "Certificate",
+    "category": "物件",
+    "tags": [
+      "*updated*",
+      "awards",
+      "certification",
+      "degree",
+      "diploma",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chalkboard-teacher",
+    "component": "ChalkboardTeacher",
+    "label": "Chalkboard Teacher",
+    "category": "人物",
+    "tags": [
+      "blackboard",
+      "whiteboard",
+      "classroom",
+      "education",
+      "school",
+      "college",
+      "university",
+      "maps & travel",
+      "objects",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock",
+    "component": "Clock",
+    "label": "Clock",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "watch",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "closed-captioning",
+    "component": "ClosedCaptioning",
+    "label": "Closed Captioning",
+    "category": "媒体",
+    "tags": [
+      "subtitles",
+      "television",
+      "tv",
+      "transcribed",
+      "transcription",
+      "accessibility",
+      "a11y",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "compass-tool",
+    "component": "CompassTool",
+    "label": "指南针 · tool",
+    "category": "物件",
+    "tags": [
+      "drawing",
+      "geometry",
+      "trigonometry",
+      "degrees",
+      "radians",
+      "measurement",
+      "protractor",
+      "compass",
+      "arc",
+      "design",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "detective",
+    "component": "Detective",
+    "label": "Detective",
+    "category": "人物",
+    "tags": [
+      "incognito",
+      "police",
+      "law enforcement",
+      "spy",
+      "secret",
+      "people",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-mobile",
+    "component": "DeviceMobile",
+    "label": "Device Mobile",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-mobile-camera",
+    "component": "DeviceMobileCamera",
+    "label": "Device Mobile Camera",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-mobile-slash",
+    "component": "DeviceMobileSlash",
+    "label": "Device Mobile Slash",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-mobile-speaker",
+    "component": "DeviceMobileSpeaker",
+    "label": "Device Mobile Speaker",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-rotate",
+    "component": "DeviceRotate",
+    "label": "Device Rotate",
+    "category": "物件",
+    "tags": [
+      "orientation",
+      "landscape",
+      "portrait",
+      "spin",
+      "flip",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-tablet",
+    "component": "DeviceTablet",
+    "label": "Device Tablet",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "ipad",
+      "phablet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-tablet-camera",
+    "component": "DeviceTabletCamera",
+    "label": "Device Tablet Camera",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "ipad",
+      "phablet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "device-tablet-speaker",
+    "component": "DeviceTabletSpeaker",
+    "label": "Device Tablet Speaker",
+    "category": "物件",
+    "tags": [
+      "cellphone",
+      "cellular",
+      "ipad",
+      "phablet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "devices",
+    "component": "Devices",
+    "label": "Devices",
+    "category": "物件",
+    "tags": [
+      "responsive",
+      "cellphone",
+      "cellular",
+      "tablet",
+      "destop",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "disc",
+    "component": "Disc",
+    "label": "Disc",
+    "category": "媒体",
+    "tags": [
+      "cd-rom",
+      "compact disk",
+      "album",
+      "record",
+      "technology & development",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "door",
+    "component": "Door",
+    "label": "门",
+    "category": "物件",
+    "tags": [
+      "entrance",
+      "exit",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "door-open",
+    "component": "DoorOpen",
+    "label": "门 · open",
+    "category": "物件",
+    "tags": [
+      "entrance",
+      "exit",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ear",
+    "component": "Ear",
+    "label": "Ear",
+    "category": "媒体",
+    "tags": [
+      "hearing",
+      "audio",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ear-slash",
+    "component": "EarSlash",
+    "label": "Ear Slash",
+    "category": "媒体",
+    "tags": [
+      "hearing",
+      "audio",
+      "sound",
+      "mute",
+      "accessible",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eject",
+    "component": "Eject",
+    "label": "Eject",
+    "category": "媒体",
+    "tags": [
+      "disconnect",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eject-simple",
+    "component": "EjectSimple",
+    "label": "Eject Simple",
+    "category": "媒体",
+    "tags": [
+      "disconnect",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "equalizer",
+    "component": "Equalizer",
+    "label": "Equalizer",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "meter",
+      "volume",
+      "spectrum",
+      "eq",
+      "deezer",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "exam",
+    "component": "Exam",
+    "label": "Exam",
+    "category": "物件",
+    "tags": [
+      "text",
+      "examination",
+      "paper",
+      "school",
+      "grade",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eyedropper",
+    "component": "Eyedropper",
+    "label": "Eyedropper",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "sample",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eyedropper-sample",
+    "component": "EyedropperSample",
+    "label": "Eyedropper Sample",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eyes",
+    "component": "Eyes",
+    "label": "Eyes",
+    "category": "人物",
+    "tags": [
+      "look",
+      "glance",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "faders",
+    "component": "Faders",
+    "label": "Faders",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "sliders",
+      "filters",
+      "equalizer",
+      "volume",
+      "settings",
+      "preferences",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "faders-horizontal",
+    "component": "FadersHorizontal",
+    "label": "Faders Horizontal",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "sliders",
+      "filters",
+      "equalizer",
+      "volume",
+      "settings",
+      "preferences",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fast-forward",
+    "component": "FastForward",
+    "label": "Fast Forward",
+    "category": "媒体",
+    "tags": [
+      "audio",
+      "music",
+      "seek",
+      "scrub",
+      "scan",
+      "ahead",
+      "skip",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fast-forward-circle",
+    "component": "FastForwardCircle",
+    "label": "Fast Forward Circle",
+    "category": "媒体",
+    "tags": [
+      "audio",
+      "music",
+      "seek",
+      "scrub",
+      "scan",
+      "ahead",
+      "skip",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-audio",
+    "component": "FileAudio",
+    "label": "文件 · audio",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "music",
+      "sound",
+      "office",
+      "editor",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-image",
+    "component": "FileImage",
+    "label": "文件 · image",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "pictures",
+      "photograph",
+      "office",
+      "editor",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-jpg",
+    "component": "FileJpg",
+    "label": "文件 · jpg",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "pictures",
+      "photograph",
+      "jpeg",
+      "office",
+      "editor",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-png",
+    "component": "FilePng",
+    "label": "文件 · png",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "pictures",
+      "photograph",
+      "office",
+      "editor",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-svg",
+    "component": "FileSvg",
+    "label": "文件 · svg",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "images",
+      "vector",
+      "system",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-video",
+    "component": "FileVideo",
+    "label": "文件 · video",
+    "category": "媒体",
+    "tags": [
+      "documents",
+      "movie",
+      "office",
+      "editor",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "film-reel",
+    "component": "FilmReel",
+    "label": "胶片 · reel",
+    "category": "媒体",
+    "tags": [
+      "videography",
+      "films",
+      "movies",
+      "recording",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "film-script",
+    "component": "FilmScript",
+    "label": "胶片 · script",
+    "category": "媒体",
+    "tags": [
+      "screenplay",
+      "movie",
+      "office",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "film-slate",
+    "component": "FilmSlate",
+    "label": "胶片 · slate",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "clapper",
+      "movie",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "film-strip",
+    "component": "FilmStrip",
+    "label": "胶片 · strip",
+    "category": "媒体",
+    "tags": [
+      "camera",
+      "photography",
+      "darkroom",
+      "movie",
+      "analog",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fire-extinguisher",
+    "component": "FireExtinguisher",
+    "label": "火焰 · extinguisher",
+    "category": "物件",
+    "tags": [
+      "safety",
+      "prevention",
+      "emergency",
+      "hazard",
+      "danger",
+      "caution",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flashlight",
+    "component": "Flashlight",
+    "label": "手电筒",
+    "category": "物件",
+    "tags": [
+      "torch",
+      "find",
+      "search",
+      "locate",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "four-k",
+    "component": "FourK",
+    "label": "Four K",
+    "category": "媒体",
+    "tags": [
+      "uhd",
+      "resolution",
+      "video",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "funnel",
+    "component": "Funnel",
+    "label": "漏斗",
+    "category": "物件",
+    "tags": [
+      "filters",
+      "refine",
+      "sorting",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "funnel-simple",
+    "component": "FunnelSimple",
+    "label": "漏斗 · simple",
+    "category": "物件",
+    "tags": [
+      "filters",
+      "refine",
+      "sorting",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "funnel-simple-x",
+    "component": "FunnelSimpleX",
+    "label": "漏斗 · simple x",
+    "category": "物件",
+    "tags": [
+      "filters",
+      "refine",
+      "sorting",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "funnel-x",
+    "component": "FunnelX",
+    "label": "漏斗 · x",
+    "category": "物件",
+    "tags": [
+      "filters",
+      "refine",
+      "sorting",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gif",
+    "component": "Gif",
+    "label": "Gif",
+    "category": "媒体",
+    "tags": [
+      "gifs",
+      ".gif",
+      "giphy",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "guitar",
+    "component": "Guitar",
+    "label": "吉他",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "instrument",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand",
+    "component": "Hand",
+    "label": "手势",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "emoji",
+      "backhand",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-arrow-down",
+    "component": "HandArrowDown",
+    "label": "手势 · arrow down",
+    "category": "人物",
+    "tags": [
+      "take",
+      "receive",
+      "remove",
+      "withdraw",
+      "emoji",
+      "people",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-arrow-up",
+    "component": "HandArrowUp",
+    "label": "手势 · arrow up",
+    "category": "人物",
+    "tags": [
+      "give",
+      "insert",
+      "deposit",
+      "donation",
+      "emoji",
+      "people",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-coins",
+    "component": "HandCoins",
+    "label": "手势 · coins",
+    "category": "人物",
+    "tags": [
+      "donation",
+      "payment",
+      "money",
+      "paying",
+      "purchase",
+      "people",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-deposit",
+    "component": "HandDeposit",
+    "label": "手势 · deposit",
+    "category": "人物",
+    "tags": [
+      "give",
+      "insert",
+      "donation",
+      "atm",
+      "emoji",
+      "people",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-eye",
+    "component": "HandEye",
+    "label": "手势 · eye",
+    "category": "人物",
+    "tags": [
+      "*updated*",
+      "emoji",
+      "hamsa",
+      "evil eye",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-fist",
+    "component": "HandFist",
+    "label": "手势 · fist",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "power",
+      "protest",
+      "blm",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-grabbing",
+    "component": "HandGrabbing",
+    "label": "手势 · grabbing",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "emoji",
+      "drag",
+      "hold",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-heart",
+    "component": "HandHeart",
+    "label": "手势 · heart",
+    "category": "人物",
+    "tags": [
+      "donation",
+      "care",
+      "emoji",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-palm",
+    "component": "HandPalm",
+    "label": "手势 · palm",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "emoji",
+      "palm",
+      "stop",
+      "wait",
+      "hamsa",
+      "5",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-peace",
+    "component": "HandPeace",
+    "label": "手势 · peace",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "victory",
+      "people",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-pointing",
+    "component": "HandPointing",
+    "label": "手势 · pointing",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "emoji",
+      "fingers",
+      "clicks",
+      "mouse",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-swipe-left",
+    "component": "HandSwipeLeft",
+    "label": "手势 · swipe left",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "gesture",
+      "people",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-swipe-right",
+    "component": "HandSwipeRight",
+    "label": "手势 · swipe right",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "gesture",
+      "people",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-tap",
+    "component": "HandTap",
+    "label": "手势 · tap",
+    "category": "人物",
+    "tags": [
+      "pointers",
+      "cursors",
+      "gesture",
+      "people",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-waving",
+    "component": "HandWaving",
+    "label": "手势 · waving",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "palm",
+      "wave",
+      "hello",
+      "goodbye",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-withdraw",
+    "component": "HandWithdraw",
+    "label": "手势 · withdraw",
+    "category": "人物",
+    "tags": [
+      "take",
+      "remove",
+      "withdrawal",
+      "atm",
+      "emoji",
+      "people",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hands-clapping",
+    "component": "HandsClapping",
+    "label": "Hands Clapping",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "clap",
+      "applause",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hands-praying",
+    "component": "HandsPraying",
+    "label": "Hands Praying",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "religion",
+      "worship",
+      "prayer",
+      "thanks",
+      "thank you",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "handshake",
+    "component": "Handshake",
+    "label": "Handshake",
+    "category": "人物",
+    "tags": [
+      "emoji",
+      "deal",
+      "agreement",
+      "people",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "headphones",
+    "component": "Headphones",
+    "label": "耳机",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "listening",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "high-definition",
+    "component": "HighDefinition",
+    "label": "High Definition",
+    "category": "媒体",
+    "tags": [
+      "hd",
+      "resolution",
+      "video",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass",
+    "component": "Hourglass",
+    "label": "沙漏",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-high",
+    "component": "HourglassHigh",
+    "label": "沙漏 · high",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-low",
+    "component": "HourglassLow",
+    "label": "沙漏 · low",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-medium",
+    "component": "HourglassMedium",
+    "label": "沙漏 · medium",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-simple",
+    "component": "HourglassSimple",
+    "label": "沙漏 · simple",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-simple-high",
+    "component": "HourglassSimpleHigh",
+    "label": "沙漏 · simple high",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-simple-low",
+    "component": "HourglassSimpleLow",
+    "label": "沙漏 · simple low",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hourglass-simple-medium",
+    "component": "HourglassSimpleMedium",
+    "label": "沙漏 · simple medium",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarms",
+      "clock",
+      "schedule",
+      "events",
+      "waiting",
+      "progress",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "identification-badge",
+    "component": "IdentificationBadge",
+    "label": "Identification Badge",
+    "category": "人物",
+    "tags": [
+      "license",
+      "credentials",
+      "nametag",
+      "user",
+      "verification",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "identification-card",
+    "component": "IdentificationCard",
+    "label": "Identification Card",
+    "category": "人物",
+    "tags": [
+      "license",
+      "badge",
+      "credentials",
+      "nametag",
+      "user",
+      "verification",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "image",
+    "component": "Image",
+    "label": "Image",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "pictures",
+      "photographs",
+      "photography",
+      "wallpapers",
+      "gallery",
+      "landscape",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "image-broken",
+    "component": "ImageBroken",
+    "label": "Image Broken",
+    "category": "媒体",
+    "tags": [
+      "pictures",
+      "photographs",
+      "photography",
+      "wallpapers",
+      "gallery",
+      "landscape",
+      "missing",
+      "error",
+      "404",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "image-square",
+    "component": "ImageSquare",
+    "label": "Image Square",
+    "category": "媒体",
+    "tags": [
+      "pictures",
+      "photographs",
+      "photography",
+      "wallpapers",
+      "gallery",
+      "landscape",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "images",
+    "component": "Images",
+    "label": "Images",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "pictures",
+      "photographs",
+      "photography",
+      "wallpapers",
+      "gallery",
+      "landscape",
+      "album",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "images-square",
+    "component": "ImagesSquare",
+    "label": "Images Square",
+    "category": "媒体",
+    "tags": [
+      "pictures",
+      "photographs",
+      "photography",
+      "wallpapers",
+      "gallery",
+      "landscape",
+      "album",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "key",
+    "component": "Key",
+    "label": "钥匙",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "keyhole",
+    "component": "Keyhole",
+    "label": "Keyhole",
+    "category": "物件",
+    "tags": [
+      "lock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ladder",
+    "component": "Ladder",
+    "label": "Ladder",
+    "category": "物件",
+    "tags": [
+      "stairs",
+      "steps",
+      "climbing",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ladder-simple",
+    "component": "LadderSimple",
+    "label": "Ladder Simple",
+    "category": "物件",
+    "tags": [
+      "stairs",
+      "steps",
+      "climbing",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lasso",
+    "component": "Lasso",
+    "label": "Lasso",
+    "category": "物件",
+    "tags": [
+      "select",
+      "selection",
+      "loop",
+      "rope",
+      "cowboy",
+      "design",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lego-smiley",
+    "component": "LegoSmiley",
+    "label": "Lego Smiley",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "toys",
+      "blocks",
+      "bricks",
+      "games",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lightbulb-filament",
+    "component": "LightbulbFilament",
+    "label": "Lightbulb Filament",
+    "category": "物件",
+    "tags": [
+      "flashlight",
+      "bulbs",
+      "lighting",
+      "led",
+      "energy",
+      "idea",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock",
+    "component": "Lock",
+    "label": "锁",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-key",
+    "component": "LockKey",
+    "label": "锁 · key",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-key-open",
+    "component": "LockKeyOpen",
+    "label": "锁 · key open",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "unsecured",
+      "authentication",
+      "unauthenticated",
+      "login",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "privacy",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-laminated",
+    "component": "LockLaminated",
+    "label": "锁 · laminated",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-laminated-open",
+    "component": "LockLaminatedOpen",
+    "label": "锁 · laminated open",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "unsecured",
+      "authentication",
+      "unauthenticated",
+      "login",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-open",
+    "component": "LockOpen",
+    "label": "锁 · open",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "unsecured",
+      "authentication",
+      "unauthenticated",
+      "login",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "privacy",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-simple",
+    "component": "LockSimple",
+    "label": "锁 · simple",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lock-simple-open",
+    "component": "LockSimpleOpen",
+    "label": "锁 · simple open",
+    "category": "物件",
+    "tags": [
+      "padlock",
+      "security",
+      "unsecured",
+      "authentication",
+      "unauthenticated",
+      "login",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "privacy",
+      "private",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "metronome",
+    "component": "Metronome",
+    "label": "Metronome",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "beat",
+      "tempo",
+      "bpm",
+      "objects",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "monitor-arrow-up",
+    "component": "MonitorArrowUp",
+    "label": "显示器 · arrow up",
+    "category": "媒体",
+    "tags": [
+      "screen",
+      "screencast",
+      "screenshare",
+      "upload",
+      "video",
+      "movie",
+      "system",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "monitor-play",
+    "component": "MonitorPlay",
+    "label": "显示器 · play",
+    "category": "媒体",
+    "tags": [
+      "screen",
+      "television",
+      "tv",
+      "displays",
+      "screencast",
+      "video",
+      "movie",
+      "system",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-note",
+    "component": "MusicNote",
+    "label": "Music Note",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-note-simple",
+    "component": "MusicNoteSimple",
+    "label": "Music Note Simple",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-notes",
+    "component": "MusicNotes",
+    "label": "Music Notes",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-notes-minus",
+    "component": "MusicNotesMinus",
+    "label": "Music Notes Minus",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "remove",
+      "subtract",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-notes-plus",
+    "component": "MusicNotesPlus",
+    "label": "Music Notes Plus",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "add",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "music-notes-simple",
+    "component": "MusicNotesSimple",
+    "label": "Music Notes Simple",
+    "category": "媒体",
+    "tags": [
+      "songs",
+      "audio",
+      "playlist",
+      "albums",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "newspaper",
+    "component": "Newspaper",
+    "label": "报纸",
+    "category": "媒体",
+    "tags": [
+      "reading",
+      "writing",
+      "journals",
+      "periodicals",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "newspaper-clipping",
+    "component": "NewspaperClipping",
+    "label": "报纸 · clipping",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "reading",
+      "writing",
+      "journals",
+      "periodicals",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "nut",
+    "component": "Nut",
+    "label": "Nut",
+    "category": "物件",
+    "tags": [
+      "bolts",
+      "screws",
+      "machinery",
+      "tools",
+      "hexagon",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paint-brush",
+    "component": "PaintBrush",
+    "label": "绘画 · brush",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paint-brush-broad",
+    "component": "PaintBrushBroad",
+    "label": "绘画 · brush broad",
+    "category": "物件",
+    "tags": [
+      "fill",
+      "colors",
+      "color picker",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paint-brush-household",
+    "component": "PaintBrushHousehold",
+    "label": "绘画 · brush household",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paint-bucket",
+    "component": "PaintBucket",
+    "label": "绘画 · bucket",
+    "category": "物件",
+    "tags": [
+      "*updated*",
+      "paintbucket",
+      "colors",
+      "color picker",
+      "fill",
+      "arts",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paint-roller",
+    "component": "PaintRoller",
+    "label": "绘画 · roller",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "fill",
+      "arts",
+      "theme",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "panorama",
+    "component": "Panorama",
+    "label": "Panorama",
+    "category": "媒体",
+    "tags": [
+      "image",
+      "picture",
+      "photography",
+      "landscape",
+      "360",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pause",
+    "component": "Pause",
+    "label": "Pause",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "resume",
+      "start",
+      "stop",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pause-circle",
+    "component": "PauseCircle",
+    "label": "Pause Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "resume",
+      "start",
+      "stop",
+      "round",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person",
+    "component": "Person",
+    "label": "Person",
+    "category": "人物",
+    "tags": [
+      "walking",
+      "human",
+      "woman",
+      "man",
+      "body",
+      "transit",
+      "transportation",
+      "travel",
+      "commuter",
+      "user",
+      "maps & travel",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-arms-spread",
+    "component": "PersonArmsSpread",
+    "label": "Person Arms Spread",
+    "category": "人物",
+    "tags": [
+      "accessibility",
+      "vitruvian",
+      "stretch",
+      "sports",
+      "health & wellness",
+      "maps & travel",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-simple-bike",
+    "component": "PersonSimpleBike",
+    "label": "Person Simple Bike",
+    "category": "人物",
+    "tags": [
+      "pedestrian",
+      "biking",
+      "bicycle",
+      "human",
+      "woman",
+      "man",
+      "body",
+      "sports",
+      "exercise",
+      "maps & travel",
+      "people",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-simple-circle",
+    "component": "PersonSimpleCircle",
+    "label": "Person Simple Circle",
+    "category": "人物",
+    "tags": [
+      "human",
+      "accessibility",
+      "a11y",
+      "vitruvius",
+      "vitruvian",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-simple-swim",
+    "component": "PersonSimpleSwim",
+    "label": "Person Simple Swim",
+    "category": "人物",
+    "tags": [
+      "pedestrian",
+      "swimming",
+      "human",
+      "woman",
+      "man",
+      "body",
+      "sports",
+      "exercise",
+      "maps & travel",
+      "people",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "piano-keys",
+    "component": "PianoKeys",
+    "label": "钢琴 · keys",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "instrument",
+      "keyboard",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "picture-in-picture",
+    "component": "PictureInPicture",
+    "label": "Picture In Picture",
+    "category": "媒体",
+    "tags": [
+      "pip",
+      "pop-out",
+      "minimize",
+      "maximize",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "piggy-bank",
+    "component": "PiggyBank",
+    "label": "储蓄罐 · bank",
+    "category": "物件",
+    "tags": [
+      "savings",
+      "deposit",
+      "money",
+      "coins",
+      "finances",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "play",
+    "component": "Play",
+    "label": "Play",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "resume",
+      "start",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "play-circle",
+    "component": "PlayCircle",
+    "label": "Play Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "resume",
+      "start",
+      "round",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "play-pause",
+    "component": "PlayPause",
+    "label": "Play Pause",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "resume",
+      "start",
+      "stop",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "plug",
+    "component": "Plug",
+    "label": "Plug",
+    "category": "物件",
+    "tags": [
+      "outlet",
+      "socket",
+      "plugin",
+      "integration",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "plug-charging",
+    "component": "PlugCharging",
+    "label": "Plug Charging",
+    "category": "物件",
+    "tags": [
+      "outlet",
+      "socket",
+      "plugin",
+      "integration",
+      "charge",
+      "charging",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "plugs",
+    "component": "Plugs",
+    "label": "Plugs",
+    "category": "物件",
+    "tags": [
+      "outlet",
+      "socket",
+      "plugin",
+      "integration",
+      "disconnected",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "plugs-connected",
+    "component": "PlugsConnected",
+    "label": "Plugs Connected",
+    "category": "物件",
+    "tags": [
+      "*updated*",
+      "outlet",
+      "socket",
+      "plugin",
+      "integration",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "projector-screen",
+    "component": "ProjectorScreen",
+    "label": "Projector Screen",
+    "category": "媒体",
+    "tags": [
+      "projection",
+      "presentation",
+      "slideshow",
+      "movies",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "finances",
+      "media",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "queue",
+    "component": "Queue",
+    "label": "Queue",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "playlist",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "record",
+    "component": "Record",
+    "label": "Record",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "recording",
+      "recorder",
+      "voice memo",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "repeat",
+    "component": "Repeat",
+    "label": "Repeat",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "recycle",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "repeat-once",
+    "component": "RepeatOnce",
+    "label": "Repeat Once",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "recycle",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rewind",
+    "component": "Rewind",
+    "label": "Rewind",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "skip",
+      "back",
+      "backwards",
+      "reverse",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rewind-circle",
+    "component": "RewindCircle",
+    "label": "Rewind Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "skip",
+      "back",
+      "backwards",
+      "reverse",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rug",
+    "component": "Rug",
+    "label": "Rug",
+    "category": "物件",
+    "tags": [
+      "*updated*",
+      "tapestry",
+      "carpet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ruler",
+    "component": "Ruler",
+    "label": "Ruler",
+    "category": "物件",
+    "tags": [
+      "measure",
+      "scale",
+      "distance",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scan-smiley",
+    "component": "ScanSmiley",
+    "label": "Scan Smiley",
+    "category": "人物",
+    "tags": [
+      "facial recognition",
+      "face unlock",
+      "scanner",
+      "system",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "screencast",
+    "component": "Screencast",
+    "label": "Screencast",
+    "category": "媒体",
+    "tags": [
+      "apple",
+      "airplay",
+      "screencasting",
+      "screen share",
+      "television",
+      "tv",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "security-camera",
+    "component": "SecurityCamera",
+    "label": "Security Camera",
+    "category": "物件",
+    "tags": [
+      "cctv",
+      "surveillance",
+      "video",
+      "monitor",
+      "motion detector",
+      "safety",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield",
+    "component": "Shield",
+    "label": "盾牌",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "secured",
+      "defense",
+      "defended",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-check",
+    "component": "ShieldCheck",
+    "label": "盾牌 · check",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "defense",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-checkered",
+    "component": "ShieldCheckered",
+    "label": "盾牌 · checkered",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "defense",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-chevron",
+    "component": "ShieldChevron",
+    "label": "盾牌 · chevron",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "defense",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-plus",
+    "component": "ShieldPlus",
+    "label": "盾牌 · plus",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "defense",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-slash",
+    "component": "ShieldSlash",
+    "label": "盾牌 · slash",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "unsecured",
+      "defense",
+      "undefended",
+      "authentication",
+      "unauthenticated",
+      "unguarded",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "disabled",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-star",
+    "component": "ShieldStar",
+    "label": "盾牌 · star",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "defense",
+      "authentication",
+      "authenticated",
+      "guarded",
+      "locked",
+      "encrypted",
+      "encryption",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shield-warning",
+    "component": "ShieldWarning",
+    "label": "盾牌 · warning",
+    "category": "物件",
+    "tags": [
+      "badge",
+      "security",
+      "unsecured",
+      "defense",
+      "undefended",
+      "authentication",
+      "unauthenticated",
+      "unguarded",
+      "unlocked",
+      "unencrypted",
+      "encryption",
+      "errors",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shower",
+    "component": "Shower",
+    "label": "淋浴",
+    "category": "物件",
+    "tags": [
+      "bath",
+      "bathtub",
+      "bathroom",
+      "faucet",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "skip-back",
+    "component": "SkipBack",
+    "label": "Skip Back",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "back",
+      "backwards",
+      "reverse",
+      "previous",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "skip-back-circle",
+    "component": "SkipBackCircle",
+    "label": "Skip Back Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "back",
+      "backwards",
+      "reverse",
+      "previous",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "skip-forward",
+    "component": "SkipForward",
+    "label": "Skip Forward",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "ahead",
+      "next",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "skip-forward-circle",
+    "component": "SkipForwardCircle",
+    "label": "Skip Forward Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "seek",
+      "scrub",
+      "scan",
+      "ahead",
+      "next",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sliders",
+    "component": "Sliders",
+    "label": "Sliders",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "faders",
+      "filters",
+      "equalizer",
+      "volume",
+      "settings",
+      "preferences",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sliders-horizontal",
+    "component": "SlidersHorizontal",
+    "label": "Sliders Horizontal",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "faders",
+      "filters",
+      "equalizer",
+      "volume",
+      "settings",
+      "preferences",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "slideshow",
+    "component": "Slideshow",
+    "label": "Slideshow",
+    "category": "媒体",
+    "tags": [
+      "pictures",
+      "images",
+      "photography",
+      "gallery",
+      "carousel",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley",
+    "component": "Smiley",
+    "label": "笑脸",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "happy",
+      "grinning",
+      "smiling",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-angry",
+    "component": "SmileyAngry",
+    "label": "笑脸 · angry",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "mad",
+      "frown",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-blank",
+    "component": "SmileyBlank",
+    "label": "笑脸 · blank",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "unimpressed",
+      "no face",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-meh",
+    "component": "SmileyMeh",
+    "label": "笑脸 · meh",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "unimpressed",
+      "neutral",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-melting",
+    "component": "SmileyMelting",
+    "label": "笑脸 · melting",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "embarrassment",
+      "sarcasm",
+      "shame",
+      "hot",
+      "heat",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-nervous",
+    "component": "SmileyNervous",
+    "label": "笑脸 · nervous",
+    "category": "人物",
+    "tags": [
+      "*updated*",
+      "face",
+      "emoji",
+      "anxious",
+      "uncomfortable",
+      "uneasy",
+      "queasy",
+      "sick",
+      "ill",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-sad",
+    "component": "SmileySad",
+    "label": "笑脸 · sad",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "unhappy",
+      "frowning",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-sticker",
+    "component": "SmileySticker",
+    "label": "笑脸 · sticker",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "happy",
+      "grinning",
+      "smiling",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-wink",
+    "component": "SmileyWink",
+    "label": "笑脸 · wink",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "winking",
+      "flirting",
+      "cute",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "smiley-x-eyes",
+    "component": "SmileyXEyes",
+    "label": "笑脸 · x eyes",
+    "category": "人物",
+    "tags": [
+      "face",
+      "emoji",
+      "dead",
+      "killed",
+      "unconscious",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-hifi",
+    "component": "SpeakerHifi",
+    "label": "音箱 · hifi",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "sound",
+      "stereo",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-high",
+    "component": "SpeakerHigh",
+    "label": "音箱 · high",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-low",
+    "component": "SpeakerLow",
+    "label": "音箱 · low",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-none",
+    "component": "SpeakerNone",
+    "label": "音箱 · none",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-simple-high",
+    "component": "SpeakerSimpleHigh",
+    "label": "音箱 · simple high",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-simple-low",
+    "component": "SpeakerSimpleLow",
+    "label": "音箱 · simple low",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-simple-none",
+    "component": "SpeakerSimpleNone",
+    "label": "音箱 · simple none",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-simple-slash",
+    "component": "SpeakerSimpleSlash",
+    "label": "音箱 · simple slash",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "disabled",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-simple-x",
+    "component": "SpeakerSimpleX",
+    "label": "音箱 · simple x",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "disabled",
+      "errors",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-slash",
+    "component": "SpeakerSlash",
+    "label": "音箱 · slash",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "disabled",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speaker-x",
+    "component": "SpeakerX",
+    "label": "音箱 · x",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "music",
+      "audio",
+      "muted",
+      "volume",
+      "sound",
+      "disabled",
+      "errors",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stamp",
+    "component": "Stamp",
+    "label": "印章",
+    "category": "物件",
+    "tags": [
+      "clone",
+      "seal",
+      "official",
+      "design",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "standard-definition",
+    "component": "StandardDefinition",
+    "label": "Standard Definition",
+    "category": "媒体",
+    "tags": [
+      "sd",
+      "resolution",
+      "video",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "star-and-crescent",
+    "component": "StarAndCrescent",
+    "label": "Star And Crescent",
+    "category": "人物",
+    "tags": [
+      "islam",
+      "muslim",
+      "moon",
+      "religion",
+      "worship",
+      "symbol",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "star-of-david",
+    "component": "StarOfDavid",
+    "label": "Star Of David",
+    "category": "人物",
+    "tags": [
+      "judaism",
+      "jewish",
+      "hexagram",
+      "religion",
+      "worship",
+      "symbol",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stop",
+    "component": "Stop",
+    "label": "Stop",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stop-circle",
+    "component": "StopCircle",
+    "label": "Stop Circle",
+    "category": "媒体",
+    "tags": [
+      "music",
+      "audio",
+      "round",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "student",
+    "component": "Student",
+    "label": "Student",
+    "category": "人物",
+    "tags": [
+      "pupil",
+      "graduate",
+      "classroom",
+      "teacher",
+      "education",
+      "school",
+      "college",
+      "university",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "subtitles",
+    "component": "Subtitles",
+    "label": "Subtitles",
+    "category": "媒体",
+    "tags": [
+      "subtitles",
+      "television",
+      "tv",
+      "transcribed",
+      "transcription",
+      "accessibility",
+      "a11y",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "subtitles-slash",
+    "component": "SubtitlesSlash",
+    "label": "Subtitles Slash",
+    "category": "媒体",
+    "tags": [
+      "subtitles",
+      "television",
+      "tv",
+      "transcribed",
+      "transcription",
+      "accessibility",
+      "a11y",
+      "disabled",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "swatches",
+    "component": "Swatches",
+    "label": "Swatches",
+    "category": "物件",
+    "tags": [
+      "colors",
+      "color picker",
+      "samples",
+      "pantone",
+      "design",
+      "editor",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "television",
+    "component": "Television",
+    "label": "Television",
+    "category": "物件",
+    "tags": [
+      "screen",
+      "tv",
+      "displays",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "television-simple",
+    "component": "TelevisionSimple",
+    "label": "Television Simple",
+    "category": "物件",
+    "tags": [
+      "*updated*",
+      "screen",
+      "tv",
+      "displays",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "three-d",
+    "component": "ThreeD",
+    "label": "Three D",
+    "category": "媒体",
+    "tags": [
+      "3d",
+      "cad",
+      "model",
+      "media",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thumbs-down",
+    "component": "ThumbsDown",
+    "label": "Thumbs Down",
+    "category": "人物",
+    "tags": [
+      "dislike",
+      "hate",
+      "emoji",
+      "no",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thumbs-up",
+    "component": "ThumbsUp",
+    "label": "Thumbs Up",
+    "category": "人物",
+    "tags": [
+      "like",
+      "love",
+      "favorited",
+      "favorites",
+      "emoji",
+      "yes",
+      "communications",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "timer",
+    "component": "Timer",
+    "label": "计时器",
+    "category": "物件",
+    "tags": [
+      "clock",
+      "alarm",
+      "schedule",
+      "events",
+      "stopwatch",
+      "sports",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "usb",
+    "component": "Usb",
+    "label": "Usb",
+    "category": "物件",
+    "tags": [
+      "serial",
+      "port",
+      "plug",
+      "peripheral",
+      "device",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user",
+    "component": "User",
+    "label": "用户",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-check",
+    "component": "UserCheck",
+    "label": "用户 · check",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "verified",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle",
+    "component": "UserCircle",
+    "label": "用户 · circle",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle-check",
+    "component": "UserCircleCheck",
+    "label": "用户 · circle check",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "verified",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle-dashed",
+    "component": "UserCircleDashed",
+    "label": "用户 · circle dashed",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "pending",
+      "missing",
+      "removed",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle-gear",
+    "component": "UserCircleGear",
+    "label": "用户 · circle gear",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "settings",
+      "preferences",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle-minus",
+    "component": "UserCircleMinus",
+    "label": "用户 · circle minus",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "delete",
+      "remove",
+      "-",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-circle-plus",
+    "component": "UserCirclePlus",
+    "label": "用户 · circle plus",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "add",
+      "create",
+      "+",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-focus",
+    "component": "UserFocus",
+    "label": "用户 · focus",
+    "category": "人物",
+    "tags": [
+      "identification",
+      "biometrics",
+      "facial recognition",
+      "profile",
+      "person",
+      "account",
+      "autofocus",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-gear",
+    "component": "UserGear",
+    "label": "用户 · gear",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "settings",
+      "preferences",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-list",
+    "component": "UserList",
+    "label": "用户 · list",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profiles",
+      "accounts",
+      "members",
+      "address book",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-minus",
+    "component": "UserMinus",
+    "label": "用户 · minus",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "delete",
+      "remove",
+      "-",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-plus",
+    "component": "UserPlus",
+    "label": "用户 · plus",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "add",
+      "create",
+      "+",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-rectangle",
+    "component": "UserRectangle",
+    "label": "用户 · rectangle",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-sound",
+    "component": "UserSound",
+    "label": "用户 · sound",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "speech",
+      "speaking",
+      "voice",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-square",
+    "component": "UserSquare",
+    "label": "用户 · square",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "contact",
+      "login",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "user-switch",
+    "component": "UserSwitch",
+    "label": "用户 · switch",
+    "category": "人物",
+    "tags": [
+      "person",
+      "users",
+      "profile",
+      "account",
+      "login",
+      "logout",
+      "signin",
+      "signout",
+      "settings",
+      "preferences",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "users",
+    "component": "Users",
+    "label": "用户组",
+    "category": "人物",
+    "tags": [
+      "user",
+      "group",
+      "team",
+      "people",
+      "profiles",
+      "accounts",
+      "contacts",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "users-four",
+    "component": "UsersFour",
+    "label": "用户组 · four",
+    "category": "人物",
+    "tags": [
+      "user",
+      "group",
+      "team",
+      "department",
+      "community",
+      "people",
+      "profiles",
+      "accounts",
+      "contacts",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "users-three",
+    "component": "UsersThree",
+    "label": "用户组 · three",
+    "category": "人物",
+    "tags": [
+      "user",
+      "group",
+      "team",
+      "community",
+      "people",
+      "profiles",
+      "accounts",
+      "contacts",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "vault",
+    "component": "Vault",
+    "label": "Vault",
+    "category": "物件",
+    "tags": [
+      "safe",
+      "bank",
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "locked",
+      "encrypted",
+      "encryption",
+      "objects",
+      "system",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "video-camera",
+    "component": "VideoCamera",
+    "label": "Video Camera",
+    "category": "媒体",
+    "tags": [
+      "videography",
+      "films",
+      "movies",
+      "recording",
+      "media",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "video-camera-slash",
+    "component": "VideoCameraSlash",
+    "label": "Video Camera Slash",
+    "category": "媒体",
+    "tags": [
+      "videography",
+      "films",
+      "movies",
+      "recording",
+      "disabled",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "vinyl-record",
+    "component": "VinylRecord",
+    "label": "唱片 · record",
+    "category": "媒体",
+    "tags": [
+      "recording",
+      "audio",
+      "album",
+      "music",
+      "ep",
+      "lp",
+      "media",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "visor",
+    "component": "Visor",
+    "label": "Visor",
+    "category": "媒体",
+    "tags": [
+      "goggles",
+      "vision",
+      "technology & development",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wall",
+    "component": "Wall",
+    "label": "Wall",
+    "category": "物件",
+    "tags": [
+      "firewall",
+      "security",
+      "secured",
+      "blocks",
+      "bricks",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "watch",
+    "component": "Watch",
+    "label": "手表",
+    "category": "物件",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "clock",
+      "wristwatch",
+      "wearable",
+      "system",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "waveform",
+    "component": "Waveform",
+    "label": "Waveform",
+    "category": "媒体",
+    "tags": [
+      "*updated*",
+      "audio",
+      "sound",
+      "spectrum",
+      "spectrograph",
+      "music",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "waveform-slash",
+    "component": "WaveformSlash",
+    "label": "Waveform Slash",
+    "category": "媒体",
+    "tags": [
+      "audio",
+      "sound",
+      "spectrum",
+      "spectrograph",
+      "music",
+      "media"
+    ],
+    "source": "phosphor"
+  }
+]

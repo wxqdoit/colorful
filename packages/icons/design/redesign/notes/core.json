@@ -1,0 +1,1872 @@
+[
+  {
+    "name": "story",
+    "family": "story-book",
+    "visualReason": "舒展的左右书页、圆弧折页和书脊，保留参考的开放读感。"
+  },
+  {
+    "name": "scene",
+    "family": "landscape",
+    "visualReason": "景物的地平线和山丘决定分层，画面是一张柔软的小画片。"
+  },
+  {
+    "name": "watercolor",
+    "family": "paint-drop",
+    "visualReason": "液滴轮廓与内部流动颜料相互呼应，曲线来自液体本身。"
+  },
+  {
+    "name": "character",
+    "family": "character",
+    "visualReason": "头部、头发和肩部各有面积，以轻微歪头形成自然性格。"
+  },
+  {
+    "name": "layers",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "chat",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "review",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "pen",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "palette",
+    "family": "paint-palette",
+    "visualReason": "豆形调色板与真正的颜料凹槽，持握孔保留空心结构。"
+  },
+  {
+    "name": "sparkle",
+    "family": "stars",
+    "visualReason": "圆滑的星角和折面，半星明确分为左右而不是任意曲线。"
+  },
+  {
+    "name": "heart",
+    "family": "heart",
+    "visualReason": "左右心瓣和包裹的内侧关系，碎裂沿明确折线区分。"
+  },
+  {
+    "name": "star",
+    "family": "stars",
+    "visualReason": "圆滑的星角和折面，半星明确分为左右而不是任意曲线。"
+  },
+  {
+    "name": "folder",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "calendar",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "lightbulb",
+    "family": "lightbulb",
+    "visualReason": "灯泡的玻璃罩与灯座分层，内部灯丝保留简洁结构。"
+  },
+  {
+    "name": "rocket",
+    "family": "rocket",
+    "visualReason": "细长圆润箭体、独立双尾翼、圆形舷窗与留白分隔的尾焰，镜像与小尺寸下仍保持清楚轮廓。"
+  },
+  {
+    "name": "address-book",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "address-book-tabs",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "alarm",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "app-window",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "archive",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "backspace",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "battery-charging",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-charging-vertical",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-empty",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-full",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-high",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-low",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-medium",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-plus",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-plus-vertical",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-vertical-empty",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-vertical-full",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-vertical-high",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-vertical-low",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-vertical-medium",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-warning",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "battery-warning-vertical",
+    "family": "batteries",
+    "visualReason": "圆润电池外壳与留白电芯；电量格和充电/警示符号忠于状态。"
+  },
+  {
+    "name": "bell-ringing",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bell-simple-ringing",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bell-simple-slash",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bell-simple-z",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bell-slash",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bell-z",
+    "family": "bell-status",
+    "visualReason": "铃壳、铃舌和摆动/静音标记分开设计。"
+  },
+  {
+    "name": "bookmarks",
+    "family": "bookmarks",
+    "visualReason": "两条实际纸质书签前后错位，非任意叠影。"
+  },
+  {
+    "name": "bookmarks-simple",
+    "family": "bookmarks",
+    "visualReason": "两条实际纸质书签前后错位，非任意叠影。"
+  },
+  {
+    "name": "box-arrow-down",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "box-arrow-up",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "briefcase",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "briefcase-metal",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "broadcast",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "browser",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "browsers",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "calculator",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "calendar-blank",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-check",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-dot",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-dots",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-heart",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-minus",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-plus",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-slash",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-star",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "calendar-x",
+    "family": "calendars",
+    "visualReason": "卷边页头、浅色日期纸面和两个装订环，状态放在日期区域。"
+  },
+  {
+    "name": "cards",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "cards-three",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "cell-tower",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "chart-bar",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-bar-horizontal",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-donut",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-line",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-line-down",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-line-up",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-pie",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-pie-slice",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-polar",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chart-scatter",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "chat-centered",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-centered-dots",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-centered-slash",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-centered-text",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-circle",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-circle-dots",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-circle-slash",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-circle-text",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-dots",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-slash",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-teardrop",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-teardrop-dots",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-teardrop-slash",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-teardrop-text",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chat-text",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chats",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chats-circle",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "chats-teardrop",
+    "family": "conversation",
+    "visualReason": "浅色气泡腹部、主色尾部与内容标记，轮廓变化忠于气泡类型。"
+  },
+  {
+    "name": "circles-four",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "circles-three",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "circles-three-plus",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "circuitry",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "clipboard",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "clipboard-text",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "clock-afternoon",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "clock-clockwise",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "clock-countdown",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "clock-counter-clockwise",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "clock-user",
+    "family": "clocks",
+    "visualReason": "浅色表盘、主色外壳局部与明确的指针或计时方向。"
+  },
+  {
+    "name": "cloud-arrow-down",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "cloud-arrow-up",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "cloud-check",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "cloud-slash",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "cloud-warning",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "cloud-x",
+    "family": "cloud-status",
+    "visualReason": "云团由饱满气团构成，低处色块为前方气团，状态浮在留白中。"
+  },
+  {
+    "name": "columns",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "columns-plus-left",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "columns-plus-right",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "computer-tower",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "confetti",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "copy",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "copy-simple",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "cpu",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "cross",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "cylinder",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "database",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "desktop",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "desktop-tower",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "diamonds-four",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "download",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "download-simple",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "envelope",
+    "family": "mail",
+    "visualReason": "信封口、纸张和翻折封面对应实际层次。"
+  },
+  {
+    "name": "envelope-open",
+    "family": "mail",
+    "visualReason": "信封口、纸张和翻折封面对应实际层次。"
+  },
+  {
+    "name": "envelope-simple",
+    "family": "mail",
+    "visualReason": "信封口、纸张和翻折封面对应实际层次。"
+  },
+  {
+    "name": "envelope-simple-open",
+    "family": "mail",
+    "visualReason": "信封口、纸张和翻折封面对应实际层次。"
+  },
+  {
+    "name": "eraser",
+    "family": "stationery",
+    "visualReason": "橡皮和剪刀使用实际材料分层，握持部件占足够面积。"
+  },
+  {
+    "name": "exclamation-mark",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "export",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "eye",
+    "family": "eye",
+    "visualReason": "上下眼睑的饱满曲线与瞳孔分层，闭合状态明确移除瞳孔。"
+  },
+  {
+    "name": "eye-closed",
+    "family": "eye",
+    "visualReason": "上下眼睑的饱满曲线与瞳孔分层，闭合状态明确移除瞳孔。"
+  },
+  {
+    "name": "eye-slash",
+    "family": "eye",
+    "visualReason": "上下眼睑的饱满曲线与瞳孔分层，闭合状态明确移除瞳孔。"
+  },
+  {
+    "name": "file",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-archive",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-arrow-down",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-arrow-up",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-cloud",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-code",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-cpp",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-css",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-csv",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-doc",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-jsx",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-lock",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-magnifying-glass",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-md",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-minus",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-pdf",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-plus",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-ppt",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-sql",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-text",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-tsx",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-txt",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-vue",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-x",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-xls",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "file-zip",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "files",
+    "family": "documents",
+    "visualReason": "纸面、翻折页角和内容区域分层；格式与状态各有明确标记。"
+  },
+  {
+    "name": "fingerprint",
+    "family": "fingerprint",
+    "visualReason": "指腹色块支撑纹路，保留连续的脊线与辨认空间。"
+  },
+  {
+    "name": "fingerprint-simple",
+    "family": "fingerprint",
+    "visualReason": "指腹色块支撑纹路，保留连续的脊线与辨认空间。"
+  },
+  {
+    "name": "flip-horizontal",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "flip-vertical",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "floppy-disk",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "floppy-disk-back",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "flow-arrow",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "folder-dashed",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-lock",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-minus",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-open",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-plus",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple-dashed",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple-lock",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple-minus",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple-plus",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-simple-star",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folder-star",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "folders",
+    "family": "folders",
+    "visualReason": "后层文件夹、前翻封面和独立状态部件，避免用任意切面区分。"
+  },
+  {
+    "name": "frame-corners",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "gauge",
+    "family": "meters",
+    "visualReason": "表盘、内凹读数区和倾斜指针，保持实体仪表的重心。"
+  },
+  {
+    "name": "gear",
+    "family": "gears",
+    "visualReason": "有规律的圆润齿轮与中心轴孔，齿数随语义变化。"
+  },
+  {
+    "name": "gear-fine",
+    "family": "gears",
+    "visualReason": "有规律的圆润齿轮与中心轴孔，齿数随语义变化。"
+  },
+  {
+    "name": "gear-six",
+    "family": "gears",
+    "visualReason": "有规律的圆润齿轮与中心轴孔，齿数随语义变化。"
+  },
+  {
+    "name": "git-branch",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "git-commit",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "git-diff",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "git-fork",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "git-merge",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "git-pull-request",
+    "family": "git-topology",
+    "visualReason": "分支通过连线与节点路径表达；提交、合并、拉取各有不同拓扑。"
+  },
+  {
+    "name": "gradient",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "graph",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "graphics-card",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "grid-four",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "grid-nine",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "hard-drive",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "hard-drives",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "head-circuit",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "heart-break",
+    "family": "heart",
+    "visualReason": "左右心瓣和包裹的内侧关系，碎裂沿明确折线区分。"
+  },
+  {
+    "name": "heart-straight-break",
+    "family": "heart",
+    "visualReason": "左右心瓣和包裹的内侧关系，碎裂沿明确折线区分。"
+  },
+  {
+    "name": "highlighter",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "highlighter-circle",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "info",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "kanban",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "key-return",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "keyboard",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "laptop",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "layout",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "lectern",
+    "family": "furniture-supports",
+    "visualReason": "推车托板和轮子、讲台台面和立柱分别组织实体。"
+  },
+  {
+    "name": "lightning-a",
+    "family": "lightning-status",
+    "visualReason": "闪电为软化的实体折面，状态放在独立区域。"
+  },
+  {
+    "name": "lightning-slash",
+    "family": "lightning-status",
+    "visualReason": "闪电为软化的实体折面，状态放在独立区域。"
+  },
+  {
+    "name": "link",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "link-break",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "link-simple",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "link-simple-break",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "link-simple-horizontal",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "link-simple-horizontal-break",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "list",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "list-checks",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "list-heart",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "list-magnifying-glass",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "list-star",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "magnet",
+    "family": "magnet",
+    "visualReason": "弯曲磁体与两极端帽分色。"
+  },
+  {
+    "name": "magnet-straight",
+    "family": "magnet",
+    "visualReason": "弯曲磁体与两极端帽分色。"
+  },
+  {
+    "name": "magnifying-glass",
+    "family": "search",
+    "visualReason": "浅色镜片、主色镜框下缘与柄相接，镜片中央留给状态。"
+  },
+  {
+    "name": "magnifying-glass-minus",
+    "family": "search",
+    "visualReason": "浅色镜片、主色镜框下缘与柄相接，镜片中央留给状态。"
+  },
+  {
+    "name": "magnifying-glass-plus",
+    "family": "search",
+    "visualReason": "浅色镜片、主色镜框下缘与柄相接，镜片中央留给状态。"
+  },
+  {
+    "name": "marker-circle",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "megaphone",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "megaphone-simple",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "memory",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "microphone",
+    "family": "microphones",
+    "visualReason": "圆润麦头和机身分色，支架保留开口。"
+  },
+  {
+    "name": "microphone-slash",
+    "family": "microphones",
+    "visualReason": "圆润麦头和机身分色，支架保留开口。"
+  },
+  {
+    "name": "microphone-stage",
+    "family": "microphones",
+    "visualReason": "圆润麦头和机身分色，支架保留开口。"
+  },
+  {
+    "name": "monitor",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "mouse",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "mouse-left-click",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "mouse-middle-click",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "mouse-right-click",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "mouse-scroll",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "mouse-simple",
+    "family": "mouse",
+    "visualReason": "上盖、分键与下壳明确，点击状态以对应按键填色表达。"
+  },
+  {
+    "name": "network",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "network-slash",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "network-x",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "notches",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "note",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "note-blank",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "note-pencil",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "notebook",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "notepad",
+    "family": "notebooks",
+    "visualReason": "封皮、翻开的纸面或夹板形成层叠，页边与装订方式区分用途。"
+  },
+  {
+    "name": "notification",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "numpad",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "package",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "paperclip",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "paperclip-horizontal",
+    "family": "connections",
+    "visualReason": "环形金属带或弯曲夹条表现连接本身，断开状态保留可辨别的间隙。"
+  },
+  {
+    "name": "parachute",
+    "family": "parachute",
+    "visualReason": "真实伞布分片与绳索连接到吊篮，曲面具有承载方向。"
+  },
+  {
+    "name": "password",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "peace",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "pen-nib",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pen-nib-straight",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-circle",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-line",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-ruler",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-simple",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-simple-line",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-simple-slash",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "pencil-slash",
+    "family": "writing-tools",
+    "visualReason": "笔身、握持段和笔尖分别分色，狭长物件适度倾斜。"
+  },
+  {
+    "name": "perspective",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "phone",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-call",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-disconnect",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-incoming",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-list",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-outgoing",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-pause",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-plus",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-slash",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-transfer",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "phone-x",
+    "family": "telephone",
+    "visualReason": "听筒弧度、两端耳垫与独立通话状态，形成柔软连贯轮廓。"
+  },
+  {
+    "name": "placeholder",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "power",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "presentation",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "presentation-chart",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "printer",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "projector-screen-chart",
+    "family": "charts",
+    "visualReason": "数据条、扇区、图纸或演示幕布本身形成色块，方向有明确表达。"
+  },
+  {
+    "name": "qr-code",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "question",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "question-mark",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "radio",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "radio-button",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "robot",
+    "family": "robot",
+    "visualReason": "圆头机壳、屏幕脸和两侧天线/耳件组合，表情简洁。"
+  },
+  {
+    "name": "rows",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "rows-plus-bottom",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "rows-plus-top",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "rss",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "rss-simple",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "scan",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "scissors",
+    "family": "stationery",
+    "visualReason": "橡皮和剪刀使用实际材料分层，握持部件占足够面积。"
+  },
+  {
+    "name": "scribble",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "scribble-loop",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "seal",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "seal-check",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "seal-percent",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "seal-question",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "seal-warning",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "shapes",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "share",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "share-fat",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "share-network",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "sidebar",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "sidebar-simple",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "sign-in",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "sign-out",
+    "family": "utility-panels",
+    "visualReason": "清单纸面、扫描角、按键或出入口按实际语义独立绘制。"
+  },
+  {
+    "name": "sim-card",
+    "family": "storage",
+    "visualReason": "外壳与插槽是实物部件，介质类型用轮廓和位置区分。"
+  },
+  {
+    "name": "speedometer",
+    "family": "meters",
+    "visualReason": "表盘、内凹读数区和倾斜指针，保持实体仪表的重心。"
+  },
+  {
+    "name": "sphere",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "spinner",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "spinner-ball",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "spinner-gap",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "spiral",
+    "family": "circular-marks",
+    "visualReason": "旋转弧带、线团和回环各自构造，保留开口而不随机删线。"
+  },
+  {
+    "name": "squares-four",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "stack",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "stack-minus",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "stack-plus",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "stack-simple",
+    "family": "layers",
+    "visualReason": "前后叠页用真实边缘表达厚度，叠层数与状态明确。"
+  },
+  {
+    "name": "star-half",
+    "family": "stars",
+    "visualReason": "圆滑的星角和折面，半星明确分为左右而不是任意曲线。"
+  },
+  {
+    "name": "sticker",
+    "family": "sticker",
+    "visualReason": "贴纸卷起的角，卷面与底面组成明确翻折。"
+  },
+  {
+    "name": "suitcase",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "suitcase-simple",
+    "family": "cases",
+    "visualReason": "有重量的箱身、前盖与把手组织大形，公文包和箱子分别构造。"
+  },
+  {
+    "name": "swap",
+    "family": "directional-actions",
+    "visualReason": "箭头与节点表现操作本身，水平和垂直使用明确对称轴。"
+  },
+  {
+    "name": "table",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "tabs",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "terminal",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "terminal-window",
+    "family": "computers",
+    "visualReason": "屏幕内容、边框与支撑底座有真实关系，便携和塔式设备分别绘制。"
+  },
+  {
+    "name": "textbox",
+    "family": "layouts",
+    "visualReason": "卡片、面板或几何单元本身形成布局，填色对应结构层级。"
+  },
+  {
+    "name": "toggle-left",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "toggle-right",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "trash",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "trash-simple",
+    "family": "office-machines",
+    "visualReason": "根据真实外壳、操作面板与容器开口排布色块。"
+  },
+  {
+    "name": "tray",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "tray-arrow-down",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "tray-arrow-up",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "tree-structure",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "tree-view",
+    "family": "technology-parts",
+    "visualReason": "电路节点、芯片、数据层或树状支路保留真实拓扑，色块对应实体部件。"
+  },
+  {
+    "name": "trolley",
+    "family": "furniture-supports",
+    "visualReason": "推车托板和轮子、讲台台面和立柱分别组织实体。"
+  },
+  {
+    "name": "trolley-suitcase",
+    "family": "furniture-supports",
+    "visualReason": "推车托板和轮子、讲台台面和立柱分别组织实体。"
+  },
+  {
+    "name": "unite",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "unite-square",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "upload",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "upload-simple",
+    "family": "transfers",
+    "visualReason": "托盘壁、箱体与箭头分离，留白为物件开口，不靠背景装饰。"
+  },
+  {
+    "name": "vibrate",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "video-conference",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "vignette",
+    "family": "volumes",
+    "visualReason": "几何物体或编辑图形保留其原生语义，色块对应可见面、交集或渐变阶级。"
+  },
+  {
+    "name": "voicemail",
+    "family": "miscellaneous",
+    "visualReason": "按开关、振动设备、录音卷轴、刻口及礼花语义分别绘制。"
+  },
+  {
+    "name": "warning",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "warning-circle",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "warning-diamond",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "warning-octagon",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  },
+  {
+    "name": "webcam",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "webcam-slash",
+    "family": "broadcast-devices",
+    "visualReason": "喇叭、收音机、摄像头各有独立形状；深色只勾画声音或镜头细节。"
+  },
+  {
+    "name": "wifi-high",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "wifi-low",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "wifi-medium",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "wifi-none",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "wifi-slash",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "wifi-x",
+    "family": "wireless",
+    "visualReason": "信号以有厚度的圆弧色带表达层级，强弱状态不靠随机线条。"
+  },
+  {
+    "name": "yin-yang",
+    "family": "status-symbols",
+    "visualReason": "状态标记保留本来的标识形态，色块与线条共同构成符号，不强行改成其他物件。"
+  }
+]

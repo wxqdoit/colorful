@@ -1,0 +1,871 @@
+[
+  {
+    "name": "amazon-logo",
+    "label": "Amazon",
+    "family": "brands",
+    "visualReason": "Lowercase a, enclosed counter and curved smile arrow retain the Amazon signature.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "android-logo",
+    "label": "Android",
+    "family": "brands",
+    "visualReason": "Robot head keeps the two antennae, dome and eye spacing.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "angular-logo",
+    "label": "Angular",
+    "family": "brands",
+    "visualReason": "Two-tone angular shield and open A crossbar.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "app-store-logo",
+    "label": "App Store",
+    "family": "brands",
+    "visualReason": "Three crossing craft sticks preserve App Store A construction.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "apple-logo",
+    "label": "Apple",
+    "family": "brands",
+    "visualReason": "Bitten apple, asymmetric lobes and separate leaf.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "apple-podcasts-logo",
+    "label": "Apple Podcasts",
+    "family": "brands",
+    "visualReason": "Concentric broadcast arches surround the podcast host and tapered body.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "behance-logo",
+    "label": "Behance",
+    "family": "brands",
+    "visualReason": "B and barred e drawn as the actual Behance monogram.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "coda-logo",
+    "label": "Coda",
+    "family": "brands",
+    "visualReason": "Square Coda sheet with a curved C-shaped bite.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "codepen-logo",
+    "label": "CodePen",
+    "family": "brands",
+    "visualReason": "Open six-sided pen cube with crossed diamond center.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "codesandbox-logo",
+    "label": "CodeSandbox",
+    "family": "brands",
+    "visualReason": "Sandbox cube retains top diamond and inset lower side seams.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "dev-to-logo",
+    "label": "DEV Community",
+    "family": "brands",
+    "visualReason": "DEV wordmark stays inside its native rectangular logo.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "discord-logo",
+    "label": "Discord",
+    "family": "brands",
+    "visualReason": "Clyde controller silhouette, cheek lobes and paired eyes.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "dribbble-logo",
+    "label": "Dribbble",
+    "family": "brands",
+    "visualReason": "Basketball sphere uses the distinctive three crossing Dribbble seams.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "dropbox-logo",
+    "label": "Dropbox",
+    "family": "brands",
+    "visualReason": "Four open-box diamond flaps and lower box point.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "facebook-logo",
+    "label": "Facebook",
+    "family": "brands",
+    "visualReason": "Circular Facebook logo with its recognizable lowercase f.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "fediverse-logo",
+    "label": "Fediverse",
+    "family": "brands",
+    "visualReason": "Five peripheral nodes and interwoven federation connections.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "figma-logo",
+    "label": "Figma",
+    "family": "brands",
+    "visualReason": "Five Figma modules use the native stacked capsule and circle geometry.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "framer-logo",
+    "label": "Framer",
+    "family": "brands",
+    "visualReason": "Two diagonal folded bands form Framer’s F silhouette.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "github-logo",
+    "label": "GitHub",
+    "family": "brands",
+    "visualReason": "Octocat ears, rounded head, legs and curling tail.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "gitlab-logo",
+    "label": "GitLab",
+    "family": "brands",
+    "visualReason": "Faceted tanuki face, upright ears and separated triangular muzzle.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "goodreads-logo",
+    "label": "Goodreads",
+    "family": "brands",
+    "visualReason": "Lowercase Goodreads g keeps its large counter and curved descender.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-cardboard-logo",
+    "label": "Google Cardboard",
+    "family": "brands",
+    "visualReason": "Twin lenses and central nose notch keep the Cardboard headset identity.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-chrome-logo",
+    "label": "Google Chrome",
+    "family": "brands",
+    "visualReason": "Three swept outer segments surround Chrome’s circular hub.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-drive-logo",
+    "label": "Google Drive",
+    "family": "brands",
+    "visualReason": "Three folded bands form Drive’s triangular aperture.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-logo",
+    "label": "Google",
+    "family": "brands",
+    "visualReason": "Broken circular G with horizontal right-side crossbar.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-photos-logo",
+    "label": "Google Photos",
+    "family": "brands",
+    "visualReason": "Four offset semicircular petals form the Google Photos pinwheel.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-play-logo",
+    "label": "Google Play",
+    "family": "brands",
+    "visualReason": "Play triangle keeps the crossing interior facets.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "google-podcasts-logo",
+    "label": "Google Podcasts",
+    "family": "brands",
+    "visualReason": "Five vertical columns and split capsules keep the diamond waveform.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "instagram-logo",
+    "label": "Instagram",
+    "family": "brands",
+    "visualReason": "Native rounded camera container, lens ring and small finder dot.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "lastfm-logo",
+    "label": "Last.fm",
+    "family": "brands",
+    "visualReason": "Looped last.fm ribbon and separate upper s curl.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "linkedin-logo",
+    "label": "LinkedIn",
+    "family": "brands",
+    "visualReason": "LinkedIn in monogram within its native rounded square.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "linktree-logo",
+    "label": "Linktree",
+    "family": "brands",
+    "visualReason": "Radiating Linktree branches and longer lower stem.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "linux-logo",
+    "label": "Linux",
+    "family": "brands",
+    "visualReason": "Tux penguin uses curved head, pale belly, beak and splayed feet.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "markdown-logo",
+    "label": "Markdown",
+    "family": "brands",
+    "visualReason": "Native Markdown rectangle contains M and down arrow.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "mastodon-logo",
+    "label": "Mastodon",
+    "family": "brands",
+    "visualReason": "Rounded Mastodon speech body keeps twin m arches and lower trunk curl.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "matrix-logo",
+    "label": "Matrix",
+    "family": "brands",
+    "visualReason": "Matrix square brackets enclose its native lowercase m.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "medium-logo",
+    "label": "Medium",
+    "family": "brands",
+    "visualReason": "Progressively narrower circle and ellipses preserve Medium’s three-part mark.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "messenger-logo",
+    "label": "Messenger",
+    "family": "brands",
+    "visualReason": "Round speech tail and lightning-shaped message wave.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "meta-logo",
+    "label": "Meta",
+    "family": "brands",
+    "visualReason": "Asymmetric Meta infinity ribbon keeps its tall left loop and crossover.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "microsoft-excel-logo",
+    "label": "Microsoft Excel",
+    "family": "brands",
+    "visualReason": "Excel workbook grid and front X tile.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "microsoft-outlook-logo",
+    "label": "Microsoft Outlook",
+    "family": "brands",
+    "visualReason": "Outlook letter tile overlaps the folded envelope.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "microsoft-powerpoint-logo",
+    "label": "Microsoft PowerPoint",
+    "family": "brands",
+    "visualReason": "PowerPoint P tile overlaps a divided presentation disc.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "microsoft-teams-logo",
+    "label": "Microsoft Teams",
+    "family": "brands",
+    "visualReason": "Teams T tile overlaps two distinct participant bodies.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "microsoft-word-logo",
+    "label": "Microsoft Word",
+    "family": "brands",
+    "visualReason": "Word W tile overlaps a ruled document.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "notion-logo",
+    "label": "Notion",
+    "family": "brands",
+    "visualReason": "Serif N uses the original Notion diagonal and separate uprights.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "ny-times-logo",
+    "label": "The New York Times",
+    "family": "brands",
+    "visualReason": "Blackletter Times T retains curled headline stroke, split stem and lower bowl.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "open-ai-logo",
+    "label": "OpenAI",
+    "family": "brands",
+    "visualReason": "Six interlocking curved lobes surround the central hexagonal opening.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "patreon-logo",
+    "label": "Patreon",
+    "family": "brands",
+    "visualReason": "Organic Patreon P silhouette keeps its broad top and inward lower taper.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "paypal-logo",
+    "label": "PayPal",
+    "family": "brands",
+    "visualReason": "Offset PayPal P ribbons retain italic stems and overlapping bowls.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "phosphor-logo",
+    "label": "Phosphor",
+    "family": "brands",
+    "visualReason": "Phosphor’s P bowl, diagonal stem and lower curved quadrant.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "pinterest-logo",
+    "label": "Pinterest",
+    "family": "brands",
+    "visualReason": "Circular Pinterest P bowl with its descending pin stroke.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "pix-logo",
+    "label": "Pix",
+    "family": "brands",
+    "visualReason": "Pix diamond uses paired crossing central chevrons.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "read-cv-logo",
+    "label": "Read.cv",
+    "family": "brands",
+    "visualReason": "Tilted CV sheet retains three short heading lines.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "reddit-logo",
+    "label": "Reddit",
+    "family": "brands",
+    "visualReason": "Snoo oval face, side ears and bent ball-tipped antenna.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "replit-logo",
+    "label": "Replit",
+    "family": "brands",
+    "visualReason": "Replit’s three alternating rectangular modules.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "sketch-logo",
+    "label": "Sketch",
+    "family": "brands",
+    "visualReason": "Sketch gemstone retains crown facets and long lower point.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "skype-logo",
+    "label": "Skype",
+    "family": "brands",
+    "visualReason": "Skype cloud silhouette and centered S curl.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "slack-logo",
+    "label": "Slack",
+    "family": "brands",
+    "visualReason": "Slack’s four offset capsule pairs keep the rotated hash silhouette.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "snapchat-logo",
+    "label": "Snapchat",
+    "family": "brands",
+    "visualReason": "Snapchat ghost keeps the unmarked face and irregular scalloped hem.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "soundcloud-logo",
+    "label": "SoundCloud",
+    "family": "brands",
+    "visualReason": "SoundCloud half-cloud merges into three vertical waveform bars.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "spotify-logo",
+    "label": "Spotify",
+    "family": "brands",
+    "visualReason": "Three gently descending audio arcs sit in Spotify’s native disc.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "square-logo",
+    "label": "Square",
+    "family": "brands",
+    "visualReason": "Square’s nested square aperture uses its own geometric container.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "stack-overflow-logo",
+    "label": "Stack Overflow",
+    "family": "brands",
+    "visualReason": "Fanned Stack Overflow bars rise from the open tray.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "steam-logo",
+    "label": "Steam",
+    "family": "brands",
+    "visualReason": "Steam’s two circular joints and diagonal connecting arm.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "stripe-logo",
+    "label": "Stripe",
+    "family": "brands",
+    "visualReason": "Stripe’s compact rounded S stays inside its native square mark.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "telegram-logo",
+    "label": "Telegram",
+    "family": "brands",
+    "visualReason": "Telegram paper plane retains its long tip and folded inner flap.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "threads-logo",
+    "label": "Threads",
+    "family": "brands",
+    "visualReason": "Threads’ open spiral and crossing inner oval follow its handwritten @-like silhouette.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "tidal-logo",
+    "label": "Tidal",
+    "family": "brands",
+    "visualReason": "Tidal retains its three aligned diamonds with one centered below.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "tiktok-logo",
+    "label": "TikTok",
+    "family": "brands",
+    "visualReason": "TikTok note stem, curved flag and offset lower musical bowl.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "tumblr-logo",
+    "label": "Tumblr",
+    "family": "brands",
+    "visualReason": "Tumblr’s lowercase t includes the stepped shoulder and curved base.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "twitch-logo",
+    "label": "Twitch",
+    "family": "brands",
+    "visualReason": "Twitch angular speech body and the two vertical eye bars.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "twitter-logo",
+    "label": "Twitter",
+    "family": "brands",
+    "visualReason": "Twitter bird preserves upturned beak, lifted wing and fanned tail.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "webhooks-logo",
+    "label": "Webhooks",
+    "family": "brands",
+    "visualReason": "Three hooked circular endpoints form the triangular webhook linkage.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "wechat-logo",
+    "label": "WeChat",
+    "family": "brands",
+    "visualReason": "Two offset WeChat speech bubbles retain their respective paired eyes.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "whatsapp-logo",
+    "label": "WhatsApp",
+    "family": "brands",
+    "visualReason": "WhatsApp chat tail and bent telephone receiver.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "windows-logo",
+    "label": "Windows",
+    "family": "brands",
+    "visualReason": "Four perspective panes preserve the Windows flag proportions.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "x-logo",
+    "label": "X",
+    "family": "brands",
+    "visualReason": "X keeps the thin ascending diagonal and broad outlined descending diagonal.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "youtube-logo",
+    "label": "YouTube",
+    "family": "brands",
+    "visualReason": "Native YouTube rounded screen and centered play triangle.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  },
+  {
+    "name": "gitlab-logo-simple",
+    "label": "GitLab Simple",
+    "family": "brands",
+    "visualReason": "Tanuki outline shares GitLab ear proportions with a simplified central face.",
+    "category": "品牌标识",
+    "tags": [
+      "brand",
+      "logo"
+    ]
+  }
+]

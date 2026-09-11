@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M15.077,20.462c-0.776,0.939 -1.763,1.538 -3.077,1.538c-2.337,0 -4.231,-1.894 -4.231,-4.231c0,-3.989 -3.461,-2.692 -3.461,-8.077c0,-4.248 3.444,-7.692 7.692,-7.692c4.248,0 7.692,3.444 7.692,7.692c0,3.846 -1.388,6.923 -4.615,10.769z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" data-layer="surface" />
+  <path d="M15.077,20.462c-0.776,0.939 -1.763,1.538 -3.077,1.538c-2.337,0 -4.231,-1.894 -4.231,-4.231c0,-2.364 -1.215,-2.872 -2.206,-4.013c3.653,-3.086 10.239,1.934 14.087,-2.935c-0.253,3.338 -1.668,6.178 -4.573,9.64z" fill="var(--project-art-back, #d9c9ed)" stroke="none" data-layer="back" />
+  <path d="M4.308,3.539l15.384,16.923" fill="none" data-layer="detail" />
+  <path d="M15.461,11.231c0.253,-0.473 0.385,-1.002 0.385,-1.538c0.001,-1.243 -0.599,-2.41 -1.611,-3.132c-1.011,-0.722 -2.31,-0.911 -3.485,-0.507" fill="none" data-layer="detail" />
+  <path d="M15.949,16.344c-0.471,0.324 -1.082,0.36 -1.588,0.094c-0.506,-0.266 -0.823,-0.79 -0.823,-1.362c-0.001,-0.394 0.07,-0.786 0.212,-1.154" fill="none" data-layer="detail" />
+  <path d="M8.484,8.132c-0.218,0.491 -0.331,1.023 -0.33,1.561" fill="none" data-layer="detail" />
+</svg>

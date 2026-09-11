@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "types": ["vite/client"], "paths": { "@colorful-icons/react": ["./src/index.ts"], "@colorful-icons/react/catalog": ["./src/catalog.ts"] } },
+  "include": ["example/src"]
+}

@@ -1,0 +1,10061 @@
+{
+  "count": 1000,
+  "issues": [],
+  "icons": [
+    {
+      "name": "original-club-armchair",
+      "lineLength": 17.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chef-knife",
+      "lineLength": 12.73,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crewneck-shirt",
+      "lineLength": 6.89,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-claw-hammer",
+      "lineLength": 2.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-manual-toothbrush",
+      "lineLength": 8.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sitting-cat",
+      "lineLength": 5.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oak-tree",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-apple",
+      "lineLength": 11.55,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-espresso",
+      "lineLength": 19.46,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mountain-range",
+      "lineLength": 7.55,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cumulus-cloud",
+      "lineLength": 5.13,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-courtyard-house",
+      "lineLength": 34.08,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-compact-hatchback",
+      "lineLength": 7,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-soccer-goal",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-grand-piano",
+      "lineLength": 18,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-compound-microscope",
+      "lineLength": 31.47,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-server-rack",
+      "lineLength": 12.3,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dining-chair",
+      "lineLength": 18.25,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bread-knife",
+      "lineLength": 4.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-button-shirt",
+      "lineLength": 11.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wooden-mallet",
+      "lineLength": 14,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-electric-toothbrush",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-running-dog",
+      "lineLength": 5.61,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pine-tree",
+      "lineLength": 9,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pear",
+      "lineLength": 7.81,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cappuccino",
+      "lineLength": 19.96,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-volcano",
+      "lineLength": 15.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stratus-cloud",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-a-frame-cabin",
+      "lineLength": 21.54,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-estate-car",
+      "lineLength": 11,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-basketball-hoop",
+      "lineLength": 33.62,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-upright-piano",
+      "lineLength": 24,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stereo-microscope",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wireless-router",
+      "lineLength": 26.97,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rocking-chair",
+      "lineLength": 26.77,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cleaver",
+      "lineLength": 10.63,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-polo-shirt",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ball-peen-hammer",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-toothpaste-tube",
+      "lineLength": 14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rabbit",
+      "lineLength": 6.58,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-palm-tree",
+      "lineLength": 4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-peach",
+      "lineLength": 19.57,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-latte",
+      "lineLength": 30,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-canyon",
+      "lineLength": 14.64,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cirrus-cloud",
+      "lineLength": 30.46,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stilt-house",
+      "lineLength": 39.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-convertible-car",
+      "lineLength": 9.25,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baseball-glove",
+      "lineLength": 11.39,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-synthesizer-keyboard",
+      "lineLength": 24,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-refractor-telescope",
+      "lineLength": 40.05,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-processor-chip",
+      "lineLength": 24,
+      "lineContours": 8,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bar-stool",
+      "lineLength": 36.68,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-paring-knife",
+      "lineLength": 6.4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tank-top",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sledge-hammer",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dental-floss",
+      "lineLength": 18.82,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-squirrel",
+      "lineLength": 9.21,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-willow-tree",
+      "lineLength": 12.6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-plum",
+      "lineLength": 8.51,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mocha",
+      "lineLength": 20.87,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mesa",
+      "lineLength": 34,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-thunderstorm",
+      "lineLength": 6.77,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-row-houses",
+      "lineLength": 17,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pickup-truck",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baseball-bat",
+      "lineLength": 6.41,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-accordion",
+      "lineLength": 26,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-radio-telescope-dish",
+      "lineLength": 27.47,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-circuit-board",
+      "lineLength": 32.66,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-step-stool",
+      "lineLength": 22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oyster-knife",
+      "lineLength": 9.9,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-knit-sweater",
+      "lineLength": 10.42,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flathead-screwdriver",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mouthwash-bottle",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hedgehog",
+      "lineLength": 7.83,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cypress-tree",
+      "lineLength": 16.24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-apricot",
+      "lineLength": 25.21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hot-chocolate",
+      "lineLength": 28.25,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sand-dune",
+      "lineLength": 14.16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rain-shower",
+      "lineLength": 22.94,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-apartment-balconies",
+      "lineLength": 20,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-box-van",
+      "lineLength": 16.05,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cricket-wicket",
+      "lineLength": 27,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-concertina",
+      "lineLength": 47,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-navigation-sextant",
+      "lineLength": 50.33,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-solderless-breadboard",
+      "lineLength": 12,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-beanbag-seat",
+      "lineLength": 8.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pizza-wheel",
+      "lineLength": 8.49,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-open-cardigan",
+      "lineLength": 15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stubby-screwdriver",
+      "lineLength": 12,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tongue-scraper",
+      "lineLength": 4.12,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-beaver",
+      "lineLength": 9.26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baobab-tree",
+      "lineLength": 12.17,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cherry-pair",
+      "lineLength": 28.84,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mulled-wine",
+      "lineLength": 23.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cave",
+      "lineLength": 18.15,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snowfall",
+      "lineLength": 40.84,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-glass-tower",
+      "lineLength": 38,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-articulated-lorry",
+      "lineLength": 13,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rugby-ball",
+      "lineLength": 25.46,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-music-box",
+      "lineLength": 23.86,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-astrolabe-instrument",
+      "lineLength": 37.2,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hard-disk-drive",
+      "lineLength": 7.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chaise-lounge",
+      "lineLength": 4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-y-peeler",
+      "lineLength": 16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pullover-hoodie",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-adjustable-wrench",
+      "lineLength": 7,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-floss-pick",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-otter",
+      "lineLength": 5.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-banyan-tree",
+      "lineLength": 16.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fig",
+      "lineLength": 13.09,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-matcha",
+      "lineLength": 22.43,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-natural-arch",
+      "lineLength": 18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hailstorm",
+      "lineLength": 21.48,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stepped-skyscraper",
+      "lineLength": 13,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dump-truck",
+      "lineLength": 17,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-volleyball-net",
+      "lineLength": 24.17,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-barrel-organ",
+      "lineLength": 43.66,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gyroscope-instrument",
+      "lineLength": 48.48,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-reel-tape-drive",
+      "lineLength": 30.07,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bench-seat",
+      "lineLength": 12,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-box-grater",
+      "lineLength": 24.31,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-zip-jacket",
+      "lineLength": 18.47,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-combination-spanner",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-denture-case",
+      "lineLength": 14.26,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hamster",
+      "lineLength": 5.52,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mangrove-tree",
+      "lineLength": 11.06,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-quince",
+      "lineLength": 8.17,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-masala-chai",
+      "lineLength": 16.37,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hoodoo",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tornado",
+      "lineLength": 26.19,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-twisting-tower",
+      "lineLength": 24.55,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cement-mixer",
+      "lineLength": 23.71,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tennis-racket",
+      "lineLength": 31.16,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pipe-organ",
+      "lineLength": 27,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-armillary-sphere",
+      "lineLength": 50.64,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-usb-flash-drive",
+      "lineLength": 14,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-folding-chair",
+      "lineLength": 31.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mandoline-slicer",
+      "lineLength": 22.21,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tailored-blazer",
+      "lineLength": 8,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-socket-ratchet",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wide-tooth-comb",
+      "lineLength": 11,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mole",
+      "lineLength": 6.91,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bamboo",
+      "lineLength": 15,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-persimmon",
+      "lineLength": 8.52,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-yerba-mate",
+      "lineLength": 19.3,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-karst-peaks",
+      "lineLength": 20.06,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cyclone",
+      "lineLength": 29.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-clock-tower",
+      "lineLength": 16.65,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tanker-truck",
+      "lineLength": 25,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-badminton-shuttle",
+      "lineLength": 53.8,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-acoustic-guitar",
+      "lineLength": 18.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stone-sundial",
+      "lineLength": 25.06,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-game-controller",
+      "lineLength": 14.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-office-task-chair",
+      "lineLength": 22.16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-garlic-press",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-belted-trench",
+      "lineLength": 29.97,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-needle-nose-pliers",
+      "lineLength": 8.97,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-paddle-hairbrush",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bat",
+      "lineLength": 14.54,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bonsai",
+      "lineLength": 18.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pomegranate",
+      "lineLength": 21.69,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flowering-tea",
+      "lineLength": 32.17,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sea-cliff",
+      "lineLength": 22,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fog-bank",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bell-tower",
+      "lineLength": 20.45,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tow-truck",
+      "lineLength": 23.74,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-table-tennis-paddle",
+      "lineLength": 9.7,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-electric-guitar",
+      "lineLength": 20.01,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pendulum-apparatus",
+      "lineLength": 31.03,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-arcade-joystick",
+      "lineLength": 19,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-loveseat-sofa",
+      "lineLength": 24,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-nutcracker-tool",
+      "lineLength": 24.08,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hooded-raincoat",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-water-pump-pliers",
+      "lineLength": 2.83,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-round-barrel-brush",
+      "lineLength": 25,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-elephant",
+      "lineLength": 2.44,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-monstera-leaf",
+      "lineLength": 22.82,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-banana",
+      "lineLength": 13.95,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-orange-juice",
+      "lineLength": 16.83,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tropical-island",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sun",
+      "lineLength": 9.66,
+      "lineContours": 8,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-watch-tower",
+      "lineLength": 18,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fire-engine",
+      "lineLength": 35,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hockey-stick",
+      "lineLength": 7.47,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-banjo",
+      "lineLength": 24.33,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-newtons-cradle",
+      "lineLength": 46,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-virtual-reality-headset",
+      "lineLength": 14.25,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sectional-sofa",
+      "lineLength": 12,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-manual-can-opener",
+      "lineLength": 10,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-waistcoat",
+      "lineLength": 14,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-locking-pliers",
+      "lineLength": 7.85,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hair-dryer",
+      "lineLength": 10,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-giraffe",
+      "lineLength": 4.7,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-maple-leaf",
+      "lineLength": 26.66,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mango",
+      "lineLength": 9.06,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lemonade",
+      "lineLength": 29.57,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coral-atoll",
+      "lineLength": 11.64,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crescent-moon",
+      "lineLength": 7.37,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lighthouse-beacon",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ambulance-van",
+      "lineLength": 9,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-golf-club-bag",
+      "lineLength": 38.09,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mandolin",
+      "lineLength": 17.82,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-optical-prism",
+      "lineLength": 32.71,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drawing-tablet",
+      "lineLength": 20,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-floor-cushion",
+      "lineLength": 27.21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-corkscrew",
+      "lineLength": 19.09,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-swing-dress",
+      "lineLength": 4.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-diagonal-cutters",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-curling-iron",
+      "lineLength": 15.38,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rhinoceros",
+      "lineLength": 8.7,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ginkgo-leaf",
+      "lineLength": 31.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pineapple",
+      "lineLength": 37.5,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-iced-tea",
+      "lineLength": 44.57,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-peninsula",
+      "lineLength": 20,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rainbow",
+      "lineLength": 23.74,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-water-tower",
+      "lineLength": 47.44,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-school-bus",
+      "lineLength": 26,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-golf-putting-green",
+      "lineLength": 17.59,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-balalaika",
+      "lineLength": 31.21,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-magnifying-lens",
+      "lineLength": 11.13,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wide-format-plotter",
+      "lineLength": 40,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hanging-egg-chair",
+      "lineLength": 38.02,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bottle-opener",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pleated-skirt",
+      "lineLength": 21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-carpenter-handsaw",
+      "lineLength": 4.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hair-straightener",
+      "lineLength": 23.41,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hippopotamus",
+      "lineLength": 0.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lotus-leaf",
+      "lineLength": 31.13,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-papaya",
+      "lineLength": 22.56,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-berry-smoothie",
+      "lineLength": 4.84,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fjord",
+      "lineLength": 21.67,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wind-gust",
+      "lineLength": 28,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-windmill-building",
+      "lineLength": 11.31,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-double-decker-bus",
+      "lineLength": 15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bowling-pins",
+      "lineLength": 12.16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-concert-harp",
+      "lineLength": 50.64,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-optical-bench",
+      "lineLength": 37,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-filament-printer",
+      "lineLength": 32,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-footrest-ottoman",
+      "lineLength": 14,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kitchen-shears",
+      "lineLength": 11.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-straight-jeans",
+      "lineLength": 15.74,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-metal-hacksaw",
+      "lineLength": 17,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-claw-hair-clip",
+      "lineLength": 10,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lion",
+      "lineLength": 7.68,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fern-frond",
+      "lineLength": 16,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-avocado",
+      "lineLength": 25.14,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-milkshake",
+      "lineLength": 22.44,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-river-delta",
+      "lineLength": 28.23,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-aurora",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-domed-observatory",
+      "lineLength": 23.66,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-articulated-bus",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-billiards-table",
+      "lineLength": 35.34,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lyre",
+      "lineLength": 45,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oscilloscope",
+      "lineLength": 25.97,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laser-cutting-machine",
+      "lineLength": 29,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-round-pedestal-table",
+      "lineLength": 14.73,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-balloon-whisk",
+      "lineLength": 20.18,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tailored-shorts",
+      "lineLength": 16.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coping-saw",
+      "lineLength": 10,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snap-barrette",
+      "lineLength": 12.21,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tiger",
+      "lineLength": 13.89,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eucalyptus",
+      "lineLength": 16,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dragon-fruit",
+      "lineLength": 1,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bubble-tea",
+      "lineLength": 30.44,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sea-stack",
+      "lineLength": 22.81,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-frost-crystal",
+      "lineLength": 27.42,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-planetarium-building",
+      "lineLength": 23.73,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-trolleybus",
+      "lineLength": 35.88,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dartboard",
+      "lineLength": 24.56,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-violin",
+      "lineLength": 29.01,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-analog-multimeter",
+      "lineLength": 13,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cnc-milling-machine",
+      "lineLength": 32.66,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-writing-desk",
+      "lineLength": 15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-soup-ladle",
+      "lineLength": 10.77,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bib-overalls",
+      "lineLength": 14.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wood-hand-plane",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hair-roller",
+      "lineLength": 15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-leopard",
+      "lineLength": 11.4,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-olive-branch",
+      "lineLength": 17.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-passion-fruit",
+      "lineLength": 23.89,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coconut-water",
+      "lineLength": 29.08,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sandy-beach",
+      "lineLength": 27.78,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-icicles",
+      "lineLength": 11.12,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-art-museum",
+      "lineLength": 21,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-street-tram",
+      "lineLength": 50.63,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-archery-bow",
+      "lineLength": 44.1,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-erhu",
+      "lineLength": 27.44,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-test-tube-rack",
+      "lineLength": 36,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flatbed-scanner",
+      "lineLength": 24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coffee-table",
+      "lineLength": 14.19,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-slotted-spoon",
+      "lineLength": 20,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-utility-jumpsuit",
+      "lineLength": 14.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wood-chisel",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hair-spray-can",
+      "lineLength": 7,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-zebra",
+      "lineLength": 14.95,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ivy-leaf",
+      "lineLength": 26.66,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-guava",
+      "lineLength": 21.84,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sugarcane-juice",
+      "lineLength": 20.6,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-headland",
+      "lineLength": 20.12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dew-on-leaf",
+      "lineLength": 22.22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-columned-temple",
+      "lineLength": 36,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-metro-front",
+      "lineLength": 13.66,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-archery-target-stand",
+      "lineLength": 27.42,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pipa",
+      "lineLength": 25,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-erlenmeyer-flask",
+      "lineLength": 19,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-barcode-scanner",
+      "lineLength": 23,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-nesting-tables",
+      "lineLength": 22,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wooden-spoon",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bathrobe",
+      "lineLength": 15,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-manual-hand-drill",
+      "lineLength": 22.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shampoo-pump",
+      "lineLength": 21.38,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bison",
+      "lineLength": 9.75,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oak-leaf",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lychee",
+      "lineLength": 5.93,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-watermelon-juice",
+      "lineLength": 20.85,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lagoon",
+      "lineLength": 21.01,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snowflake",
+      "lineLength": 55.74,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pagoda-tower",
+      "lineLength": 11.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bullet-train",
+      "lineLength": 40,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fencing-foil",
+      "lineLength": 16.3,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-guzheng",
+      "lineLength": 42.71,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-retort",
+      "lineLength": 9.4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-digital-projector",
+      "lineLength": 15,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-console-table",
+      "lineLength": 30,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-solid-turner",
+      "lineLength": 11,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pajama-set",
+      "lineLength": 13.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-brace-drill",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-conditioner-squeeze",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-camel",
+      "lineLength": 3.55,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-banana-leaf",
+      "lineLength": 20.12,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rambutan",
+      "lineLength": 7.83,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cold-brew",
+      "lineLength": 23,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sandbar",
+      "lineLength": 18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-raindrop",
+      "lineLength": 5.85,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-torii-gate",
+      "lineLength": 20,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steam-locomotive",
+      "lineLength": 14.42,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-boxing-glove",
+      "lineLength": 18.86,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hammered-dulcimer",
+      "lineLength": 42.8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-distillation-apparatus",
+      "lineLength": 20.32,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-studio-microphone",
+      "lineLength": 47.73,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-vanity-table",
+      "lineLength": 11,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fish-turner",
+      "lineLength": 15.79,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-one-piece-swimsuit",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-caulking-gun",
+      "lineLength": 25.39,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oval-soap-bar",
+      "lineLength": 22.88,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-red-panda",
+      "lineLength": 6.72,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rose",
+      "lineLength": 37.78,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-strawberry",
+      "lineLength": 0.8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-red-wine",
+      "lineLength": 4.87,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-waterfall",
+      "lineLength": 33,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-moon-gate",
+      "lineLength": 21,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-freight-wagon",
+      "lineLength": 38,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-punching-bag",
+      "lineLength": 21.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sitar",
+      "lineLength": 14.42,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-graduated-cylinder",
+      "lineLength": 22,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hand-megaphone",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bedside-table",
+      "lineLength": 20,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-silicone-spatula",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bikini-set",
+      "lineLength": 16.17,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-paint-roller",
+      "lineLength": 30.04,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-body-lotion-bottle",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-koala",
+      "lineLength": 13.27,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tulip",
+      "lineLength": 11.89,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-raspberry",
+      "lineLength": 3.04,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-champagne",
+      "lineLength": 0.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-winding-river",
+      "lineLength": 14.02,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-triumphal-arch",
+      "lineLength": 14,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cable-car-cabin",
+      "lineLength": 43.31,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kettlebell",
+      "lineLength": 10.87,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-saxophone",
+      "lineLength": 19.36,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-beaker",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-industrial-robot-arm",
+      "lineLength": 22.52,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wardrobe-cabinet",
+      "lineLength": 23,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pasta-server",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kitchen-apron",
+      "lineLength": 17.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-putty-knife",
+      "lineLength": 14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rollon-deodorant",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sloth",
+      "lineLength": 17.22,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sunflower",
+      "lineLength": 25.54,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-blueberries",
+      "lineLength": 14.79,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-beer-mug",
+      "lineLength": 22.73,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mountain-lake",
+      "lineLength": 21.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stone-bridge",
+      "lineLength": 10,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-funicular",
+      "lineLength": 23.79,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dumbbell",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-trumpet",
+      "lineLength": 49.11,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-pipette",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tracked-inspection-robot",
+      "lineLength": 10,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chest-of-drawers",
+      "lineLength": 26,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kitchen-tongs",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laceup-sneaker",
+      "lineLength": 11.25,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bar-clamp",
+      "lineLength": 16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-perfume-spray",
+      "lineLength": 10,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kangaroo",
+      "lineLength": 6.97,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-daisy",
+      "lineLength": 18.85,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-blackberries",
+      "lineLength": 9.79,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-martini",
+      "lineLength": 29.75,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-marsh",
+      "lineLength": 40.81,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-suspension-bridge",
+      "lineLength": 36.8,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-monorail",
+      "lineLength": 13,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-barbell-rack",
+      "lineLength": 46,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-trombone",
+      "lineLength": 55.85,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-petri-dish",
+      "lineLength": 28.85,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-quadruped-robot",
+      "lineLength": 37.54,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-open-bookcase",
+      "lineLength": 28,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-basting-brush",
+      "lineLength": 12,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-high-top-sneaker",
+      "lineLength": 28,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bench-vise",
+      "lineLength": 14,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bulb-perfume-atomizer",
+      "lineLength": 19.45,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-deer",
+      "lineLength": 10.17,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lily",
+      "lineLength": 18.06,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-grapes",
+      "lineLength": 7.44,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-margarita",
+      "lineLength": 34.91,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tide-pool",
+      "lineLength": 14.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drawbridge",
+      "lineLength": 30.81,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-city-bicycle",
+      "lineLength": 33.88,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rowing-machine",
+      "lineLength": 23.87,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-french-horn",
+      "lineLength": 18.92,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-centrifuge",
+      "lineLength": 11,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-quadcopter-drone",
+      "lineLength": 12.63,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ladder-shelf",
+      "lineLength": 22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dough-scraper",
+      "lineLength": 10,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-penny-loafer",
+      "lineLength": 18.37,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-thread-spool",
+      "lineLength": 25.98,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lipstick-tube",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-moose",
+      "lineLength": 6.34,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-orchid",
+      "lineLength": 13.3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gooseberry",
+      "lineLength": 40.17,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-whiskey",
+      "lineLength": 53.25,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-breaking-wave",
+      "lineLength": 20.08,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-canal-lock",
+      "lineLength": 15,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-road-bicycle",
+      "lineLength": 46.03,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-exercise-cycle",
+      "lineLength": 39.92,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tuba",
+      "lineLength": 22.64,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bunsen-burner",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-underwater-inspection-robot",
+      "lineLength": 30,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shoe-cabinet",
+      "lineLength": 8.12,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rolling-pin",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oxford-shoe",
+      "lineLength": 12.05,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sewing-needle",
+      "lineLength": 22.64,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lip-gloss-wand",
+      "lineLength": 14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-goat",
+      "lineLength": 5.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lotus-flower",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cranberries",
+      "lineLength": 17.75,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sake",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-whirlpool",
+      "lineLength": 50.27,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dam-wall",
+      "lineLength": 37.57,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cargo-bicycle",
+      "lineLength": 34.27,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-treadmill",
+      "lineLength": 18.25,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-clarinet",
+      "lineLength": 14,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-balance",
+      "lineLength": 45.83,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-radar-antenna",
+      "lineLength": 40.99,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-storage-bench",
+      "lineLength": 12,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mesh-sieve",
+      "lineLength": 26.85,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ballet-flat",
+      "lineLength": 7.21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pin-cushion",
+      "lineLength": 20.03,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-compact-powder",
+      "lineLength": 9.16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sheep",
+      "lineLength": 3.95,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-poppy",
+      "lineLength": 24.06,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-watermelon-slice",
+      "lineLength": 4.44,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tiki-cocktail",
+      "lineLength": 15.57,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coral-reef",
+      "lineLength": 18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-viaduct",
+      "lineLength": 28.58,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tandem-bicycle",
+      "lineLength": 59.99,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-elliptical-trainer",
+      "lineLength": 41.5,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-concert-flute",
+      "lineLength": 14,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-desiccator",
+      "lineLength": 32,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fiber-splice-tray",
+      "lineLength": 52.68,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rolling-cart",
+      "lineLength": 34,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-colander",
+      "lineLength": 16,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-high-heel-pump",
+      "lineLength": 11,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-embroidery-hoop",
+      "lineLength": 18.3,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-powder-makeup-brush",
+      "lineLength": 10.26,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pig",
+      "lineLength": 6.6,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-iris",
+      "lineLength": 12.32,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cantaloupe",
+      "lineLength": 45.7,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sangria",
+      "lineLength": 30.28,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-geyser",
+      "lineLength": 23.22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-railway-platform",
+      "lineLength": 52.63,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tricycle",
+      "lineLength": 28.44,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-climbing-wall",
+      "lineLength": 5.66,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bassoon",
+      "lineLength": 17.37,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-vacuum-pump",
+      "lineLength": 35.66,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wall-cubby",
+      "lineLength": 3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kitchen-funnel",
+      "lineLength": 3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ankle-boot",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-knitting-needles",
+      "lineLength": 55.34,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-makeup-sponge",
+      "lineLength": 3.61,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cow",
+      "lineLength": 4.87,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dahlia",
+      "lineLength": 45.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kiwifruit",
+      "lineLength": 9.06,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kombucha",
+      "lineLength": 14.6,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hot-spring",
+      "lineLength": 27.28,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-airport-terminal",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kick-scooter",
+      "lineLength": 22,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-climbing-harness",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-panpipes",
+      "lineLength": 10,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-compressed-gas-cylinder",
+      "lineLength": 15,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-double-bed",
+      "lineLength": 18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mortar-pestle",
+      "lineLength": 14.42,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-knee-high-boot",
+      "lineLength": 6.08,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crochet-hook",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eyelash-curler",
+      "lineLength": 20.12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-owl",
+      "lineLength": 8.03,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cactus",
+      "lineLength": 9,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-carrot",
+      "lineLength": 6.77,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bus-shelter",
+      "lineLength": 51,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-moped",
+      "lineLength": 15,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-locking-carabiner",
+      "lineLength": 11.62,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-harmonica",
+      "lineLength": 27.83,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-optical-spectrometer",
+      "lineLength": 11.71,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bunk-bed",
+      "lineLength": 28,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-salad-spinner",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rubber-rain-boot",
+      "lineLength": 21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-yarn-ball",
+      "lineLength": 36.46,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mascara-tube",
+      "lineLength": 27,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-penguin",
+      "lineLength": 6.4,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-prickly-pear",
+      "lineLength": 4,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-radish",
+      "lineLength": 4.56,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tram-stop",
+      "lineLength": 28.63,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-touring-motorcycle",
+      "lineLength": 22.41,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-belay-device",
+      "lineLength": 31.16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ocarina",
+      "lineLength": 2.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chromatography-column",
+      "lineLength": 34,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baby-crib",
+      "lineLength": 34,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-saucepan",
+      "lineLength": 3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-strappy-sandal",
+      "lineLength": 15.31,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sewing-machine",
+      "lineLength": 11,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eyeshadow-palette",
+      "lineLength": 6,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flamingo",
+      "lineLength": 11.42,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-aloe-vera",
+      "lineLength": 14.06,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-daikon",
+      "lineLength": 5,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ticket-booth",
+      "lineLength": 17,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sidecar-motorcycle",
+      "lineLength": 12.61,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mountaineering-ice-axe",
+      "lineLength": 9.47,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bagpipes",
+      "lineLength": 36.95,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laboratory-filter-funnel",
+      "lineLength": 10,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-canopy-bed",
+      "lineLength": 48.66,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stockpot",
+      "lineLength": 12,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flip-flop",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-seam-ripper",
+      "lineLength": 3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-nail-polish",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-swan",
+      "lineLength": 6.62,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-agave",
+      "lineLength": 15.62,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-beetroot",
+      "lineLength": 6.7,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-news-kiosk",
+      "lineLength": 37.63,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-quad-bike",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coiled-climbing-rope",
+      "lineLength": 20.3,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drum-kit",
+      "lineLength": 18.21,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-separatory-funnel",
+      "lineLength": 21.3,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-folded-duvet",
+      "lineLength": 10,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-frying-pan",
+      "lineLength": 8.32,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-house-slipper",
+      "lineLength": 13,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sewing-thimble",
+      "lineLength": 6,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-nail-clipper",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pelican",
+      "lineLength": 2.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-succulent-rosette",
+      "lineLength": 16.47,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-turnip",
+      "lineLength": 6.42,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-market-stall",
+      "lineLength": 20.25,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-go-kart",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dome-camping-tent",
+      "lineLength": 36.06,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snare-drum",
+      "lineLength": 51.61,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-aneroid-barometer",
+      "lineLength": 21.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bolster-pillow",
+      "lineLength": 13.9,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wok-pan",
+      "lineLength": 8.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pom-beanie",
+      "lineLength": 9,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-four-hole-button",
+      "lineLength": 11.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-emery-nail-file",
+      "lineLength": 9.9,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-toucan",
+      "lineLength": 5.2,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-venus-flytrap",
+      "lineLength": 19.22,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-potato",
+      "lineLength": 1.2,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-warehouse-building",
+      "lineLength": 34,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-formula-racer",
+      "lineLength": 10.9,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sleeping-bag",
+      "lineLength": 19,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bongo-drums",
+      "lineLength": 16.17,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-seismograph",
+      "lineLength": 32.4,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-quilted-pillow",
+      "lineLength": 10.07,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pressure-cooker",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-beret-hat",
+      "lineLength": 9.53,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snap-fasteners",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-slant-tweezers",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-woodpecker",
+      "lineLength": 23.3,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pitcher-plant",
+      "lineLength": 19.5,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sweet-potato",
+      "lineLength": 5.66,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-factory-roof",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snowmobile",
+      "lineLength": 24.93,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-camping-burner",
+      "lineLength": 28.29,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-conga-drum",
+      "lineLength": 16.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-geiger-counter",
+      "lineLength": 21.85,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-headboard-panel",
+      "lineLength": 18,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steamer-pot",
+      "lineLength": 25.73,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baseball-cap",
+      "lineLength": 23.78,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-garment-zipper",
+      "lineLength": 14.21,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-safety-razor",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-peacock",
+      "lineLength": 9.86,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-peace-lily",
+      "lineLength": 6.71,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ginger",
+      "lineLength": 5.24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-grain-silo",
+      "lineLength": 26,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snow-groomer",
+      "lineLength": 40.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-camping-lantern",
+      "lineLength": 26.73,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-timpani",
+      "lineLength": 28.96,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-surveyors-level",
+      "lineLength": 39.52,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mosquito-net",
+      "lineLength": 13,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dutch-oven",
+      "lineLength": 7,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bucket-hat",
+      "lineLength": 24.19,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sewing-bobbin",
+      "lineLength": 20,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-electric-shaver",
+      "lineLength": 6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hummingbird",
+      "lineLength": 3.03,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-anthurium",
+      "lineLength": 14.62,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lotus-root",
+      "lineLength": 10.16,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cooling-tower",
+      "lineLength": 15.22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tractor",
+      "lineLength": 26.66,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-trekking-poles",
+      "lineLength": 27.84,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-xylophone",
+      "lineLength": 55.87,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-survey-theodolite",
+      "lineLength": 31.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bed-tray",
+      "lineLength": 16.65,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-grill-pan",
+      "lineLength": 27,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fedora-hat",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tailors-chalk",
+      "lineLength": 8.06,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shaving-brush",
+      "lineLength": 14.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crane",
+      "lineLength": 10.59,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bird-of-paradise",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-taro",
+      "lineLength": 20.15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-power-substation",
+      "lineLength": 29,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-forklift",
+      "lineLength": 19.83,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-orienteering-compass",
+      "lineLength": 17,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cymbal-stand",
+      "lineLength": 50.22,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-survey-measuring-wheel",
+      "lineLength": 20.66,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-floor-lamp",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-roasting-pan",
+      "lineLength": 12,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wide-sunhat",
+      "lineLength": 13.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fabric-bolt",
+      "lineLength": 8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-butterfly",
+      "lineLength": 16.94,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-button-mushroom",
+      "lineLength": 14.22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cabbage",
+      "lineLength": 23.94,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stadium-bowl",
+      "lineLength": 10,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-excavator",
+      "lineLength": 14.45,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-folded-trail-map",
+      "lineLength": 46.04,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tambourine",
+      "lineLength": 8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-desk-task-lamp",
+      "lineLength": 18.48,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tagine-pot",
+      "lineLength": 19.62,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wrap-turban",
+      "lineLength": 5.66,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-soft-tape-measure",
+      "lineLength": 8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dragonfly",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fly-agaric",
+      "lineLength": 5.5,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-napa-cabbage",
+      "lineLength": 20.88,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-arena-roof",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bulldozer",
+      "lineLength": 22.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-field-binoculars",
+      "lineLength": 16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-musical-triangle",
+      "lineLength": 16.42,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pendant-lamp",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-electric-kettle",
+      "lineLength": 19,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-winter-earmuffs",
+      "lineLength": 41.13,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fabric-rotary-cutter",
+      "lineLength": 4.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ladybug",
+      "lineLength": 16.21,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-morel",
+      "lineLength": 24.41,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bok-choy",
+      "lineLength": 17.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-swimming-pool-building",
+      "lineLength": 41.44,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mobile-crane",
+      "lineLength": 28.66,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-surfboard",
+      "lineLength": 19.42,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hanging-gong",
+      "lineLength": 9.15,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wall-sconce",
+      "lineLength": 11.66,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-two-slot-toaster",
+      "lineLength": 25,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-knotted-headband",
+      "lineLength": 3,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sewing-pattern-paper",
+      "lineLength": 11,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-honeybee",
+      "lineLength": 15.47,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chanterelle",
+      "lineLength": 19.56,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spinach",
+      "lineLength": 23.71,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-amphitheater",
+      "lineLength": 34.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-road-roller",
+      "lineLength": 16.45,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-windsurf-board",
+      "lineLength": 38.9,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-castanets",
+      "lineLength": 29.33,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-paper-lantern",
+      "lineLength": 31.38,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rice-cooker",
+      "lineLength": 11.73,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sports-visor",
+      "lineLength": 12.22,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-safety-pin",
+      "lineLength": 54.26,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-grasshopper",
+      "lineLength": 25.93,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oyster-mushroom",
+      "lineLength": 14.14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kale",
+      "lineLength": 28.22,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-opera-house",
+      "lineLength": 34,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-street-sweeper",
+      "lineLength": 16.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-standup-paddle-board",
+      "lineLength": 18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-maracas",
+      "lineLength": 17.39,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-candelabra",
+      "lineLength": 29.59,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-countertop-blender",
+      "lineLength": 32.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-canvas-tote",
+      "lineLength": 25.41,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flat-paintbrush",
+      "lineLength": 12,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-praying-mantis",
+      "lineLength": 18.14,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-enoki-mushroom",
+      "lineLength": 15.34,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lettuce",
+      "lineLength": 15.12,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cinema-front",
+      "lineLength": 22.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-passenger-airplane",
+      "lineLength": 10.94,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-traction-kite",
+      "lineLength": 27.23,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cabasa",
+      "lineLength": 38,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oil-lamp",
+      "lineLength": 11,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-immersion-blender",
+      "lineLength": 4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-daypack-backpack",
+      "lineLength": 23.45,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-round-watercolor-brush",
+      "lineLength": 7,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ant",
+      "lineLength": 19.59,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shiitake",
+      "lineLength": 29.5,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-celery",
+      "lineLength": 20.64,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-library-building",
+      "lineLength": 24,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-propeller-plane",
+      "lineLength": 31,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-water-skis",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rainstick",
+      "lineLength": 18.42,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-clip-lamp",
+      "lineLength": 13.66,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stand-mixer",
+      "lineLength": 9,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-school-satchel",
+      "lineLength": 21.45,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fan-brush",
+      "lineLength": 22.42,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snail",
+      "lineLength": 20.25,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-inkcap",
+      "lineLength": 23.59,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-leek",
+      "lineLength": 9,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-school-campus",
+      "lineLength": 21.69,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-biplane",
+      "lineLength": 22,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-alpine-skis",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-agogo-bells",
+      "lineLength": 25.94,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mushroom-table-lamp",
+      "lineLength": 12.22,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hand-mixer",
+      "lineLength": 45.25,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crossbody-purse",
+      "lineLength": 31.81,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-palette-knife",
+      "lineLength": 4.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-earthworm",
+      "lineLength": 10,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shelf-fungus",
+      "lineLength": 17.99,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-scallion",
+      "lineLength": 3.83,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-town-hall",
+      "lineLength": 43,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-seaplane",
+      "lineLength": 18,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-snowboard",
+      "lineLength": 5.66,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-woodblock-percussion",
+      "lineLength": 24.14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chandelier",
+      "lineLength": 35.73,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coffee-machine",
+      "lineLength": 7,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-envelope-clutch",
+      "lineLength": 19.8,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-artist-paint-tube",
+      "lineLength": 10,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-caterpillar",
+      "lineLength": 10.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-truffle",
+      "lineLength": 12.81,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-artichoke",
+      "lineLength": 39.06,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-post-office",
+      "lineLength": 22.61,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-helicopter",
+      "lineLength": 41,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-skateboard-deck",
+      "lineLength": 4.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-guiro",
+      "lineLength": 39.28,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-curtained-window",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coffee-grinder",
+      "lineLength": 15,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gym-duffel",
+      "lineLength": 33.11,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kidney-palette",
+      "lineLength": 3.92,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-whale",
+      "lineLength": 9.68,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lavender",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tomato",
+      "lineLength": 5.41,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fire-station",
+      "lineLength": 21,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gyrocopter",
+      "lineLength": 48,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-skating-halfpipe",
+      "lineLength": 12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kalimba",
+      "lineLength": 37,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-roller-blind",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-food-processor",
+      "lineLength": 21.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wheel-suitcase",
+      "lineLength": 23.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tripod-easel",
+      "lineLength": 36.12,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dolphin",
+      "lineLength": 3.36,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rosemary",
+      "lineLength": 16,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bell-pepper",
+      "lineLength": 15.39,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hospital-wings",
+      "lineLength": 20.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-airship",
+      "lineLength": 13.24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-runner-sled",
+      "lineLength": 49.12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steelpan",
+      "lineLength": 37.27,
+      "lineContours": 7,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tassel-rug",
+      "lineLength": 16,
+      "lineContours": 8,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-microwave-oven",
+      "lineLength": 11,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-waist-bag",
+      "lineLength": 10,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spiral-sketchbook",
+      "lineLength": 35,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shark",
+      "lineLength": 4.67,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-basil",
+      "lineLength": 12.46,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chili-pepper",
+      "lineLength": 9.66,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-greenhouse-building",
+      "lineLength": 35.56,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hot-air-balloon",
+      "lineLength": 7.21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-curling-stone",
+      "lineLength": 19.64,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-calligraphy-brush",
+      "lineLength": 10.81,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rolled-mat",
+      "lineLength": 11.03,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-air-fryer",
+      "lineLength": 16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drawstring-sack",
+      "lineLength": 44.43,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-charcoal-stick",
+      "lineLength": 20,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-manta-ray",
+      "lineLength": 6.18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mint",
+      "lineLength": 12.73,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eggplant",
+      "lineLength": 8.26,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gazebo-pavilion",
+      "lineLength": 34,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-glider-aircraft",
+      "lineLength": 16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crossbow",
+      "lineLength": 31.96,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-inkstone",
+      "lineLength": 13.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-patchwork-blanket",
+      "lineLength": 30,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-electric-griddle",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-paper-shopping-bag",
+      "lineLength": 24.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wax-crayon",
+      "lineLength": 3.61,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-seahorse",
+      "lineLength": 3.36,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-thyme",
+      "lineLength": 15,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cucumber",
+      "lineLength": 0.8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bandstand",
+      "lineLength": 42.24,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ferry-boat",
+      "lineLength": 47.66,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-discus",
+      "lineLength": 23.51,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-film-clapperboard",
+      "lineLength": 31.09,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-apron-hook-rack",
+      "lineLength": 31.42,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-waffle-iron",
+      "lineLength": 33,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hanging-garment-bag",
+      "lineLength": 30.97,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pastel-case",
+      "lineLength": 12,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-octopus",
+      "lineLength": 4.56,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sage",
+      "lineLength": 18.71,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-zucchini",
+      "lineLength": 21.1,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fountain-basin",
+      "lineLength": 41.39,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ocean-liner",
+      "lineLength": 18,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-javelin",
+      "lineLength": 11.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cinema-film-reel",
+      "lineLength": 2.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coat-tree",
+      "lineLength": 5.39,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-slow-cooker",
+      "lineLength": 14,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kisslock-purse",
+      "lineLength": 13.27,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-inkwell-bottle",
+      "lineLength": 8,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-jellyfish",
+      "lineLength": 19.53,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wheat-ear",
+      "lineLength": 28.04,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pumpkin",
+      "lineLength": 29.96,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drinking-fountain",
+      "lineLength": 18.72,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sailing-yacht",
+      "lineLength": 29,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hammer-throw",
+      "lineLength": 15.86,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-studio-camera-tripod",
+      "lineLength": 35.1,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-umbrella-stand",
+      "lineLength": 22.73,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-measuring-jug",
+      "lineLength": 13,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fringed-scarf",
+      "lineLength": 8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dip-pen-nib",
+      "lineLength": 8.49,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crab",
+      "lineLength": 15.98,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rice-panicle",
+      "lineLength": 26.55,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-corn-cob",
+      "lineLength": 32,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-street-lamp",
+      "lineLength": 35.22,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-catamaran",
+      "lineLength": 34,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-vaulting-pole",
+      "lineLength": 30,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-light-table",
+      "lineLength": 46.39,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-woven-basket",
+      "lineLength": 31.13,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-measuring-spoons",
+      "lineLength": 33.32,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-silk-necktie",
+      "lineLength": 5.83,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pottery-wheel",
+      "lineLength": 6.11,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lobster",
+      "lineLength": 15.25,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cotton-boll",
+      "lineLength": 8.56,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pea-pod",
+      "lineLength": 3.14,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-traffic-signal",
+      "lineLength": 10,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-speedboat",
+      "lineLength": 33.39,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-track-hurdle",
+      "lineLength": 41.31,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-printing-press",
+      "lineLength": 46,
+      "lineContours": 6,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-laundry-hamper",
+      "lineLength": 24,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mixing-bowl",
+      "lineLength": 5.13,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-formal-bowtie",
+      "lineLength": 8.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-folded-paper-crane",
+      "lineLength": 13.45,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shrimp",
+      "lineLength": 13.59,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tea-sprig",
+      "lineLength": 15.01,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-okra",
+      "lineLength": 23.91,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pedestrian-crossing",
+      "lineLength": 36.06,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tugboat",
+      "lineLength": 32.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-starting-blocks",
+      "lineLength": 15.49,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-etching-plate",
+      "lineLength": 41.81,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lidded-storage-box",
+      "lineLength": 16.63,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cutting-board",
+      "lineLength": 6,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-buckle-belt",
+      "lineLength": 24.63,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-clownfish",
+      "lineLength": 3.36,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-acorn",
+      "lineLength": 11.16,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-baguette",
+      "lineLength": 10.82,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-roundabout",
+      "lineLength": 29.71,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fishing-trawler",
+      "lineLength": 51.84,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-finish-line-banner",
+      "lineLength": 38,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-brayer-roller",
+      "lineLength": 33.04,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hanging-organizer",
+      "lineLength": 29.36,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-teapot-vessel",
+      "lineLength": 9.42,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-winter-gloves",
+      "lineLength": 7,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-angelfish",
+      "lineLength": 7.2,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pine-cone",
+      "lineLength": 33.93,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-croissant",
+      "lineLength": 25.2,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-road-barrier",
+      "lineLength": 22,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-submarine",
+      "lineLength": 18.31,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-winner-medal",
+      "lineLength": 7.24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spray-paint-can",
+      "lineLength": 17,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drawer-dividers",
+      "lineLength": 32,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tea-cup-saucer",
+      "lineLength": 21.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ankle-socks",
+      "lineLength": 19.66,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pufferfish",
+      "lineLength": 0.8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chestnut-burr",
+      "lineLength": 7.26,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-toast-slice",
+      "lineLength": 14.11,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bollard",
+      "lineLength": 14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-rowing-shell",
+      "lineLength": 43.74,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-champion-trophy",
+      "lineLength": 31.33,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-vacuum-storage-bag",
+      "lineLength": 20,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-stemmed-goblet",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-round-sunglasses",
+      "lineLength": 28.38,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-swordfish",
+      "lineLength": 3.36,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-walnut",
+      "lineLength": 37.82,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bagel",
+      "lineLength": 22.58,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-parking-meter",
+      "lineLength": 21.83,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-canoe-boat",
+      "lineLength": 18.39,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-winners-podium",
+      "lineLength": 22,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-magazine-rack",
+      "lineLength": 5.4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chopsticks-rest",
+      "lineLength": 2.24,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-analog-wristwatch",
+      "lineLength": 13.54,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eel",
+      "lineLength": 2.44,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hazelnut",
+      "lineLength": 12.49,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pretzel",
+      "lineLength": 23.61,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bicycle-rack",
+      "lineLength": 20,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-jet-ski",
+      "lineLength": 28.16,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-court-scoreboard",
+      "lineLength": 24,
+      "lineContours": 8,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tissue-box",
+      "lineLength": 14,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-starfish",
+      "lineLength": 6.67,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coconut",
+      "lineLength": 31.37,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sourdough-loaf",
+      "lineLength": 22.52,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fire-hydrant",
+      "lineLength": 24.9,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hovercraft",
+      "lineLength": 21,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chess-knight",
+      "lineLength": 18.9,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tissue-roll",
+      "lineLength": 5,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-scallop",
+      "lineLength": 29.89,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dandelion-seed",
+      "lineLength": 41.8,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pita-bread",
+      "lineLength": 13.6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chess-rook",
+      "lineLength": 22,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-doorstop-wedge",
+      "lineLength": 6.32,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-oyster",
+      "lineLength": 18.85,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-samaras",
+      "lineLength": 23.14,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-focaccia",
+      "lineLength": 5.16,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-croquet-mallet",
+      "lineLength": 13,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-door-knocker",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-conch",
+      "lineLength": 18.69,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sprouting-seed",
+      "lineLength": 18.09,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-brioche",
+      "lineLength": 15.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-door-handle",
+      "lineLength": 2,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-nautilus",
+      "lineLength": 16.2,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-moss-cushion",
+      "lineLength": 26.26,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-breadsticks",
+      "lineLength": 10.24,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-broom",
+      "lineLength": 20.62,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tortoise",
+      "lineLength": 20.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-muffin",
+      "lineLength": 15.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dustpan",
+      "lineLength": 7,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sea-turtle",
+      "lineLength": 20.35,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cupcake",
+      "lineLength": 17.54,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-flat-mop",
+      "lineLength": 18.84,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-crocodile",
+      "lineLength": 2.2,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-danish-pastry",
+      "lineLength": 29.89,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-string-mop",
+      "lineLength": 15.77,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-chameleon",
+      "lineLength": 10.06,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cinnamon-roll",
+      "lineLength": 48.92,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-scrub-brush",
+      "lineLength": 18,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-gecko",
+      "lineLength": 21.9,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-apple-strudel",
+      "lineLength": 25.12,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-feather-duster",
+      "lineLength": 17.55,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cobra",
+      "lineLength": 11.4,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-palmier",
+      "lineLength": 42.13,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sponge-pad",
+      "lineLength": 3,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-coiled-snake",
+      "lineLength": 8.52,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-madeleine",
+      "lineLength": 35.54,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spray-cleaner",
+      "lineLength": 11.61,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-frog",
+      "lineLength": 15.1,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-financier",
+      "lineLength": 25.48,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cleaning-bucket",
+      "lineLength": 25.89,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-salamander",
+      "lineLength": 13.82,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-scone",
+      "lineLength": 15.78,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-handheld-vacuum",
+      "lineLength": 16.31,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-tadpole",
+      "lineLength": 3.62,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-eclair",
+      "lineLength": 23.54,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-upright-vacuum",
+      "lineLength": 9.66,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-layer-cake",
+      "lineLength": 29,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-robot-vacuum",
+      "lineLength": 10.26,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-cheesecake",
+      "lineLength": 31.4,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-wash-tub",
+      "lineLength": 4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-swiss-roll",
+      "lineLength": 26.04,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-drying-rack",
+      "lineLength": 46.06,
+      "lineContours": 5,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-doughnut",
+      "lineLength": 21.98,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-clothes-peg",
+      "lineLength": 4,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "detail",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-macaron",
+      "lineLength": 28.83,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ironing-board",
+      "lineLength": 24.85,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ice-cream-cone",
+      "lineLength": 17.09,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steam-iron",
+      "lineLength": 21,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-popsicle",
+      "lineLength": 18,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-garment-steamer",
+      "lineLength": 6,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-caramel-pudding",
+      "lineLength": 16.61,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-plunger",
+      "lineLength": 3.82,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fruit-jelly",
+      "lineLength": 18.04,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-toilet-brush",
+      "lineLength": 20,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-mochi",
+      "lineLength": 22.58,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bath-towel",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pizza-slice",
+      "lineLength": 12.97,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-soap-dish",
+      "lineLength": 16,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hamburger",
+      "lineLength": 36.83,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bathtub",
+      "lineLength": 14.71,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-hot-dog",
+      "lineLength": 15.93,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pedestal-sink",
+      "lineLength": 20.38,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-taco",
+      "lineLength": 16.45,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shower-head",
+      "lineLength": 29.2,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-burrito",
+      "lineLength": 15.47,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bath-mat",
+      "lineLength": 24,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-sushi-roll",
+      "lineLength": 33.4,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-toilet-seat",
+      "lineLength": 1,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-dumpling",
+      "lineLength": 18.28,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-bathroom-scale",
+      "lineLength": 14.9,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steamed-bun",
+      "lineLength": 24.11,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-waste-paper-bin",
+      "lineLength": 26,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spring-roll",
+      "lineLength": 15.56,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-pedal-trash-can",
+      "lineLength": 16.73,
+      "lineContours": 1,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-kebab-skewer",
+      "lineLength": 14.56,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-ramen",
+      "lineLength": 15.41,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fried-rice",
+      "lineLength": 6.48,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-spaghetti",
+      "lineLength": 29.07,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-lasagna",
+      "lineLength": 33.65,
+      "lineContours": 2,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-steak",
+      "lineLength": 29.75,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-fish-fillet",
+      "lineLength": 16.97,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-shrimp-tempura",
+      "lineLength": 4.01,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-roast-chicken",
+      "lineLength": 14.58,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-omelet",
+      "lineLength": 16.18,
+      "lineContours": 3,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    },
+    {
+      "name": "original-salad",
+      "lineLength": 35.88,
+      "lineContours": 4,
+      "fillLayers": [
+        "back",
+        "surface"
+      ],
+      "issues": []
+    }
+  ]
+}

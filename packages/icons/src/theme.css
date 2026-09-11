@@ -1,0 +1,11 @@
+/* Optional: put data-colorful-theme on any ancestor of your icons. */
+[data-colorful-theme="light"] {
+  --project-art-surface: #f0e9f8;
+  --project-art-back: #d9c9ed;
+  --project-art-detail: #aa8bcf;
+}
+[data-colorful-theme="dark"] {
+  --project-art-surface: #746188;
+  --project-art-back: #af94ca;
+  --project-art-detail: #efdcfa;
+}

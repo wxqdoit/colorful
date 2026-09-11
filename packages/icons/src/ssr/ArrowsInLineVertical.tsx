@@ -1,0 +1,10 @@
+/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import SSRBase from "../lib/SSRBase";
+import weights from "../defs/ArrowsInLineVertical";
+
+/** 垂直中线内收箭头 · 方向与布局 */
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+I.displayName = "ArrowsInLineVerticalIcon";
+export { I as ArrowsInLineVerticalIcon, I as ArrowsInLineVertical };

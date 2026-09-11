@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M12 4Q12.5 3.5 13 4.5L20 14Q20.5 15 19 15H5Q3.5 15 4 14L11 4.5Q11.5 3.5 12 4Z" fill="var(--project-art-back, #d9c9ed)" stroke="none"/><rect x="4" y="18" width="16" height="2" rx="1" fill="var(--project-art-surface, #f0e9f8)" stroke="none"/>
+</svg>

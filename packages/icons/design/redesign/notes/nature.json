@@ -1,0 +1,977 @@
+[
+  {
+    "name": "flower",
+    "family": "flower",
+    "visualReason": "Five rounded petals overlap around a seed disk."
+  },
+  {
+    "name": "leaf",
+    "family": "leaf",
+    "visualReason": "A broad curled leaf with a central vein."
+  },
+  {
+    "name": "planet",
+    "family": "space",
+    "visualReason": "Round globe encircled by a tilted orbit."
+  },
+  {
+    "name": "acorn",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected acorn study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "alien",
+    "family": "character",
+    "visualReason": "A broad alien head tapering into a small jaw with almond eyes."
+  },
+  {
+    "name": "ambulance",
+    "family": "vehicle",
+    "visualReason": "A medical van with raised roof beacon and visible cross."
+  },
+  {
+    "name": "atom",
+    "family": "science",
+    "visualReason": "Three elongated orbital planes surrounding a filled nucleus."
+  },
+  {
+    "name": "avocado",
+    "family": "fruit",
+    "visualReason": "Pear shaped fruit flesh surrounding a large round stone."
+  },
+  {
+    "name": "bandaids",
+    "family": "medicine",
+    "visualReason": "Two crossed padded bandages with a central absorbent square."
+  },
+  {
+    "name": "barbell",
+    "family": "sport-equipment",
+    "visualReason": "A filled bar joins paired heavy rounded weight plates."
+  },
+  {
+    "name": "baseball",
+    "family": "sports-ball",
+    "visualReason": "Paired curved stitched seams on a substantial round ball."
+  },
+  {
+    "name": "baseball-helmet",
+    "family": "helmet",
+    "visualReason": "A domed batting helmet with ear guard and projecting brim."
+  },
+  {
+    "name": "basketball",
+    "family": "sports-ball",
+    "visualReason": "Two curved longitudinal seams and an equator divide the basketball; the pale center panel follows those exact seams."
+  },
+  {
+    "name": "beach-ball",
+    "family": "sports-ball",
+    "visualReason": "Large alternating beach ball gores on a substantial round ball."
+  },
+  {
+    "name": "bed",
+    "family": "furniture",
+    "visualReason": "A soft mattress supports a pillow under a broad turned blanket."
+  },
+  {
+    "name": "bicycle",
+    "family": "transport",
+    "visualReason": "Two filled tires carry a triangular frame, saddle and raised handlebars."
+  },
+  {
+    "name": "binoculars",
+    "family": "optics",
+    "visualReason": "Twin tapered barrels with broad circular objective lenses."
+  },
+  {
+    "name": "biohazard",
+    "family": "warning",
+    "visualReason": "Three curved hazard pincers surround the central joining circle."
+  },
+  {
+    "name": "bird",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected bird study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "bomb",
+    "family": "game-object",
+    "visualReason": "A plump round bomb with a short fuse and small ignition spark."
+  },
+  {
+    "name": "bone",
+    "family": "anatomy",
+    "visualReason": "A thick diagonal shaft joins two rounded double lobed ends."
+  },
+  {
+    "name": "boot",
+    "family": "footwear",
+    "visualReason": "A tall soft boot shaft flows into a rounded toe and thick outsole."
+  },
+  {
+    "name": "boules",
+    "family": "sports-ball",
+    "visualReason": "Two overlapping metal boules with etched concentric seams."
+  },
+  {
+    "name": "bowling-ball",
+    "family": "sports-ball",
+    "visualReason": "A bowling sphere with three clearly clustered finger holes."
+  },
+  {
+    "name": "boxing-glove",
+    "family": "sport-equipment",
+    "visualReason": "A bulky rounded glove with folded thumb above a snug wrist cuff."
+  },
+  {
+    "name": "brain",
+    "family": "organ",
+    "visualReason": "Two rounded brain hemispheres with sparse folding grooves."
+  },
+  {
+    "name": "bug",
+    "family": "insect",
+    "visualReason": "A rounded segmented beetle with side legs and antennae."
+  },
+  {
+    "name": "bug-beetle",
+    "family": "insect",
+    "visualReason": "A scarab with a broad pair of closed elytra and smaller head."
+  },
+  {
+    "name": "bug-droid",
+    "family": "insect",
+    "visualReason": "A robotic bug shell with two aerials and rectangular eyes."
+  },
+  {
+    "name": "butterfly",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected butterfly study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "cactus",
+    "family": "plant",
+    "visualReason": "A stout saguaro with two raised arms and a pale central rib."
+  },
+  {
+    "name": "campfire",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected campfire study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "carrot",
+    "family": "vegetable",
+    "visualReason": "Tapered curved root and splayed leafy crown."
+  },
+  {
+    "name": "cat",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected cat study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "checkerboard",
+    "family": "board-game",
+    "visualReason": "Alternating broad square tiles form a rounded checkerboard."
+  },
+  {
+    "name": "cherries",
+    "family": "fruit",
+    "visualReason": "Twin glossy fruits hanging from forked stems."
+  },
+  {
+    "name": "cigarette",
+    "family": "hygiene",
+    "visualReason": "A pale cigarette with filter and two curling smoke wisps."
+  },
+  {
+    "name": "cigarette-slash",
+    "family": "hygiene",
+    "visualReason": "A diagonal prohibition line crosses the filter and smoke."
+  },
+  {
+    "name": "cloud",
+    "family": "cloud",
+    "visualReason": "A plump cloud with a smaller foreground puff."
+  },
+  {
+    "name": "cloud-fog",
+    "family": "cloud",
+    "visualReason": "Two horizontal fog banks below a raised cloud."
+  },
+  {
+    "name": "cloud-lightning",
+    "family": "cloud",
+    "visualReason": "A thick zigzag bolt below a raised cloud."
+  },
+  {
+    "name": "cloud-moon",
+    "family": "cloud",
+    "visualReason": "A curved moon peeks out above the cloud."
+  },
+  {
+    "name": "cloud-rain",
+    "family": "cloud",
+    "visualReason": "Three diagonal rain streaks below a raised cloud."
+  },
+  {
+    "name": "cloud-snow",
+    "family": "cloud",
+    "visualReason": "Two crystalline snow marks below a raised cloud."
+  },
+  {
+    "name": "cloud-sun",
+    "family": "cloud",
+    "visualReason": "A sunny disk peeks out above the cloud."
+  },
+  {
+    "name": "clover",
+    "family": "leaf",
+    "visualReason": "Four heart shaped leaflets and a curving stem."
+  },
+  {
+    "name": "club",
+    "family": "card-suit",
+    "visualReason": "Three round leaves overlap above a flared card-suit stem."
+  },
+  {
+    "name": "coffee-bean",
+    "family": "seed",
+    "visualReason": "An oblong coffee seed divided by its curved seam."
+  },
+  {
+    "name": "court-basketball",
+    "family": "sport-equipment",
+    "visualReason": "A broad court plane with filled center circle and end keys."
+  },
+  {
+    "name": "cow",
+    "family": "animal",
+    "visualReason": "A broad cow face with side ears, short horns and a wide muzzle."
+  },
+  {
+    "name": "cricket",
+    "family": "sport-equipment",
+    "visualReason": "An elongated wooden bat with wrapped grip and a seamed ball."
+  },
+  {
+    "name": "crown",
+    "family": "royalty",
+    "visualReason": "A three pointed padded crown above a pale turned band."
+  },
+  {
+    "name": "crown-cross",
+    "family": "royalty",
+    "visualReason": "A domed royal crown topped by a clear cross."
+  },
+  {
+    "name": "crown-simple",
+    "family": "royalty",
+    "visualReason": "A low crown with three broad rounded tips and a plain band."
+  },
+  {
+    "name": "cube",
+    "family": "game-object",
+    "visualReason": "Three broad cube faces meeting in a central Y seam."
+  },
+  {
+    "name": "cube-focus",
+    "family": "game-object",
+    "visualReason": "A smaller cube enclosed by four separated focus corner marks."
+  },
+  {
+    "name": "cube-transparent",
+    "family": "game-object",
+    "visualReason": "A pale translucent-style cube with dashed rear edge relationships."
+  },
+  {
+    "name": "diamond",
+    "family": "gem",
+    "visualReason": "A broad cut gem with rounded shoulders and an inset central facet."
+  },
+  {
+    "name": "dice-five",
+    "family": "dice",
+    "visualReason": "5 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dice-four",
+    "family": "dice",
+    "visualReason": "4 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dice-one",
+    "family": "dice",
+    "visualReason": "1 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dice-six",
+    "family": "dice",
+    "visualReason": "6 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dice-three",
+    "family": "dice",
+    "visualReason": "3 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dice-two",
+    "family": "dice",
+    "visualReason": "2 carefully spaced solid pips on a rounded die."
+  },
+  {
+    "name": "dog",
+    "family": "animal",
+    "visualReason": "Floppy ears frame a pale muzzle and dark button nose."
+  },
+  {
+    "name": "drone",
+    "family": "game-device",
+    "visualReason": "Four substantial rotor disks connect to a small central camera body."
+  },
+  {
+    "name": "drop",
+    "family": "drop",
+    "visualReason": "Large teardrop with a soft reflected flank."
+  },
+  {
+    "name": "drop-half",
+    "family": "drop",
+    "visualReason": "A vertical dividing surface fills half the droplet."
+  },
+  {
+    "name": "drop-half-bottom",
+    "family": "drop",
+    "visualReason": "A low horizontal liquid level fills the droplet."
+  },
+  {
+    "name": "drop-simple",
+    "family": "drop",
+    "visualReason": "An unadorned rounded teardrop with its own inner droplet."
+  },
+  {
+    "name": "drop-slash",
+    "family": "drop",
+    "visualReason": "A barred water droplet communicates disabled water."
+  },
+  {
+    "name": "egg",
+    "family": "egg",
+    "visualReason": "An asymmetric egg with a pale shell flank."
+  },
+  {
+    "name": "egg-crack",
+    "family": "egg",
+    "visualReason": "The same shell split by a jagged central fracture."
+  },
+  {
+    "name": "eyeglasses",
+    "family": "optics",
+    "visualReason": "Two rounded clear lenses in an upper rim frame."
+  },
+  {
+    "name": "face-mask",
+    "family": "medicine",
+    "visualReason": "A folded medical face covering stretched between two ear loops."
+  },
+  {
+    "name": "fallout-shelter",
+    "family": "warning",
+    "visualReason": "The traditional three shelter triangles sit in a round sign."
+  },
+  {
+    "name": "farm",
+    "family": "landscape",
+    "visualReason": "A curved field beneath a barn with a broad gambrel roof."
+  },
+  {
+    "name": "feather",
+    "family": "feather",
+    "visualReason": "A curved vane with separated barbs tapering into the quill."
+  },
+  {
+    "name": "finn-the-human",
+    "family": "character",
+    "visualReason": "A soft animal-eared hood encircles a simple human face."
+  },
+  {
+    "name": "fire",
+    "family": "flame",
+    "visualReason": "A rolling outer flame with an enclosed pale tongue."
+  },
+  {
+    "name": "fire-simple",
+    "family": "flame",
+    "visualReason": "Simplified low flame with two rounded rising tongues."
+  },
+  {
+    "name": "fire-truck",
+    "family": "vehicle",
+    "visualReason": "A ladder truck with a hose reel on its box body."
+  },
+  {
+    "name": "first-aid",
+    "family": "medicine",
+    "visualReason": "A soft medical cross formed from two substantial padded arms."
+  },
+  {
+    "name": "first-aid-kit",
+    "family": "medicine",
+    "visualReason": "A rounded medical case with raised handle and center cross."
+  },
+  {
+    "name": "fish",
+    "family": "animal",
+    "visualReason": "A rounded fish body with a broad tail and a pale belly."
+  },
+  {
+    "name": "fish-simple",
+    "family": "animal",
+    "visualReason": "Streamlined fish profile with a clearly separated tail fin."
+  },
+  {
+    "name": "flame",
+    "family": "flame",
+    "visualReason": "One tall smooth tongue surrounding a small inner flame."
+  },
+  {
+    "name": "flask",
+    "family": "science",
+    "visualReason": "Wide round conical flask with a narrow neck and liquid belly."
+  },
+  {
+    "name": "flower-lotus",
+    "family": "flower",
+    "visualReason": "Upright central petal held by two nested pairs of lotus petals."
+  },
+  {
+    "name": "flower-tulip",
+    "family": "flower",
+    "visualReason": "Cup shaped tulip with folded petals and paired leaves."
+  },
+  {
+    "name": "flying-saucer",
+    "family": "spacecraft",
+    "visualReason": "A domed cockpit sits above a wide saucer body and bottom lights."
+  },
+  {
+    "name": "football",
+    "family": "sports-ball",
+    "visualReason": "An elongated horizontal American football tapers into two soft points; real end panels frame the prominent central lacing."
+  },
+  {
+    "name": "football-helmet",
+    "family": "helmet",
+    "visualReason": "A protective shell with an open rectangular face cage."
+  },
+  {
+    "name": "footprints",
+    "family": "sport-equipment",
+    "visualReason": "Two substantial shoe sole prints face opposite steps."
+  },
+  {
+    "name": "game-controller",
+    "family": "game-device",
+    "visualReason": "A soft gamepad with two thick handles and inset controls."
+  },
+  {
+    "name": "ghost",
+    "family": "character",
+    "visualReason": "A floating rounded ghost with a scalloped skirt and long little arms."
+  },
+  {
+    "name": "goggles",
+    "family": "optics",
+    "visualReason": "A wrapped protective eyepiece with separate inset lenses."
+  },
+  {
+    "name": "golf",
+    "family": "sport-equipment",
+    "visualReason": "A planted flag above a shallow putting hole and small ball."
+  },
+  {
+    "name": "grains",
+    "family": "plant",
+    "visualReason": "Alternating plump wheat kernels on a stalk."
+  },
+  {
+    "name": "hand-soap",
+    "family": "hygiene",
+    "visualReason": "A pump bottle with a small water drop on its belly."
+  },
+  {
+    "name": "headset",
+    "family": "audio",
+    "visualReason": "Padded earcups joined by a broad curved headband and a microphone boom."
+  },
+  {
+    "name": "heart-half",
+    "family": "heart",
+    "visualReason": "Half colored heart divided along its center."
+  },
+  {
+    "name": "heart-straight",
+    "family": "heart",
+    "visualReason": "Full broad heart with a gently cupped left lobe."
+  },
+  {
+    "name": "heartbeat",
+    "family": "heart",
+    "visualReason": "A full heart crossed by a single clear pulse."
+  },
+  {
+    "name": "hockey",
+    "family": "sport-equipment",
+    "visualReason": "A broad bent hockey stick alongside a small puck."
+  },
+  {
+    "name": "horse",
+    "family": "animal",
+    "visualReason": "An upright horse head with swept mane and a long muzzle."
+  },
+  {
+    "name": "hospital",
+    "family": "building",
+    "visualReason": "A tall hospital block with cross sign and lower ward wing."
+  },
+  {
+    "name": "hurricane",
+    "family": "storm",
+    "visualReason": "A central eye between two curled, filled cyclone arms."
+  },
+  {
+    "name": "island",
+    "family": "landscape",
+    "visualReason": "A small curved sandbank carrying one palm."
+  },
+  {
+    "name": "joystick",
+    "family": "game-device",
+    "visualReason": "A round knob rises on a stem from an arcade control base."
+  },
+  {
+    "name": "lego",
+    "family": "game-object",
+    "visualReason": "A thick toy building brick topped by four raised round studs."
+  },
+  {
+    "name": "lifebuoy",
+    "family": "safety",
+    "visualReason": "A thick life ring divided into four rescue grip panels."
+  },
+  {
+    "name": "lightning",
+    "family": "energy",
+    "visualReason": "A broad rounded lightning bolt with an inset upper face."
+  },
+  {
+    "name": "log",
+    "family": "wood",
+    "visualReason": "A short round log with circular growth rings and bark seams."
+  },
+  {
+    "name": "magic-wand",
+    "family": "magic",
+    "visualReason": "A thick diagonal wand with a contrasting tip and two sparks."
+  },
+  {
+    "name": "mask-happy",
+    "family": "character",
+    "visualReason": "A theatre mask with an upward smiling mouth."
+  },
+  {
+    "name": "mask-sad",
+    "family": "character",
+    "visualReason": "A theatre mask with a clear downward curved mouth."
+  },
+  {
+    "name": "medal",
+    "family": "award",
+    "visualReason": "A broad round medal hangs from a folded V-shaped ribbon."
+  },
+  {
+    "name": "medal-military",
+    "family": "award",
+    "visualReason": "A striped rectangular service ribbon supports a star shaped medal."
+  },
+  {
+    "name": "meteor",
+    "family": "space",
+    "visualReason": "An irregular meteor head trailing thick tapered flames."
+  },
+  {
+    "name": "microscope",
+    "family": "science",
+    "visualReason": "A tilted broad tube over a specimen stage and curved supporting arm."
+  },
+  {
+    "name": "moon",
+    "family": "moon",
+    "visualReason": "Full curving crescent with a softly lit inner face."
+  },
+  {
+    "name": "moon-stars",
+    "family": "moon",
+    "visualReason": "Crescent moon accompanied by two four point stars."
+  },
+  {
+    "name": "mountains",
+    "family": "landscape",
+    "visualReason": "Overlapping broad peaks with snow caps."
+  },
+  {
+    "name": "orange",
+    "family": "fruit",
+    "visualReason": "Round citrus with a small leaf and peel dimple."
+  },
+  {
+    "name": "orange-slice",
+    "family": "fruit",
+    "visualReason": "A broad citrus wedge with three curved pulp segments."
+  },
+  {
+    "name": "park",
+    "family": "landscape",
+    "visualReason": "A round park tree next to a backed bench."
+  },
+  {
+    "name": "paw-print",
+    "family": "animal",
+    "visualReason": "Four oval toe pads above a soft heart shaped paw pad."
+  },
+  {
+    "name": "pentagram",
+    "family": "magic",
+    "visualReason": "A soft five-pointed filled star carries the crossing pentagram lines."
+  },
+  {
+    "name": "pepper",
+    "family": "vegetable",
+    "visualReason": "Curved chili body with a curled stem and shoulder."
+  },
+  {
+    "name": "person-simple-hike",
+    "family": "activity",
+    "visualReason": "A leaning hiker carries a rounded backpack and walking pole."
+  },
+  {
+    "name": "person-simple-snowboard",
+    "family": "activity",
+    "visualReason": "A crouched rider balances above a curved broad snowboard."
+  },
+  {
+    "name": "picnic-table",
+    "family": "furniture",
+    "visualReason": "A rounded tabletop rests on splayed trestles above bench planks."
+  },
+  {
+    "name": "pill",
+    "family": "medicine",
+    "visualReason": "A soft diagonal capsule with two separate medicine halves."
+  },
+  {
+    "name": "ping-pong",
+    "family": "sport-equipment",
+    "visualReason": "A broad table tennis paddle with a short angled handle and ball."
+  },
+  {
+    "name": "pint-glass",
+    "family": "drink",
+    "visualReason": "A tapered pint glass with a scalloped foam head and filled body."
+  },
+  {
+    "name": "pinwheel",
+    "family": "toy",
+    "visualReason": "Four rounded folded sails rotate around a central pin."
+  },
+  {
+    "name": "plant",
+    "family": "plant",
+    "visualReason": "Two thick seed leaves on a growing stem."
+  },
+  {
+    "name": "poker-chip",
+    "family": "board-game",
+    "visualReason": "A thick circular casino chip with rim segments and central diamond."
+  },
+  {
+    "name": "potted-plant",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected potted-plant study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "prescription",
+    "family": "medicine",
+    "visualReason": "A curved prescription sheet with a capsule and dosage lines."
+  },
+  {
+    "name": "puzzle-piece",
+    "family": "game-object",
+    "visualReason": "A soft jigsaw tile with a top knob and right inward socket."
+  },
+  {
+    "name": "rabbit",
+    "family": "animal",
+    "visualReason": "Two long ears rise above a round rabbit face."
+  },
+  {
+    "name": "racquet",
+    "family": "sport-equipment",
+    "visualReason": "An oval racket head has a sparse string grid and wrapped handle."
+  },
+  {
+    "name": "radioactive",
+    "family": "warning",
+    "visualReason": "Three broad radiation lobes surround the small central source."
+  },
+  {
+    "name": "rainbow",
+    "family": "rainbow",
+    "visualReason": "Two thick nested arches open to the transparent ground."
+  },
+  {
+    "name": "rainbow-cloud",
+    "family": "rainbow",
+    "visualReason": "A full arch emerging from a foreground cloud."
+  },
+  {
+    "name": "ranking",
+    "family": "award",
+    "visualReason": "Three podium blocks with the tallest center carrying a star."
+  },
+  {
+    "name": "recycle",
+    "family": "environment",
+    "visualReason": "Three broad bent arrows circulate around an open center."
+  },
+  {
+    "name": "scooter",
+    "family": "transport",
+    "visualReason": "A low filled deck between small wheels and a leaning handle stem."
+  },
+  {
+    "name": "scroll",
+    "family": "game-object",
+    "visualReason": "A curled parchment sheet with separate top and bottom rolls."
+  },
+  {
+    "name": "shooting-star",
+    "family": "space",
+    "visualReason": "A round tipped star pulling two long diagonal tails."
+  },
+  {
+    "name": "shrimp",
+    "family": "animal",
+    "visualReason": "A curled segmented prawn with a fan tail and long feelers."
+  },
+  {
+    "name": "skull",
+    "family": "character",
+    "visualReason": "A broad skull dome with separate eye sockets and squared jaw."
+  },
+  {
+    "name": "sneaker",
+    "family": "footwear",
+    "visualReason": "A padded running shoe with separate sole and two laces."
+  },
+  {
+    "name": "sneaker-move",
+    "family": "footwear",
+    "visualReason": "A lifted running shoe preceded by three motion streaks."
+  },
+  {
+    "name": "snowflake",
+    "family": "snow",
+    "visualReason": "A substantial six armed ice crystal with forked branch tips."
+  },
+  {
+    "name": "soccer-ball",
+    "family": "sports-ball",
+    "visualReason": "A central pentagon and three visible perimeter pentagons are colored actual soccer panels, connected by sparse panel seams."
+  },
+  {
+    "name": "spade",
+    "family": "card-suit",
+    "visualReason": "An upright heart shaped spade rests on a flared stem."
+  },
+  {
+    "name": "spray-bottle",
+    "family": "hygiene",
+    "visualReason": "An angled trigger head above a round shouldered cleaning bottle."
+  },
+  {
+    "name": "star-four",
+    "family": "star",
+    "visualReason": "A plump four pointed spark with an offset inner sparkle."
+  },
+  {
+    "name": "stethoscope",
+    "family": "medicine",
+    "visualReason": "A thick U-shaped ear tube connects to a flexible hose and chest disk."
+  },
+  {
+    "name": "strategy",
+    "family": "board-game",
+    "visualReason": "Two round team pieces and an X are connected by a turning play arrow."
+  },
+  {
+    "name": "sun",
+    "family": "sun",
+    "visualReason": "Full warm disk with eight short rays."
+  },
+  {
+    "name": "sun-dim",
+    "family": "sun",
+    "visualReason": "Smaller pale disk with four short subdued rays."
+  },
+  {
+    "name": "sun-horizon",
+    "family": "sun",
+    "visualReason": "Rising half disk rests behind two horizon bands."
+  },
+  {
+    "name": "sunglasses",
+    "family": "optics",
+    "visualReason": "Solid shaded lenses below a continuous top rim."
+  },
+  {
+    "name": "swimming-pool",
+    "family": "activity",
+    "visualReason": "A wide water basin with two curved ladder rails and ripple lines."
+  },
+  {
+    "name": "sword",
+    "family": "game-object",
+    "visualReason": "A broad pointed blade with a curved guard and wrapped grip."
+  },
+  {
+    "name": "syringe",
+    "family": "medicine",
+    "visualReason": "A broad liquid barrel with flanges, plunger and thin needle."
+  },
+  {
+    "name": "tennis-ball",
+    "family": "sports-ball",
+    "visualReason": "Smooth opposing tennis felt seams bound an actual pale side panel on the round ball."
+  },
+  {
+    "name": "tent",
+    "family": "shelter",
+    "visualReason": "A broad pitched tent with a hanging triangular entrance."
+  },
+  {
+    "name": "test-tube",
+    "family": "science",
+    "visualReason": "A tilted glass tube holding a visible pool of sample."
+  },
+  {
+    "name": "thermometer",
+    "family": "temperature",
+    "visualReason": "A wide glass tube with a filled bulb and scale ticks."
+  },
+  {
+    "name": "thermometer-cold",
+    "family": "temperature",
+    "visualReason": "Low mercury bulb beside a small ice crystal."
+  },
+  {
+    "name": "thermometer-hot",
+    "family": "temperature",
+    "visualReason": "High mercury column beside a small sun."
+  },
+  {
+    "name": "thermometer-simple",
+    "family": "temperature",
+    "visualReason": "A plain glass thermometer without scale ticks."
+  },
+  {
+    "name": "tipi",
+    "family": "shelter",
+    "visualReason": "Tall conical fabric shelter with crossed poles and a split door."
+  },
+  {
+    "name": "toilet",
+    "family": "hygiene",
+    "visualReason": "A rounded cistern behind a broad bowl with a short pedestal."
+  },
+  {
+    "name": "toilet-paper",
+    "family": "hygiene",
+    "visualReason": "A thick paper roll unwinds into a hanging curved sheet."
+  },
+  {
+    "name": "tooth",
+    "family": "anatomy",
+    "visualReason": "A plump molar crown splits into two curved roots."
+  },
+  {
+    "name": "tornado",
+    "family": "storm",
+    "visualReason": "Tapering stacked air bands curl into a narrow funnel."
+  },
+  {
+    "name": "treasure-chest",
+    "family": "game-object",
+    "visualReason": "A domed chest lid with metal straps above a broad storage body."
+  },
+  {
+    "name": "tree",
+    "family": "tree",
+    "visualReason": "Three organically joined leafy masses above a forked trunk."
+  },
+  {
+    "name": "tree-evergreen",
+    "family": "tree",
+    "visualReason": "A soft tiered conifer canopy over a short trunk."
+  },
+  {
+    "name": "tree-palm",
+    "family": "tree",
+    "visualReason": "Curved trunk under four drooping palm fronds."
+  },
+  {
+    "name": "trophy",
+    "family": "award",
+    "visualReason": "A broad cup with side handles, stem and low plinth."
+  },
+  {
+    "name": "umbrella",
+    "family": "approved-study",
+    "visualReason": "Direct adoption of the selected umbrella study: its color blocks depict genuine object parts."
+  },
+  {
+    "name": "umbrella-simple",
+    "family": "umbrella",
+    "visualReason": "A single smooth canopy with a pale central panel above a hook handle."
+  },
+  {
+    "name": "virtual-reality",
+    "family": "game-device",
+    "visualReason": "A wide contoured headset with two pale eye modules and a rear strap."
+  },
+  {
+    "name": "virus",
+    "family": "microbe",
+    "visualReason": "A soft central cell with radial capped spikes."
+  },
+  {
+    "name": "volleyball",
+    "family": "sports-ball",
+    "visualReason": "Three rotating curved seam families define stitched volleyball panels; one complete sector carries the main color."
+  },
+  {
+    "name": "waves",
+    "family": "water",
+    "visualReason": "Two generous curling water crests overlap in a horizontal swell."
+  },
+  {
+    "name": "wind",
+    "family": "wind",
+    "visualReason": "Two rolled air ribbons and a shorter low gust."
+  },
+  {
+    "name": "yarn",
+    "family": "craft",
+    "visualReason": "A round yarn ball is wrapped with broad diagonal strands and a loose tail."
+  }
+]

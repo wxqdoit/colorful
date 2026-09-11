@@ -1,0 +1,989 @@
+[
+  {
+    "name": "approximate-equals",
+    "label": "约等于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "asterisk",
+    "label": "六角星号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Six evenly spaced arms with a tinted vertical stem."
+  },
+  {
+    "name": "asterisk-simple",
+    "label": "五角星号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Five arms retain the simple asterisk identity."
+  },
+  {
+    "name": "at",
+    "label": "艾特符号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "binary",
+    "label": "二进制",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A clear two-by-two 01 / 10 binary arrangement with individual numeral counters."
+  },
+  {
+    "name": "brackets-angle",
+    "label": "尖括号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A paired angle delimiter has matching height and a wide empty center."
+  },
+  {
+    "name": "brackets-curly",
+    "label": "花括号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A paired curly delimiter has matching height and a wide empty center."
+  },
+  {
+    "name": "brackets-round",
+    "label": "圆括号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A paired round delimiter has matching height and a wide empty center."
+  },
+  {
+    "name": "brackets-square",
+    "label": "方括号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A paired square delimiter has matching height and a wide empty center."
+  },
+  {
+    "name": "check",
+    "label": "勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "The check mark stays open; color strengthens one meaningful arm."
+  },
+  {
+    "name": "check-circle",
+    "label": "圆形勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A check mark in its named circle enclosure, with matching centered proportions."
+  },
+  {
+    "name": "check-fat",
+    "label": "粗勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A broad rounded check ribbon deliberately distinguishes the fat variant."
+  },
+  {
+    "name": "check-square",
+    "label": "方形勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A check mark in its named square enclosure, with matching centered proportions."
+  },
+  {
+    "name": "check-square-offset",
+    "label": "偏移方形勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "The check extends above and right of its partially open checkbox."
+  },
+  {
+    "name": "checks",
+    "label": "双勾选",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "Two overlapping checks remain individually readable."
+  },
+  {
+    "name": "code",
+    "label": "代码",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Angle brackets and a slash form the complete code glyph."
+  },
+  {
+    "name": "code-block",
+    "label": "代码块",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A compact code fragment sits at the open corner of its block outline."
+  },
+  {
+    "name": "code-simple",
+    "label": "简式代码",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The simple code variant uses two open angle brackets."
+  },
+  {
+    "name": "command",
+    "label": "命令键",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "control",
+    "label": "控制键",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The closed upward control triangle preserves upstream identity with softened corners."
+  },
+  {
+    "name": "copyleft",
+    "label": "著佐权",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "copyleft keeps its reversed C inside the named legal symbol circle."
+  },
+  {
+    "name": "copyright",
+    "label": "版权",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "copyright keeps its forward C inside the named legal symbol circle."
+  },
+  {
+    "name": "currency-btc",
+    "label": "比特币",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn BTC currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-circle-dollar",
+    "label": "圆形美元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "A dollar sign centered in the explicitly named coin circle."
+  },
+  {
+    "name": "currency-cny",
+    "label": "人民币元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "The yuan character 元 retains the two upper bars and two distinct lower legs."
+  },
+  {
+    "name": "currency-dollar",
+    "label": "美元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn DOLLAR currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-dollar-simple",
+    "label": "美元简式",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn DOLLAR-SIMPLE currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-eth",
+    "label": "以太坊",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Faceted Ethereum diamonds retain the split waist and vertical facet."
+  },
+  {
+    "name": "currency-eur",
+    "label": "欧元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn EUR currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-gbp",
+    "label": "英镑",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn GBP currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-inr",
+    "label": "印度卢比",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn INR currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-jpy",
+    "label": "日元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn JPY currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-krw",
+    "label": "韩元",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn KRW currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-kzt",
+    "label": "哈萨克斯坦坚戈",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn KZT currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-ngn",
+    "label": "尼日利亚奈拉",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn NGN currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "currency-rub",
+    "label": "俄罗斯卢布",
+    "category": "文字与运算",
+    "family": "currency",
+    "visualReason": "Hand-drawn RUB currency mark retains its characteristic stems, bars, and counters."
+  },
+  {
+    "name": "divide",
+    "label": "除号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "empty",
+    "label": "空集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "equals",
+    "label": "等号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "function",
+    "label": "函数",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "greater-than",
+    "label": "大于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "greater-than-or-equal",
+    "label": "大于等于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "hash",
+    "label": "井号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "hash-straight",
+    "label": "直井号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "infinity",
+    "label": "无穷大",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "intersection",
+    "label": "交集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "less-than",
+    "label": "小于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "less-than-or-equal",
+    "label": "小于等于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "letter-circle-h",
+    "label": "圆形字母H",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Rounded H is centered in its semantically required circular enclosure."
+  },
+  {
+    "name": "letter-circle-p",
+    "label": "圆形字母P",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Rounded P is centered in its semantically required circular enclosure."
+  },
+  {
+    "name": "letter-circle-v",
+    "label": "圆形字母V",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Rounded V is centered in its semantically required circular enclosure."
+  },
+  {
+    "name": "list-bullets",
+    "label": "项目符号列表",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Three rows retain their distinct bullets markers with a clear text gutter."
+  },
+  {
+    "name": "list-dashes",
+    "label": "短横线列表",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Three rows retain their distinct dashes markers with a clear text gutter."
+  },
+  {
+    "name": "list-numbers",
+    "label": "有序列表",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Three rows retain their distinct numbers markers with a clear text gutter."
+  },
+  {
+    "name": "list-plus",
+    "label": "添加列表项",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "math-operations",
+    "label": "四则运算",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Four separate arithmetic quadrants retain minus, multiply, plus, and equals."
+  },
+  {
+    "name": "member-of",
+    "label": "属于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "minus",
+    "label": "减号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "The minus mark stays open; color strengthens one meaningful arm."
+  },
+  {
+    "name": "minus-circle",
+    "label": "圆形减号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A minus mark in its named circle enclosure, with matching centered proportions."
+  },
+  {
+    "name": "minus-square",
+    "label": "方形减号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A minus mark in its named square enclosure, with matching centered proportions."
+  },
+  {
+    "name": "not-equals",
+    "label": "不等于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "not-member-of",
+    "label": "不属于",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "not-subset-of",
+    "label": "不是子集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "A diagonal cancellation crosses the open inclusion bracket."
+  },
+  {
+    "name": "not-superset-of",
+    "label": "不是超集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "A diagonal cancellation crosses the open inclusion bracket."
+  },
+  {
+    "name": "number-circle-eight",
+    "label": "圆形数字八",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "eight sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-five",
+    "label": "圆形数字五",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "five sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-four",
+    "label": "圆形数字四",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "four sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-nine",
+    "label": "圆形数字九",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "nine sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-one",
+    "label": "圆形数字一",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "one sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-seven",
+    "label": "圆形数字七",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "seven sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-six",
+    "label": "圆形数字六",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "six sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-three",
+    "label": "圆形数字三",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "three sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-two",
+    "label": "圆形数字二",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "two sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-circle-zero",
+    "label": "圆形数字零",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "zero sits in its named circle; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-eight",
+    "label": "数字八",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable eight with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-five",
+    "label": "数字五",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable five with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-four",
+    "label": "数字四",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable four with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-nine",
+    "label": "数字九",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable nine with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-one",
+    "label": "数字一",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable one with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-seven",
+    "label": "数字七",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable seven with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-six",
+    "label": "数字六",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable six with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-square-eight",
+    "label": "方形数字八",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "eight sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-five",
+    "label": "方形数字五",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "five sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-four",
+    "label": "方形数字四",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "four sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-nine",
+    "label": "方形数字九",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "nine sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-one",
+    "label": "方形数字一",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "one sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-seven",
+    "label": "方形数字七",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "seven sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-six",
+    "label": "方形数字六",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "six sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-three",
+    "label": "方形数字三",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "three sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-two",
+    "label": "方形数字二",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "two sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-square-zero",
+    "label": "方形数字零",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "zero sits in its named square; family counters and baseline remain consistent."
+  },
+  {
+    "name": "number-three",
+    "label": "数字三",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable three with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-two",
+    "label": "数字二",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable two with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "number-zero",
+    "label": "数字零",
+    "category": "文字与运算",
+    "family": "numeral",
+    "visualReason": "Readable zero with a local highlighted stroke and open rounded counters."
+  },
+  {
+    "name": "option",
+    "label": "选项键",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "paragraph",
+    "label": "段落标记",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "percent",
+    "label": "百分号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "pi",
+    "label": "圆周率",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "plus",
+    "label": "加号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "The plus mark stays open; color strengthens one meaningful arm."
+  },
+  {
+    "name": "plus-circle",
+    "label": "圆形加号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A plus mark in its named circle enclosure, with matching centered proportions."
+  },
+  {
+    "name": "plus-minus",
+    "label": "正负号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "plus-square",
+    "label": "方形加号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A plus mark in its named square enclosure, with matching centered proportions."
+  },
+  {
+    "name": "quotes",
+    "label": "引号",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "radical",
+    "label": "根号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "sigma",
+    "label": "求和符号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "subset-of",
+    "label": "子集或相等",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "The equality baseline distinguishes inclusive from proper inclusion."
+  },
+  {
+    "name": "subset-proper-of",
+    "label": "真子集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "An open curved inclusion bracket; proper variant has no equality bar."
+  },
+  {
+    "name": "superset-of",
+    "label": "超集或相等",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "The equality baseline distinguishes inclusive from proper inclusion."
+  },
+  {
+    "name": "superset-proper-of",
+    "label": "真超集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "An open curved inclusion bracket; proper variant has no equality bar."
+  },
+  {
+    "name": "text-a-underline",
+    "label": "文字颜色",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-aa",
+    "label": "大小写",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Uppercase A and a single-storey lowercase a retain a clear cap-height contrast."
+  },
+  {
+    "name": "text-align-center",
+    "label": "文本居中",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "center alignment is encoded by the actual row endpoints, with a tinted first text line."
+  },
+  {
+    "name": "text-align-justify",
+    "label": "两端对齐",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "justify alignment is encoded by the actual row endpoints, with a tinted first text line."
+  },
+  {
+    "name": "text-align-left",
+    "label": "文本左对齐",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "left alignment is encoded by the actual row endpoints, with a tinted first text line."
+  },
+  {
+    "name": "text-align-right",
+    "label": "文本右对齐",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "right alignment is encoded by the actual row endpoints, with a tinted first text line."
+  },
+  {
+    "name": "text-b",
+    "label": "粗体",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-columns",
+    "label": "文本分栏",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Two separated blocks of four aligned rows establish text columns."
+  },
+  {
+    "name": "text-h",
+    "label": "标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-h-five",
+    "label": "五级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable five identifies heading level."
+  },
+  {
+    "name": "text-h-four",
+    "label": "四级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable four identifies heading level."
+  },
+  {
+    "name": "text-h-one",
+    "label": "一级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable one identifies heading level."
+  },
+  {
+    "name": "text-h-six",
+    "label": "六级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable six identifies heading level."
+  },
+  {
+    "name": "text-h-three",
+    "label": "三级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable three identifies heading level."
+  },
+  {
+    "name": "text-h-two",
+    "label": "二级标题",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The H remains dominant while the readable two identifies heading level."
+  },
+  {
+    "name": "text-indent",
+    "label": "增加缩进",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A right arrow occupies the text gutter and retains operation direction."
+  },
+  {
+    "name": "text-italic",
+    "label": "斜体",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-outdent",
+    "label": "减少缩进",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "A left arrow occupies the text gutter and retains operation direction."
+  },
+  {
+    "name": "text-strikethrough",
+    "label": "删除线",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-subscript",
+    "label": "下标",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The small 2 sits below the main X baseline."
+  },
+  {
+    "name": "text-superscript",
+    "label": "上标",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The small 2 sits above the main X baseline."
+  },
+  {
+    "name": "text-t",
+    "label": "文本",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-t-slash",
+    "label": "清除文本格式",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "text-underline",
+    "label": "下划线",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "tilde",
+    "label": "波浪号",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "trademark",
+    "label": "商标",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "trademark-registered",
+    "label": "注册商标",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "Hand-drawn rounded type skeleton preserves the typographic operation with generous counters."
+  },
+  {
+    "name": "translate",
+    "label": "翻译",
+    "category": "文字与运算",
+    "family": "typography",
+    "visualReason": "The Chinese translation strokes and Latin A interlock without losing either script."
+  },
+  {
+    "name": "union",
+    "label": "并集",
+    "category": "文字与运算",
+    "family": "math",
+    "visualReason": "Open mathematical glyph with a local lavender emphasis on its defining stroke."
+  },
+  {
+    "name": "x",
+    "label": "叉号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "The x mark stays open; color strengthens one meaningful arm."
+  },
+  {
+    "name": "x-circle",
+    "label": "圆形叉号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A x mark in its named circle enclosure, with matching centered proportions."
+  },
+  {
+    "name": "x-square",
+    "label": "方形叉号",
+    "category": "文字与运算",
+    "family": "action",
+    "visualReason": "A x mark in its named square enclosure, with matching centered proportions."
+  }
+]

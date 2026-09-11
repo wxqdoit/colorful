@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M4 11C3 0 21 0 20 11L22 15Q21 18 19 16V21Q17 23 15 20Q12 23 10 20Q7 23 5 21V16Q2 18 2 15Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none"/><path d="M17 5Q21 9 19 16V21Q17 23 15 20Q17 14 17 5Z" fill="var(--project-art-back, #d9c9ed)" stroke="none"/><ellipse cx="9" cy="10" rx="1" ry="1.5" fill="var(--project-art-detail, #aa8bcf)" stroke="none"/><ellipse cx="15" cy="10" rx="1" ry="1.5" fill="var(--project-art-detail, #aa8bcf)" stroke="none"/><path d="M10 15Q12 17 14 15" fill="none"/>
+</svg>

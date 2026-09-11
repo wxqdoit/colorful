@@ -1,0 +1,10 @@
+/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import SSRBase from "../lib/SSRBase";
+import weights from "../defs/SmileyBlank";
+
+/** 笑脸 · blank · 人物 */
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+I.displayName = "SmileyBlankIcon";
+export { I as SmileyBlankIcon, I as SmileyBlank };

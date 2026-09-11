@@ -1,0 +1,18 @@
+/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+import type { ReactElement, CSSProperties } from "react";
+import type { IconWeight } from "../lib/types";
+
+const morph0 = {
+    "--colorful-shape-rest": "path('M4 6C4.333333333 6 4.666666667 6 5 6C5.666666667 6 6 6.333333333 6 7C6 7 6 7 6 7C6 7.666666667 5.666666667 8 5 8C4.666666667 8 4.333333333 8 4 8C3.333333333 8 3 7.666666667 3 7C3 7 3 7 3 7C3 6.333333333 3.333333333 6 4 6Z')",
+    "--colorful-shape-target": "path('M4 5.786666667C4.333333333 5.751111111 4.666666667 5.751111111 5 5.786666667C5.666666667 5.857777778 5.55 6.333333333 5.55 7C5.55 7 5.55 7 5.55 7C5.55 7.666666667 5.666666667 7.857777778 5 7.786666667C4.666666667 7.751111111 4.333333333 7.751111111 4 7.786666667C3.333333333 7.857777778 2.55 7.666666667 2.55 7C2.55 7 2.55 7 2.55 7C2.55 6.333333333 3.333333333 5.857777778 4 5.786666667Z')"
+  } as CSSProperties;
+
+const weights = new Map<IconWeight, ReactElement>([
+  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
+  ["light", <g strokeWidth={0.75}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
+  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
+  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
+  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-back, #d9c9ed)" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={0.55} /></g></g>],
+  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="detail" data-colorful-part={0}><path d="M6 6H4Q3 6 3 7V9M18 6H20Q21 6 21 7V9M21 15V17Q21 18 20 18H18M6 18H4Q3 18 3 17V15M10 6H14M10 18H14M3 13V11M21 13V11" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1} data-colorful-morph="" style={morph0}><path d="M4 6H5Q6 6 6 7V7Q6 8 5 8H4Q3 8 3 7V7Q3 6 4 6Z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g></g>]
+]);
+export default weights;

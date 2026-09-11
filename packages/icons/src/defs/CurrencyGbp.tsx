@@ -1,0 +1,15 @@
+/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+import type { ReactElement, CSSProperties } from "react";
+import type { IconWeight } from "../lib/types";
+
+
+
+const weights = new Map<IconWeight, ReactElement>([
+  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.104545} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>],
+  ["light", <g strokeWidth={0.75}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.840909} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>],
+  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.7} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>],
+  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={4.418182} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>],
+  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.7} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>],
+  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M5 12H15" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.7} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18.7,6.6c-1.7,-3.8 -9.7,-3.5 -9.7,1.4v5.5c0,2.18517187 -0.77473923,3.76992084 -2.32421768,4.75424691c-0.33591414,0.21339377 -0.23374615,0.74575309 0.16421768,0.74575309h12.16 M5,12h10" fill="none" /></g></g>]
+]);
+export default weights;
