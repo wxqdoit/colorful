@@ -25,7 +25,7 @@ npm run dev              # http://127.0.0.1:5186
 ```sh
 npm run check            # 资产、类型、测试、构建与打包消费检查
 npm run build            # ESM / CJS / UMD / 类型文件
-npm pack                 # colorful-icon-react-0.7.1.tgz
+npm pack                 # colorful-icon-react-0.7.2.tgz
 ```
 
 包名为 `@colorful-icon/react`，已发布到 npm。推荐直接安装：
@@ -37,7 +37,7 @@ npm install @colorful-icon/react
 如需从本地构建文件安装：
 
 ```sh
-npm install /path/to/colorful/colorful-icon-react-0.7.1.tgz
+npm install /path/to/colorful/colorful-icon-react-0.7.2.tgz
 ```
 
 ## 使用
