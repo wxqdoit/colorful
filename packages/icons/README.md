@@ -25,13 +25,13 @@ npm run dev              # http://127.0.0.1:5186
 ```sh
 npm run check            # 资产、类型、测试、构建与打包消费检查
 npm run build            # ESM / CJS / UMD / 类型文件
-npm pack                 # colorful-icon-react-0.7.0.tgz
+npm pack                 # colorful-icon-react-0.7.1.tgz
 ```
 
 包名暂定 `@colorful-icon/react`，**尚未发布到 npm**。在其他项目中安装本地打包文件：
 
 ```sh
-npm install /path/to/colorful/colorful-icon-react-0.7.0.tgz
+npm install /path/to/colorful/colorful-icon-react-0.7.1.tgz
 ```
 
 ## 使用

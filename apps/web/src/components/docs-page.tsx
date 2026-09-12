@@ -125,7 +125,7 @@ export function DocsPage({ locale, onBrowse }: DocsPageProps) {
           <ArrowLeftIcon data-icon="inline-start" />
           {t.back}
         </Button>
-        <span className="font-mono text-xs text-muted-foreground">v0.7.0</span>
+        <span className="font-mono text-xs text-muted-foreground">v0.7.1</span>
       </div>
       <section className="max-w-3xl" aria-labelledby="docs-title">
         <p className="mb-4 text-sm font-medium text-primary">{t.eyebrow}</p>
