@@ -2,6 +2,23 @@
   "name": "@colorful-icon/react",
   "version": "0.7.0",
   "description": "Soft, layered illustration icons for React",
+  "keywords": [
+    "react",
+    "icons",
+    "svg",
+    "illustration",
+    "colorful",
+    "phosphor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wxqdoit/colorful.git",
+    "directory": "packages/icons"
+  },
+  "homepage": "https://github.com/wxqdoit/colorful#readme",
+  "bugs": {
+    "url": "https://github.com/wxqdoit/colorful/issues"
+  },
   "type": "module",
   "license": "MIT",
   "sideEffects": [
@@ -12,7 +29,8 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
-    "NOTICE.md"
+    "NOTICE.md",
+    "README.md"
   ],
   "exports": {
     ".": {
