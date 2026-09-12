@@ -1,4 +1,4 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 export const iconCatalog = [
   {
     "name": "story",

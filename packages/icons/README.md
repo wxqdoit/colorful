@@ -4,7 +4,7 @@
 
 **v0.7.0 / Colorful Originals：** 新增 1,000 枚原创插画图标，保留已有 1,519 枚。统一支持三色主题、六种样式、圆润造型与分层动效。原创组件使用 `Original` 前缀，每项的造型说明保存在 `design/originals/catalog.json`。
 
-- 2,519 枚图标 × 6 种 weight，15,114 个可独立使用的 SVG。
+- 2,519 枚基础图标；六种 weight 在渲染时从 regular artwork 派生，静态 Originals 压缩包另行提供 6,000 个 SVG。`assets/regular` 是仓库内的编辑源，不随 React 主包发布。
 - TypeScript、`forwardRef`、`IconContext`、任意 SVG props 和 children。
 - 独立 CSR / SSR 入口、按需导入、ESM / CJS / UMD，React 外置。
 - 严格使用三种语义颜色，提供八套浅色 / 深色配色及自由调色。
@@ -158,7 +158,7 @@ function Example() {
 }
 ```
 
-动效样式默认自动注册，无需额外 import。静态图标不创建动效样式节点；样式文本随共享运行时打包（约 6 KB），不发起额外 CSS 请求。React 19 在服务端和客户端通过样式资源去重；React 18 客户端在绘制前注册一次。镜像与初始动画保留独立 SVG group；hover 的外层保持静止，每个 SVG 部件使用独立包装层，按后层、主体、细节设置不同幅度与错峰延迟，保持原始叠放顺序和部件变换。`morph` 软糖回弹（真实轮廓弯曲结合挤压伸展）、`lift` 轻跃登场、`wiggle` 俏皮摇摆、`pulse` 气泡鼓起、`spread` 纸片绽放。每个动作经历蓄力、释放、两次收小的回摆和落定，播放一次后恢复原形，可反复触发；提前移开会从当前姿态平滑收回。`hoverEasing` 和 `hoverDuration` 控制动作节奏，提前退出的归位最长 320ms，`hoverStagger` 控制进入时的层间延迟。`data-colorful-hover-target` 让整个按钮的 hover / 键盘焦点触发图标动画；直接悬停 SVG 也可触发。自动尊重 `prefers-reduced-motion`，关闭动画并保留最终镜像方向。客户端使用原生 Web Animations 编排部件，不逐帧更新 React。纯 SSR 入口保留 CSS 过渡回退；完整分段编排使用客户端组件，初始动画在浏览器加载样式后播放。
+动效样式默认自动注册，无需额外 import。静态图标不创建动效样式节点；样式文本随共享运行时打包（约 6 KB），不发起额外 CSS 请求。React 19 在服务端和客户端通过样式资源去重；React 18 客户端在绘制前注册一次。镜像与初始动画保留独立 SVG group；hover 的外层保持静止，每个 SVG 部件使用独立包装层，按后层、主体、细节设置不同幅度与错峰延迟，保持原始叠放顺序和部件变换。主包的 `morph` 使用轻量 scale fallback，以避免为每枚图标携带重复的变形轮廓；完整轮廓形变仍可由 `scripts/motion-layers.ts` 在生成工具中按需启用。`lift` 轻跃登场、`wiggle` 俏皮摇摆、`pulse` 气泡鼓起、`spread` 纸片绽放。每个动作经历蓄力、释放、两次收小的回摆和落定，播放一次后恢复原形，可反复触发；提前移开会从当前姿态平滑收回。`hoverEasing` 和 `hoverDuration` 控制动作节奏，提前退出的归位最长 320ms，`hoverStagger` 控制进入时的层间延迟。`data-colorful-hover-target` 让整个按钮的 hover / 键盘焦点触发图标动画；直接悬停 SVG 也可触发。自动尊重 `prefers-reduced-motion`，关闭动画并保留最终镜像方向。客户端使用原生 Web Animations 编排部件，不逐帧更新 React。纯 SSR 入口保留 CSS 过渡回退；完整分段编排使用客户端组件，初始动画在浏览器加载样式后播放。
 
 需要手动管理样式时，在应用入口引入一次 CSS，并关闭自动注册：
 
@@ -177,9 +177,9 @@ React 18 服务端没有样式资源去重能力。需要动效首屏在 hydrati
 
 ### 批量来源与精修
 
-`vendor/phosphor/raw` 保存固定版本的原始 duotone SVG，`vendor/phosphor/catalog.json` 保存完整元数据。运行 `npm run adapt:phosphor` 可复现筛选和常规版本转换，再运行 `npm run assemble` 生成六种 weight 与组件。
+`vendor/phosphor/raw` 保存固定版本的原始 duotone SVG，`vendor/phosphor/catalog.json` 保存完整元数据。运行 `npm run adapt:phosphor` 可复现筛选和常规版本转换，再运行 `npm run assemble` 生成组件；六种 weight 在渲染器中按需派生。
 
-转换提取物件轮廓、柔化直角、将曲线主色层裁入主体、保留少量结构线；纯文字、方向、数学、品牌和缺少主体的符号会排除。每枚都有来源、标签和筛选依据。若精修改编图标的 regular SVG，应先从该条 metadata 移除 `source: "phosphor"`，使再次批量转换时保留该自绘版本；也可使用 `assets/overrides` 保留分 weight 精修。
+转换提取物件轮廓、柔化直角、将曲线主色层裁入主体、保留少量结构线；纯文字、方向、数学、品牌和缺少主体的符号会排除。每枚都有来源、标签和筛选依据。若精修改编图标的 regular SVG，应先从该条 metadata 移除 `source: "phosphor"`，使再次批量转换时保留该自绘版本。
 
 ### SSR / React Server Components
 
@@ -202,10 +202,9 @@ SSR 模块不引用 `createContext` / `useContext`，不继承 `IconContext`；�
 ## 与 Phosphor 对齐的实现
 
 ```text
-assets/regular/*.svg + assets/catalog.json
+assets/regular/*.svg + assets/catalog.json（仓库源文件）
               ↓ scripts/assemble.ts
-assets/{thin,light,bold,fill,duotone}/*.svg
-src/defs/*.tsx           静态 Map<IconWeight, ReactElement>
+src/defs/*.tsx           每枚图标一份 regular artwork
 src/csr/*.tsx            forwardRef → IconBase → Context + SVG
 src/ssr/*.tsx            forwardRef → SSRBase → SVG
               ↓ Vite preserveModules + declarations
@@ -231,19 +230,19 @@ dist/                   ESM / CJS / UMD / .d.ts / .d.cts
 
 ## 新增或精修图标
 
-圆角是实际路径几何：色块默认0.65单位，描线中心路径默认0.8单位，按相邻部件长度限制切入量。已经平滑的圆弧保留原样。极小语义标记可以在绘制源上使用正数 `data-round-radius` 作光学校正，生成时删除这个制作属性。`npm run test:roundness` 检查全部9,114枚样式资产的转角、圆头与圆角矩形；新增形状不能靠只设置 `stroke-linejoin` 绕过检查。
+圆角是实际路径几何：色块默认0.65单位，描线中心路径默认0.8单位，按相邻部件长度限制切入量。已经平滑的圆弧保留原样。极小语义标记可以在绘制源上使用正数 `data-round-radius` 作光学校正，生成时删除这个制作属性。`npm run test:roundness` 会在内存中检查 regular 与六种运行时派生样式的转角、圆头与圆角矩形；新增形状不能靠只设置 `stroke-linejoin` 绕过检查。
 
 当前目录的可维护源文件位于 `design/redesign`。修改对应分组生成器后运行 `npm run redesign`，会更新 regular、设计记录、组件和对照页。`adapt:phosphor` 作为兼容命令转向此流程，旧几何转换器会拒绝覆盖已重绘资产。独立新增图标时，也应补上分组分配和设计记录。
 
 1. 根据 [风格规范](docs/SKILL.md) 绘制 `assets/regular/your-icon.svg`：24 单位、透明背景、token 带回退值、填色块显式 `stroke="none"`。
 2. 在 `assets/catalog.json` 添加唯一的 `name`（kebab-case）、`component`（PascalCase）、中文 `label`、`category`、`tags`。
-3. 运行 `npm run assemble`，生成组件、全部导出和其余 SVG。预览页读取生成的 catalog。
-4. 独立精修某种 weight 时，放入 `assets/overrides/<weight>/<name>.svg`，脚本优先使用它。根 SVG 沿用标准模板，形状配色放在子元素上。
+3. 运行 `npm run assemble`，生成组件、全部导出；weight 变体由渲染器按需派生。预览页读取生成的 catalog。
+4. 如果某枚图标需要偏离通用 weight 派生规则，应在 regular 源中调整几何；静态 SVG 导出由共享派生工具按需生成。
 5. 运行 `npm run check`，并在预览页检查 26px、放大、浅色与深色效果。
 
 不要直接编辑带 `GENERATED FILE` 的组件或派生 SVG。删除 catalog 项后，脚本会指出待清理的旧生成文件。`assemble:check` 用于 CI 检查生成结果同步。
 
-原始 SVG 可直接用 `<img src="...">`；CSS 变量不能穿透 `<img>`，需要改用内联 SVG，或从预览页下载带固定主题色的版本。
+仓库中的原始 SVG 可直接用 `<img src="...">`；CSS 变量不能穿透 `<img>`，需要改用内联 SVG，或从预览页下载带固定主题色的版本。原始编辑资产不随 React 主包发布。
 
 ### 自定义 React 图标
 

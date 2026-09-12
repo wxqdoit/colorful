@@ -1,4 +1,4 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 export type { Icon, IconProps, IconWeight, IconTheme, IconPalette, IconStyle, IconBaseProps, IconPreset, IconEntrance, IconHover, IconEasing } from "../lib/types";
 export { default as SSRBase } from "../lib/SSRBase";
 export { MotionStyles } from "../lib/MotionStyles";

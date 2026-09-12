@@ -1,10 +1,10 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import SSRBase from "../lib/SSRBase";
-import weights from "../defs/ReadCvLogo";
+import artwork from "../defs/ReadCvLogo";
 
 /** Read.cv · 品牌标识 */
-const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "ReadCvLogoIcon";
 export { I as ReadCvLogoIcon, I as ReadCvLogo };

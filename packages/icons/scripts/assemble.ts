@@ -13,15 +13,6 @@ import { withMotionLayers } from "./motion-layers";
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const check = process.argv.includes("--check");
-const weights = [
-  "thin",
-  "light",
-  "regular",
-  "bold",
-  "fill",
-  "duotone",
-] as const;
-type Weight = (typeof weights)[number];
 interface Entry {
   name: string;
   component: string;
@@ -34,7 +25,7 @@ const catalog: Entry[] = JSON.parse(
 );
 const output = new Map<string, string>();
 const generated =
-  "/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */\n";
+  "/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */\n";
 const xmlEnvironment = new JSDOM();
 const xmlParser = new xmlEnvironment.window.DOMParser();
 
@@ -73,59 +64,41 @@ function readSVG(source: string, file: string) {
   return { svg };
 }
 
-function variant(source: string, weight: Weight, file: string) {
-  const { svg } = readSVG(source, file);
-  const widths = {
-    thin: "0.45",
-    light: "0.75",
-    regular: "1.1",
-    bold: "1.8",
-    fill: "1.1",
-    duotone: "1.1",
-  };
-  svg.setAttribute("stroke-width", widths[weight]);
-  // Scale small optically tuned details too, rather than leaving them stuck
-  // at the regular width when the surrounding icon changes weight.
-  for (const node of svg.querySelectorAll("[stroke-width]")) {
-    const localWidth = Number(node.getAttribute("stroke-width"));
-    if (Number.isFinite(localWidth))
+// Published geometry is quantized at 0.01 units. At a 24-unit viewBox this is
+// below a pixel at normal sizes, while removing a large amount of path noise.
+function compactGeometry(source: string) {
+  const { svg } = readSVG(source, "compact geometry");
+  const geometry = new Set([
+    "d",
+    "points",
+    "x",
+    "y",
+    "x1",
+    "x2",
+    "y1",
+    "y2",
+    "width",
+    "height",
+    "rx",
+    "ry",
+    "cx",
+    "cy",
+    "r",
+  ]);
+  const number = /-?(?:\d+\.\d+|\d+|\.\d+)/g;
+  for (const node of [svg, ...svg.querySelectorAll("*")]) {
+    for (const attr of [...node.attributes]) {
+      if (!geometry.has(attr.name)) continue;
       node.setAttribute(
-        "stroke-width",
-        String(
-          Number(((localWidth * Number(widths[weight])) / 1.1).toFixed(6)),
-        ),
-      );
-  }
-  for (const shape of svg.querySelectorAll(
-    "path,circle,ellipse,rect,line,polyline,polygon",
-  )) {
-    const fill = shape.getAttribute("fill");
-    // Filled artwork still needs its book spine, hands, arrows and status
-    // marks. Preserve every part; fuller same-color edges add body without
-    // introducing a dark outline or removing recognition details.
-    if (
-      weight === "fill" &&
-      fill &&
-      fill !== "none" &&
-      shape.getAttribute("stroke") === "none"
-    ) {
-      shape.setAttribute("stroke", fill);
-      shape.setAttribute(
-        "stroke-width",
-        fill.includes("--project-art-detail") ? "0.2" : "0.55",
+        attr.name,
+        attr.value.replace(number, (value) => {
+          const rounded = Number(Number(value).toFixed(2));
+          return String(rounded);
+        }),
       );
     }
-    if (
-      weight === "duotone" &&
-      fill &&
-      !fill.includes("--project-art-surface") &&
-      fill !== "none"
-    ) {
-      shape.setAttribute("fill", "var(--project-art-detail, #aa8bcf)");
-    }
   }
-  const result = svg.outerHTML + "\n";
-  return result;
+  return svg.outerHTML;
 }
 
 // Validate the complete input before writing any generated files.
@@ -160,45 +133,37 @@ for (const entry of catalog) {
     resolve(root, `assets/regular/${entry.name}.svg`),
     "utf8",
   );
-  const defs: string[] = [];
+  const compactSource = compactGeometry(source);
+  const { svg } = readSVG(compactSource, entry.name);
   const morphStyles = new Map<string, string>();
-  for (const weight of weights) {
-    const override = `assets/overrides/${weight}/${entry.name}.svg`;
-    const svgText = existsSync(resolve(root, override))
-      ? readFileSync(resolve(root, override), "utf8")
-      : variant(source, weight, entry.name);
-    const { svg } = readSVG(svgText, `${entry.name}/${weight}`);
-    const strokeWidth = svg.getAttribute("stroke-width") ?? "1.1";
-    const jsx = await transform(
-      withMotionLayers(svgText, source),
-      {
-        plugins: ["@svgr/plugin-jsx"],
-        typescript: true,
-        jsxRuntime: "automatic",
-        expandProps: false,
-        svgo: false,
-      },
-      { componentName: "Artwork" },
-    );
-    const inner = jsx
-      .match(/<svg\b[^>]*>([\s\S]*?)<\/svg>/)?.[1]
-      ?.replace(/style=\{\{([\s\S]*?)\}\}/g, (_, value: string) => {
-        let name = morphStyles.get(value);
-        if (!name) {
-          name = `morph${morphStyles.size}`;
-          morphStyles.set(value, name);
-        }
-        return `style={${name}}`;
-      });
-    if (!inner) throw new Error(`Cannot transform ${entry.name}/${weight}`);
-    defs.push(`  ["${weight}", <g strokeWidth={${strokeWidth}}>${inner}</g>]`);
-    if (weight !== "regular")
-      output.set(`assets/${weight}/${entry.name}.svg`, svgText);
-  }
+  const jsx = await transform(
+    // Keep the npm runtime compact. The morph-capable layer generator remains
+    // available to tooling, while published artwork uses a transform fallback.
+    withMotionLayers(compactSource, compactSource, { morph: false }),
+    {
+      plugins: ["@svgr/plugin-jsx"],
+      typescript: true,
+      jsxRuntime: "automatic",
+      expandProps: false,
+      svgo: false,
+    },
+    { componentName: "Artwork" },
+  );
+  const inner = jsx
+    .match(/<svg\b[^>]*>([\s\S]*?)<\/svg>/)?.[1]
+    ?.replace(/style=\{\{([\s\S]*?)\}\}/g, (_, value: string) => {
+      let name = morphStyles.get(value);
+      if (!name) {
+        name = `morph${morphStyles.size}`;
+        morphStyles.set(value, name);
+      }
+      return `style={${name}}`;
+    });
+  if (!inner) throw new Error(`Cannot transform ${entry.name}`);
   output.set(
     `src/defs/${entry.component}.tsx`,
     generated +
-      `import type { ReactElement, CSSProperties } from "react";\nimport type { IconWeight } from "../lib/types";\n\n${[...morphStyles].map(([value, name]) => `const ${name} = {${value}} as CSSProperties;`).join("\n")}\n\nconst weights = new Map<IconWeight, ReactElement>([\n${defs.join(",\n")}\n]);\nexport default weights;\n`,
+      `import type { CSSProperties } from "react";\nimport type { ReactElement } from "react";\n\n${[...morphStyles].map(([value, name]) => `const ${name} = {${value}} as CSSProperties;`).join("\n")}\n\nconst artwork: ReactElement = <g>${inner}</g>;\nexport default artwork;\n`,
   );
   for (const kind of ["csr", "ssr"] as const) {
     const base = kind === "csr" ? "IconBase" : "SSRBase";
@@ -206,7 +171,7 @@ for (const entry of catalog) {
       `src/${kind}/${entry.component}.tsx`,
       (kind === "csr" ? '"use client";\n' : "") +
         generated +
-        `import { forwardRef } from "react";\nimport type { Icon } from "../lib/types";\nimport ${base} from "../lib/${base}";\nimport weights from "../defs/${entry.component}";\n\n/** ${entry.label} · ${entry.category} */\nconst I: Icon = forwardRef((props, ref) => <${base} ref={ref} {...props} weights={weights} />);\nI.displayName = "${entry.component}Icon";\nexport { I as ${entry.component}Icon, I as ${entry.component} };\n`,
+        `import { forwardRef } from "react";\nimport type { Icon } from "../lib/types";\nimport ${base} from "../lib/${base}";\nimport artwork from "../defs/${entry.component}";\n\n/** ${entry.label} · ${entry.category} */\nconst I: Icon = forwardRef((props, ref) => <${base} ref={ref} {...props} weights={artwork} />);\nI.displayName = "${entry.component}Icon";\nexport { I as ${entry.component}Icon, I as ${entry.component} };\n`,
     );
   }
 }
@@ -235,7 +200,6 @@ for (const dir of [
   "src/csr",
   "src/ssr",
   "src/defs",
-  ...weights.filter((w) => w !== "regular").map((w) => `assets/${w}`),
 ]) {
   if (!existsSync(resolve(root, dir))) continue;
   for (const file of readdirSync(resolve(root, dir))) {
@@ -263,6 +227,6 @@ if (drift.length)
     `Generated files are out of date. Run npm run assemble:\n${drift.join("\n")}`,
   );
 console.log(
-  `${check ? "Verified" : "Generated"} ${catalog.length} icons × ${weights.length} weights; CSR, SSR and SVG exports.`,
+  `${check ? "Verified" : "Generated"} ${catalog.length} icons with runtime-derived weights; CSR and SSR exports.`,
 );
 xmlEnvironment.window.close();

@@ -6,7 +6,7 @@
 
 参考 https://github.com/phosphor-icons/react ，commit `81ac06f9bf4b4dedf9b8fead0a1ebd47c41d67ef`，package 2.1.10。
 
-使用资产 → assemble → 静态 `Map<IconWeight, ReactElement>` → CSR / SSR forwardRef 包装 → 公共基类 → 分模块 ESM/CJS 与声明文件的流程。公共 API 包含 size、color、weight、mirrored、alt、SVG props、children、ref、IconContext、IconBase、SSRBase、Icon/IconProps/IconWeight。每枚导出 `NameIcon` 和 `Name`，支持根入口和深层导入。CSR 保留 use client，SSR 依赖链无 Context。
+使用资产 → assemble → 每枚图标一份 regular artwork → CSR / SSR forwardRef 包装 → 公共基类在渲染时派生 weight → 分模块 ESM/CJS 与声明文件的流程。公共 API 包含 size、color、weight、mirrored、alt、SVG props、children、ref、IconContext、IconBase、SSRBase、Icon/IconProps/IconWeight。每枚导出 `NameIcon` 和 `Name`，支持根入口和深层导入。CSR 保留 use client，SSR 依赖链无 Context。
 
 ## 视觉与有意差异
 
@@ -22,7 +22,7 @@
 
 ## 文件与扩展
 
-`assets/regular` 保存可编辑源 SVG；其余五种由脚本生成。`assets/catalog.json` 保存唯一命名、分类、中文名和关键词。`src/defs`、`src/csr`、`src/ssr`、入口和 catalog 为生成物。`scripts/assemble.ts --check` 检查生成物是否同步。可增加 weight 专用覆盖源以支持后续独立精修。
+`assets/regular` 保存唯一可编辑源 SVG。五种非 regular weight 由运行时派生；`assets/catalog.json` 保存唯一命名、分类、中文名和关键词。`src/defs`、`src/csr`、`src/ssr`、入口和 catalog 为生成物。`scripts/assemble.ts --check` 检查生成物是否同步。静态导出和 Originals 压缩包会在内存中按需生成 weight 变体。
 
 ## 交付与验证
 

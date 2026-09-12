@@ -36,6 +36,15 @@ afterEach(() => {
 });
 
 describe("catalog interactions", () => {
+  it("opens the project docs and returns to the collection", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("link", { name: "项目文档" }));
+    expect(screen.getByRole("heading", { name: "把一点色彩带进你的界面" })).toBeTruthy();
+    expect(screen.getByText("npm install @colorful-icons/react")).toBeTruthy();
+    fireEvent.click(screen.getByRole("button", { name: "回到图标集" }));
+    expect(screen.getByRole("heading", { name: "一点色彩，刚刚好。" })).toBeTruthy();
+  });
+
   it("exports animated JSX without a separate stylesheet import", () => {
     render(<App />);
     fireEvent.click(screen.getByRole("button", { name: "查看代码" }));

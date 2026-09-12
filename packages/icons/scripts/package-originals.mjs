@@ -3,6 +3,7 @@ import { execFileSync } from "node:child_process";
 import { resolve, dirname } from "node:path";
 import { tmpdir } from "node:os";
 import { fileURLToPath } from "node:url";
+import { deriveVariant } from "./derive-svg.mjs";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const catalog = JSON.parse(
   fs.readFileSync(resolve(root, "design/originals/catalog.json"), "utf8"),
@@ -25,7 +26,10 @@ try {
     for (const { name } of catalog)
       fs.writeFileSync(
         resolve(staging, `${weight}/${name}.svg`),
-        fs.readFileSync(resolve(root, `assets/${weight}/${name}.svg`), "utf8")
+        deriveVariant(
+          fs.readFileSync(resolve(root, `assets/regular/${name}.svg`), "utf8"),
+          weight,
+        )
           .replace(/var\(--project-art-[a-z]+,\s*([^)]+)\)/g, "$1"),
       );
   }

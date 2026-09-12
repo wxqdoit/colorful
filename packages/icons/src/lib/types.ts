@@ -63,6 +63,10 @@ export interface IconProps
   style?: IconStyle;
 }
 export interface IconBaseProps extends IconProps {
-  weights: Map<IconWeight, ReactElement>;
+  /**
+   * One regular artwork is preferred; the legacy weight map remains accepted
+   * for custom icons and older generated modules.
+   */
+  weights: ReactElement | ReadonlyMap<IconWeight, ReactElement>;
 }
 export type Icon = ForwardRefExoticComponent<IconProps>;

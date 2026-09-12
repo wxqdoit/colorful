@@ -1,10 +1,10 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import SSRBase from "../lib/SSRBase";
-import weights from "../defs/PersonSimpleRun";
+import artwork from "../defs/PersonSimpleRun";
 
 /** 奔跑人物 · 功能符号 */
-const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "PersonSimpleRunIcon";
 export { I as PersonSimpleRunIcon, I as PersonSimpleRun };

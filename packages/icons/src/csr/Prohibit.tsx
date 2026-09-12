@@ -1,11 +1,11 @@
 "use client";
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import IconBase from "../lib/IconBase";
-import weights from "../defs/Prohibit";
+import artwork from "../defs/Prohibit";
 
 /** Prohibit · 旅行 */
-const I: Icon = forwardRef((props, ref) => <IconBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <IconBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "ProhibitIcon";
 export { I as ProhibitIcon, I as Prohibit };

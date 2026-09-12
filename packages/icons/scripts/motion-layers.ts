@@ -4,7 +4,12 @@ const parser = new new JSDOM().window.DOMParser();
 const shapes = "path,circle,ellipse,rect,line,polyline,polygon";
 
 /** Wrap parts in place: paint order, holes and authored transforms stay intact. */
-export function withMotionLayers(svgText: string, regularSource: string) {
+export function withMotionLayers(
+  svgText: string,
+  regularSource: string,
+  options: { morph?: boolean } = {},
+) {
+  const includeMorph = options.morph !== false;
   const document = parser.parseFromString(svgText, "image/svg+xml");
   const reference = parser.parseFromString(regularSource, "image/svg+xml");
   const originals = [...reference.querySelectorAll(shapes)];
@@ -29,7 +34,7 @@ export function withMotionLayers(svgText: string, regularSource: string) {
     layer.setAttribute("data-colorful-part", String(index % 3));
     part.parentNode!.insertBefore(layer, part);
     layer.appendChild(part);
-    if (role !== "detail" && fill !== "none") {
+    if (includeMorph && role !== "detail" && fill !== "none") {
       const d = shapePath(part);
       if (d) {
         const pair = morphPaths(d, role);

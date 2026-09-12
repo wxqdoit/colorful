@@ -1,10 +1,10 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import SSRBase from "../lib/SSRBase";
-import weights from "../defs/PushPinSimpleSlash";
+import artwork from "../defs/PushPinSimpleSlash";
 
 /** Push Pin Simple Slash · 旅行 */
-const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "PushPinSimpleSlashIcon";
 export { I as PushPinSimpleSlashIcon, I as PushPinSimpleSlash };

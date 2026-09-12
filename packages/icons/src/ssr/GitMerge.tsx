@@ -1,10 +1,10 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import SSRBase from "../lib/SSRBase";
-import weights from "../defs/GitMerge";
+import artwork from "../defs/GitMerge";
 
 /** Git Merge · 科技 */
-const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "GitMergeIcon";
 export { I as GitMergeIcon, I as GitMerge };

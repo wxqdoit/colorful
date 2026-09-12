@@ -70,7 +70,9 @@ export default defineConfig({
   ],
   build: {
     target: "es2020",
-    minify: false,
+    // Published modules are data-heavy (2,519 SVG trees); minifying the
+    // generated JSX keeps the single-artwork package below the size budget.
+    minify: true,
     lib: { entry: resolve("src/index.ts") },
     rollupOptions: {
       input: {

@@ -1,10 +1,10 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import SSRBase from "../lib/SSRBase";
-import weights from "../defs/OriginalFoldingChair";
+import artwork from "../defs/OriginalFoldingChair";
 
 /** 折叠椅 · 家居 */
-const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "OriginalFoldingChairIcon";
 export { I as OriginalFoldingChairIcon, I as OriginalFoldingChair };

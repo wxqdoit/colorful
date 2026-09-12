@@ -33,8 +33,12 @@ try {
       { cwd: root, encoding: "utf8", maxBuffer: 32 * 1024 * 1024 },
     ),
   )[0];
+  assert(
+    packed.size < 5_000_000,
+    `Published tarball exceeds 5 MB: ${packed.size} bytes`,
+  );
   assert(packed.files.some((f) => f.path === "dist/ssr/index.es.js"));
-  assert(packed.files.some((f) => f.path === "assets/regular/story.svg"));
+  assert(!packed.files.some((f) => f.path.startsWith("assets/")));
   assert(packed.files.some((f) => f.path === "dist/theme.css"));
   assert(packed.files.some((f) => f.path === "dist/motion.css"));
   assert(packed.files.some((f) => f.path === "LICENSE"));

@@ -1,15 +1,8 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
-import type { ReactElement, CSSProperties } from "react";
-import type { IconWeight } from "../lib/types";
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
 
 
 
-const weights = new Map<IconWeight, ReactElement>([
-  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.022727} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>],
-  ["light", <g strokeWidth={0.75}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.704545} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>],
-  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.5} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>],
-  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={4.090909} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>],
-  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.5} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>],
-  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.5} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73333333,5.13333333 -3.66666667,8.13333333 -8.8,9 M5.5,8.5c1.46666667,3.33333333 3.96666667,5.5 7.5,6.5 M12.5,20l3.77700973,-7.97368721c0.2889669,-0.61004123 1.15701364,-0.61004123 1.44598054,0l3.77700973,7.97368721 M14,16.8h6" fill="none" /></g></g>]
-]);
-export default weights;
+const artwork: ReactElement = <g><g data-colorful-layer="back" data-colorful-part={0}><path d="M3 6H14" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.5} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3,6h11 M8.5,3.5v2.5 M11.8,6c-0.73,5.13 -3.67,8.13 -8.8,9 M5.5,8.5c1.47,3.33 3.97,5.5 7.5,6.5 M12.5,20l3.78,-7.97c0.29,-0.61 1.16,-0.61 1.45,0l3.78,7.97 M14,16.8h6" fill="none" /></g></g>;
+export default artwork;

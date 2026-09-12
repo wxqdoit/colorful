@@ -13,6 +13,7 @@ import {
   ChevronLeftIcon,
   ChevronRightIcon,
   ArrowUpRightIcon,
+  BookOpenIcon,
 } from "lucide-react";
 import { iconCatalog } from "@colorful-icons/react/catalog";
 import {
@@ -27,6 +28,7 @@ import {
   type IconEasing,
 } from "@colorful-icons/react/lib";
 import { BrandLogo } from "@/components/brand-logo";
+import { DocsPage } from "@/components/docs-page";
 import { CatalogIcon } from "@/components/catalog/catalog-icon";
 import {
   ChoiceField,
@@ -135,6 +137,11 @@ export function App() {
   const [mirrorDuration, setMirrorDuration] = useState(450);
   const [animationKey, setAnimationKey] = useState(0);
   const [hoverReplayKey, setHoverReplayKey] = useState(0);
+  const [view, setView] = useState<"collection" | "docs">(() =>
+    typeof window !== "undefined" && window.location.hash === "#docs"
+      ? "docs"
+      : "collection",
+  );
   const [mobileOpen, setMobileOpen] = useState(false);
   const [codeOpen, setCodeOpen] = useState(false);
   const [codeTab, setCodeTab] = useState("jsx");
@@ -186,6 +193,17 @@ export function App() {
     document.documentElement.classList.toggle("dark", theme === "dark");
     document.documentElement.style.colorScheme = theme;
   }, [theme]);
+  useEffect(() => {
+    const onHashChange = () =>
+      setView(window.location.hash === "#docs" ? "docs" : "collection");
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
+  }, []);
+  function navigate(next: "collection" | "docs") {
+    const hash = next === "docs" ? "#docs" : "#collection";
+    setView(next);
+    if (window.location.hash !== hash) window.location.hash = hash;
+  }
   function getSVG() {
     const source = (
       mobilePreview.current ?? desktopPreview.current
@@ -545,10 +563,16 @@ export function App() {
         data-colorful-theme={theme}
       >
         <header className="flex h-24 items-center justify-between gap-4">
-          <a href="#collection" aria-label={t.home} className="shrink-0">
+          <a href="#collection" aria-label={t.home} className="shrink-0" onClick={() => setView("collection")}>
             <BrandLogo className="h-8 w-auto text-2xl" />
           </a>
           <div className="flex items-center gap-3">
+            <Button variant="ghost" size="sm" asChild>
+              <a href="#docs" onClick={() => setView("docs")}>
+                <BookOpenIcon data-icon="inline-start" />
+                {t.docs}
+              </a>
+            </Button>
             <ToggleGroup
               type="single"
               value={locale}
@@ -578,6 +602,10 @@ export function App() {
           </div>
         </header>
         <main className="pb-12">
+          {view === "docs" ? (
+            <DocsPage locale={locale} onBrowse={() => navigate("collection")} />
+          ) : (
+            <>
           <section
             className="flex flex-col gap-5 pb-14 pt-10 sm:pb-16 sm:pt-14"
             aria-labelledby="hero-title"
@@ -784,6 +812,8 @@ export function App() {
               {renderDetails(desktopPreview)}
             </aside>
           </section>
+            </>
+          )}
         </main>
         <Sheet open={mobileOpen} onOpenChange={setMobileOpen}>
           <SheetContent

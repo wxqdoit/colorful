@@ -1,18 +1,8 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
-import type { ReactElement, CSSProperties } from "react";
-import type { IconWeight } from "../lib/types";
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
 
-const morph0 = {
-    "--colorful-shape-rest": "path('M1.75 12C1.75 12.690355937 2.309644063 13.25 3 13.25C3.690355937 13.25 4.25 12.690355937 4.25 12C4.25 11.309644063 3.690355937 10.75 3 10.75C2.309644063 10.75 1.75 11.309644063 1.75 12Z')",
-    "--colorful-shape-target": "path('M1.375 12C1.375 12.690355937 2.309644063 12.95 3 12.95C3.690355937 12.95 3.875 12.690355937 3.875 12C3.875 11.309644063 3.690355937 10.45 3 10.45C2.309644063 10.45 1.375 11.309644063 1.375 12Z')"
-  } as CSSProperties;
 
-const weights = new Map<IconWeight, ReactElement>([
-  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["light", <g strokeWidth={0.75}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={0.55} /></g></g>],
-  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g></g>]
-]);
-export default weights;
+
+const artwork: ReactElement = <g><g data-colorful-layer="surface" data-colorful-part={0}><path d="M3 12H21" fill="none" stroke="var(--project-art-surface, #f0e9f8)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M3 12C6-1 9-1 12 12C15 25 18 25 21 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2}><path d="M1.75 12a1.25 1.25 0 1 0 2.5 0a1.25 1.25 0 1 0 -2.5 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>;
+export default artwork;

@@ -62,3 +62,14 @@ it("animates open colored glyph strokes as separate paint layers without filling
     [...svg.querySelectorAll("path")].map((n) => n.getAttribute("d")),
   ).toEqual(["M4 12H20", "M12 4V20"]);
 });
+
+it("supports compact runtime layers without embedding duplicate morph geometry", () => {
+  const source = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="var(--project-art-surface, #f0e9f8)" stroke="none" d="M4 4h16v16H4z"/></svg>`;
+  const svg = parser.parseFromString(
+    withMotionLayers(source, source, { morph: false }),
+    "image/svg+xml",
+  );
+  const layer = svg.querySelector("[data-colorful-layer]")!;
+  expect(layer.hasAttribute("data-colorful-morph")).toBe(false);
+  expect(layer.querySelector("path")!.getAttribute("d")).toBe("M4 4h16v16H4z");
+});

@@ -1,11 +1,11 @@
 "use client";
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
 import { forwardRef } from "react";
 import type { Icon } from "../lib/types";
 import IconBase from "../lib/IconBase";
-import weights from "../defs/Calculator";
+import artwork from "../defs/Calculator";
 
 /** Calculator · 办公 */
-const I: Icon = forwardRef((props, ref) => <IconBase ref={ref} {...props} weights={weights} />);
+const I: Icon = forwardRef((props, ref) => <IconBase ref={ref} {...props} weights={artwork} />);
 I.displayName = "CalculatorIcon";
 export { I as CalculatorIcon, I as Calculator };

@@ -2,13 +2,15 @@ import fs from "node:fs";
 import { JSDOM } from "jsdom";
 import svgpath from "svgpath";
 import { paper } from "../../scripts/geometry.mjs";
+import { deriveVariant } from "../../scripts/derive-svg.mjs";
 const parser = new new JSDOM().window.DOMParser();
 const names = JSON.parse(fs.readFileSync("assets/catalog.json"));
 let failures = [];
 for (const weight of ["thin", "light", "regular", "bold", "fill", "duotone"])
   for (const { name } of names) {
+    const regular = fs.readFileSync(`assets/regular/${name}.svg`, "utf8");
     const svg = parser.parseFromString(
-      fs.readFileSync(`assets/${weight}/${name}.svg`, "utf8"),
+      weight === "regular" ? regular : deriveVariant(regular, weight),
       "image/svg+xml",
     ).documentElement;
     for (const el of svg.querySelectorAll(

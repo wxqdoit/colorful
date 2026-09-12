@@ -1,15 +1,8 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
-import type { ReactElement, CSSProperties } from "react";
-import type { IconWeight } from "../lib/types";
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
 
 
 
-const weights = new Map<IconWeight, ReactElement>([
-  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.063636} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>],
-  ["light", <g strokeWidth={0.75}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={1.772727} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>],
-  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.6} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>],
-  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={4.254545} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>],
-  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.6} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>],
-  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.6} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57363999 -0.73605681,-0.80952047 -1.06947828,-0.34273041l-5.12695704,7.17773986c-0.37821056,0.52949478 0.00028873,1.26499055 0.65098678,1.26499055h7.67544854" fill="none" /></g></g>]
-]);
-export default weights;
+const artwork: ReactElement = <g><g data-colorful-layer="back" data-colorful-part={0}><path d="M14.7 4.8L9.73 11.9" fill="none" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={2.6} /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M14.7,19v-12.36c0,-0.57 -0.74,-0.81 -1.07,-0.34l-5.13,7.18c-0.38,0.53 0,1.26 0.65,1.26h7.68" fill="none" /></g></g>;
+export default artwork;

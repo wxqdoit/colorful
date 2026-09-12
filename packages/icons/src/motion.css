@@ -178,7 +178,9 @@
   }
 }
 
-/* Morph the actual outline; detail strokes and the hover container stay still. */
+/* Morph uses generated outlines when present (static Originals); runtime
+ * artwork uses a compact transform fallback so the main package carries no
+ * duplicate morph geometry. */
 [data-colorful-icon] [data-colorful-morph] > path {
   d: var(--colorful-shape-rest);
   transition: d var(--colorful-hover-duration, 600ms) var(--colorful-ease);
@@ -196,6 +198,14 @@
     (var(--layer-order) + var(--part-order)) *
       var(--colorful-hover-stagger, 45ms)
   );
+}
+[data-colorful-icon]
+  [data-colorful-hover="morph"]:not([data-colorful-motion-managed])
+  [data-colorful-layer]:not([data-colorful-morph]) {
+  transform: scale(1.035);
+  transform-origin: 12px 12px;
+  transition: transform var(--colorful-hover-duration, 600ms)
+    var(--colorful-ease);
 }
 @media (prefers-reduced-motion: reduce) {
   [data-colorful-icon] [data-colorful-morph] > path {

@@ -530,8 +530,7 @@ for (const icon of upstream) {
 for (const old of previous.filter(
   (i) => i.source === "phosphor" && !converted.some((n) => n.name === i.name),
 )) {
-  for (const weight of ["regular", "thin", "light", "bold", "fill", "duotone"])
-    rmSync(resolve(root, `assets/${weight}/${old.name}.svg`), { force: true });
+  rmSync(resolve(root, `assets/regular/${old.name}.svg`), { force: true });
   for (const kind of ["defs", "csr", "ssr"])
     rmSync(resolve(root, `src/${kind}/${old.component}.tsx`), { force: true });
 }

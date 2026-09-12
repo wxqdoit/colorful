@@ -1,18 +1,8 @@
-/* GENERATED FILE — edit assets/regular, assets/overrides or assets/catalog.json; run npm run assemble. */
-import type { ReactElement, CSSProperties } from "react";
-import type { IconWeight } from "../lib/types";
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
 
-const morph0 = {
-    "--colorful-shape-rest": "path('M5.8 6C5.8 6.55228475 6.24771525 7 6.8 7C7.35228475 7 7.8 6.55228475 7.8 6C7.8 5.44771525 7.35228475 5 6.8 5C6.24771525 5 5.8 5.44771525 5.8 6Z')",
-    "--colorful-shape-target": "path('M5.5 6C5.5 6.55228475 6.24771525 6.76 6.8 6.76C7.35228475 6.76 7.5 6.55228475 7.5 6C7.5 5.44771525 7.35228475 4.76 6.8 4.76C6.24771525 4.76 5.5 5.44771525 5.5 6Z')"
-  } as CSSProperties;
 
-const weights = new Map<IconWeight, ReactElement>([
-  ["thin", <g strokeWidth={0.45}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["light", <g strokeWidth={0.75}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["regular", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["bold", <g strokeWidth={1.8}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>],
-  ["fill", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="var(--project-art-back, #d9c9ed)" strokeWidth={0.55} /></g></g>],
-  ["duotone", <g strokeWidth={1.1}><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2} data-colorful-morph="" style={morph0}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g></g>]
-]);
-export default weights;
+
+const artwork: ReactElement = <g><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.8 6A8 8 0 1 0 17.2 6" fill="none" stroke="var(--project-art-back, #d9c9ed)" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M17.2 6A8 8 0 0 1 20 12" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2}><path d="M5.8 6a1 1 0 1 0 2 0a1 1 0 1 0 -2 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g>;
+export default artwork;

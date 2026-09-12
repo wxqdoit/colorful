@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { roundSVG, inspectRoundness } from "./round-svg.mjs";
+import { deriveVariant } from "./derive-svg.mjs";
 const check = process.argv.includes("--check"),
   preview = process.argv.includes("--preview");
 const catalog = JSON.parse(fs.readFileSync("assets/catalog.json"));
@@ -21,8 +22,9 @@ const report = {
 const output = [];
 for (const weight of weights)
   for (const { name } of catalog) {
-    const path = `assets/${weight}/${name}.svg`,
-      source = fs.readFileSync(path, "utf8");
+    const path = `assets/regular/${name}.svg`;
+    const regular = fs.readFileSync(path, "utf8");
+    const source = weight === "regular" ? regular : deriveVariant(regular, weight);
     const before = inspectRoundness(source);
     const next = check
       ? { source, corners: 0, rectangles: 0 }
@@ -43,7 +45,7 @@ for (const weight of weights)
       before: before.issues.length,
       after: after.issues.length,
     });
-    output.push({ path, source: next.source });
+    if (weight === "regular") output.push({ path, source: next.source });
   }
 if (!check) {
   fs.mkdirSync("design/roundness", { recursive: true });

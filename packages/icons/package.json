@@ -12,7 +12,6 @@
   "types": "./dist/index.d.ts",
   "files": [
     "dist",
-    "assets",
     "NOTICE.md"
   ],
   "exports": {
@@ -107,7 +106,6 @@
         "default": "./dist/catalog.cjs"
       }
     },
-    "./assets/*": "./assets/*",
     "./package.json": "./package.json",
     "./*": {
       "import": {
