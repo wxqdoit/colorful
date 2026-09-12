@@ -28,7 +28,13 @@ npm run build            # ESM / CJS / UMD / 类型文件
 npm pack                 # colorful-icon-react-0.7.1.tgz
 ```
 
-包名暂定 `@colorful-icon/react`，**尚未发布到 npm**。在其他项目中安装本地打包文件：
+包名为 `@colorful-icon/react`，已发布到 npm。推荐直接安装：
+
+```sh
+npm install @colorful-icon/react
+```
+
+如需从本地构建文件安装：
 
 ```sh
 npm install /path/to/colorful/colorful-icon-react-0.7.1.tgz
