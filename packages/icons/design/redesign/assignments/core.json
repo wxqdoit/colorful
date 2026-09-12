@@ -1,0 +1,6043 @@
+[
+  {
+    "name": "story",
+    "component": "Story",
+    "label": "故事",
+    "category": "创作",
+    "tags": [
+      "book",
+      "reading",
+      "书本",
+      "阅读"
+    ]
+  },
+  {
+    "name": "scene",
+    "component": "Scene",
+    "label": "场景",
+    "category": "创作",
+    "tags": [
+      "image",
+      "landscape",
+      "风景",
+      "图片"
+    ]
+  },
+  {
+    "name": "watercolor",
+    "component": "Watercolor",
+    "label": "水彩",
+    "category": "创作",
+    "tags": [
+      "water",
+      "paint",
+      "绘画",
+      "水滴"
+    ]
+  },
+  {
+    "name": "character",
+    "component": "Character",
+    "label": "角色",
+    "category": "创作",
+    "tags": [
+      "person",
+      "user",
+      "avatar",
+      "人物",
+      "用户"
+    ]
+  },
+  {
+    "name": "layers",
+    "component": "Layers",
+    "label": "合成",
+    "category": "创作",
+    "tags": [
+      "stack",
+      "composition",
+      "叠页",
+      "图层"
+    ]
+  },
+  {
+    "name": "chat",
+    "component": "Chat",
+    "label": "对话",
+    "category": "常用",
+    "tags": [
+      "message",
+      "bubble",
+      "聊天",
+      "排字"
+    ]
+  },
+  {
+    "name": "review",
+    "component": "Review",
+    "label": "审校",
+    "category": "创作",
+    "tags": [
+      "check",
+      "document",
+      "完成",
+      "文稿"
+    ]
+  },
+  {
+    "name": "pen",
+    "component": "Pen",
+    "label": "画笔",
+    "category": "创作",
+    "tags": [
+      "pencil",
+      "edit",
+      "draw",
+      "编辑",
+      "绘制"
+    ]
+  },
+  {
+    "name": "palette",
+    "component": "Palette",
+    "label": "调色盘",
+    "category": "创作",
+    "tags": [
+      "paint",
+      "color",
+      "颜色",
+      "艺术"
+    ]
+  },
+  {
+    "name": "sparkle",
+    "component": "Sparkle",
+    "label": "灵感",
+    "category": "创作",
+    "tags": [
+      "magic",
+      "ai",
+      "闪光",
+      "智能"
+    ]
+  },
+  {
+    "name": "heart",
+    "component": "Heart",
+    "label": "喜欢",
+    "category": "常用",
+    "tags": [
+      "love",
+      "favorite",
+      "爱",
+      "收藏"
+    ]
+  },
+  {
+    "name": "star",
+    "component": "Star",
+    "label": "星星",
+    "category": "常用",
+    "tags": [
+      "rating",
+      "bookmark",
+      "评分",
+      "标记"
+    ]
+  },
+  {
+    "name": "folder",
+    "component": "Folder",
+    "label": "文件夹",
+    "category": "常用",
+    "tags": [
+      "files",
+      "archive",
+      "文件",
+      "归档"
+    ]
+  },
+  {
+    "name": "calendar",
+    "component": "Calendar",
+    "label": "日历",
+    "category": "常用",
+    "tags": [
+      "date",
+      "schedule",
+      "日期",
+      "日程"
+    ]
+  },
+  {
+    "name": "lightbulb",
+    "component": "Lightbulb",
+    "label": "想法",
+    "category": "创作",
+    "tags": [
+      "idea",
+      "light",
+      "灯泡",
+      "思考"
+    ]
+  },
+  {
+    "name": "rocket",
+    "component": "Rocket",
+    "label": "火箭",
+    "category": "常用",
+    "tags": [
+      "launch",
+      "start",
+      "启动",
+      "发射"
+    ]
+  },
+  {
+    "name": "address-book",
+    "component": "AddressBook",
+    "label": "Address Book",
+    "category": "沟通",
+    "tags": [
+      "contacts",
+      "directory",
+      "roledex",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "address-book-tabs",
+    "component": "AddressBookTabs",
+    "label": "Address Book Tabs",
+    "category": "沟通",
+    "tags": [
+      "contacts",
+      "directory",
+      "roledex",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "alarm",
+    "component": "Alarm",
+    "label": "Alarm",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "watch",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "app-window",
+    "component": "AppWindow",
+    "label": "App Window",
+    "category": "沟通",
+    "tags": [
+      "windows",
+      "software",
+      "programs",
+      "applications",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "archive",
+    "component": "Archive",
+    "label": "Archive",
+    "category": "办公",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "downloaded",
+      "downloading",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "backspace",
+    "component": "Backspace",
+    "label": "Backspace",
+    "category": "系统",
+    "tags": [
+      "keyboard",
+      "remove",
+      "delete",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-charging",
+    "component": "BatteryCharging",
+    "label": "电池 · charging",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-charging-vertical",
+    "component": "BatteryChargingVertical",
+    "label": "电池 · charging vertical",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-empty",
+    "component": "BatteryEmpty",
+    "label": "电池 · empty",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "dead",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-full",
+    "component": "BatteryFull",
+    "label": "电池 · full",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "filled",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-high",
+    "component": "BatteryHigh",
+    "label": "电池 · high",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-low",
+    "component": "BatteryLow",
+    "label": "电池 · low",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-medium",
+    "component": "BatteryMedium",
+    "label": "电池 · medium",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-plus",
+    "component": "BatteryPlus",
+    "label": "电池 · plus",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-plus-vertical",
+    "component": "BatteryPlusVertical",
+    "label": "电池 · plus vertical",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-vertical-empty",
+    "component": "BatteryVerticalEmpty",
+    "label": "电池 · vertical empty",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "dead",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-vertical-full",
+    "component": "BatteryVerticalFull",
+    "label": "电池 · vertical full",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-vertical-high",
+    "component": "BatteryVerticalHigh",
+    "label": "电池 · vertical high",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-vertical-low",
+    "component": "BatteryVerticalLow",
+    "label": "电池 · vertical low",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-vertical-medium",
+    "component": "BatteryVerticalMedium",
+    "label": "电池 · vertical medium",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-warning",
+    "component": "BatteryWarning",
+    "label": "电池 · warning",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "empty",
+      "critical",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "battery-warning-vertical",
+    "component": "BatteryWarningVertical",
+    "label": "电池 · warning vertical",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "empty",
+      "critical",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-ringing",
+    "component": "BellRinging",
+    "label": "铃铛 · ringing",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "calls",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-simple-ringing",
+    "component": "BellSimpleRinging",
+    "label": "铃铛 · simple ringing",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "calls",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-simple-slash",
+    "component": "BellSimpleSlash",
+    "label": "铃铛 · simple slash",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "silent",
+      "silenced",
+      "disabled",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-simple-z",
+    "component": "BellSimpleZ",
+    "label": "铃铛 · simple z",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "snooze",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-slash",
+    "component": "BellSlash",
+    "label": "铃铛 · slash",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "silent",
+      "silenced",
+      "ringer",
+      "calls",
+      "disabled",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bell-z",
+    "component": "BellZ",
+    "label": "铃铛 · z",
+    "category": "系统",
+    "tags": [
+      "alarm",
+      "notifications",
+      "times",
+      "timer",
+      "clock",
+      "schedule",
+      "events",
+      "ringer",
+      "snooze",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bookmarks",
+    "component": "Bookmarks",
+    "label": "Bookmarks",
+    "category": "办公",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "placeholder",
+      "favorites",
+      "favorited",
+      "library",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bookmarks-simple",
+    "component": "BookmarksSimple",
+    "label": "Bookmarks Simple",
+    "category": "办公",
+    "tags": [
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "placeholder",
+      "favorites",
+      "favorited",
+      "library",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "box-arrow-down",
+    "component": "BoxArrowDown",
+    "label": "Box Arrow Down",
+    "category": "办公",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "downloaded",
+      "downloading",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "box-arrow-up",
+    "component": "BoxArrowUp",
+    "label": "Box Arrow Up",
+    "category": "办公",
+    "tags": [
+      "unarchive",
+      "archival",
+      "upload",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "briefcase",
+    "component": "Briefcase",
+    "label": "公文包",
+    "category": "办公",
+    "tags": [
+      "suitcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "briefcase-metal",
+    "component": "BriefcaseMetal",
+    "label": "公文包 · metal",
+    "category": "办公",
+    "tags": [
+      "suitcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "broadcast",
+    "component": "Broadcast",
+    "label": "Broadcast",
+    "category": "沟通",
+    "tags": [
+      "radio",
+      "hotspot",
+      "wifi",
+      "emit",
+      "communications",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "browser",
+    "component": "Browser",
+    "label": "Browser",
+    "category": "沟通",
+    "tags": [
+      "web browsers",
+      "windows",
+      "internet",
+      "website",
+      "webpage",
+      "chrome",
+      "edge",
+      "firefox",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "browsers",
+    "component": "Browsers",
+    "label": "Browsers",
+    "category": "沟通",
+    "tags": [
+      "web browsers",
+      "windows",
+      "internet",
+      "website",
+      "webpage",
+      "chrome",
+      "edge",
+      "firefox",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calculator",
+    "component": "Calculator",
+    "label": "Calculator",
+    "category": "办公",
+    "tags": [
+      "addition",
+      "sum",
+      "subtraction",
+      "difference",
+      "multiply",
+      "multiplication",
+      "product",
+      "divide",
+      "division",
+      "divisor",
+      "dividend",
+      "quotient",
+      "equals",
+      "equality",
+      "mathematics",
+      "arithmetic",
+      "+",
+      "-",
+      "±",
+      "×",
+      "÷",
+      "=",
+      "technology & development",
+      "finances",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-blank",
+    "component": "CalendarBlank",
+    "label": "Calendar Blank",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "none",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-check",
+    "component": "CalendarCheck",
+    "label": "Calendar Check",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "todo",
+      "checklist",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-dot",
+    "component": "CalendarDot",
+    "label": "Calendar Dot",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "today",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-dots",
+    "component": "CalendarDots",
+    "label": "Calendar Dots",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-heart",
+    "component": "CalendarHeart",
+    "label": "Calendar Heart",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "favorite",
+      "star",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-minus",
+    "component": "CalendarMinus",
+    "label": "Calendar Minus",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "remove",
+      "delete",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-plus",
+    "component": "CalendarPlus",
+    "label": "Calendar Plus",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "add",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-slash",
+    "component": "CalendarSlash",
+    "label": "Calendar Slash",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "remove",
+      "delete",
+      "cancel. unavailable",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-star",
+    "component": "CalendarStar",
+    "label": "Calendar Star",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "favorite",
+      "star",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "calendar-x",
+    "component": "CalendarX",
+    "label": "Calendar X",
+    "category": "办公",
+    "tags": [
+      "dates",
+      "times",
+      "events",
+      "schedule",
+      "closed",
+      "cancelled",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cards",
+    "component": "Cards",
+    "label": "Cards",
+    "category": "设计",
+    "tags": [
+      "card",
+      "slides",
+      "slideshow",
+      "windows",
+      "website",
+      "webpage",
+      "layers",
+      "design",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cards-three",
+    "component": "CardsThree",
+    "label": "Cards Three",
+    "category": "设计",
+    "tags": [
+      "card",
+      "slides",
+      "slideshow",
+      "windows",
+      "website",
+      "webpage",
+      "layers",
+      "stack",
+      "design",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cell-tower",
+    "component": "CellTower",
+    "label": "Cell Tower",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "cellular",
+      "broadcast",
+      "phone",
+      "mobile",
+      "network",
+      "connection",
+      "connectivity",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-bar",
+    "component": "ChartBar",
+    "label": "Chart Bar",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "histogram",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-bar-horizontal",
+    "component": "ChartBarHorizontal",
+    "label": "Chart Bar Horizontal",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "histogram",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-donut",
+    "component": "ChartDonut",
+    "label": "Chart Donut",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "circle",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-line",
+    "component": "ChartLine",
+    "label": "Chart Line",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "stocks",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-line-down",
+    "component": "ChartLineDown",
+    "label": "Chart Line Down",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "stocks",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-line-up",
+    "component": "ChartLineUp",
+    "label": "Chart Line Up",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "stocks",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-pie",
+    "component": "ChartPie",
+    "label": "Chart Pie",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "circle",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-pie-slice",
+    "component": "ChartPieSlice",
+    "label": "Chart Pie Slice",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "circle",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-polar",
+    "component": "ChartPolar",
+    "label": "Chart Polar",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "circle",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chart-scatter",
+    "component": "ChartScatter",
+    "label": "Chart Scatter",
+    "category": "办公",
+    "tags": [
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-centered",
+    "component": "ChatCentered",
+    "label": "Chat Centered",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-centered-dots",
+    "component": "ChatCenteredDots",
+    "label": "Chat Centered Dots",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-centered-slash",
+    "component": "ChatCenteredSlash",
+    "label": "Chat Centered Slash",
+    "category": "沟通",
+    "tags": [
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-centered-text",
+    "component": "ChatCenteredText",
+    "label": "Chat Centered Text",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-circle",
+    "component": "ChatCircle",
+    "label": "Chat Circle",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "round",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-circle-dots",
+    "component": "ChatCircleDots",
+    "label": "Chat Circle Dots",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "round",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-circle-slash",
+    "component": "ChatCircleSlash",
+    "label": "Chat Circle Slash",
+    "category": "沟通",
+    "tags": [
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "round",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-circle-text",
+    "component": "ChatCircleText",
+    "label": "Chat Circle Text",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "round",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-dots",
+    "component": "ChatDots",
+    "label": "Chat Dots",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-slash",
+    "component": "ChatSlash",
+    "label": "Chat Slash",
+    "category": "沟通",
+    "tags": [
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-teardrop",
+    "component": "ChatTeardrop",
+    "label": "Chat Teardrop",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-teardrop-dots",
+    "component": "ChatTeardropDots",
+    "label": "Chat Teardrop Dots",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-teardrop-slash",
+    "component": "ChatTeardropSlash",
+    "label": "Chat Teardrop Slash",
+    "category": "沟通",
+    "tags": [
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-teardrop-text",
+    "component": "ChatTeardropText",
+    "label": "Chat Teardrop Text",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chat-text",
+    "component": "ChatText",
+    "label": "Chat Text",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chats",
+    "component": "Chats",
+    "label": "Chats",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "square",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chats-circle",
+    "component": "ChatsCircle",
+    "label": "Chats Circle",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "round",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chats-teardrop",
+    "component": "ChatsTeardrop",
+    "label": "Chats Teardrop",
+    "category": "沟通",
+    "tags": [
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "sms",
+      "texting",
+      "comment",
+      "bubble",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "circles-four",
+    "component": "CirclesFour",
+    "label": "Circles Four",
+    "category": "设计",
+    "tags": [
+      "round",
+      "shapes",
+      "polygons",
+      "4",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "circles-three",
+    "component": "CirclesThree",
+    "label": "Circles Three",
+    "category": "设计",
+    "tags": [
+      "round",
+      "shapes",
+      "polygons",
+      "3",
+      "asana",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "circles-three-plus",
+    "component": "CirclesThreePlus",
+    "label": "Circles Three Plus",
+    "category": "设计",
+    "tags": [
+      "round",
+      "shapes",
+      "polygons",
+      "3",
+      "+",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "circuitry",
+    "component": "Circuitry",
+    "label": "Circuitry",
+    "category": "科技",
+    "tags": [
+      "processor",
+      "microchip",
+      "computer",
+      "circuit",
+      "electronics",
+      "motherboard",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clipboard",
+    "component": "Clipboard",
+    "label": "Clipboard",
+    "category": "办公",
+    "tags": [
+      "copy",
+      "copied",
+      "checklist",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clipboard-text",
+    "component": "ClipboardText",
+    "label": "Clipboard Text",
+    "category": "办公",
+    "tags": [
+      "copy",
+      "copied",
+      "checklist",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock-afternoon",
+    "component": "ClockAfternoon",
+    "label": "Clock Afternoon",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "watch",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock-clockwise",
+    "component": "ClockClockwise",
+    "label": "Clock Clockwise",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "restore",
+      "fast forward",
+      "update",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock-countdown",
+    "component": "ClockCountdown",
+    "label": "Clock Countdown",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "watch",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock-counter-clockwise",
+    "component": "ClockCounterClockwise",
+    "label": "Clock Counter Clockwise",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "alarm",
+      "schedule",
+      "events",
+      "backup",
+      "rewind",
+      "history",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clock-user",
+    "component": "ClockUser",
+    "label": "Clock User",
+    "category": "系统",
+    "tags": [
+      "times",
+      "timer",
+      "shift",
+      "schedule",
+      "events",
+      "watch",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-arrow-down",
+    "component": "CloudArrowDown",
+    "label": "云朵 · arrow down",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "download",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-arrow-up",
+    "component": "CloudArrowUp",
+    "label": "云朵 · arrow up",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "upload",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-check",
+    "component": "CloudCheck",
+    "label": "云朵 · check",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "sync",
+      "synchronized",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-slash",
+    "component": "CloudSlash",
+    "label": "云朵 · slash",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "sync",
+      "disabled",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-warning",
+    "component": "CloudWarning",
+    "label": "云朵 · warning",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "errors",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-x",
+    "component": "CloudX",
+    "label": "云朵 · x",
+    "category": "系统",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "errors",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "columns",
+    "component": "Columns",
+    "label": "Columns",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "columns-plus-left",
+    "component": "ColumnsPlusLeft",
+    "label": "Columns Plus Left",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "prepend",
+      "insert",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "columns-plus-right",
+    "component": "ColumnsPlusRight",
+    "label": "Columns Plus Right",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "append",
+      "insert",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "computer-tower",
+    "component": "ComputerTower",
+    "label": "电脑 · tower",
+    "category": "科技",
+    "tags": [
+      "desktop",
+      "pc",
+      "imac",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "confetti",
+    "component": "Confetti",
+    "label": "Confetti",
+    "category": "沟通",
+    "tags": [
+      "tada",
+      "party",
+      "emoji",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "copy",
+    "component": "Copy",
+    "label": "Copy",
+    "category": "系统",
+    "tags": [
+      "duplicated",
+      "copied",
+      "clipboard",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "copy-simple",
+    "component": "CopySimple",
+    "label": "Copy Simple",
+    "category": "系统",
+    "tags": [
+      "duplicated",
+      "copied",
+      "clipboard",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cpu",
+    "component": "Cpu",
+    "label": "Cpu",
+    "category": "科技",
+    "tags": [
+      "processor",
+      "microchip",
+      "computer",
+      "circuit",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cross",
+    "component": "Cross",
+    "label": "Cross",
+    "category": "沟通",
+    "tags": [
+      "dagger",
+      "crucifix",
+      "christ",
+      "christianity",
+      "religion",
+      "worship",
+      "symbol",
+      "design",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cylinder",
+    "component": "Cylinder",
+    "label": "Cylinder",
+    "category": "设计",
+    "tags": [
+      "shapes",
+      "tube",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "database",
+    "component": "Database",
+    "label": "Database",
+    "category": "科技",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "hard disk",
+      "storage",
+      "hdd",
+      "servers",
+      "databases",
+      "technology & development",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "desktop",
+    "component": "Desktop",
+    "label": "Desktop",
+    "category": "科技",
+    "tags": [
+      "computer",
+      "pc",
+      "imac",
+      "tower",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "desktop-tower",
+    "component": "DesktopTower",
+    "label": "Desktop Tower",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "computer",
+      "pc",
+      "imac",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "diamonds-four",
+    "component": "DiamondsFour",
+    "label": "Diamonds Four",
+    "category": "设计",
+    "tags": [
+      "shapes",
+      "grid",
+      "component",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "download",
+    "component": "Download",
+    "label": "Download",
+    "category": "系统",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "downloaded",
+      "downloading",
+      "hard drive",
+      "disk",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "download-simple",
+    "component": "DownloadSimple",
+    "label": "Download Simple",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "downloaded",
+      "downloading",
+      "hard drive",
+      "disk",
+      "import",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "envelope",
+    "component": "Envelope",
+    "label": "信封",
+    "category": "沟通",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "message",
+      "post",
+      "letter",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "envelope-open",
+    "component": "EnvelopeOpen",
+    "label": "信封 · open",
+    "category": "沟通",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "message",
+      "read",
+      "post",
+      "letter",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "envelope-simple",
+    "component": "EnvelopeSimple",
+    "label": "信封 · simple",
+    "category": "沟通",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "message",
+      "post",
+      "letter",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "envelope-simple-open",
+    "component": "EnvelopeSimpleOpen",
+    "label": "信封 · simple open",
+    "category": "沟通",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "message",
+      "read",
+      "post",
+      "letter",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eraser",
+    "component": "Eraser",
+    "label": "Eraser",
+    "category": "设计",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "undo",
+      "deleted",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "exclamation-mark",
+    "component": "ExclamationMark",
+    "label": "Exclamation Mark",
+    "category": "系统",
+    "tags": [
+      "!",
+      "alert",
+      "warning",
+      "caution",
+      "interjection",
+      "punctuation",
+      "symbol",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "export",
+    "component": "Export",
+    "label": "Export",
+    "category": "沟通",
+    "tags": [
+      "share",
+      "send to",
+      "arrows",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eye",
+    "component": "Eye",
+    "label": "Eye",
+    "category": "设计",
+    "tags": [
+      "visible",
+      "hidden",
+      "show",
+      "hide",
+      "visibility",
+      "view",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eye-closed",
+    "component": "EyeClosed",
+    "label": "Eye Closed",
+    "category": "设计",
+    "tags": [
+      "visible",
+      "hidden",
+      "show",
+      "hide",
+      "visibility",
+      "view",
+      "invisible",
+      "private",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eye-slash",
+    "component": "EyeSlash",
+    "label": "Eye Slash",
+    "category": "设计",
+    "tags": [
+      "visible",
+      "hidden",
+      "show",
+      "hide",
+      "visibility",
+      "view",
+      "invisible",
+      "eyelashes",
+      "disabled",
+      "private",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file",
+    "component": "File",
+    "label": "文件",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "save",
+      "write",
+      "page",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-archive",
+    "component": "FileArchive",
+    "label": "文件 · archive",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "zip",
+      "compression",
+      "system",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-arrow-down",
+    "component": "FileArrowDown",
+    "label": "文件 · arrow down",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "save",
+      "write",
+      "download",
+      "directional",
+      "pointer",
+      "pointing",
+      "arrowhead",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-arrow-up",
+    "component": "FileArrowUp",
+    "label": "文件 · arrow up",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "save",
+      "write",
+      "upload",
+      "directional",
+      "pointer",
+      "pointing",
+      "arrowhead",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-cloud",
+    "component": "FileCloud",
+    "label": "文件 · cloud",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "sync",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-code",
+    "component": "FileCode",
+    "label": "文件 · code",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-cpp",
+    "component": "FileCpp",
+    "label": "文件 · cpp",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "code",
+      "c++",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-css",
+    "component": "FileCss",
+    "label": "文件 · css",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "code",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-csv",
+    "component": "FileCsv",
+    "label": "文件 · csv",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "data",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-doc",
+    "component": "FileDoc",
+    "label": "文件 · doc",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "word",
+      "microsoft",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-jsx",
+    "component": "FileJsx",
+    "label": "文件 · jsx",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "code",
+      "javascript",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-lock",
+    "component": "FileLock",
+    "label": "文件 · lock",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "secure",
+      "locked",
+      "private",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-magnifying-glass",
+    "component": "FileMagnifyingGlass",
+    "label": "文件 · magnifying glass",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "search",
+      "find",
+      "locate",
+      "browse",
+      "missing",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-md",
+    "component": "FileMd",
+    "label": "文件 · md",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "notes",
+      "markdown",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-minus",
+    "component": "FileMinus",
+    "label": "文件 · minus",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "delete",
+      "write",
+      "remove",
+      "-",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-pdf",
+    "component": "FilePdf",
+    "label": "文件 · pdf",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "acrobat",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-plus",
+    "component": "FilePlus",
+    "label": "文件 · plus",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "save",
+      "write",
+      "add",
+      "new",
+      "create",
+      "+",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-ppt",
+    "component": "FilePpt",
+    "label": "文件 · ppt",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "powerpoint",
+      "microsoft",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-sql",
+    "component": "FileSql",
+    "label": "文件 · sql",
+    "category": "科技",
+    "tags": [
+      "documents",
+      "database",
+      "system",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-text",
+    "component": "FileText",
+    "label": "文件 · text",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "save",
+      "write",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-tsx",
+    "component": "FileTsx",
+    "label": "文件 · tsx",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "code",
+      "typescript",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-txt",
+    "component": "FileTxt",
+    "label": "文件 · txt",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-vue",
+    "component": "FileVue",
+    "label": "文件 · vue",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "code",
+      "office",
+      "editor",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-x",
+    "component": "FileX",
+    "label": "文件 · x",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "files",
+      "cancelled",
+      "deleted",
+      "removed",
+      "errors",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-xls",
+    "component": "FileXls",
+    "label": "文件 · xls",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "excel",
+      "microsoft",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "file-zip",
+    "component": "FileZip",
+    "label": "文件 · zip",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "archive",
+      "compression",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "files",
+    "component": "Files",
+    "label": "Files",
+    "category": "办公",
+    "tags": [
+      "documents",
+      "open",
+      "library",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fingerprint",
+    "component": "Fingerprint",
+    "label": "Fingerprint",
+    "category": "系统",
+    "tags": [
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "biometrics",
+      "encrypted",
+      "encryption",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fingerprint-simple",
+    "component": "FingerprintSimple",
+    "label": "Fingerprint Simple",
+    "category": "系统",
+    "tags": [
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "biometrics",
+      "encrypted",
+      "encryption",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flip-horizontal",
+    "component": "FlipHorizontal",
+    "label": "Flip Horizontal",
+    "category": "设计",
+    "tags": [
+      "mirror",
+      "rotate",
+      "invert",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flip-vertical",
+    "component": "FlipVertical",
+    "label": "Flip Vertical",
+    "category": "设计",
+    "tags": [
+      "mirror",
+      "rotate",
+      "invert",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "floppy-disk",
+    "component": "FloppyDisk",
+    "label": "Floppy Disk",
+    "category": "办公",
+    "tags": [
+      "diskette",
+      "directory",
+      "directories",
+      "folders",
+      "documents",
+      "files",
+      "save",
+      "write",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "floppy-disk-back",
+    "component": "FloppyDiskBack",
+    "label": "Floppy Disk Back",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "diskette",
+      "directory",
+      "directories",
+      "folders",
+      "documents",
+      "files",
+      "save",
+      "write",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flow-arrow",
+    "component": "FlowArrow",
+    "label": "Flow Arrow",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "flowchart",
+      "arrowhead",
+      "arrows",
+      "design",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-dashed",
+    "component": "FolderDashed",
+    "label": "Folder Dashed",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "missing",
+      "temporary",
+      "dotted",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-lock",
+    "component": "FolderLock",
+    "label": "Folder Lock",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "private",
+      "secure",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-minus",
+    "component": "FolderMinus",
+    "label": "Folder Minus",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "delete",
+      "write",
+      "remove",
+      "-",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-open",
+    "component": "FolderOpen",
+    "label": "Folder Open",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "load",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-plus",
+    "component": "FolderPlus",
+    "label": "Folder Plus",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "save",
+      "write",
+      "add",
+      "new",
+      "create",
+      "+",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple",
+    "component": "FolderSimple",
+    "label": "Folder Simple",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple-dashed",
+    "component": "FolderSimpleDashed",
+    "label": "Folder Simple Dashed",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "missing",
+      "temporary",
+      "dotted",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple-lock",
+    "component": "FolderSimpleLock",
+    "label": "Folder Simple Lock",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "private",
+      "secure",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple-minus",
+    "component": "FolderSimpleMinus",
+    "label": "Folder Simple Minus",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "delete",
+      "write",
+      "remove",
+      "-",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple-plus",
+    "component": "FolderSimplePlus",
+    "label": "Folder Simple Plus",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "save",
+      "write",
+      "add",
+      "new",
+      "create",
+      "+",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-simple-star",
+    "component": "FolderSimpleStar",
+    "label": "Folder Simple Star",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "favorite",
+      "starred",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folder-star",
+    "component": "FolderStar",
+    "label": "Folder Star",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "favorite",
+      "starred",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "folders",
+    "component": "Folders",
+    "label": "Folders",
+    "category": "办公",
+    "tags": [
+      "directory",
+      "directories",
+      "files",
+      "folders",
+      "copy",
+      "copied",
+      "duplicated",
+      "office",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "frame-corners",
+    "component": "FrameCorners",
+    "label": "Frame Corners",
+    "category": "系统",
+    "tags": [
+      "expand",
+      "fullscreen",
+      "maximized",
+      "resize",
+      "windowed",
+      "capture",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gauge",
+    "component": "Gauge",
+    "label": "Gauge",
+    "category": "科技",
+    "tags": [
+      "dashboard",
+      "meter",
+      "speed",
+      "speedometer",
+      "odometer",
+      "performance",
+      "technology & development",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gear",
+    "component": "Gear",
+    "label": "Gear",
+    "category": "系统",
+    "tags": [
+      "8",
+      "settings",
+      "setup",
+      "preferences",
+      "cogs",
+      "gears",
+      "machinery",
+      "mechanical",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gear-fine",
+    "component": "GearFine",
+    "label": "Gear Fine",
+    "category": "系统",
+    "tags": [
+      "setup",
+      "preferences",
+      "cogs",
+      "gears",
+      "machinery",
+      "mechanical",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gear-six",
+    "component": "GearSix",
+    "label": "Gear Six",
+    "category": "系统",
+    "tags": [
+      "6",
+      "settings",
+      "setup",
+      "preferences",
+      "cogs",
+      "gears",
+      "machinery",
+      "mechanical",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-branch",
+    "component": "GitBranch",
+    "label": "Git Branch",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "branches",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-commit",
+    "component": "GitCommit",
+    "label": "Git Commit",
+    "category": "科技",
+    "tags": [
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "commits",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-diff",
+    "component": "GitDiff",
+    "label": "Git Diff",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "difference",
+      "compare",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-fork",
+    "component": "GitFork",
+    "label": "Git Fork",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "split",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-merge",
+    "component": "GitMerge",
+    "label": "Git Merge",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "split",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "git-pull-request",
+    "component": "GitPullRequest",
+    "label": "Git Pull Request",
+    "category": "科技",
+    "tags": [
+      "*updated*",
+      "github",
+      "vcs",
+      "source control",
+      "version control",
+      "versioning",
+      "merge request",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gradient",
+    "component": "Gradient",
+    "label": "Gradient",
+    "category": "设计",
+    "tags": [
+      "fade",
+      "ombre",
+      "opacity",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "graph",
+    "component": "Graph",
+    "label": "Graph",
+    "category": "办公",
+    "tags": [
+      "nodes",
+      "tree",
+      "office",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "graphics-card",
+    "component": "GraphicsCard",
+    "label": "Graphics Card",
+    "category": "科技",
+    "tags": [
+      "graphics card",
+      "microchip",
+      "computer",
+      "circuit",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "grid-four",
+    "component": "GridFour",
+    "label": "Grid Four",
+    "category": "设计",
+    "tags": [
+      "4",
+      "apps",
+      "applications",
+      "squares",
+      "tiles",
+      "cells",
+      "tables",
+      "tabular",
+      "spreadsheets",
+      "excel",
+      "design",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "grid-nine",
+    "component": "GridNine",
+    "label": "Grid Nine",
+    "category": "设计",
+    "tags": [
+      "9",
+      "apps",
+      "applications",
+      "squares",
+      "tiles",
+      "cells",
+      "tables",
+      "tabular",
+      "spreadsheets",
+      "excel",
+      "design",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hard-drive",
+    "component": "HardDrive",
+    "label": "Hard Drive",
+    "category": "系统",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "hard disk",
+      "storage",
+      "hdd",
+      "servers",
+      "databases",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hard-drives",
+    "component": "HardDrives",
+    "label": "Hard Drives",
+    "category": "系统",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "hard disk",
+      "storage",
+      "hdd",
+      "servers",
+      "databases",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "head-circuit",
+    "component": "HeadCircuit",
+    "label": "Head Circuit",
+    "category": "科技",
+    "tags": [
+      "automaton",
+      "artificial intelligence",
+      "ai",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "heart-break",
+    "component": "HeartBreak",
+    "label": "Heart Break",
+    "category": "沟通",
+    "tags": [
+      "love",
+      "hate",
+      "crack",
+      "split",
+      "divorce",
+      "emoji",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "heart-straight-break",
+    "component": "HeartStraightBreak",
+    "label": "Heart Straight Break",
+    "category": "沟通",
+    "tags": [
+      "love",
+      "hate",
+      "crack",
+      "split",
+      "divorce",
+      "emoji",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "highlighter",
+    "component": "Highlighter",
+    "label": "Highlighter",
+    "category": "办公",
+    "tags": [
+      "marker",
+      "write",
+      "writing",
+      "editing",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "highlighter-circle",
+    "component": "HighlighterCircle",
+    "label": "Highlighter Circle",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "drawing",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "info",
+    "component": "Info",
+    "label": "Info",
+    "category": "系统",
+    "tags": [
+      "information",
+      "help",
+      "support",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "kanban",
+    "component": "Kanban",
+    "label": "Kanban",
+    "category": "办公",
+    "tags": [
+      "scheduling",
+      "tasks",
+      "project management",
+      "process",
+      "lean",
+      "agile",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "key-return",
+    "component": "KeyReturn",
+    "label": "钥匙 · return",
+    "category": "系统",
+    "tags": [
+      "keyboard",
+      "enter",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "keyboard",
+    "component": "Keyboard",
+    "label": "键盘",
+    "category": "系统",
+    "tags": [
+      "typing",
+      "type",
+      "keys",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "laptop",
+    "component": "Laptop",
+    "label": "笔记本电脑",
+    "category": "科技",
+    "tags": [
+      "computer",
+      "notebook",
+      "pc",
+      "macbook",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "layout",
+    "component": "Layout",
+    "label": "Layout",
+    "category": "设计",
+    "tags": [
+      "wireframe",
+      "sidebar",
+      "ui",
+      "interface",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lectern",
+    "component": "Lectern",
+    "label": "Lectern",
+    "category": "办公",
+    "tags": [
+      "lecture",
+      "podium",
+      "pulpit",
+      "stand",
+      "speech",
+      "presentation",
+      "keynote",
+      "objects",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lightning-a",
+    "component": "LightningA",
+    "label": "闪电 · a",
+    "category": "系统",
+    "tags": [
+      "flash",
+      "auto",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lightning-slash",
+    "component": "LightningSlash",
+    "label": "闪电 · slash",
+    "category": "系统",
+    "tags": [
+      "thunderbolt",
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "electricity",
+      "disabled",
+      "flash",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link",
+    "component": "Link",
+    "label": "Link",
+    "category": "沟通",
+    "tags": [
+      "*updated*",
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link-break",
+    "component": "LinkBreak",
+    "label": "Link Break",
+    "category": "沟通",
+    "tags": [
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "errors",
+      "broken",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link-simple",
+    "component": "LinkSimple",
+    "label": "Link Simple",
+    "category": "沟通",
+    "tags": [
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link-simple-break",
+    "component": "LinkSimpleBreak",
+    "label": "Link Simple Break",
+    "category": "沟通",
+    "tags": [
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "errors",
+      "broken",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link-simple-horizontal",
+    "component": "LinkSimpleHorizontal",
+    "label": "Link Simple Horizontal",
+    "category": "沟通",
+    "tags": [
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "link-simple-horizontal-break",
+    "component": "LinkSimpleHorizontalBreak",
+    "label": "Link Simple Horizontal Break",
+    "category": "沟通",
+    "tags": [
+      "anchor",
+      "hyperlink",
+      "hypertext",
+      "chains",
+      "chained",
+      "errors",
+      "broken",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "list",
+    "component": "List",
+    "label": "List",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "hamburger menu",
+      "overflow menu",
+      "sidebar",
+      "3",
+      "ul",
+      "ol",
+      "unordered list",
+      "ordered list",
+      "checklist",
+      "lines",
+      "system",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "list-checks",
+    "component": "ListChecks",
+    "label": "List Checks",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "checklist",
+      "todo",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "list-heart",
+    "component": "ListHeart",
+    "label": "List Heart",
+    "category": "系统",
+    "tags": [
+      "favorites",
+      "wishlist",
+      "liked",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "list-magnifying-glass",
+    "component": "ListMagnifyingGlass",
+    "label": "List Magnifying Glass",
+    "category": "系统",
+    "tags": [
+      "search",
+      "find",
+      "locate",
+      "query",
+      "inspect",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "list-star",
+    "component": "ListStar",
+    "label": "List Star",
+    "category": "系统",
+    "tags": [
+      "favorites",
+      "wishlist",
+      "liked",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magnet",
+    "component": "Magnet",
+    "label": "Magnet",
+    "category": "科技",
+    "tags": [
+      "magnetism",
+      "science",
+      "physics",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magnet-straight",
+    "component": "MagnetStraight",
+    "label": "Magnet Straight",
+    "category": "科技",
+    "tags": [
+      "magnetism",
+      "science",
+      "physics",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magnifying-glass",
+    "component": "MagnifyingGlass",
+    "label": "Magnifying Glass",
+    "category": "系统",
+    "tags": [
+      "search",
+      "find",
+      "locate",
+      "query",
+      "inspect",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magnifying-glass-minus",
+    "component": "MagnifyingGlassMinus",
+    "label": "Magnifying Glass Minus",
+    "category": "系统",
+    "tags": [
+      "search",
+      "find",
+      "locate",
+      "query",
+      "inspect",
+      "zoom out",
+      "-",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magnifying-glass-plus",
+    "component": "MagnifyingGlassPlus",
+    "label": "Magnifying Glass Plus",
+    "category": "系统",
+    "tags": [
+      "search",
+      "find",
+      "locate",
+      "query",
+      "inspect",
+      "zoom in",
+      "+",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "marker-circle",
+    "component": "MarkerCircle",
+    "label": "Marker Circle",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "drawing",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "megaphone",
+    "component": "Megaphone",
+    "label": "Megaphone",
+    "category": "沟通",
+    "tags": [
+      "bullhorn",
+      "announcements",
+      "loudspeaker",
+      "broadcast",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "megaphone-simple",
+    "component": "MegaphoneSimple",
+    "label": "Megaphone Simple",
+    "category": "沟通",
+    "tags": [
+      "bullhorn",
+      "announcements",
+      "loudspeaker",
+      "broadcast",
+      "communications",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "memory",
+    "component": "Memory",
+    "label": "Memory",
+    "category": "科技",
+    "tags": [
+      "ram",
+      "microchip",
+      "computer",
+      "circuit",
+      "electronics",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "microphone",
+    "component": "Microphone",
+    "label": "麦克风",
+    "category": "沟通",
+    "tags": [
+      "audio",
+      "recording",
+      "music",
+      "sound",
+      "podcast",
+      "studio",
+      "communications",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "microphone-slash",
+    "component": "MicrophoneSlash",
+    "label": "麦克风 · slash",
+    "category": "沟通",
+    "tags": [
+      "audio",
+      "recording",
+      "music",
+      "sound",
+      "podcast",
+      "studio",
+      "muted",
+      "disabled",
+      "communications",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "microphone-stage",
+    "component": "MicrophoneStage",
+    "label": "麦克风 · stage",
+    "category": "沟通",
+    "tags": [
+      "audio",
+      "recording",
+      "music",
+      "sound",
+      "performance",
+      "concert",
+      "communications",
+      "media",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "monitor",
+    "component": "Monitor",
+    "label": "显示器",
+    "category": "系统",
+    "tags": [
+      "screen",
+      "television",
+      "tv",
+      "displays",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse",
+    "component": "Mouse",
+    "label": "鼠标",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse-left-click",
+    "component": "MouseLeftClick",
+    "label": "鼠标 · left click",
+    "category": "系统",
+    "tags": [
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse-middle-click",
+    "component": "MouseMiddleClick",
+    "label": "鼠标 · middle click",
+    "category": "系统",
+    "tags": [
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse-right-click",
+    "component": "MouseRightClick",
+    "label": "鼠标 · right click",
+    "category": "系统",
+    "tags": [
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse-scroll",
+    "component": "MouseScroll",
+    "label": "鼠标 · scroll",
+    "category": "系统",
+    "tags": [
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mouse-simple",
+    "component": "MouseSimple",
+    "label": "鼠标 · simple",
+    "category": "系统",
+    "tags": [
+      "clicks",
+      "input",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "network",
+    "component": "Network",
+    "label": "Network",
+    "category": "系统",
+    "tags": [
+      "internet",
+      "ethernet",
+      "lan",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "network-slash",
+    "component": "NetworkSlash",
+    "label": "Network Slash",
+    "category": "系统",
+    "tags": [
+      "internet",
+      "ethernet",
+      "lan",
+      "error",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "network-x",
+    "component": "NetworkX",
+    "label": "Network X",
+    "category": "系统",
+    "tags": [
+      "internet",
+      "ethernet",
+      "lan",
+      "disabled",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "notches",
+    "component": "Notches",
+    "label": "Notches",
+    "category": "系统",
+    "tags": [
+      "textarea",
+      "resize",
+      "drag handle",
+      "knurling",
+      "system",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "note",
+    "component": "Note",
+    "label": "Note",
+    "category": "办公",
+    "tags": [
+      "notes",
+      "note-taking",
+      "memorandum",
+      "post-it",
+      "reminders",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "note-blank",
+    "component": "NoteBlank",
+    "label": "Note Blank",
+    "category": "办公",
+    "tags": [
+      "notes",
+      "note-taking",
+      "memorandum",
+      "post-it",
+      "reminders",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "note-pencil",
+    "component": "NotePencil",
+    "label": "Note Pencil",
+    "category": "办公",
+    "tags": [
+      "notes",
+      "note-taking",
+      "memorandum",
+      "post-it",
+      "reminders",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "notebook",
+    "component": "Notebook",
+    "label": "笔记本",
+    "category": "办公",
+    "tags": [
+      "notes",
+      "note-taking",
+      "memorandum",
+      "journal",
+      "diary",
+      "logs",
+      "logbook",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "notepad",
+    "component": "Notepad",
+    "label": "Notepad",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "logs",
+      "logbook",
+      "notes",
+      "note-taking",
+      "memorandum",
+      "journal",
+      "diary",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "notification",
+    "component": "Notification",
+    "label": "Notification",
+    "category": "系统",
+    "tags": [
+      "badge",
+      "pip",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "numpad",
+    "component": "Numpad",
+    "label": "Numpad",
+    "category": "沟通",
+    "tags": [
+      "dialer",
+      "dialpad",
+      "call-center",
+      "telephone",
+      "landline",
+      "password",
+      "passcode",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "package",
+    "component": "Package",
+    "label": "包裹",
+    "category": "科技",
+    "tags": [
+      "packages",
+      "boxes",
+      "delivery",
+      "mail",
+      "postal service",
+      "bundles",
+      "library",
+      "libraries",
+      "shipping",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paperclip",
+    "component": "Paperclip",
+    "label": "Paperclip",
+    "category": "沟通",
+    "tags": [
+      "attachments",
+      "mail",
+      "email",
+      "office",
+      "communications",
+      "editor",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paperclip-horizontal",
+    "component": "PaperclipHorizontal",
+    "label": "Paperclip Horizontal",
+    "category": "沟通",
+    "tags": [
+      "attachments",
+      "mail",
+      "email",
+      "office",
+      "communications",
+      "editor",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "parachute",
+    "component": "Parachute",
+    "label": "降落伞",
+    "category": "科技",
+    "tags": [
+      "skydiving",
+      "safety",
+      "objects",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "password",
+    "component": "Password",
+    "label": "Password",
+    "category": "系统",
+    "tags": [
+      "security",
+      "secured",
+      "authentication",
+      "authenticated",
+      "login",
+      "locked",
+      "encrypted",
+      "encryption",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "peace",
+    "component": "Peace",
+    "label": "Peace",
+    "category": "沟通",
+    "tags": [
+      "love",
+      "hippies",
+      "peace sign",
+      "symbols",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pen-nib",
+    "component": "PenNib",
+    "label": "Pen Nib",
+    "category": "办公",
+    "tags": [
+      "ink",
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "fountain pen",
+      "illustrator",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pen-nib-straight",
+    "component": "PenNibStraight",
+    "label": "Pen Nib Straight",
+    "category": "办公",
+    "tags": [
+      "ink",
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "fountain pen",
+      "illustrator",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil",
+    "component": "Pencil",
+    "label": "铅笔",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-circle",
+    "component": "PencilCircle",
+    "label": "铅笔 · circle",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-line",
+    "component": "PencilLine",
+    "label": "铅笔 · line",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-ruler",
+    "component": "PencilRuler",
+    "label": "铅笔 · ruler",
+    "category": "办公",
+    "tags": [
+      "drawing",
+      "drafting",
+      "construction",
+      "tools",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-simple",
+    "component": "PencilSimple",
+    "label": "铅笔 · simple",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-simple-line",
+    "component": "PencilSimpleLine",
+    "label": "铅笔 · simple line",
+    "category": "办公",
+    "tags": [
+      "write",
+      "writing",
+      "editing",
+      "sign",
+      "signature",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-simple-slash",
+    "component": "PencilSimpleSlash",
+    "label": "铅笔 · simple slash",
+    "category": "办公",
+    "tags": [
+      "read-only",
+      "write",
+      "writing",
+      "editing",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pencil-slash",
+    "component": "PencilSlash",
+    "label": "铅笔 · slash",
+    "category": "办公",
+    "tags": [
+      "read-only",
+      "write",
+      "writing",
+      "editing",
+      "design",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "perspective",
+    "component": "Perspective",
+    "label": "Perspective",
+    "category": "设计",
+    "tags": [
+      "3d",
+      "skew",
+      "warp",
+      "trapezoid",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone",
+    "component": "Phone",
+    "label": "电话",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-call",
+    "component": "PhoneCall",
+    "label": "电话 · call",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "calling",
+      "ringing",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-disconnect",
+    "component": "PhoneDisconnect",
+    "label": "电话 · disconnect",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "hang up",
+      "disconnected",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-incoming",
+    "component": "PhoneIncoming",
+    "label": "电话 · incoming",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "calling",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-list",
+    "component": "PhoneList",
+    "label": "电话 · list",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "call-center",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-outgoing",
+    "component": "PhoneOutgoing",
+    "label": "电话 · outgoing",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "calling",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-pause",
+    "component": "PhonePause",
+    "label": "电话 · pause",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "hold",
+      "call-center",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-plus",
+    "component": "PhonePlus",
+    "label": "电话 · plus",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "telephone",
+      "landline",
+      "talk",
+      "conference",
+      "add",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-slash",
+    "component": "PhoneSlash",
+    "label": "电话 · slash",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "disabled",
+      "disconnected",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-transfer",
+    "component": "PhoneTransfer",
+    "label": "电话 · transfer",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "call-center",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "phone-x",
+    "component": "PhoneX",
+    "label": "电话 · x",
+    "category": "沟通",
+    "tags": [
+      "calls",
+      "missed",
+      "errors",
+      "telephone",
+      "landline",
+      "talk",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "placeholder",
+    "component": "Placeholder",
+    "label": "Placeholder",
+    "category": "设计",
+    "tags": [
+      "empty",
+      "notdef",
+      "tofu",
+      "rectangle slash",
+      "missing",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "power",
+    "component": "Power",
+    "label": "Power",
+    "category": "系统",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "on",
+      "off",
+      "on/off",
+      "switch",
+      "power switch",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "presentation",
+    "component": "Presentation",
+    "label": "Presentation",
+    "category": "办公",
+    "tags": [
+      "whiteboard",
+      "flipchart",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "meeting",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "presentation-chart",
+    "component": "PresentationChart",
+    "label": "Presentation Chart",
+    "category": "办公",
+    "tags": [
+      "whiteboard",
+      "flipchart",
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "meeting",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "printer",
+    "component": "Printer",
+    "label": "打印机",
+    "category": "办公",
+    "tags": [
+      "printing",
+      "editor",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "projector-screen-chart",
+    "component": "ProjectorScreenChart",
+    "label": "Projector Screen Chart",
+    "category": "办公",
+    "tags": [
+      "projection",
+      "presentation",
+      "slideshow",
+      "graphs",
+      "graphing",
+      "charts",
+      "statistics",
+      "analyze",
+      "analysis",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "qr-code",
+    "component": "QrCode",
+    "label": "Qr Code",
+    "category": "系统",
+    "tags": [
+      "upc",
+      "barcode",
+      "products",
+      "shopping",
+      "scanner",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "question",
+    "component": "Question",
+    "label": "Question",
+    "category": "系统",
+    "tags": [
+      "information",
+      "help",
+      "support",
+      "questions",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "question-mark",
+    "component": "QuestionMark",
+    "label": "Question Mark",
+    "category": "系统",
+    "tags": [
+      "?",
+      "information",
+      "help",
+      "support",
+      "questions",
+      "punctuation",
+      "symbol",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "radio",
+    "component": "Radio",
+    "label": "Radio",
+    "category": "沟通",
+    "tags": [
+      "broadcast",
+      "fm",
+      "am",
+      "xm",
+      "transmitter",
+      "receiver",
+      "communications",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "radio-button",
+    "component": "RadioButton",
+    "label": "Radio Button",
+    "category": "系统",
+    "tags": [
+      "input",
+      "checkbox",
+      "checked",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "robot",
+    "component": "Robot",
+    "label": "机器人",
+    "category": "科技",
+    "tags": [
+      "automaton",
+      "artificial intelligence",
+      "ai",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rows",
+    "component": "Rows",
+    "label": "Rows",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rows-plus-bottom",
+    "component": "RowsPlusBottom",
+    "label": "Rows Plus Bottom",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "prepend",
+      "insert",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rows-plus-top",
+    "component": "RowsPlusTop",
+    "label": "Rows Plus Top",
+    "category": "设计",
+    "tags": [
+      "2",
+      "shapes",
+      "polygons",
+      "box",
+      "stack",
+      "list",
+      "table",
+      "cards",
+      "prepend",
+      "insert",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rss",
+    "component": "Rss",
+    "label": "Rss",
+    "category": "沟通",
+    "tags": [
+      "radio",
+      "broadcast",
+      "web feed",
+      "news",
+      "aggregator",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rss-simple",
+    "component": "RssSimple",
+    "label": "Rss Simple",
+    "category": "沟通",
+    "tags": [
+      "radio",
+      "broadcast",
+      "web feed",
+      "news",
+      "aggregator",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scan",
+    "component": "Scan",
+    "label": "Scan",
+    "category": "系统",
+    "tags": [
+      "upc",
+      "barcode",
+      "products",
+      "shopping",
+      "scanner",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scissors",
+    "component": "Scissors",
+    "label": "剪刀",
+    "category": "办公",
+    "tags": [
+      "*updated*",
+      "cut",
+      "snip",
+      "clipboard",
+      "design",
+      "editor",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scribble",
+    "component": "Scribble",
+    "label": "Scribble",
+    "category": "设计",
+    "tags": [
+      "doodles",
+      "squiggle",
+      "drawing",
+      "sign",
+      "signature",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scribble-loop",
+    "component": "ScribbleLoop",
+    "label": "Scribble Loop",
+    "category": "设计",
+    "tags": [
+      "doodles",
+      "drawing",
+      "sign",
+      "signature",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seal",
+    "component": "Seal",
+    "label": "Seal",
+    "category": "设计",
+    "tags": [
+      "badge",
+      "verified",
+      "verification",
+      "shapes",
+      "polygons",
+      "circle-wavy",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seal-check",
+    "component": "SealCheck",
+    "label": "Seal Check",
+    "category": "设计",
+    "tags": [
+      "badge",
+      "verified",
+      "verification",
+      "shapes",
+      "polygons",
+      "circle-wavy",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seal-percent",
+    "component": "SealPercent",
+    "label": "Seal Percent",
+    "category": "设计",
+    "tags": [
+      "badge",
+      "discount",
+      "sale",
+      "shapes",
+      "polygons",
+      "circle-wavy",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seal-question",
+    "component": "SealQuestion",
+    "label": "Seal Question",
+    "category": "设计",
+    "tags": [
+      "badge",
+      "unverified",
+      "verification",
+      "shapes",
+      "polygons",
+      "circle-wavy",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seal-warning",
+    "component": "SealWarning",
+    "label": "Seal Warning",
+    "category": "设计",
+    "tags": [
+      "badge",
+      "unverified",
+      "verification",
+      "errors",
+      "shapes",
+      "polygons",
+      "circle-wavy",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shapes",
+    "component": "Shapes",
+    "label": "Shapes",
+    "category": "设计",
+    "tags": [
+      "geometry",
+      "square",
+      "circle",
+      "triangle",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "share",
+    "component": "Share",
+    "label": "Share",
+    "category": "沟通",
+    "tags": [
+      "send to",
+      "export",
+      "arrows",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "share-fat",
+    "component": "ShareFat",
+    "label": "Share Fat",
+    "category": "沟通",
+    "tags": [
+      "export",
+      "send to",
+      "arrows",
+      "system",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "share-network",
+    "component": "ShareNetwork",
+    "label": "Share Network",
+    "category": "沟通",
+    "tags": [
+      "send to",
+      "export",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sidebar",
+    "component": "Sidebar",
+    "label": "Sidebar",
+    "category": "设计",
+    "tags": [
+      "left rail",
+      "wireframe",
+      "ui",
+      "interface",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sidebar-simple",
+    "component": "SidebarSimple",
+    "label": "Sidebar Simple",
+    "category": "设计",
+    "tags": [
+      "left rail",
+      "wireframe",
+      "ui",
+      "interface",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sign-in",
+    "component": "SignIn",
+    "label": "Sign In",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "signin",
+      "login",
+      "log in",
+      "enter",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sign-out",
+    "component": "SignOut",
+    "label": "Sign Out",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "signout",
+      "logout",
+      "log out",
+      "exit",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sim-card",
+    "component": "SimCard",
+    "label": "Sim Card",
+    "category": "沟通",
+    "tags": [
+      "*updated*",
+      "cellular",
+      "cellphone",
+      "mobile",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "speedometer",
+    "component": "Speedometer",
+    "label": "Speedometer",
+    "category": "科技",
+    "tags": [
+      "gauge",
+      "dashboard",
+      "meter",
+      "speed",
+      "odometer",
+      "performance",
+      "technology & development",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sphere",
+    "component": "Sphere",
+    "label": "Sphere",
+    "category": "设计",
+    "tags": [
+      "circle",
+      "ball",
+      "3d",
+      "mesh",
+      "cad",
+      "model",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spinner",
+    "component": "Spinner",
+    "label": "Spinner",
+    "category": "系统",
+    "tags": [
+      "loading",
+      "loader",
+      "waiting",
+      "progress",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spinner-ball",
+    "component": "SpinnerBall",
+    "label": "Spinner Ball",
+    "category": "系统",
+    "tags": [
+      "loading",
+      "loader",
+      "waiting",
+      "progress",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spinner-gap",
+    "component": "SpinnerGap",
+    "label": "Spinner Gap",
+    "category": "系统",
+    "tags": [
+      "loading",
+      "loader",
+      "waiting",
+      "progress",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spiral",
+    "component": "Spiral",
+    "label": "Spiral",
+    "category": "沟通",
+    "tags": [
+      "*updated*",
+      "spin",
+      "rotate",
+      "dizzy",
+      "communications",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "squares-four",
+    "component": "SquaresFour",
+    "label": "Squares Four",
+    "category": "设计",
+    "tags": [
+      "4",
+      "shapes",
+      "polygons",
+      "apps",
+      "applications",
+      "grid",
+      "table",
+      "microsoft",
+      "logos",
+      "design",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stack",
+    "component": "Stack",
+    "label": "Stack",
+    "category": "办公",
+    "tags": [
+      "cards",
+      "layers",
+      "design",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stack-minus",
+    "component": "StackMinus",
+    "label": "Stack Minus",
+    "category": "办公",
+    "tags": [
+      "cards",
+      "layers",
+      "remove",
+      "delete",
+      "design",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stack-plus",
+    "component": "StackPlus",
+    "label": "Stack Plus",
+    "category": "办公",
+    "tags": [
+      "cards",
+      "layers",
+      "add",
+      "design",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stack-simple",
+    "component": "StackSimple",
+    "label": "Stack Simple",
+    "category": "办公",
+    "tags": [
+      "cards",
+      "layers",
+      "design",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "star-half",
+    "component": "StarHalf",
+    "label": "Star Half",
+    "category": "沟通",
+    "tags": [
+      "rate",
+      "ratings",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sticker",
+    "component": "Sticker",
+    "label": "Sticker",
+    "category": "沟通",
+    "tags": [
+      "stickers",
+      "sticker pack",
+      "labels",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "suitcase",
+    "component": "Suitcase",
+    "label": "行李箱",
+    "category": "办公",
+    "tags": [
+      "briefcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "suitcase-simple",
+    "component": "SuitcaseSimple",
+    "label": "行李箱 · simple",
+    "category": "办公",
+    "tags": [
+      "briefcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "swap",
+    "component": "Swap",
+    "label": "Swap",
+    "category": "设计",
+    "tags": [
+      "layers",
+      "replace",
+      "exchange",
+      "reverse",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "table",
+    "component": "Table",
+    "label": "Table",
+    "category": "办公",
+    "tags": [
+      "tables",
+      "tabular",
+      "spreadsheets",
+      "excel",
+      "grid",
+      "form",
+      "finances",
+      "office",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tabs",
+    "component": "Tabs",
+    "label": "Tabs",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "browser",
+      "window",
+      "folders",
+      "files",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "terminal",
+    "component": "Terminal",
+    "label": "Terminal",
+    "category": "科技",
+    "tags": [
+      "command line",
+      "cli",
+      "bash",
+      "shell",
+      "caret",
+      "console",
+      "technology & development",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "terminal-window",
+    "component": "TerminalWindow",
+    "label": "Terminal Window",
+    "category": "科技",
+    "tags": [
+      "command line",
+      "cli",
+      "bash",
+      "shell",
+      "caret",
+      "console",
+      "technology & development",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "textbox",
+    "component": "Textbox",
+    "label": "Textbox",
+    "category": "系统",
+    "tags": [
+      "input",
+      "cursor",
+      "field",
+      "editor",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "toggle-left",
+    "component": "ToggleLeft",
+    "label": "Toggle Left",
+    "category": "系统",
+    "tags": [
+      "switch",
+      "controls",
+      "settings",
+      "preferences",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "toggle-right",
+    "component": "ToggleRight",
+    "label": "Toggle Right",
+    "category": "系统",
+    "tags": [
+      "switch",
+      "controls",
+      "settings",
+      "preferences",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "trash",
+    "component": "Trash",
+    "label": "垃圾桶",
+    "category": "办公",
+    "tags": [
+      "garbage",
+      "remove",
+      "delete",
+      "destroy",
+      "recycle",
+      "recycling",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "trash-simple",
+    "component": "TrashSimple",
+    "label": "垃圾桶 · simple",
+    "category": "办公",
+    "tags": [
+      "garbage",
+      "remove",
+      "delete",
+      "destroy",
+      "recycle",
+      "recycling",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tray",
+    "component": "Tray",
+    "label": "Tray",
+    "category": "沟通",
+    "tags": [
+      "inbox",
+      "mailbox",
+      "bin",
+      "office",
+      "communications",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tray-arrow-down",
+    "component": "TrayArrowDown",
+    "label": "Tray Arrow Down",
+    "category": "办公",
+    "tags": [
+      "inbox",
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "downloaded",
+      "downloading",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tray-arrow-up",
+    "component": "TrayArrowUp",
+    "label": "Tray Arrow Up",
+    "category": "办公",
+    "tags": [
+      "outbox",
+      "archival",
+      "unarchive",
+      "uploaded",
+      "uploading",
+      "office",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tree-structure",
+    "component": "TreeStructure",
+    "label": "树 · structure",
+    "category": "办公",
+    "tags": [
+      "data structures",
+      "family tree",
+      "genealogy",
+      "hierarchy",
+      "taxonomy",
+      "charts",
+      "flowchart",
+      "technology & development",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tree-view",
+    "component": "TreeView",
+    "label": "树 · view",
+    "category": "系统",
+    "tags": [
+      "hierarchy",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "trolley",
+    "component": "Trolley",
+    "label": "Trolley",
+    "category": "办公",
+    "tags": [
+      "airport",
+      "briefcase",
+      "valise",
+      "baggage",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "trolley-suitcase",
+    "component": "TrolleySuitcase",
+    "label": "Trolley Suitcase",
+    "category": "办公",
+    "tags": [
+      "airport",
+      "briefcase",
+      "valise",
+      "baggage",
+      "office",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "unite",
+    "component": "Unite",
+    "label": "Unite",
+    "category": "设计",
+    "tags": [
+      "*updated*",
+      "round",
+      "join",
+      "union",
+      "merge",
+      "combine",
+      "intersecting",
+      "intersection",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "unite-square",
+    "component": "UniteSquare",
+    "label": "Unite Square",
+    "category": "设计",
+    "tags": [
+      "join",
+      "union",
+      "merge",
+      "combine",
+      "intersecting",
+      "intersection",
+      "design",
+      "editor"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "upload",
+    "component": "Upload",
+    "label": "Upload",
+    "category": "系统",
+    "tags": [
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "uploaded",
+      "uploading",
+      "hard drive",
+      "disk",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "upload-simple",
+    "component": "UploadSimple",
+    "label": "Upload Simple",
+    "category": "系统",
+    "tags": [
+      "*updated*",
+      "saved",
+      "saving",
+      "archived",
+      "archiving",
+      "archival",
+      "uploaded",
+      "uploading",
+      "hard drive",
+      "disk",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "vibrate",
+    "component": "Vibrate",
+    "label": "Vibrate",
+    "category": "系统",
+    "tags": [
+      "audio",
+      "volume",
+      "viration",
+      "ringer",
+      "calls",
+      "silent",
+      "silenced",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "video-conference",
+    "component": "VideoConference",
+    "label": "Video Conference",
+    "category": "沟通",
+    "tags": [
+      "video call",
+      "zoom",
+      "skype",
+      "discord",
+      "facetime",
+      "meeting",
+      "media",
+      "system",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "vignette",
+    "component": "Vignette",
+    "label": "Vignette",
+    "category": "设计",
+    "tags": [
+      "photography",
+      "darkroom",
+      "movie",
+      "analog",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "voicemail",
+    "component": "Voicemail",
+    "label": "Voicemail",
+    "category": "系统",
+    "tags": [
+      "phonecalls",
+      "missed",
+      "recording",
+      "telephone",
+      "landline",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "warning",
+    "component": "Warning",
+    "label": "Warning",
+    "category": "系统",
+    "tags": [
+      "alert",
+      "danger",
+      "dangerous",
+      "caution",
+      "errors",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "warning-circle",
+    "component": "WarningCircle",
+    "label": "Warning Circle",
+    "category": "系统",
+    "tags": [
+      "alert",
+      "danger",
+      "dangerous",
+      "caution",
+      "errors",
+      "round",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "warning-diamond",
+    "component": "WarningDiamond",
+    "label": "Warning Diamond",
+    "category": "系统",
+    "tags": [
+      "alert",
+      "danger",
+      "dangerous",
+      "caution",
+      "errors",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "warning-octagon",
+    "component": "WarningOctagon",
+    "label": "Warning Octagon",
+    "category": "系统",
+    "tags": [
+      "alert",
+      "danger",
+      "dangerous",
+      "caution",
+      "errors",
+      "8",
+      "eight",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "webcam",
+    "component": "Webcam",
+    "label": "摄像头",
+    "category": "沟通",
+    "tags": [
+      "camera",
+      "video conference",
+      "objects",
+      "system",
+      "communications"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "webcam-slash",
+    "component": "WebcamSlash",
+    "label": "摄像头 · slash",
+    "category": "沟通",
+    "tags": [
+      "camera",
+      "video conference",
+      "communications",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-high",
+    "component": "WifiHigh",
+    "label": "Wifi High",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-low",
+    "component": "WifiLow",
+    "label": "Wifi Low",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-medium",
+    "component": "WifiMedium",
+    "label": "Wifi Medium",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-none",
+    "component": "WifiNone",
+    "label": "Wifi None",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-slash",
+    "component": "WifiSlash",
+    "label": "Wifi Slash",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "disabled",
+      "disconnected",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wifi-x",
+    "component": "WifiX",
+    "label": "Wifi X",
+    "category": "系统",
+    "tags": [
+      "wireless",
+      "internet",
+      "network",
+      "connection",
+      "connectivity",
+      "disconnected",
+      "errors",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "yin-yang",
+    "component": "YinYang",
+    "label": "Yin Yang",
+    "category": "沟通",
+    "tags": [
+      "symbol",
+      "good",
+      "evil",
+      "black",
+      "white",
+      "communications"
+    ],
+    "source": "phosphor"
+  }
+]

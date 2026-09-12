@@ -1,0 +1,3790 @@
+[
+  {
+    "name": "coffee",
+    "component": "Coffee",
+    "label": "咖啡",
+    "category": "生活",
+    "tags": [
+      "cup",
+      "drink",
+      "杯子",
+      "饮品"
+    ]
+  },
+  {
+    "name": "gift",
+    "component": "Gift",
+    "label": "礼物",
+    "category": "生活",
+    "tags": [
+      "present",
+      "surprise",
+      "惊喜",
+      "礼盒"
+    ]
+  },
+  {
+    "name": "air-traffic-control",
+    "component": "AirTrafficControl",
+    "label": "空中管制",
+    "category": "旅行",
+    "tags": [
+      "airport",
+      "travel",
+      "transportation",
+      "buildings",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane",
+    "component": "Airplane",
+    "label": "飞机",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane-in-flight",
+    "component": "AirplaneInFlight",
+    "label": "飞机 · in flight",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "arrival",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane-landing",
+    "component": "AirplaneLanding",
+    "label": "飞机 · landing",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "arrival",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane-takeoff",
+    "component": "AirplaneTakeoff",
+    "label": "飞机 · takeoff",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "departure",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane-taxiing",
+    "component": "AirplaneTaxiing",
+    "label": "飞机 · taxiing",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "arrival",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "airplane-tilt",
+    "component": "AirplaneTilt",
+    "label": "飞机 · tilt",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "airports",
+      "flights",
+      "flying",
+      "planes",
+      "transit",
+      "transportation",
+      "traveling",
+      "departure",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "armchair",
+    "component": "Armchair",
+    "label": "Armchair",
+    "category": "商业",
+    "tags": [
+      "seat",
+      "furniture",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "axe",
+    "component": "Axe",
+    "label": "Axe",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "carpentry",
+      "forestry",
+      "construction",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "backpack",
+    "component": "Backpack",
+    "label": "背包",
+    "category": "商业",
+    "tags": [
+      "knapsack",
+      "camping",
+      "school",
+      "bag",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bag",
+    "component": "Bag",
+    "label": "Bag",
+    "category": "商业",
+    "tags": [
+      "suitcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bag-simple",
+    "component": "BagSimple",
+    "label": "Bag Simple",
+    "category": "商业",
+    "tags": [
+      "suitcase",
+      "valise",
+      "baggage",
+      "folders",
+      "portfolio",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "balloon",
+    "component": "Balloon",
+    "label": "气球",
+    "category": "商业",
+    "tags": [
+      "helium",
+      "birthday",
+      "party",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bank",
+    "component": "Bank",
+    "label": "Bank",
+    "category": "旅行",
+    "tags": [
+      "banking",
+      "checking",
+      "money",
+      "savings",
+      "deposit",
+      "withdraw",
+      "places",
+      "locations",
+      "finances",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "barcode",
+    "component": "Barcode",
+    "label": "Barcode",
+    "category": "商业",
+    "tags": [
+      "upc",
+      "qr",
+      "products",
+      "shopping",
+      "scanner",
+      "commerce",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "barn",
+    "component": "Barn",
+    "label": "谷仓",
+    "category": "旅行",
+    "tags": [
+      "animals",
+      "livestock",
+      "buildings",
+      "farming",
+      "agriculture",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "barricade",
+    "component": "Barricade",
+    "label": "Barricade",
+    "category": "旅行",
+    "tags": [
+      "construction",
+      "safety",
+      "gate",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "baseball-cap",
+    "component": "BaseballCap",
+    "label": "Baseball Cap",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "sports",
+      "hat",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "basket",
+    "component": "Basket",
+    "label": "Basket",
+    "category": "商业",
+    "tags": [
+      "ecommerce",
+      "market",
+      "cart",
+      "buying",
+      "shopping",
+      "groceries",
+      "checkout",
+      "places",
+      "locations",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "beanie",
+    "component": "Beanie",
+    "label": "Beanie",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "sports",
+      "hat",
+      "winter",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "beer-bottle",
+    "component": "BeerBottle",
+    "label": "Beer Bottle",
+    "category": "旅行",
+    "tags": [
+      "drinks",
+      "beverages",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "beer-stein",
+    "component": "BeerStein",
+    "label": "Beer Stein",
+    "category": "旅行",
+    "tags": [
+      "drinks",
+      "beverages",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "belt",
+    "component": "Belt",
+    "label": "Belt",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "blueprint",
+    "component": "Blueprint",
+    "label": "Blueprint",
+    "category": "商业",
+    "tags": [
+      "architecture",
+      "layout",
+      "floorplan",
+      "building",
+      "construction",
+      "commerce",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "boat",
+    "component": "Boat",
+    "label": "船",
+    "category": "旅行",
+    "tags": [
+      "ferry",
+      "ship",
+      "cruise",
+      "vehicles",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "sailing",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "book-open-text",
+    "component": "BookOpenText",
+    "label": "书本 · open text",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "reading",
+      "reader",
+      "novel",
+      "story",
+      "library",
+      "office",
+      "media",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "books",
+    "component": "Books",
+    "label": "Books",
+    "category": "旅行",
+    "tags": [
+      "reading",
+      "reader",
+      "bookshelf",
+      "library",
+      "places",
+      "locations",
+      "office",
+      "maps & travel",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bowl-food",
+    "component": "BowlFood",
+    "label": "碗 · food",
+    "category": "旅行",
+    "tags": [
+      "ramen",
+      "food",
+      "meal",
+      "eating",
+      "restaurants",
+      "dining",
+      "locations",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bowl-steam",
+    "component": "BowlSteam",
+    "label": "碗 · steam",
+    "category": "旅行",
+    "tags": [
+      "food",
+      "meal",
+      "eating",
+      "restaurants",
+      "dining",
+      "locations",
+      "commerce",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "brandy",
+    "component": "Brandy",
+    "label": "Brandy",
+    "category": "旅行",
+    "tags": [
+      "drinks",
+      "beverages",
+      "whiskey",
+      "cocktail",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bread",
+    "component": "Bread",
+    "label": "Bread",
+    "category": "旅行",
+    "tags": [
+      "food",
+      "meal",
+      "bakery",
+      "sandwich",
+      "gluten",
+      "loaf",
+      "toast",
+      "slice",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bridge",
+    "component": "Bridge",
+    "label": "桥梁",
+    "category": "旅行",
+    "tags": [
+      "travel",
+      "transportation",
+      "infrastucture",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "building",
+    "component": "Building",
+    "label": "Building",
+    "category": "旅行",
+    "tags": [
+      "places",
+      "locations",
+      "company",
+      "business",
+      "buildings",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "building-apartment",
+    "component": "BuildingApartment",
+    "label": "Building Apartment",
+    "category": "旅行",
+    "tags": [
+      "places",
+      "locations",
+      "buildings",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "building-office",
+    "component": "BuildingOffice",
+    "label": "Building Office",
+    "category": "旅行",
+    "tags": [
+      "places",
+      "locations",
+      "company",
+      "business",
+      "buildings",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "buildings",
+    "component": "Buildings",
+    "label": "Buildings",
+    "category": "旅行",
+    "tags": [
+      "places",
+      "locations",
+      "company",
+      "business",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bulldozer",
+    "component": "Bulldozer",
+    "label": "Bulldozer",
+    "category": "商业",
+    "tags": [
+      "vehicles",
+      "construction",
+      "earth mover",
+      "dig",
+      "digger",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bus",
+    "component": "Bus",
+    "label": "Bus",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "automobile",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cable-car",
+    "component": "CableCar",
+    "label": "Cable Car",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "gondola",
+      "skiing",
+      "mountains",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "call-bell",
+    "component": "CallBell",
+    "label": "Call Bell",
+    "category": "旅行",
+    "tags": [
+      "service bell",
+      "reception",
+      "attendant",
+      "concierge bell",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "car",
+    "component": "Car",
+    "label": "汽车",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "cars",
+      "vehicles",
+      "automobile",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "car-battery",
+    "component": "CarBattery",
+    "label": "汽车 · battery",
+    "category": "商业",
+    "tags": [
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "voltage",
+      "electricity",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "car-profile",
+    "component": "CarProfile",
+    "label": "汽车 · profile",
+    "category": "旅行",
+    "tags": [
+      "cars",
+      "vehicles",
+      "automobile",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "car-simple",
+    "component": "CarSimple",
+    "label": "汽车 · simple",
+    "category": "旅行",
+    "tags": [
+      "cars",
+      "vehicles",
+      "automobile",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cardholder",
+    "component": "Cardholder",
+    "label": "Cardholder",
+    "category": "商业",
+    "tags": [
+      "wallet",
+      "money",
+      "payment",
+      "paying",
+      "purchase",
+      "commerce",
+      "finances",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cash-register",
+    "component": "CashRegister",
+    "label": "Cash Register",
+    "category": "商业",
+    "tags": [
+      "retail",
+      "point-of-sale",
+      "pos",
+      "transaction",
+      "sales",
+      "till",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "castle-turret",
+    "component": "CastleTurret",
+    "label": "城堡 · turret",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "chess",
+      "rook",
+      "maps & travel",
+      "objects",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chair",
+    "component": "Chair",
+    "label": "椅子",
+    "category": "商业",
+    "tags": [
+      "seat",
+      "furniture",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chalkboard",
+    "component": "Chalkboard",
+    "label": "Chalkboard",
+    "category": "旅行",
+    "tags": [
+      "blackboard",
+      "whiteboard",
+      "classroom",
+      "teacher",
+      "education",
+      "school",
+      "college",
+      "university",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chalkboard-simple",
+    "component": "ChalkboardSimple",
+    "label": "Chalkboard Simple",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "blackboard",
+      "whiteboard",
+      "classroom",
+      "teacher",
+      "education",
+      "school",
+      "college",
+      "university",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "champagne",
+    "component": "Champagne",
+    "label": "香槟",
+    "category": "旅行",
+    "tags": [
+      "glass",
+      "drinks",
+      "beverages",
+      "wine",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "maps & travel",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "charging-station",
+    "component": "ChargingStation",
+    "label": "Charging Station",
+    "category": "旅行",
+    "tags": [
+      "ev",
+      "charge",
+      "fuel",
+      "pump",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cheers",
+    "component": "Cheers",
+    "label": "Cheers",
+    "category": "旅行",
+    "tags": [
+      "glass",
+      "drinks",
+      "beverages",
+      "champagne",
+      "toast",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cheese",
+    "component": "Cheese",
+    "label": "Cheese",
+    "category": "商业",
+    "tags": [
+      "dairy",
+      "wedge",
+      "food",
+      "dining",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "chef-hat",
+    "component": "ChefHat",
+    "label": "Chef Hat",
+    "category": "商业",
+    "tags": [
+      "cooking",
+      "cuisine",
+      "kitchen",
+      "clothes",
+      "clothing",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "church",
+    "component": "Church",
+    "label": "教堂",
+    "category": "旅行",
+    "tags": [
+      "christ",
+      "christianity",
+      "cathedral",
+      "religion",
+      "worship",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "city",
+    "component": "City",
+    "label": "City",
+    "category": "旅行",
+    "tags": [
+      "skyline",
+      "skyscrapers",
+      "places",
+      "locations",
+      "buildings",
+      "maps & travel",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "coat-hanger",
+    "component": "CoatHanger",
+    "label": "Coat Hanger",
+    "category": "商业",
+    "tags": [
+      "clothing",
+      "clothes",
+      "closet",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "coin",
+    "component": "Coin",
+    "label": "Coin",
+    "category": "商业",
+    "tags": [
+      "coins",
+      "cents",
+      "change",
+      "money",
+      "currency",
+      "payment",
+      "paying",
+      "purchase",
+      "price",
+      "sell",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "coin-vertical",
+    "component": "CoinVertical",
+    "label": "Coin Vertical",
+    "category": "商业",
+    "tags": [
+      "cents",
+      "change",
+      "money",
+      "currency",
+      "payment",
+      "paying",
+      "purchase",
+      "price",
+      "sell",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "coins",
+    "component": "Coins",
+    "label": "Coins",
+    "category": "商业",
+    "tags": [
+      "cents",
+      "change",
+      "money",
+      "currency",
+      "payment",
+      "paying",
+      "purchase",
+      "price",
+      "sell",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "compass",
+    "component": "Compass",
+    "label": "指南针",
+    "category": "旅行",
+    "tags": [
+      "navigation",
+      "directions",
+      "maps",
+      "safari",
+      "apple",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "compass-rose",
+    "component": "CompassRose",
+    "label": "指南针 · rose",
+    "category": "旅行",
+    "tags": [
+      "navigation",
+      "directions",
+      "maps",
+      "cardinal",
+      "cartography",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "contactless-payment",
+    "component": "ContactlessPayment",
+    "label": "Contactless Payment",
+    "category": "商业",
+    "tags": [
+      "purchase",
+      "credit card",
+      "nfc",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cookie",
+    "component": "Cookie",
+    "label": "饼干",
+    "category": "旅行",
+    "tags": [
+      "privacy",
+      "dessert",
+      "food",
+      "dining",
+      "maps & travel",
+      "objects",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cooking-pot",
+    "component": "CookingPot",
+    "label": "Cooking Pot",
+    "category": "商业",
+    "tags": [
+      "stew",
+      "kitchen",
+      "steaming",
+      "restaurants",
+      "food",
+      "dining",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "couch",
+    "component": "Couch",
+    "label": "Couch",
+    "category": "商业",
+    "tags": [
+      "furniture",
+      "seat",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cowboy-hat",
+    "component": "CowboyHat",
+    "label": "Cowboy Hat",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "stetson",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crane",
+    "component": "Crane",
+    "label": "Crane",
+    "category": "商业",
+    "tags": [
+      "construction",
+      "industry",
+      "commerce",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crane-tower",
+    "component": "CraneTower",
+    "label": "Crane Tower",
+    "category": "商业",
+    "tags": [
+      "construction",
+      "industry",
+      "commerce",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "credit-card",
+    "component": "CreditCard",
+    "label": "Credit Card",
+    "category": "商业",
+    "tags": [
+      "debit",
+      "visa",
+      "mastercard",
+      "money",
+      "payment",
+      "paying",
+      "purchase",
+      "swipe",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crosshair",
+    "component": "Crosshair",
+    "label": "Crosshair",
+    "category": "旅行",
+    "tags": [
+      "geolocation",
+      "gps",
+      "aiming",
+      "targeting",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crosshair-simple",
+    "component": "CrosshairSimple",
+    "label": "Crosshair Simple",
+    "category": "旅行",
+    "tags": [
+      "geolocation",
+      "gps",
+      "aiming",
+      "targeting",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "desk",
+    "component": "Desk",
+    "label": "书桌",
+    "category": "商业",
+    "tags": [
+      "furniture",
+      "workspace",
+      "table",
+      "commerce",
+      "objects",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "disco-ball",
+    "component": "DiscoBall",
+    "label": "Disco Ball",
+    "category": "旅行",
+    "tags": [
+      "danging",
+      "club",
+      "70s",
+      "games",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dress",
+    "component": "Dress",
+    "label": "连衣裙",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dresser",
+    "component": "Dresser",
+    "label": "Dresser",
+    "category": "商业",
+    "tags": [
+      "furniture",
+      "bedroom",
+      "storage",
+      "drawers",
+      "wardrobe",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "elevator",
+    "component": "Elevator",
+    "label": "Elevator",
+    "category": "旅行",
+    "tags": [
+      "lift",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "engine",
+    "component": "Engine",
+    "label": "Engine",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "motor",
+      "repair",
+      "vehicles",
+      "automobile",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "escalator-down",
+    "component": "EscalatorDown",
+    "label": "Escalator Down",
+    "category": "旅行",
+    "tags": [
+      "stairs",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "escalator-up",
+    "component": "EscalatorUp",
+    "label": "Escalator Up",
+    "category": "旅行",
+    "tags": [
+      "stairs",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "factory",
+    "component": "Factory",
+    "label": "工厂",
+    "category": "旅行",
+    "tags": [
+      "industry",
+      "manufacture",
+      "buildings",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fan",
+    "component": "Fan",
+    "label": "Fan",
+    "category": "商业",
+    "tags": [
+      "desk fan",
+      "air conditioning",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flag",
+    "component": "Flag",
+    "label": "旗帜",
+    "category": "旅行",
+    "tags": [
+      "country",
+      "countries",
+      "finished",
+      "completed",
+      "flags",
+      "objects",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flag-banner",
+    "component": "FlagBanner",
+    "label": "旗帜 · banner",
+    "category": "旅行",
+    "tags": [
+      "ribbon",
+      "country",
+      "countries",
+      "finished",
+      "completed",
+      "flags",
+      "swallowtail",
+      "objects",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flag-banner-fold",
+    "component": "FlagBannerFold",
+    "label": "旗帜 · banner fold",
+    "category": "旅行",
+    "tags": [
+      "ribbon",
+      "country",
+      "countries",
+      "finished",
+      "completed",
+      "flags",
+      "swallowtail",
+      "objects",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flag-checkered",
+    "component": "FlagCheckered",
+    "label": "旗帜 · checkered",
+    "category": "旅行",
+    "tags": [
+      "flags",
+      "race",
+      "racing",
+      "finish line",
+      "maps & travel",
+      "objects",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flag-pennant",
+    "component": "FlagPennant",
+    "label": "旗帜 · pennant",
+    "category": "旅行",
+    "tags": [
+      "flags",
+      "race",
+      "sports",
+      "team",
+      "objects",
+      "maps & travel",
+      "system",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fork-knife",
+    "component": "ForkKnife",
+    "label": "餐叉 · knife",
+    "category": "旅行",
+    "tags": [
+      "food",
+      "meal",
+      "eating",
+      "restaurants",
+      "dining",
+      "utensils",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "garage",
+    "component": "Garage",
+    "label": "Garage",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "automobile",
+      "buildings",
+      "transportation",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gas-can",
+    "component": "GasCan",
+    "label": "Gas Can",
+    "category": "旅行",
+    "tags": [
+      "jerrycan",
+      "petrol",
+      "fuel",
+      "gasoline",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gas-pump",
+    "component": "GasPump",
+    "label": "Gas Pump",
+    "category": "旅行",
+    "tags": [
+      "gas station",
+      "petrol",
+      "fuel",
+      "gasoline",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gavel",
+    "component": "Gavel",
+    "label": "Gavel",
+    "category": "商业",
+    "tags": [
+      "judge",
+      "justice",
+      "legal",
+      "law",
+      "court",
+      "hammer",
+      "government",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe",
+    "component": "Globe",
+    "label": "地球",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "internet",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-hemisphere-east",
+    "component": "GlobeHemisphereEast",
+    "label": "地球 · hemisphere east",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "europe",
+      "africa",
+      "asia",
+      "australia",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-hemisphere-west",
+    "component": "GlobeHemisphereWest",
+    "label": "地球 · hemisphere west",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "north america",
+      "south america",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-simple",
+    "component": "GlobeSimple",
+    "label": "地球 · simple",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-simple-x",
+    "component": "GlobeSimpleX",
+    "label": "地球 · simple x",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "internet",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-stand",
+    "component": "GlobeStand",
+    "label": "地球 · stand",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "globe-x",
+    "component": "GlobeX",
+    "label": "地球 · x",
+    "category": "旅行",
+    "tags": [
+      "world",
+      "earth",
+      "global",
+      "planet",
+      "circle",
+      "round",
+      "internationalization",
+      "i18n",
+      "languages",
+      "country",
+      "countries",
+      "geography",
+      "internet",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gps",
+    "component": "Gps",
+    "label": "Gps",
+    "category": "旅行",
+    "tags": [
+      "geolocation",
+      "location",
+      "navigation",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gps-fix",
+    "component": "GpsFix",
+    "label": "Gps Fix",
+    "category": "旅行",
+    "tags": [
+      "geolocation",
+      "location",
+      "navigation",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "gps-slash",
+    "component": "GpsSlash",
+    "label": "Gps Slash",
+    "category": "旅行",
+    "tags": [
+      "geolocation",
+      "location",
+      "navigation",
+      "disabled",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "graduation-cap",
+    "component": "GraduationCap",
+    "label": "Graduation Cap",
+    "category": "旅行",
+    "tags": [
+      "classroom",
+      "teacher",
+      "education",
+      "school",
+      "college",
+      "university",
+      "degree",
+      "graduate",
+      "hat",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "grains-slash",
+    "component": "GrainsSlash",
+    "label": "Grains Slash",
+    "category": "商业",
+    "tags": [
+      "gluten-free",
+      "wheat",
+      "gluten",
+      "farm",
+      "farming",
+      "agriculture",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hair-dryer",
+    "component": "HairDryer",
+    "label": "Hair Dryer",
+    "category": "商业",
+    "tags": [
+      "blow dryer",
+      "beauty",
+      "grooming",
+      "salon",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hamburger",
+    "component": "Hamburger",
+    "label": "汉堡",
+    "category": "旅行",
+    "tags": [
+      "fast food",
+      "party",
+      "places",
+      "locations",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hammer",
+    "component": "Hammer",
+    "label": "Hammer",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "carpentry",
+      "construction",
+      "objects",
+      "system",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "handbag",
+    "component": "Handbag",
+    "label": "手袋",
+    "category": "商业",
+    "tags": [
+      "suitcases",
+      "valises",
+      "baggage",
+      "purses",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "handbag-simple",
+    "component": "HandbagSimple",
+    "label": "手袋 · simple",
+    "category": "商业",
+    "tags": [
+      "suitcases",
+      "valises",
+      "baggage",
+      "purses",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hard-hat",
+    "component": "HardHat",
+    "label": "Hard Hat",
+    "category": "商业",
+    "tags": [
+      "safety",
+      "construction",
+      "industry",
+      "helmet",
+      "ppe",
+      "commerce",
+      "objects",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "headlights",
+    "component": "Headlights",
+    "label": "Headlights",
+    "category": "旅行",
+    "tags": [
+      "brights",
+      "high beams",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "high-heel",
+    "component": "HighHeel",
+    "label": "High Heel",
+    "category": "商业",
+    "tags": [
+      "*updated*",
+      "pumps",
+      "clothes",
+      "clothing",
+      "shoes",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hoodie",
+    "component": "Hoodie",
+    "label": "Hoodie",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "sweatshirt",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "house",
+    "component": "House",
+    "label": "房屋",
+    "category": "旅行",
+    "tags": [
+      "homes",
+      "buildings",
+      "places",
+      "locations",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "house-line",
+    "component": "HouseLine",
+    "label": "房屋 · line",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "homes",
+      "buildings",
+      "places",
+      "locations",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "house-simple",
+    "component": "HouseSimple",
+    "label": "房屋 · simple",
+    "category": "旅行",
+    "tags": [
+      "homes",
+      "buildings",
+      "places",
+      "locations",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ice-cream",
+    "component": "IceCream",
+    "label": "冰淇淋",
+    "category": "旅行",
+    "tags": [
+      "food",
+      "dessert",
+      "cone",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "invoice",
+    "component": "Invoice",
+    "label": "Invoice",
+    "category": "商业",
+    "tags": [
+      "receipt",
+      "expense",
+      "bill",
+      "commerce",
+      "finances",
+      "office"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "jar",
+    "component": "Jar",
+    "label": "罐子",
+    "category": "商业",
+    "tags": [
+      "mason jar",
+      "kitchen",
+      "pantry",
+      "canning",
+      "preserves",
+      "food",
+      "condiments",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "jar-label",
+    "component": "JarLabel",
+    "label": "罐子 · label",
+    "category": "商业",
+    "tags": [
+      "mason jar",
+      "kitchen",
+      "pantry",
+      "canning",
+      "preserves",
+      "food",
+      "condiments",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "jeep",
+    "component": "Jeep",
+    "label": "Jeep",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "vehicles",
+      "automobile",
+      "suv",
+      "cars",
+      "trucks",
+      "wrangler",
+      "off-road",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "knife",
+    "component": "Knife",
+    "label": "刀",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "food",
+      "meal",
+      "eating",
+      "restaurants",
+      "dining",
+      "utensils",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lamp",
+    "component": "Lamp",
+    "label": "台灯",
+    "category": "商业",
+    "tags": [
+      "light",
+      "furniture",
+      "appliances",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lamp-pendant",
+    "component": "LampPendant",
+    "label": "台灯 · pendant",
+    "category": "商业",
+    "tags": [
+      "light",
+      "furniture",
+      "appliances",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lighthouse",
+    "component": "Lighthouse",
+    "label": "灯塔",
+    "category": "旅行",
+    "tags": [
+      "buildings",
+      "nautical",
+      "navigation",
+      "boats",
+      "ships",
+      "safety",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lockers",
+    "component": "Lockers",
+    "label": "Lockers",
+    "category": "旅行",
+    "tags": [
+      "locker room",
+      "gym",
+      "storage",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mailbox",
+    "component": "Mailbox",
+    "label": "Mailbox",
+    "category": "旅行",
+    "tags": [
+      "email",
+      "letters",
+      "messaging",
+      "post",
+      "communications",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin",
+    "component": "MapPin",
+    "label": "地图 · pin",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-area",
+    "component": "MapPinArea",
+    "label": "地图 · pin area",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-line",
+    "component": "MapPinLine",
+    "label": "地图 · pin line",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-plus",
+    "component": "MapPinPlus",
+    "label": "地图 · pin plus",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "add",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-simple",
+    "component": "MapPinSimple",
+    "label": "地图 · pin simple",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-simple-area",
+    "component": "MapPinSimpleArea",
+    "label": "地图 · pin simple area",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-pin-simple-line",
+    "component": "MapPinSimpleLine",
+    "label": "地图 · pin simple line",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "markers",
+      "pins",
+      "locations",
+      "poi",
+      "point of interest",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "map-trifold",
+    "component": "MapTrifold",
+    "label": "地图 · trifold",
+    "category": "旅行",
+    "tags": [
+      "maps",
+      "places",
+      "locations",
+      "cartography",
+      "geography",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "martini",
+    "component": "Martini",
+    "label": "Martini",
+    "category": "旅行",
+    "tags": [
+      "glass",
+      "drinks",
+      "beverages",
+      "cocktails",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "money",
+    "component": "Money",
+    "label": "Money",
+    "category": "商业",
+    "tags": [
+      "cash",
+      "dollars",
+      "paper bills",
+      "payment",
+      "paying",
+      "purchase",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "money-wavy",
+    "component": "MoneyWavy",
+    "label": "Money Wavy",
+    "category": "商业",
+    "tags": [
+      "cash",
+      "dollars",
+      "paper bills",
+      "payment",
+      "paying",
+      "purchase",
+      "finances",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "moped",
+    "component": "Moped",
+    "label": "Moped",
+    "category": "旅行",
+    "tags": [
+      "scooter",
+      "vehicles",
+      "vespa",
+      "transportation",
+      "travel",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "moped-front",
+    "component": "MopedFront",
+    "label": "Moped Front",
+    "category": "旅行",
+    "tags": [
+      "scooter",
+      "vehicles",
+      "vespa",
+      "transportation",
+      "travel",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mosque",
+    "component": "Mosque",
+    "label": "Mosque",
+    "category": "旅行",
+    "tags": [
+      "islam",
+      "muslim",
+      "religion",
+      "worship",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "motorcycle",
+    "component": "Motorcycle",
+    "label": "Motorcycle",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "motorbike",
+      "transportation",
+      "travel",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "navigation-arrow",
+    "component": "NavigationArrow",
+    "label": "Navigation Arrow",
+    "category": "旅行",
+    "tags": [
+      "location",
+      "directions",
+      "compass",
+      "gps",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "needle",
+    "component": "Needle",
+    "label": "Needle",
+    "category": "商业",
+    "tags": [
+      "sewing",
+      "thread",
+      "awl",
+      "tailor",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "nuclear-plant",
+    "component": "NuclearPlant",
+    "label": "Nuclear Plant",
+    "category": "商业",
+    "tags": [
+      "renewable",
+      "energy",
+      "power",
+      "electricity",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "office-chair",
+    "component": "OfficeChair",
+    "label": "Office Chair",
+    "category": "商业",
+    "tags": [
+      "furniture",
+      "seat",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "onigiri",
+    "component": "Onigiri",
+    "label": "Onigiri",
+    "category": "旅行",
+    "tags": [
+      "rice ball",
+      "japanese",
+      "food",
+      "restaurant",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "oven",
+    "component": "Oven",
+    "label": "烤箱",
+    "category": "商业",
+    "tags": [
+      "stove",
+      "stovetop",
+      "food",
+      "cooking",
+      "cuisine",
+      "kitchen",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pants",
+    "component": "Pants",
+    "label": "Pants",
+    "category": "商业",
+    "tags": [
+      "clothing",
+      "clothes",
+      "jeans",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paper-plane",
+    "component": "PaperPlane",
+    "label": "纸张 · plane",
+    "category": "旅行",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "toys",
+      "games",
+      "communications",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paper-plane-right",
+    "component": "PaperPlaneRight",
+    "label": "纸张 · plane right",
+    "category": "旅行",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "toys",
+      "games",
+      "communications",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paper-plane-tilt",
+    "component": "PaperPlaneTilt",
+    "label": "纸张 · plane tilt",
+    "category": "旅行",
+    "tags": [
+      "mail",
+      "email",
+      "send",
+      "sent",
+      "messages",
+      "messaging",
+      "toys",
+      "games",
+      "communications",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pipe",
+    "component": "Pipe",
+    "label": "Pipe",
+    "category": "商业",
+    "tags": [
+      "tube",
+      "plumber",
+      "plumbing",
+      "construction",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pipe-wrench",
+    "component": "PipeWrench",
+    "label": "Pipe Wrench",
+    "category": "商业",
+    "tags": [
+      "plumber",
+      "plumbing",
+      "tools",
+      "construction",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pizza",
+    "component": "Pizza",
+    "label": "披萨",
+    "category": "旅行",
+    "tags": [
+      "fast food",
+      "party",
+      "places",
+      "locations",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "police-car",
+    "component": "PoliceCar",
+    "label": "Police Car",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "vehicles",
+      "cars",
+      "automobiles",
+      "law enforcement",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "popcorn",
+    "component": "Popcorn",
+    "label": "Popcorn",
+    "category": "旅行",
+    "tags": [
+      "food",
+      "movies",
+      "theater",
+      "maps & travel",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "popsicle",
+    "component": "Popsicle",
+    "label": "Popsicle",
+    "category": "旅行",
+    "tags": [
+      "ice cream",
+      "dessert",
+      "summer",
+      "food",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "prohibit",
+    "component": "Prohibit",
+    "label": "Prohibit",
+    "category": "旅行",
+    "tags": [
+      "forbidden",
+      "prohibited",
+      "cancelled",
+      "prevent",
+      "stop",
+      "do not enter",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "prohibit-inset",
+    "component": "ProhibitInset",
+    "label": "Prohibit Inset",
+    "category": "旅行",
+    "tags": [
+      "forbidden",
+      "prohibited",
+      "cancelled",
+      "prevent",
+      "stop",
+      "do not enter",
+      "maps & travel",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "push-pin",
+    "component": "PushPin",
+    "label": "Push Pin",
+    "category": "旅行",
+    "tags": [
+      "favorites",
+      "favorited",
+      "pushpin",
+      "office",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "push-pin-simple",
+    "component": "PushPinSimple",
+    "label": "Push Pin Simple",
+    "category": "旅行",
+    "tags": [
+      "favorites",
+      "favorited",
+      "pushpin",
+      "office",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "push-pin-simple-slash",
+    "component": "PushPinSimpleSlash",
+    "label": "Push Pin Simple Slash",
+    "category": "旅行",
+    "tags": [
+      "favorites",
+      "favorited",
+      "pushpin",
+      "disabled",
+      "office",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "push-pin-slash",
+    "component": "PushPinSlash",
+    "label": "Push Pin Slash",
+    "category": "旅行",
+    "tags": [
+      "favorites",
+      "favorited",
+      "pushpin",
+      "disabled",
+      "office",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "receipt",
+    "component": "Receipt",
+    "label": "Receipt",
+    "category": "商业",
+    "tags": [
+      "purchase",
+      "money",
+      "clipping",
+      "expense",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "receipt-x",
+    "component": "ReceiptX",
+    "label": "Receipt X",
+    "category": "商业",
+    "tags": [
+      "purchase",
+      "money",
+      "clipping",
+      "expense",
+      "cancel",
+      "commerce",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "road-horizon",
+    "component": "RoadHorizon",
+    "label": "Road Horizon",
+    "category": "旅行",
+    "tags": [
+      "trip",
+      "drive",
+      "road",
+      "travel",
+      "transportation",
+      "highway",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rocket-launch",
+    "component": "RocketLaunch",
+    "label": "Rocket Launch",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "spaceship",
+      "flying",
+      "blastoff",
+      "deployment",
+      "rocketship",
+      "technology & development",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sailboat",
+    "component": "Sailboat",
+    "label": "帆船",
+    "category": "旅行",
+    "tags": [
+      "sailing",
+      "ship",
+      "vehicles",
+      "transportation",
+      "sports",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scales",
+    "component": "Scales",
+    "label": "Scales",
+    "category": "旅行",
+    "tags": [
+      "measure",
+      "balance",
+      "law",
+      "justice",
+      "government",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "screwdriver",
+    "component": "Screwdriver",
+    "label": "Screwdriver",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "construction",
+      "flathead",
+      "drill",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seat",
+    "component": "Seat",
+    "label": "Seat",
+    "category": "旅行",
+    "tags": [
+      "chair",
+      "car seat",
+      "airplane seat",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "seatbelt",
+    "component": "Seatbelt",
+    "label": "Seatbelt",
+    "category": "商业",
+    "tags": [
+      "vehicles",
+      "safety",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shipping-container",
+    "component": "ShippingContainer",
+    "label": "Shipping Container",
+    "category": "旅行",
+    "tags": [
+      "shipping",
+      "transportation",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shirt-folded",
+    "component": "ShirtFolded",
+    "label": "衬衫 · folded",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shopping-bag",
+    "component": "ShoppingBag",
+    "label": "购物 · bag",
+    "category": "旅行",
+    "tags": [
+      "ecommerce",
+      "market",
+      "basket",
+      "cart",
+      "buying",
+      "checkout",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shopping-bag-open",
+    "component": "ShoppingBagOpen",
+    "label": "购物 · bag open",
+    "category": "旅行",
+    "tags": [
+      "ecommerce",
+      "market",
+      "basket",
+      "cart",
+      "buying",
+      "checkout",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shopping-cart",
+    "component": "ShoppingCart",
+    "label": "购物 · cart",
+    "category": "旅行",
+    "tags": [
+      "ecommerce",
+      "market",
+      "basket",
+      "buying",
+      "groceries",
+      "checkout",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shopping-cart-simple",
+    "component": "ShoppingCartSimple",
+    "label": "购物 · cart simple",
+    "category": "旅行",
+    "tags": [
+      "ecommerce",
+      "market",
+      "basket",
+      "buying",
+      "groceries",
+      "checkout",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shovel",
+    "component": "Shovel",
+    "label": "Shovel",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "digging",
+      "construction",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "signpost",
+    "component": "Signpost",
+    "label": "Signpost",
+    "category": "旅行",
+    "tags": [
+      "direction",
+      "traffic",
+      "road sign",
+      "transit",
+      "transportation",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "siren",
+    "component": "Siren",
+    "label": "Siren",
+    "category": "旅行",
+    "tags": [
+      "alarm",
+      "police",
+      "lights",
+      "warning",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sock",
+    "component": "Sock",
+    "label": "袜子",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "solar-panel",
+    "component": "SolarPanel",
+    "label": "Solar Panel",
+    "category": "商业",
+    "tags": [
+      "renewable",
+      "energy",
+      "power",
+      "electricity",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "solar-roof",
+    "component": "SolarRoof",
+    "label": "Solar Roof",
+    "category": "商业",
+    "tags": [
+      "renewable",
+      "energy",
+      "power",
+      "electricity",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stairs",
+    "component": "Stairs",
+    "label": "Stairs",
+    "category": "商业",
+    "tags": [
+      "staircase",
+      "steps",
+      "escalator",
+      "exit",
+      "signs",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "steering-wheel",
+    "component": "SteeringWheel",
+    "label": "Steering Wheel",
+    "category": "旅行",
+    "tags": [
+      "cars",
+      "vehicles",
+      "automobiles",
+      "driving",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "steps",
+    "component": "Steps",
+    "label": "Steps",
+    "category": "商业",
+    "tags": [
+      "stairs",
+      "staircase",
+      "exit",
+      "signs",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stool",
+    "component": "Stool",
+    "label": "Stool",
+    "category": "商业",
+    "tags": [
+      "chair",
+      "seat",
+      "furniture",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "storefront",
+    "component": "Storefront",
+    "label": "Storefront",
+    "category": "旅行",
+    "tags": [
+      "shops",
+      "shopping",
+      "markets",
+      "stores",
+      "buildings",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "subway",
+    "component": "Subway",
+    "label": "Subway",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "underground",
+      "train",
+      "tunnel",
+      "metro",
+      "light rail",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "suitcase-rolling",
+    "component": "SuitcaseRolling",
+    "label": "行李箱 · rolling",
+    "category": "旅行",
+    "tags": [
+      "suitcase",
+      "luggage",
+      "travel",
+      "transportation",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "synagogue",
+    "component": "Synagogue",
+    "label": "Synagogue",
+    "category": "旅行",
+    "tags": [
+      "jewish",
+      "judaism",
+      "temple",
+      "religion",
+      "worship",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "t-shirt",
+    "component": "TShirt",
+    "label": "T Shirt",
+    "category": "商业",
+    "tags": [
+      "clothes",
+      "clothing",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tag",
+    "component": "Tag",
+    "label": "Tag",
+    "category": "商业",
+    "tags": [
+      "tags",
+      "hashtag",
+      "labels",
+      "sale",
+      "sell",
+      "price",
+      "discount",
+      "commerce",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tag-chevron",
+    "component": "TagChevron",
+    "label": "Tag Chevron",
+    "category": "商业",
+    "tags": [
+      "tags",
+      "hashtag",
+      "labels",
+      "sale",
+      "commerce",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tag-simple",
+    "component": "TagSimple",
+    "label": "Tag Simple",
+    "category": "商业",
+    "tags": [
+      "tags",
+      "hashtag",
+      "labels",
+      "sale",
+      "sell",
+      "price",
+      "discount",
+      "commerce",
+      "technology & development",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "target",
+    "component": "Target",
+    "label": "Target",
+    "category": "旅行",
+    "tags": [
+      "bullseye",
+      "radar",
+      "archery",
+      "accuracy",
+      "precision",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "taxi",
+    "component": "Taxi",
+    "label": "Taxi",
+    "category": "旅行",
+    "tags": [
+      "*updated*",
+      "vehicles",
+      "cars",
+      "automobiles",
+      "livery",
+      "limousine",
+      "uber",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tea-bag",
+    "component": "TeaBag",
+    "label": "Tea Bag",
+    "category": "旅行",
+    "tags": [
+      "drinks",
+      "beverages",
+      "sachet",
+      "caffeine",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ticket",
+    "component": "Ticket",
+    "label": "票券",
+    "category": "旅行",
+    "tags": [
+      "ticketstub",
+      "movie ticket",
+      "entry",
+      "admissions",
+      "events",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tip-jar",
+    "component": "TipJar",
+    "label": "Tip Jar",
+    "category": "商业",
+    "tags": [
+      "give",
+      "deposit",
+      "donation",
+      "savings",
+      "money",
+      "commerce",
+      "finances",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tire",
+    "component": "Tire",
+    "label": "Tire",
+    "category": "商业",
+    "tags": [
+      "wheel",
+      "vehicles",
+      "transportation",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "toolbox",
+    "component": "Toolbox",
+    "label": "工具箱",
+    "category": "商业",
+    "tags": [
+      "tools",
+      "carpentry",
+      "construction",
+      "objects",
+      "system",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tote",
+    "component": "Tote",
+    "label": "Tote",
+    "category": "商业",
+    "tags": [
+      "suitcases",
+      "valises",
+      "baggage",
+      "tote-bag",
+      "portfolios",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tote-simple",
+    "component": "ToteSimple",
+    "label": "Tote Simple",
+    "category": "商业",
+    "tags": [
+      "suitcases",
+      "valises",
+      "baggage",
+      "tote-bag",
+      "portfolios",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "towel",
+    "component": "Towel",
+    "label": "Towel",
+    "category": "商业",
+    "tags": [
+      "clothing",
+      "linen",
+      "hotel",
+      "beach",
+      "pool",
+      "swimming",
+      "shower",
+      "bath",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tractor",
+    "component": "Tractor",
+    "label": "Tractor",
+    "category": "商业",
+    "tags": [
+      "vehicles",
+      "farmer",
+      "field",
+      "farming",
+      "agriculture",
+      "commerce",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "traffic-cone",
+    "component": "TrafficCone",
+    "label": "Traffic Cone",
+    "category": "旅行",
+    "tags": [
+      "pylon",
+      "safety",
+      "transit",
+      "transportation",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "traffic-sign",
+    "component": "TrafficSign",
+    "label": "Traffic Sign",
+    "category": "旅行",
+    "tags": [
+      "road signs",
+      "transit",
+      "transportation",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "traffic-signal",
+    "component": "TrafficSignal",
+    "label": "Traffic Signal",
+    "category": "旅行",
+    "tags": [
+      "stop light",
+      "safety",
+      "transit",
+      "transportation",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "train",
+    "component": "Train",
+    "label": "火车",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "subway",
+      "light rail",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "train-regional",
+    "component": "TrainRegional",
+    "label": "火车 · regional",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "subway",
+      "railroad",
+      "public transit",
+      "transportation",
+      "commuter",
+      "freight",
+      "shipping",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "train-simple",
+    "component": "TrainSimple",
+    "label": "火车 · simple",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "subway",
+      "light rail",
+      "public transit",
+      "transportation",
+      "commuter",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tram",
+    "component": "Tram",
+    "label": "Tram",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "subway",
+      "railroad",
+      "public transit",
+      "transportation",
+      "commuter",
+      "light rail",
+      "shipping",
+      "traveling",
+      "places",
+      "locations",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "truck",
+    "component": "Truck",
+    "label": "卡车",
+    "category": "旅行",
+    "tags": [
+      "trucks",
+      "cars",
+      "vehicles",
+      "automobile",
+      "shipping",
+      "delivery",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "truck-trailer",
+    "component": "TruckTrailer",
+    "label": "卡车 · trailer",
+    "category": "旅行",
+    "tags": [
+      "vehicles",
+      "automobile",
+      "shipping",
+      "tractor",
+      "semi",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "van",
+    "component": "Van",
+    "label": "货车",
+    "category": "旅行",
+    "tags": [
+      "westfalia",
+      "microbus",
+      "vanagon",
+      "cars",
+      "vehicles",
+      "automobile",
+      "transit",
+      "transportation",
+      "traveling",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wallet",
+    "component": "Wallet",
+    "label": "钱包",
+    "category": "商业",
+    "tags": [
+      "money",
+      "payment",
+      "paying",
+      "purchase",
+      "commerce",
+      "finances",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "warehouse",
+    "component": "Warehouse",
+    "label": "Warehouse",
+    "category": "旅行",
+    "tags": [
+      "storage",
+      "industry",
+      "manufacture",
+      "buildings",
+      "places",
+      "locations",
+      "commerce",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "washing-machine",
+    "component": "WashingMachine",
+    "label": "Washing Machine",
+    "category": "旅行",
+    "tags": [
+      "clothing",
+      "laundry",
+      "cleaning",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "windmill",
+    "component": "Windmill",
+    "label": "Windmill",
+    "category": "商业",
+    "tags": [
+      "turbine",
+      "energy",
+      "renewable",
+      "sustainability",
+      "countryside",
+      "landscape",
+      "green",
+      "power",
+      "buildings",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wine",
+    "component": "Wine",
+    "label": "葡萄酒",
+    "category": "旅行",
+    "tags": [
+      "drinks",
+      "beverages",
+      "vineyard",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wrench",
+    "component": "Wrench",
+    "label": "扳手",
+    "category": "商业",
+    "tags": [
+      "settings",
+      "setup",
+      "preferences",
+      "tools",
+      "machinery",
+      "mechanical",
+      "repairs",
+      "system",
+      "objects",
+      "commerce"
+    ],
+    "source": "phosphor"
+  }
+]

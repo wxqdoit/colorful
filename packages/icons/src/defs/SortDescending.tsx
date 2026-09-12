@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g transform="translate(0 24) scale(1 -1)"><g data-colorful-layer="back" data-colorful-part={0}><path d="M5.2 4.5H14.8Q16 4.5 16 5.7V5.8Q16 7 14.8 7H5.2Q4 7 4 5.8V5.7Q4 4.5 5.2 4.5Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={1}><path d="M5.2 10.5H10.3Q11.5 10.5 11.5 11.7V11.8Q11.5 13 10.3 13H5.2Q4 13 4 11.8V11.7Q4 10.5 5.2 10.5Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={2}><path d="M5.2 16.5H8.3Q9.5 16.5 9.5 17.7V17.8Q9.5 19 8.3 19H5.2Q4 19 4 17.8V17.7Q4 16.5 5.2 16.5Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={0}><path d="M5 12H10.5M5 18H8.5" fill="none" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18 10L18 20" fill="none" /></g><g transform="translate(18 20) rotate(90)"><g data-colorful-layer="back" data-colorful-part={2}><path d="M-0.43,-0.34c0.31,0.22 0.31,0.45 0,0.67c-0.01,0.01 -0.02,0.02 -0.04,0.03l-2.5,2.02c-0.06,0.05 -0.1,0.07 -0.18,0.1c-0.37,0.11 -0.55,-0.03 -0.55,-0.43v-4.1c0,-0.4 0.18,-0.54 0.55,-0.43c0.08,0.02 0.11,0.05 0.18,0.1l2.5,2.02c0.01,0.01 0.02,0.02 0.04,0.03z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={0}><path d="M-3.4,-2.4l2.32,1.76c0.42,0.32 0.42,0.95 0,1.27l-2.32,1.76" fill="none" /></g></g></g></g>;
+export default artwork;

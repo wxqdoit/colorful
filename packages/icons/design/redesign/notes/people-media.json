@@ -1,0 +1,1030 @@
+{
+  "camera": {
+    "family": "camera",
+    "visualReason": "Rounded camera housing, raised shutter deck and layered optical lens"
+  },
+  "camera-plus": {
+    "family": "camera",
+    "visualReason": "Rounded camera housing, raised shutter deck and layered optical lens; plus operation"
+  },
+  "camera-rotate": {
+    "family": "camera",
+    "visualReason": "Rounded camera housing, raised shutter deck and layered optical lens; rotate operation"
+  },
+  "camera-slash": {
+    "family": "camera",
+    "visualReason": "Rounded camera housing, raised shutter deck and layered optical lens; slash operation"
+  },
+  "video": {
+    "family": "video camera",
+    "visualReason": "Soft recording body and projecting side viewfinder"
+  },
+  "video-camera": {
+    "family": "video camera",
+    "visualReason": "Soft recording body and projecting side viewfinder"
+  },
+  "video-camera-slash": {
+    "family": "video camera",
+    "visualReason": "Soft recording body and projecting side viewfinder with disabled slash"
+  },
+  "file-audio": {
+    "family": "media document",
+    "visualReason": "Folded page with musical note"
+  },
+  "file-image": {
+    "family": "media document",
+    "visualReason": "Folded page with landscape"
+  },
+  "file-jpg": {
+    "family": "media document",
+    "visualReason": "Folded page with landscape and compressed baseline"
+  },
+  "file-png": {
+    "family": "media document",
+    "visualReason": "Folded page with transparency checker"
+  },
+  "file-svg": {
+    "family": "media document",
+    "visualReason": "Folded page with vector diamond and anchor guides"
+  },
+  "file-video": {
+    "family": "media document",
+    "visualReason": "Folded page with play triangle"
+  },
+  "airplay": {
+    "family": "display",
+    "visualReason": "Display surface with airplay structure"
+  },
+  "monitor-arrow-up": {
+    "family": "display",
+    "visualReason": "Display surface with monitor arrow up structure"
+  },
+  "monitor-play": {
+    "family": "display",
+    "visualReason": "Display surface with monitor play structure"
+  },
+  "screencast": {
+    "family": "display",
+    "visualReason": "Display surface with screencast structure"
+  },
+  "picture-in-picture": {
+    "family": "display",
+    "visualReason": "Display surface with picture in picture structure"
+  },
+  "slideshow": {
+    "family": "display",
+    "visualReason": "Display surface with slideshow structure"
+  },
+  "projector-screen": {
+    "family": "display",
+    "visualReason": "Display surface with projector screen structure"
+  },
+  "device-mobile": {
+    "family": "portable device",
+    "visualReason": "Rounded phone shell with screen and home bar"
+  },
+  "device-mobile-camera": {
+    "family": "portable device",
+    "visualReason": "Rounded phone shell with camera"
+  },
+  "device-mobile-slash": {
+    "family": "portable device",
+    "visualReason": "Rounded phone shell with slash"
+  },
+  "device-mobile-speaker": {
+    "family": "portable device",
+    "visualReason": "Rounded phone shell with speaker"
+  },
+  "device-tablet": {
+    "family": "portable device",
+    "visualReason": "Rounded tablet shell with screen and home bar"
+  },
+  "device-tablet-camera": {
+    "family": "portable device",
+    "visualReason": "Rounded tablet shell with camera"
+  },
+  "device-tablet-speaker": {
+    "family": "portable device",
+    "visualReason": "Rounded tablet shell with speaker"
+  },
+  "device-rotate": {
+    "family": "portable device",
+    "visualReason": "Rounded phone shell with screen and home bar"
+  },
+  "devices": {
+    "family": "device group",
+    "visualReason": "Desktop and overlapping pocket phone"
+  },
+  "television": {
+    "family": "television",
+    "visualReason": "Screen and television cabinet with rabbit-ear aerial"
+  },
+  "television-simple": {
+    "family": "television",
+    "visualReason": "Screen and television cabinet with simplified side controls"
+  },
+  "music": {
+    "family": "music notation",
+    "visualReason": "Musical stave supporting a flagged note"
+  },
+  "music-note": {
+    "family": "music notation",
+    "visualReason": "Filled single stem and flag"
+  },
+  "music-note-simple": {
+    "family": "music notation",
+    "visualReason": "Simple quarter note with an unflagged upright stem"
+  },
+  "music-notes": {
+    "family": "music notation",
+    "visualReason": "Filled paired notes joined by a beam"
+  },
+  "music-notes-simple": {
+    "family": "music notation",
+    "visualReason": "Filled paired notes joined by a beam"
+  },
+  "music-notes-plus": {
+    "family": "music notation",
+    "visualReason": "Filled paired notes joined by a beam with add sign"
+  },
+  "music-notes-minus": {
+    "family": "music notation",
+    "visualReason": "Filled paired notes joined by a beam with subtract sign"
+  },
+  "image": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with mountains and sun"
+  },
+  "image-broken": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with torn center"
+  },
+  "image-square": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with square crop"
+  },
+  "images": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with stacked prints"
+  },
+  "images-square": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with stacked square prints"
+  },
+  "panorama": {
+    "family": "photograph",
+    "visualReason": "Landscape photograph with wide curved panorama"
+  },
+  "book": {
+    "family": "book",
+    "visualReason": "Curved bound cover and inset page block"
+  },
+  "book-bookmark": {
+    "family": "book",
+    "visualReason": "Curved bound cover and inset page block with ribbon tab"
+  },
+  "book-open": {
+    "family": "book",
+    "visualReason": "Curved facing pages and center fold"
+  },
+  "book-open-user": {
+    "family": "book",
+    "visualReason": "Curved facing pages and center fold with reader portrait"
+  },
+  "bookmark": {
+    "family": "bookmark",
+    "visualReason": "Soft ribbon ending in the recognizable bookmark notch"
+  },
+  "bookmark-simple": {
+    "family": "bookmark",
+    "visualReason": "Soft ribbon ending in the recognizable bookmark notch"
+  },
+  "article": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with article specific layout and content"
+  },
+  "article-medium": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with article medium specific layout and content"
+  },
+  "article-ny-times": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with article ny times specific layout and content"
+  },
+  "newspaper": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with newspaper specific layout and content"
+  },
+  "newspaper-clipping": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with newspaper clipping specific layout and content"
+  },
+  "film-script": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with film script specific layout and content"
+  },
+  "exam": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with exam specific layout and content"
+  },
+  "certificate": {
+    "family": "printed page",
+    "visualReason": "Printed sheet with certificate specific layout and content"
+  },
+  "play": {
+    "family": "playback",
+    "visualReason": "Rounded play media control"
+  },
+  "play-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing play"
+  },
+  "pause": {
+    "family": "playback",
+    "visualReason": "Rounded pause media control"
+  },
+  "pause-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing pause"
+  },
+  "stop": {
+    "family": "playback",
+    "visualReason": "Rounded stop media control"
+  },
+  "stop-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing stop"
+  },
+  "record": {
+    "family": "playback",
+    "visualReason": "Solid recording dot"
+  },
+  "fast-forward": {
+    "family": "playback",
+    "visualReason": "Rounded fast forward media control"
+  },
+  "fast-forward-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing fast forward"
+  },
+  "skip-forward": {
+    "family": "playback",
+    "visualReason": "Rounded skip forward media control"
+  },
+  "skip-forward-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing skip forward"
+  },
+  "rewind": {
+    "family": "playback",
+    "visualReason": "Rounded rewind media control"
+  },
+  "rewind-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing rewind"
+  },
+  "skip-back": {
+    "family": "playback",
+    "visualReason": "Rounded skip back media control"
+  },
+  "skip-back-circle": {
+    "family": "circular playback",
+    "visualReason": "Round playback affordance containing skip back"
+  },
+  "play-pause": {
+    "family": "playback",
+    "visualReason": "Play wedge paired with pause bars"
+  },
+  "eject": {
+    "family": "eject",
+    "visualReason": "Upward eject wedge separated from removable-media baseline"
+  },
+  "eject-simple": {
+    "family": "eject",
+    "visualReason": "Upward eject wedge separated from removable-media baseline"
+  },
+  "repeat": {
+    "family": "repeat",
+    "visualReason": "Opposing loop arrows"
+  },
+  "repeat-once": {
+    "family": "repeat",
+    "visualReason": "Opposing loop arrows with single-repeat numeral geometry"
+  },
+  "queue": {
+    "family": "media queue",
+    "visualReason": "Stacked tracks followed by a play wedge"
+  },
+  "equalizer": {
+    "family": "audio spectrum",
+    "visualReason": "Variable-height filled frequency bands"
+  },
+  "waveform": {
+    "family": "audio spectrum",
+    "visualReason": "Variable-height filled waveform samples"
+  },
+  "waveform-slash": {
+    "family": "audio spectrum",
+    "visualReason": "Variable-height filled waveform samples muted by slash"
+  },
+  "faders": {
+    "family": "mixing controls",
+    "visualReason": "Three rails with independently placed gripped fader caps"
+  },
+  "faders-horizontal": {
+    "family": "mixing controls",
+    "visualReason": "Three rails with independently placed gripped fader caps"
+  },
+  "sliders": {
+    "family": "mixing controls",
+    "visualReason": "Three rails with independently placed slider knobs"
+  },
+  "sliders-horizontal": {
+    "family": "mixing controls",
+    "visualReason": "Three rails with independently placed slider knobs"
+  },
+  "speaker-high": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with high sound state"
+  },
+  "speaker-low": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with low sound state"
+  },
+  "speaker-none": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with none sound state"
+  },
+  "speaker-simple-high": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with high sound state"
+  },
+  "speaker-simple-low": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with low sound state"
+  },
+  "speaker-simple-none": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with none sound state"
+  },
+  "speaker-simple-slash": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with slash sound state"
+  },
+  "speaker-simple-x": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with x sound state"
+  },
+  "speaker-slash": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with slash sound state"
+  },
+  "speaker-x": {
+    "family": "speaker",
+    "visualReason": "Speaker cone with x sound state"
+  },
+  "speaker-hifi": {
+    "family": "speaker cabinet",
+    "visualReason": "Tall hi-fi cabinet separates tweeter and woofer"
+  },
+  "headphones": {
+    "family": "headphones",
+    "visualReason": "Arching padded headband holds two soft ear cups"
+  },
+  "ear": {
+    "family": "ear",
+    "visualReason": "Curled outer ear and inner canal"
+  },
+  "ear-slash": {
+    "family": "ear",
+    "visualReason": "Curled outer ear and inner canal crossed for disabled hearing"
+  },
+  "aperture": {
+    "family": "camera aperture",
+    "visualReason": "Six shutter leaves surround a bright hexagonal opening"
+  },
+  "disc": {
+    "family": "round media",
+    "visualReason": "Circular optical disc with central hub"
+  },
+  "vinyl-record": {
+    "family": "round media",
+    "visualReason": "Circular record with concentric groove accents"
+  },
+  "film-reel": {
+    "family": "round media",
+    "visualReason": "Circular film reel with four winding holes"
+  },
+  "cassette-tape": {
+    "family": "cassette",
+    "visualReason": "Tape cassette with two spools and lower playback opening"
+  },
+  "film-strip": {
+    "family": "film strip",
+    "visualReason": "Two film frames between sparse perforated edges"
+  },
+  "film-slate": {
+    "family": "clapperboard",
+    "visualReason": "Angled striped clapper above script board"
+  },
+  "closed-captioning": {
+    "family": "media format",
+    "visualReason": "Media display with closed captioning encoding symbol"
+  },
+  "subtitles": {
+    "family": "media format",
+    "visualReason": "Media display with subtitles encoding symbol"
+  },
+  "subtitles-slash": {
+    "family": "media format",
+    "visualReason": "Media display with subtitles slash encoding symbol"
+  },
+  "four-k": {
+    "family": "media format",
+    "visualReason": "Media display with four k encoding symbol"
+  },
+  "high-definition": {
+    "family": "media format",
+    "visualReason": "Media display with high definition encoding symbol"
+  },
+  "standard-definition": {
+    "family": "media format",
+    "visualReason": "Media display with standard definition encoding symbol"
+  },
+  "gif": {
+    "family": "media format",
+    "visualReason": "Media display with gif encoding symbol"
+  },
+  "three-d": {
+    "family": "media format",
+    "visualReason": "Media display with three d encoding symbol"
+  },
+  "user": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait"
+  },
+  "user-check": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; check enclosure or action"
+  },
+  "user-circle": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle enclosure or action"
+  },
+  "user-circle-check": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle check enclosure or action"
+  },
+  "user-circle-dashed": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle dashed enclosure or action"
+  },
+  "user-circle-gear": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle gear enclosure or action"
+  },
+  "user-circle-minus": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle minus enclosure or action"
+  },
+  "user-circle-plus": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; circle plus enclosure or action"
+  },
+  "user-focus": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; focus enclosure or action"
+  },
+  "user-gear": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; gear enclosure or action"
+  },
+  "user-list": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; list enclosure or action"
+  },
+  "user-minus": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; minus enclosure or action"
+  },
+  "user-plus": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; plus enclosure or action"
+  },
+  "user-rectangle": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; rectangle enclosure or action"
+  },
+  "user-sound": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; sound enclosure or action"
+  },
+  "user-square": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; square enclosure or action"
+  },
+  "user-switch": {
+    "family": "user portrait",
+    "visualReason": "Soft head and shoulder portrait; switch enclosure or action"
+  },
+  "users": {
+    "family": "group portraits",
+    "visualReason": "Exactly two overlapping head-and-shoulder figures"
+  },
+  "users-three": {
+    "family": "group portraits",
+    "visualReason": "Exactly three overlapping head-and-shoulder figures"
+  },
+  "users-four": {
+    "family": "group portraits",
+    "visualReason": "Exactly four overlapping head-and-shoulder figures"
+  },
+  "person": {
+    "family": "standing person",
+    "visualReason": "Human silhouette with head, torso and legs"
+  },
+  "person-arms-spread": {
+    "family": "standing person",
+    "visualReason": "Human silhouette with outstretched arms"
+  },
+  "person-simple-circle": {
+    "family": "standing person",
+    "visualReason": "Human silhouette with circular accessible-person frame"
+  },
+  "person-simple-bike": {
+    "family": "cyclist",
+    "visualReason": "Leaning rider over two light bicycle wheels"
+  },
+  "person-simple-swim": {
+    "family": "swimmer",
+    "visualReason": "Crawl swimmer with bent arm and two water ripples"
+  },
+  "baby": {
+    "family": "baby face",
+    "visualReason": "Round infant face, curl and smiling mouth"
+  },
+  "eyes": {
+    "family": "eyes",
+    "visualReason": "Two tall eyeballs with pupils glancing right"
+  },
+  "smiley": {
+    "family": "facial expression",
+    "visualReason": "Soft face with  expression"
+  },
+  "smiley-angry": {
+    "family": "facial expression",
+    "visualReason": "Soft face with angry expression"
+  },
+  "smiley-blank": {
+    "family": "facial expression",
+    "visualReason": "Soft face with blank expression"
+  },
+  "smiley-meh": {
+    "family": "facial expression",
+    "visualReason": "Soft face with meh expression"
+  },
+  "smiley-melting": {
+    "family": "facial expression",
+    "visualReason": "Soft face with melting expression"
+  },
+  "smiley-nervous": {
+    "family": "facial expression",
+    "visualReason": "Soft face with nervous expression"
+  },
+  "smiley-sad": {
+    "family": "facial expression",
+    "visualReason": "Soft face with sad expression"
+  },
+  "smiley-sticker": {
+    "family": "facial expression",
+    "visualReason": "Soft face with sticker expression"
+  },
+  "smiley-wink": {
+    "family": "facial expression",
+    "visualReason": "Soft face with wink expression"
+  },
+  "smiley-x-eyes": {
+    "family": "facial expression",
+    "visualReason": "Soft face with x eyes expression"
+  },
+  "scan-smiley": {
+    "family": "face scan",
+    "visualReason": "Smiling face inside four scanning corners"
+  },
+  "lego-smiley": {
+    "family": "toy face",
+    "visualReason": "Toy minifigure head with raised connecting stud"
+  },
+  "detective": {
+    "family": "detective",
+    "visualReason": "Low-brim detective hat and anonymous spectacles"
+  },
+  "student": {
+    "family": "student",
+    "visualReason": "Graduate portrait beneath mortarboard and tassel"
+  },
+  "chalkboard-teacher": {
+    "family": "teacher",
+    "visualReason": "Teacher beside a board, pointing to the lesson"
+  },
+  "identification-badge": {
+    "family": "identity document",
+    "visualReason": "Portrait identity badge with lanyard clip"
+  },
+  "identification-card": {
+    "family": "identity document",
+    "visualReason": "Portrait identity card with header strip"
+  },
+  "hand": {
+    "family": "hand gesture",
+    "visualReason": "side-view cupped hand with raised thumb and wrist cuff"
+  },
+  "hand-palm": {
+    "family": "hand gesture",
+    "visualReason": "open palm with four rounded fingers and separately curved finger valleys"
+  },
+  "hand-waving": {
+    "family": "hand gesture",
+    "visualReason": "waving tilted palm"
+  },
+  "hand-fist": {
+    "family": "hand gesture",
+    "visualReason": "closed knuckles"
+  },
+  "hand-grabbing": {
+    "family": "hand gesture",
+    "visualReason": "curled grasping fingers"
+  },
+  "hand-pointing": {
+    "family": "hand gesture",
+    "visualReason": "single extended index finger"
+  },
+  "hand-tap": {
+    "family": "hand gesture",
+    "visualReason": "index finger touching with contact rays"
+  },
+  "hand-swipe-left": {
+    "family": "hand gesture",
+    "visualReason": "pointing hand and left gesture arrow"
+  },
+  "hand-swipe-right": {
+    "family": "hand gesture",
+    "visualReason": "pointing hand and right gesture arrow"
+  },
+  "hand-arrow-down": {
+    "family": "hand gesture",
+    "visualReason": "palm and down arrow"
+  },
+  "hand-arrow-up": {
+    "family": "hand gesture",
+    "visualReason": "palm and up arrow"
+  },
+  "hand-heart": {
+    "family": "hand gesture",
+    "visualReason": "offering palm supporting heart"
+  },
+  "hand-eye": {
+    "family": "hand gesture",
+    "visualReason": "offering palm with seeing eye"
+  },
+  "hand-coins": {
+    "family": "hand gesture",
+    "visualReason": "palm holding two coins"
+  },
+  "hand-deposit": {
+    "family": "hand gesture",
+    "visualReason": "downward money deposit into palm"
+  },
+  "hand-withdraw": {
+    "family": "hand gesture",
+    "visualReason": "upward withdrawal from palm"
+  },
+  "hand-peace": {
+    "family": "hand gesture",
+    "visualReason": "two separate raised fingers forming peace sign"
+  },
+  "hands-clapping": {
+    "family": "clapping hands",
+    "visualReason": "Two overlapping angled palms with clap rays"
+  },
+  "hands-praying": {
+    "family": "praying hands",
+    "visualReason": "Two palms pressed together above paired sleeves"
+  },
+  "handshake": {
+    "family": "handshake",
+    "visualReason": "Two sleeves meet in interlocking hands"
+  },
+  "thumbs-up": {
+    "family": "approval hand",
+    "visualReason": "Raised thumb beside rounded cuff"
+  },
+  "thumbs-down": {
+    "family": "disapproval hand",
+    "visualReason": "Downward thumb beside rounded cuff"
+  },
+  "baby-carriage": {
+    "family": "baby carriage",
+    "visualReason": "Pram canopy shelters a soft basin above two wheels"
+  },
+  "bathtub": {
+    "family": "bathtub",
+    "visualReason": "Deep bath basin with rolled rim, faucet and feet"
+  },
+  "bell": {
+    "family": "bell",
+    "visualReason": "Rounded bell dome and hanging clapper with lower rim"
+  },
+  "bell-simple": {
+    "family": "bell",
+    "visualReason": "Rounded bell dome and hanging clapper"
+  },
+  "broom": {
+    "family": "broom",
+    "visualReason": "Long angled handle joins splayed bristles and binding"
+  },
+  "cake": {
+    "family": "cake",
+    "visualReason": "Birthday sponge with scalloped icing and two candles"
+  },
+  "clock": {
+    "family": "clock",
+    "visualReason": "Round clock face, upper bezel and readable hands"
+  },
+  "timer": {
+    "family": "stopwatch",
+    "visualReason": "Stopwatch with top plunger and side button"
+  },
+  "watch": {
+    "family": "wristwatch",
+    "visualReason": "Curved wrist strap passes behind rounded dial"
+  },
+  "compass-tool": {
+    "family": "drawing compass",
+    "visualReason": "Hinged drafting legs with adjustment brace"
+  },
+  "door": {
+    "family": "door",
+    "visualReason": "Entry frame and closed panel with handle"
+  },
+  "door-open": {
+    "family": "door",
+    "visualReason": "Entry frame and outward swinging door panel"
+  },
+  "eyedropper": {
+    "family": "eyedropper",
+    "visualReason": "Rubber bulb and narrow pipette"
+  },
+  "eyedropper-sample": {
+    "family": "eyedropper",
+    "visualReason": "Rubber bulb and narrow pipette releasing a sample droplet"
+  },
+  "fire-extinguisher": {
+    "family": "fire extinguisher",
+    "visualReason": "Pressure tank, nozzle hose and flame label"
+  },
+  "flashlight": {
+    "family": "flashlight",
+    "visualReason": "Flared torch head above a slim switch handle"
+  },
+  "funnel": {
+    "family": "funnel",
+    "visualReason": "Wide filter mouth tapering into narrow spout"
+  },
+  "funnel-simple": {
+    "family": "funnel",
+    "visualReason": "Wide filter mouth tapering into narrow spout"
+  },
+  "funnel-simple-x": {
+    "family": "funnel",
+    "visualReason": "Wide filter mouth tapering into narrow spout and clear-filter cross"
+  },
+  "funnel-x": {
+    "family": "funnel",
+    "visualReason": "Wide filter mouth tapering into narrow spout and clear-filter cross"
+  },
+  "guitar": {
+    "family": "guitar",
+    "visualReason": "Acoustic waist, round sound hole and fretted neck"
+  },
+  "hourglass": {
+    "family": "hourglass",
+    "visualReason": "Empty pinched hourglass chambers with no sand"
+  },
+  "hourglass-high": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with high sand fill, separated upper and lower chambers"
+  },
+  "hourglass-low": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with low sand fill, separated upper and lower chambers"
+  },
+  "hourglass-medium": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with medium sand fill, separated upper and lower chambers"
+  },
+  "hourglass-simple": {
+    "family": "hourglass",
+    "visualReason": "Empty pinched hourglass chambers with no sand"
+  },
+  "hourglass-simple-high": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with high sand fill, separated upper and lower chambers"
+  },
+  "hourglass-simple-low": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with low sand fill, separated upper and lower chambers"
+  },
+  "hourglass-simple-medium": {
+    "family": "hourglass",
+    "visualReason": "Pinched glass with medium sand fill, separated upper and lower chambers"
+  },
+  "key": {
+    "family": "key",
+    "visualReason": "Round key bow, diagonal shaft and two teeth"
+  },
+  "keyhole": {
+    "family": "keyhole",
+    "visualReason": "Circular key opening above tapered lock slot"
+  },
+  "ladder": {
+    "family": "ladder",
+    "visualReason": "Tapered ladder rails supporting four evenly spaced rungs"
+  },
+  "ladder-simple": {
+    "family": "ladder",
+    "visualReason": "Tapered ladder rails supporting four evenly spaced rungs"
+  },
+  "lasso": {
+    "family": "lasso",
+    "visualReason": "Looped rope with winding loose tail"
+  },
+  "lightbulb-filament": {
+    "family": "light bulb",
+    "visualReason": "Bulb glass contains paired filament stems above screw base"
+  },
+  "lock": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and closed shackle"
+  },
+  "lock-key": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and closed shackle, keyhole"
+  },
+  "lock-key-open": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and open shackle, keyhole"
+  },
+  "lock-laminated": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and closed shackle, stacked laminated plates"
+  },
+  "lock-laminated-open": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and open shackle, stacked laminated plates"
+  },
+  "lock-open": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and open shackle"
+  },
+  "lock-simple": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and closed shackle"
+  },
+  "lock-simple-open": {
+    "family": "padlock",
+    "visualReason": "Rounded lock case and open shackle"
+  },
+  "metronome": {
+    "family": "metronome",
+    "visualReason": "Tapered metronome case with tilted weighted pendulum"
+  },
+  "nut": {
+    "family": "hex nut",
+    "visualReason": "Softened hexagonal fastener surrounds threaded center"
+  },
+  "paint-brush": {
+    "family": "paint brush",
+    "visualReason": "Pointed wet bristles join a slim angled brush handle"
+  },
+  "paint-brush-broad": {
+    "family": "broad paint brush",
+    "visualReason": "Broad flat bristle fan below ferrule and short handle"
+  },
+  "paint-brush-household": {
+    "family": "household brush",
+    "visualReason": "Wide rectangular decorating brush with central grip"
+  },
+  "paint-bucket": {
+    "family": "paint bucket",
+    "visualReason": "Tilted pail pours a distinct paint drop"
+  },
+  "paint-roller": {
+    "family": "paint roller",
+    "visualReason": "Soft roller sleeve connects through elbow rod to grip"
+  },
+  "piano-keys": {
+    "family": "piano",
+    "visualReason": "Light piano keybed divided by raised dark keys"
+  },
+  "piggy-bank": {
+    "family": "piggy bank",
+    "visualReason": "Round saving pig with coin slot, snout, ear and feet"
+  },
+  "plug": {
+    "family": "power plug",
+    "visualReason": "Power plug with visible prongs and cable ends"
+  },
+  "plug-charging": {
+    "family": "power plug",
+    "visualReason": "Power plug charging with visible prongs and cable ends"
+  },
+  "plugs": {
+    "family": "power plug",
+    "visualReason": "Power plugs with visible prongs and cable ends"
+  },
+  "plugs-connected": {
+    "family": "power plug",
+    "visualReason": "Power plugs connected with visible prongs and cable ends"
+  },
+  "rug": {
+    "family": "rug",
+    "visualReason": "Woven rug with inner medallion and fringe"
+  },
+  "ruler": {
+    "family": "ruler",
+    "visualReason": "Diagonal measuring ruler with three clear tick marks"
+  },
+  "security-camera": {
+    "family": "security camera",
+    "visualReason": "Angled surveillance camera and wall mounting arm"
+  },
+  "shield": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon"
+  },
+  "shield-check": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; check motif"
+  },
+  "shield-checkered": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; checkered motif"
+  },
+  "shield-chevron": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; chevron motif"
+  },
+  "shield-plus": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; plus motif"
+  },
+  "shield-slash": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; slash motif"
+  },
+  "shield-star": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; star motif"
+  },
+  "shield-warning": {
+    "family": "protective shield",
+    "visualReason": "Protective curved escutcheon; warning motif"
+  },
+  "shower": {
+    "family": "shower",
+    "visualReason": "Curved shower arm, domed head and separated water drops"
+  },
+  "stamp": {
+    "family": "rubber stamp",
+    "visualReason": "Bulb handle rests above broad stamping platen"
+  },
+  "star-and-crescent": {
+    "family": "crescent and star",
+    "visualReason": "Lunar crescent cradles five-pointed star"
+  },
+  "star-of-david": {
+    "family": "hexagram",
+    "visualReason": "Two interlocking triangular bands form a six-pointed star"
+  },
+  "swatches": {
+    "family": "color swatches",
+    "visualReason": "Fanned color sample strips pivot around a shared rivet"
+  },
+  "usb": {
+    "family": "USB connector",
+    "visualReason": "USB trident uses triangle, square and circle terminals"
+  },
+  "vault": {
+    "family": "vault",
+    "visualReason": "Safe door with wheel handle and two hinge plates"
+  },
+  "visor": {
+    "family": "visor",
+    "visualReason": "Wraparound vision visor with broad continuous lens"
+  },
+  "wall": {
+    "family": "brick wall",
+    "visualReason": "Staggered masonry courses with alternating filled bricks"
+  }
+}

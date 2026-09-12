@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g data-colorful-layer="detail" data-colorful-part={0}><path d="M5.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M6.5 12H7.5" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={2}><path d="M10.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={0}><path d="M11.5 12H12.5" fill="none" /></g><g data-colorful-layer="back" data-colorful-part={1}><path d="M15.3 12a1.7 1.7 0 1 0 3.4 0a1.7 1.7 0 1 0 -3.4 0Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={2}><path d="M16.5 12H17.5" fill="none" /></g></g>;
+export default artwork;

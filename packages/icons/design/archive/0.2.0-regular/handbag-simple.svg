@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M19.855,7.768h-15.71c-0.391,0 -0.721,0.292 -0.769,0.68l-1.371,11.541c-0.026,0.219 0.044,0.439 0.191,0.603c0.147,0.164 0.358,0.257 0.578,0.256h18.451c0.221,0.001 0.431,-0.092 0.578,-0.256c0.147,-0.164 0.217,-0.384 0.191,-0.603l-1.371,-11.541c-0.048,-0.388 -0.378,-0.68 -0.769,-0.68z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" data-layer="surface" />
+  <path d="M21.995,19.989c0.026,0.219 -0.044,0.439 -0.191,0.603c-0.147,0.164 -0.358,0.257 -0.578,0.256h-18.451c-0.221,0.001 -0.431,-0.092 -0.578,-0.256c-0.147,-0.164 -0.217,-0.384 -0.191,-0.603l0.672,-5.66c5.725,-1.867 12.015,3.035 18.749,0.876z" fill="var(--project-art-back, #d9c9ed)" stroke="none" data-layer="back" />
+  <path d="M8.153,7.768v-0.769c0,-2.125 1.722,-3.847 3.847,-3.847c2.125,0 3.847,1.722 3.847,3.847v0.769" fill="none" data-layer="detail" />
+</svg>

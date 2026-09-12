@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M12 2L22 19H2ZM12 7L6.5 16H17.5Z" fill="var(--project-art-back, #d9c9ed)" stroke="none"/><path d="M2 6H22L12 23ZM6.5 9L12 18L17.5 9Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none"/><path d="M2 6H22L12 23Z" fill="none"/>
+</svg>

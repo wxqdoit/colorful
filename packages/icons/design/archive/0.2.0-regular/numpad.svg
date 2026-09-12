@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <path d="M5.6,3.6h12.8v0v15.2c0,0.884 -0.716,1.6 -1.6,1.6h-9.6c-0.884,0 -1.6,-0.716 -1.6,-1.6v-15.2z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" data-layer="surface" />
+  <path d="M18.4,18.8c0,0.884 -0.716,1.6 -1.6,1.6h-9.6c-0.884,0 -1.6,-0.716 -1.6,-1.6v-6.672c3.992,-2.682 8.131,3.903 12.8,0.979z" fill="var(--project-art-back, #d9c9ed)" stroke="none" data-layer="back" />
+  <path d="M7.2,3.6c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M13.6,3.6c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M20,3.6c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M7.2,9.2c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M13.6,9.2c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M20,9.2c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M7.2,14.8c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M13.6,14.8c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M13.6,20.4c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+  <path d="M20,14.8c0,0.884 -0.716,1.6 -1.6,1.6c-0.884,0 -1.6,-0.716 -1.6,-1.6c0,-0.884 0.716,-1.6 1.6,-1.6c0.884,0 1.6,0.716 1.6,1.6z" fill="var(--project-art-detail, #aa8bcf)" stroke="none" data-layer="detail" />
+</svg>

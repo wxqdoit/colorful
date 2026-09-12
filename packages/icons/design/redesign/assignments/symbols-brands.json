@@ -1,0 +1,397 @@
+[
+  {
+    "name": "amazon-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "android-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "angular-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "app-store-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "apple-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "apple-podcasts-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "behance-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "coda-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "codepen-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "codesandbox-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "dev-to-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "discord-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "dribbble-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "dropbox-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "facebook-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "fediverse-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "figma-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "framer-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "github-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "gitlab-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "goodreads-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-cardboard-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-chrome-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-drive-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-photos-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-play-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "google-podcasts-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "instagram-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "lastfm-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "linkedin-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "linktree-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "linux-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "markdown-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "mastodon-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "matrix-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "medium-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "messenger-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "meta-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "microsoft-excel-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "microsoft-outlook-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "microsoft-powerpoint-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "microsoft-teams-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "microsoft-word-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "notion-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "ny-times-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "open-ai-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "patreon-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "paypal-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "phosphor-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "pinterest-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "pix-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "read-cv-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "reddit-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "replit-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "sketch-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "skype-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "slack-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "snapchat-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "soundcloud-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "spotify-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "square-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "stack-overflow-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "steam-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "stripe-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "telegram-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "threads-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "tidal-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "tiktok-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "tumblr-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "twitch-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "twitter-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "webhooks-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "wechat-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "whatsapp-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "windows-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "x-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "youtube-logo",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  },
+  {
+    "name": "gitlab-logo-simple",
+    "status": "excluded",
+    "reason": "品牌标识，不改写品牌形状"
+  }
+]

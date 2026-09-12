@@ -1,0 +1,3195 @@
+[
+  {
+    "name": "flower",
+    "component": "Flower",
+    "label": "花朵",
+    "category": "自然",
+    "tags": [
+      "bloom",
+      "blossom",
+      "植物",
+      "花卉"
+    ]
+  },
+  {
+    "name": "leaf",
+    "component": "Leaf",
+    "label": "叶子",
+    "category": "自然",
+    "tags": [
+      "nature",
+      "plant",
+      "自然",
+      "植物"
+    ]
+  },
+  {
+    "name": "planet",
+    "component": "Planet",
+    "label": "星球",
+    "category": "自然",
+    "tags": [
+      "space",
+      "orbit",
+      "宇宙",
+      "轨道"
+    ]
+  },
+  {
+    "name": "acorn",
+    "component": "Acorn",
+    "label": "橡果",
+    "category": "自然",
+    "tags": [
+      "savings",
+      "nut",
+      "vegetable",
+      "veggies",
+      "food",
+      "groceries",
+      "market",
+      "finances",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "alien",
+    "component": "Alien",
+    "label": "Alien",
+    "category": "游戏",
+    "tags": [
+      "ufo",
+      "space",
+      "flying saucer",
+      "extra terrestrial",
+      "sci-fi",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ambulance",
+    "component": "Ambulance",
+    "label": "Ambulance",
+    "category": "健康",
+    "tags": [
+      "first-aid",
+      "emt",
+      "medical",
+      "medicine",
+      "injury",
+      "safety",
+      "emergency",
+      "doctor",
+      "vehicles",
+      "health & wellness",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "atom",
+    "component": "Atom",
+    "label": "Atom",
+    "category": "自然",
+    "tags": [
+      "atomic",
+      "nucleus",
+      "nuclear",
+      "reactor",
+      "science",
+      "physics",
+      "electron",
+      "automation",
+      "react",
+      "technology & development",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "avocado",
+    "component": "Avocado",
+    "label": "Avocado",
+    "category": "自然",
+    "tags": [
+      "food",
+      "vegetable",
+      "veggie",
+      "fruit",
+      "groceries",
+      "market",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bandaids",
+    "component": "Bandaids",
+    "label": "Bandaids",
+    "category": "健康",
+    "tags": [
+      "bandages",
+      "medical",
+      "medicine",
+      "first aid",
+      "injury",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "barbell",
+    "component": "Barbell",
+    "label": "Barbell",
+    "category": "健康",
+    "tags": [
+      "gym",
+      "weights",
+      "dumbbells",
+      "strength training",
+      "workout",
+      "exercises",
+      "fitness",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "baseball",
+    "component": "Baseball",
+    "label": "Baseball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "mlb",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "baseball-helmet",
+    "component": "BaseballHelmet",
+    "label": "Baseball Helmet",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "mlb",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "basketball",
+    "component": "Basketball",
+    "label": "篮球",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "nba",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "beach-ball",
+    "component": "BeachBall",
+    "label": "Beach Ball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "ocean",
+      "party",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bed",
+    "component": "Bed",
+    "label": "床",
+    "category": "健康",
+    "tags": [
+      "hotels",
+      "accommodations",
+      "sleeping",
+      "places",
+      "locations",
+      "medical",
+      "hospital",
+      "health & wellness",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bicycle",
+    "component": "Bicycle",
+    "label": "自行车",
+    "category": "健康",
+    "tags": [
+      "bikers",
+      "bicycling",
+      "cyclists",
+      "transit",
+      "transportation",
+      "commuter",
+      "exercises",
+      "fitness",
+      "health & wellness",
+      "maps & travel",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "binoculars",
+    "component": "Binoculars",
+    "label": "Binoculars",
+    "category": "自然",
+    "tags": [
+      "telescope",
+      "glasses",
+      "search",
+      "find",
+      "explore",
+      "nature",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "biohazard",
+    "component": "Biohazard",
+    "label": "Biohazard",
+    "category": "健康",
+    "tags": [
+      "contamination",
+      "quarantine",
+      "toxic",
+      "poison",
+      "danger",
+      "caution",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bird",
+    "component": "Bird",
+    "label": "小鸟",
+    "category": "自然",
+    "tags": [
+      "*updated*",
+      "animals",
+      "pets",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bomb",
+    "component": "Bomb",
+    "label": "Bomb",
+    "category": "游戏",
+    "tags": [
+      "gaming",
+      "grenade",
+      "explosive",
+      "war",
+      "weapon",
+      "fuse",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bone",
+    "component": "Bone",
+    "label": "Bone",
+    "category": "自然",
+    "tags": [
+      "dogbone",
+      "nature",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "boot",
+    "component": "Boot",
+    "label": "Boot",
+    "category": "健康",
+    "tags": [
+      "hiking",
+      "shoes",
+      "sports",
+      "exercise",
+      "commerce",
+      "objects",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "boules",
+    "component": "Boules",
+    "label": "Boules",
+    "category": "健康",
+    "tags": [
+      "balls",
+      "sports",
+      "pétanque",
+      "raffa",
+      "bocce",
+      "boule lyonnaise",
+      "lawn bowls",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bowling-ball",
+    "component": "BowlingBall",
+    "label": "Bowling Ball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "alley",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "boxing-glove",
+    "component": "BoxingGlove",
+    "label": "Boxing Glove",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "combat",
+      "martial arts",
+      "fight",
+      "gym",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "brain",
+    "component": "Brain",
+    "label": "大脑",
+    "category": "自然",
+    "tags": [
+      "mind",
+      "mental",
+      "health & wellness",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bug",
+    "component": "Bug",
+    "label": "Bug",
+    "category": "自然",
+    "tags": [
+      "debug",
+      "errors",
+      "insect",
+      "ladybug",
+      "technology & development",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bug-beetle",
+    "component": "BugBeetle",
+    "label": "Bug Beetle",
+    "category": "自然",
+    "tags": [
+      "debug",
+      "errors",
+      "insect",
+      "ladybug",
+      "technology & development",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "bug-droid",
+    "component": "BugDroid",
+    "label": "Bug Droid",
+    "category": "自然",
+    "tags": [
+      "debug",
+      "errors",
+      "insect",
+      "android",
+      "google",
+      "technology & development",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "butterfly",
+    "component": "Butterfly",
+    "label": "蝴蝶",
+    "category": "自然",
+    "tags": [
+      "animals",
+      "insects",
+      "moth",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cactus",
+    "component": "Cactus",
+    "label": "仙人掌",
+    "category": "自然",
+    "tags": [
+      "*updated*",
+      "plants",
+      "cacti",
+      "desert",
+      "western",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "campfire",
+    "component": "Campfire",
+    "label": "篝火",
+    "category": "自然",
+    "tags": [
+      "camping",
+      "flame",
+      "bonfire",
+      "outdoors",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "carrot",
+    "component": "Carrot",
+    "label": "胡萝卜",
+    "category": "自然",
+    "tags": [
+      "food",
+      "vegetable",
+      "veggie",
+      "groceries",
+      "market",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cat",
+    "component": "Cat",
+    "label": "猫",
+    "category": "自然",
+    "tags": [
+      "pets",
+      "animals",
+      "kitty",
+      "kitten",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "checkerboard",
+    "component": "Checkerboard",
+    "label": "Checkerboard",
+    "category": "游戏",
+    "tags": [
+      "crossword",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cherries",
+    "component": "Cherries",
+    "label": "樱桃",
+    "category": "自然",
+    "tags": [
+      "food",
+      "fruit",
+      "cherry",
+      "groceries",
+      "market",
+      "nature",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cigarette",
+    "component": "Cigarette",
+    "label": "Cigarette",
+    "category": "健康",
+    "tags": [
+      "smoking",
+      "tobacco",
+      "commerce",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cigarette-slash",
+    "component": "CigaretteSlash",
+    "label": "Cigarette Slash",
+    "category": "健康",
+    "tags": [
+      "non-smoking",
+      "tobacco",
+      "commerce",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud",
+    "component": "Cloud",
+    "label": "云朵",
+    "category": "天气",
+    "tags": [
+      "serverless",
+      "backup",
+      "storage",
+      "meteorology",
+      "cloudy",
+      "overcast",
+      "system",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-fog",
+    "component": "CloudFog",
+    "label": "云朵 · fog",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "overcast",
+      "foggy",
+      "mist",
+      "haze",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-lightning",
+    "component": "CloudLightning",
+    "label": "云朵 · lightning",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "overcast",
+      "stormy",
+      "thunderstorm",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-moon",
+    "component": "CloudMoon",
+    "label": "云朵 · moon",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "partly cloudy",
+      "night",
+      "evening",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-rain",
+    "component": "CloudRain",
+    "label": "云朵 · rain",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "rainy",
+      "raining",
+      "stormy",
+      "rainstorm",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-snow",
+    "component": "CloudSnow",
+    "label": "云朵 · snow",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "snowy",
+      "snowing",
+      "stormy",
+      "snowstorm",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cloud-sun",
+    "component": "CloudSun",
+    "label": "云朵 · sun",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cloudy",
+      "partly cloudy",
+      "partly sunny",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "clover",
+    "component": "Clover",
+    "label": "三叶草",
+    "category": "自然",
+    "tags": [
+      "four leaf clover",
+      "plants",
+      "luck",
+      "lucky",
+      "irish",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "club",
+    "component": "Club",
+    "label": "Club",
+    "category": "游戏",
+    "tags": [
+      "clubs",
+      "suits",
+      "cards",
+      "gambling",
+      "casino",
+      "gaming",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "coffee-bean",
+    "component": "CoffeeBean",
+    "label": "Coffee Bean",
+    "category": "自然",
+    "tags": [
+      "tea",
+      "java",
+      "beverages",
+      "drinks",
+      "cafe",
+      "cup",
+      "mug",
+      "espresso",
+      "cappuccino",
+      "latte",
+      "places",
+      "locations",
+      "bars",
+      "restaurants",
+      "food",
+      "dining",
+      "commerce",
+      "maps & travel",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "court-basketball",
+    "component": "CourtBasketball",
+    "label": "Court Basketball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "nba",
+      "games",
+      "health & wellness",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cow",
+    "component": "Cow",
+    "label": "奶牛",
+    "category": "自然",
+    "tags": [
+      "animals",
+      "livestock",
+      "beef",
+      "bull",
+      "milk",
+      "dairy",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cricket",
+    "component": "Cricket",
+    "label": "Cricket",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "ball",
+      "bat",
+      "games",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crown",
+    "component": "Crown",
+    "label": "王冠",
+    "category": "游戏",
+    "tags": [
+      "*updated*",
+      "king",
+      "queen",
+      "royalty",
+      "monarch",
+      "ruler",
+      "leader",
+      "chess",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crown-cross",
+    "component": "CrownCross",
+    "label": "王冠 · cross",
+    "category": "游戏",
+    "tags": [
+      "king",
+      "queen",
+      "royalty",
+      "monarch",
+      "ruler",
+      "leader",
+      "chess",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "crown-simple",
+    "component": "CrownSimple",
+    "label": "王冠 · simple",
+    "category": "游戏",
+    "tags": [
+      "*updated*",
+      "king",
+      "queen",
+      "royalty",
+      "monarch",
+      "ruler",
+      "leader",
+      "chess",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cube",
+    "component": "Cube",
+    "label": "立方体",
+    "category": "游戏",
+    "tags": [
+      "square",
+      "box",
+      "3d",
+      "volume",
+      "blocks",
+      "design",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cube-focus",
+    "component": "CubeFocus",
+    "label": "立方体 · focus",
+    "category": "游戏",
+    "tags": [
+      "augmented reality",
+      "ar",
+      "virual reality",
+      "vr",
+      "3d",
+      "scan",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "cube-transparent",
+    "component": "CubeTransparent",
+    "label": "立方体 · transparent",
+    "category": "游戏",
+    "tags": [
+      "square",
+      "box",
+      "3d",
+      "volume",
+      "blocks",
+      "necker",
+      "design",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "diamond",
+    "component": "Diamond",
+    "label": "钻石",
+    "category": "游戏",
+    "tags": [
+      "rectangle",
+      "shapes",
+      "polygons",
+      "diamonds",
+      "suits",
+      "cards",
+      "gambling",
+      "casino",
+      "gaming",
+      "design",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-five",
+    "component": "DiceFive",
+    "label": "Dice Five",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "5",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-four",
+    "component": "DiceFour",
+    "label": "Dice Four",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "4",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-one",
+    "component": "DiceOne",
+    "label": "Dice One",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "1",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-six",
+    "component": "DiceSix",
+    "label": "Dice Six",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "6",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-three",
+    "component": "DiceThree",
+    "label": "Dice Three",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "3",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dice-two",
+    "component": "DiceTwo",
+    "label": "Dice Two",
+    "category": "游戏",
+    "tags": [
+      "die",
+      "rolling",
+      "gamble",
+      "gambling",
+      "casino",
+      "gaming",
+      "2",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "dog",
+    "component": "Dog",
+    "label": "狗",
+    "category": "自然",
+    "tags": [
+      "pets",
+      "animals",
+      "puppy",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drone",
+    "component": "Drone",
+    "label": "Drone",
+    "category": "游戏",
+    "tags": [
+      "aerial",
+      "uav",
+      "photography",
+      "remote",
+      "games",
+      "objects",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drop",
+    "component": "Drop",
+    "label": "Drop",
+    "category": "自然",
+    "tags": [
+      "droplet",
+      "teardrop",
+      "raindrop",
+      "raining",
+      "meteorology",
+      "water",
+      "blur",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drop-half",
+    "component": "DropHalf",
+    "label": "Drop Half",
+    "category": "自然",
+    "tags": [
+      "droplet",
+      "teardrop",
+      "raindrop",
+      "humidity",
+      "water",
+      "contrast",
+      "brightness",
+      "design",
+      "editor",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drop-half-bottom",
+    "component": "DropHalfBottom",
+    "label": "Drop Half Bottom",
+    "category": "自然",
+    "tags": [
+      "droplet",
+      "teardrop",
+      "raindrop",
+      "humidity",
+      "water",
+      "contrast",
+      "brightness",
+      "design",
+      "editor",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drop-simple",
+    "component": "DropSimple",
+    "label": "Drop Simple",
+    "category": "自然",
+    "tags": [
+      "droplet",
+      "teardrop",
+      "raindrop",
+      "raining",
+      "humidity",
+      "meteorology",
+      "water",
+      "blur",
+      "design",
+      "editor",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "drop-slash",
+    "component": "DropSlash",
+    "label": "Drop Slash",
+    "category": "自然",
+    "tags": [
+      "droplet",
+      "teardrop",
+      "raindrop",
+      "raining",
+      "humidity",
+      "meteorology",
+      "water",
+      "blur",
+      "disabled",
+      "design",
+      "editor",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "egg",
+    "component": "Egg",
+    "label": "鸡蛋",
+    "category": "自然",
+    "tags": [
+      "chicken",
+      "food",
+      "meal",
+      "baby",
+      "hatch",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "egg-crack",
+    "component": "EggCrack",
+    "label": "鸡蛋 · crack",
+    "category": "自然",
+    "tags": [
+      "chicken",
+      "food",
+      "meal",
+      "baby",
+      "hatch",
+      "break",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "eyeglasses",
+    "component": "Eyeglasses",
+    "label": "Eyeglasses",
+    "category": "健康",
+    "tags": [
+      "vision",
+      "spectacles",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "face-mask",
+    "component": "FaceMask",
+    "label": "Face Mask",
+    "category": "健康",
+    "tags": [
+      "ppe",
+      "facemask",
+      "covid-19",
+      "coronavirus",
+      "flu",
+      "cold",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fallout-shelter",
+    "component": "FalloutShelter",
+    "label": "Fallout Shelter",
+    "category": "健康",
+    "tags": [
+      "radiation",
+      "radioactive",
+      "nuclear",
+      "bunker",
+      "contamination",
+      "quarantine",
+      "toxic",
+      "danger",
+      "caution",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "farm",
+    "component": "Farm",
+    "label": "Farm",
+    "category": "自然",
+    "tags": [
+      "farmer",
+      "field",
+      "farming",
+      "agriculture",
+      "commerce",
+      "nature",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "feather",
+    "component": "Feather",
+    "label": "羽毛",
+    "category": "自然",
+    "tags": [
+      "bird",
+      "nature",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "finn-the-human",
+    "component": "FinnTheHuman",
+    "label": "Finn The Human",
+    "category": "游戏",
+    "tags": [
+      "adventure time",
+      "cartoons",
+      "television",
+      "tv",
+      "character",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fire",
+    "component": "Fire",
+    "label": "火焰",
+    "category": "自然",
+    "tags": [
+      "flame",
+      "burning",
+      "match",
+      "lighter",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fire-simple",
+    "component": "FireSimple",
+    "label": "火焰 · simple",
+    "category": "自然",
+    "tags": [
+      "flame",
+      "burning",
+      "match",
+      "lighter",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fire-truck",
+    "component": "FireTruck",
+    "label": "火焰 · truck",
+    "category": "健康",
+    "tags": [
+      "first-aid",
+      "emt",
+      "medical",
+      "medicine",
+      "injury",
+      "safety",
+      "emergency",
+      "firefighter",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "first-aid",
+    "component": "FirstAid",
+    "label": "First Aid",
+    "category": "健康",
+    "tags": [
+      "hospital",
+      "cross",
+      "medical",
+      "medicine",
+      "injury",
+      "safety",
+      "emergency",
+      "doctor",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "first-aid-kit",
+    "component": "FirstAidKit",
+    "label": "First Aid Kit",
+    "category": "健康",
+    "tags": [
+      "bandages",
+      "medical",
+      "medicine",
+      "injury",
+      "safety",
+      "emergency",
+      "doctor",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fish",
+    "component": "Fish",
+    "label": "鱼",
+    "category": "自然",
+    "tags": [
+      "animals",
+      "pets",
+      "food",
+      "seafood",
+      "restaurants",
+      "dining",
+      "nature",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "fish-simple",
+    "component": "FishSimple",
+    "label": "鱼 · simple",
+    "category": "自然",
+    "tags": [
+      "animals",
+      "pets",
+      "food",
+      "seafood",
+      "restaurants",
+      "dining",
+      "nature",
+      "commerce"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flame",
+    "component": "Flame",
+    "label": "Flame",
+    "category": "自然",
+    "tags": [
+      "fire",
+      "burning",
+      "match",
+      "lighter",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flask",
+    "component": "Flask",
+    "label": "烧瓶",
+    "category": "自然",
+    "tags": [
+      "beaker",
+      "science",
+      "chemistry",
+      "experiment",
+      "erlenmeyer",
+      "technology & development",
+      "nature",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flower-lotus",
+    "component": "FlowerLotus",
+    "label": "花朵 · lotus",
+    "category": "自然",
+    "tags": [
+      "plants",
+      "green",
+      "environmental",
+      "spirituality",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flower-tulip",
+    "component": "FlowerTulip",
+    "label": "花朵 · tulip",
+    "category": "自然",
+    "tags": [
+      "plants",
+      "green",
+      "environmental",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "flying-saucer",
+    "component": "FlyingSaucer",
+    "label": "Flying Saucer",
+    "category": "游戏",
+    "tags": [
+      "ufo",
+      "space",
+      "aliens",
+      "extra terrestrial",
+      "sci-fi",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "football",
+    "component": "Football",
+    "label": "橄榄球",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "american football",
+      "nfl",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "football-helmet",
+    "component": "FootballHelmet",
+    "label": "橄榄球 · helmet",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "american football",
+      "nfl",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "footprints",
+    "component": "Footprints",
+    "label": "Footprints",
+    "category": "健康",
+    "tags": [
+      "path",
+      "trail",
+      "walk",
+      "route",
+      "hike",
+      "hiking",
+      "health & wellness",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "game-controller",
+    "component": "GameController",
+    "label": "游戏 · controller",
+    "category": "游戏",
+    "tags": [
+      "gaming",
+      "video games",
+      "nintendo switch",
+      "sony playstation",
+      "microsoft xbox",
+      "games",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ghost",
+    "component": "Ghost",
+    "label": "幽灵",
+    "category": "游戏",
+    "tags": [
+      "pac-man",
+      "spirit",
+      "scary",
+      "halloween",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "goggles",
+    "component": "Goggles",
+    "label": "Goggles",
+    "category": "健康",
+    "tags": [
+      "swim",
+      "swimming",
+      "sports",
+      "exercise",
+      "olympics",
+      "aquatics",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "golf",
+    "component": "Golf",
+    "label": "Golf",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "pga",
+      "tee",
+      "ball",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "grains",
+    "component": "Grains",
+    "label": "Grains",
+    "category": "自然",
+    "tags": [
+      "wheat",
+      "gluten",
+      "farm",
+      "farming",
+      "agriculture",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hand-soap",
+    "component": "HandSoap",
+    "label": "手势 · soap",
+    "category": "健康",
+    "tags": [
+      "dispenser",
+      "pump",
+      "sanitizer",
+      "disinfectant",
+      "lotion",
+      "bottle",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "headset",
+    "component": "Headset",
+    "label": "头戴耳机",
+    "category": "游戏",
+    "tags": [
+      "music",
+      "audio",
+      "listening",
+      "gaming",
+      "voice chat",
+      "microphone",
+      "headphones",
+      "support",
+      "customer-service",
+      "call-center",
+      "media",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "heart-half",
+    "component": "HeartHalf",
+    "label": "Heart Half",
+    "category": "健康",
+    "tags": [
+      "wellness",
+      "love",
+      "healthy",
+      "like",
+      "favorites",
+      "favorited",
+      "communications",
+      "games",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "heart-straight",
+    "component": "HeartStraight",
+    "label": "Heart Straight",
+    "category": "健康",
+    "tags": [
+      "wellness",
+      "love",
+      "healthy",
+      "like",
+      "favorites",
+      "favorited",
+      "suits",
+      "cards",
+      "gambling",
+      "casino",
+      "gaming",
+      "emoji",
+      "communications",
+      "games",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "heartbeat",
+    "component": "Heartbeat",
+    "label": "Heartbeat",
+    "category": "健康",
+    "tags": [
+      "wellness",
+      "healthy",
+      "ecg",
+      "ekg",
+      "vitals",
+      "monitor",
+      "health & wellness",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hockey",
+    "component": "Hockey",
+    "label": "Hockey",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "nhl",
+      "stick",
+      "puck",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "horse",
+    "component": "Horse",
+    "label": "马",
+    "category": "自然",
+    "tags": [
+      "animals",
+      "equestrian",
+      "chess",
+      "knight",
+      "sports",
+      "games",
+      "health & wellness",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hospital",
+    "component": "Hospital",
+    "label": "医院",
+    "category": "健康",
+    "tags": [
+      "places",
+      "locations",
+      "medical",
+      "medicine",
+      "emergency",
+      "doctor",
+      "buildings",
+      "maps & travel",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "hurricane",
+    "component": "Hurricane",
+    "label": "Hurricane",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "cyclone",
+      "storm",
+      "disaster",
+      "wind",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "island",
+    "component": "Island",
+    "label": "岛屿",
+    "category": "自然",
+    "tags": [
+      "geography",
+      "beach",
+      "ocean",
+      "tropical",
+      "palm",
+      "vacation",
+      "trip",
+      "locations",
+      "places",
+      "maps & travel",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "joystick",
+    "component": "Joystick",
+    "label": "摇杆",
+    "category": "游戏",
+    "tags": [
+      "gaming",
+      "game controller",
+      "video games",
+      "arcade game",
+      "atari",
+      "games",
+      "media",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lego",
+    "component": "Lego",
+    "label": "Lego",
+    "category": "游戏",
+    "tags": [
+      "toys",
+      "blocks",
+      "bricks",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lifebuoy",
+    "component": "Lifebuoy",
+    "label": "Lifebuoy",
+    "category": "健康",
+    "tags": [
+      "lifebelt",
+      "lifesaver",
+      "safety",
+      "help",
+      "support",
+      "nautical",
+      "boats",
+      "ships",
+      "health & wellness",
+      "objects",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "lightning",
+    "component": "Lightning",
+    "label": "闪电",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "stormy",
+      "thunderstorm",
+      "thunderbolt",
+      "charged",
+      "charger",
+      "charging",
+      "power",
+      "electricity",
+      "flash",
+      "weather",
+      "system"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "log",
+    "component": "Log",
+    "label": "Log",
+    "category": "自然",
+    "tags": [
+      "tree",
+      "stump",
+      "stick",
+      "branch",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "magic-wand",
+    "component": "MagicWand",
+    "label": "Magic Wand",
+    "category": "游戏",
+    "tags": [
+      "selection",
+      "wizard",
+      "games",
+      "design",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mask-happy",
+    "component": "MaskHappy",
+    "label": "Mask Happy",
+    "category": "游戏",
+    "tags": [
+      "theater",
+      "costume",
+      "smile",
+      "smiling",
+      "thalia",
+      "communications",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mask-sad",
+    "component": "MaskSad",
+    "label": "Mask Sad",
+    "category": "游戏",
+    "tags": [
+      "theater",
+      "costume",
+      "cry",
+      "crying",
+      "melpomene",
+      "communications",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "medal",
+    "component": "Medal",
+    "label": "奖牌",
+    "category": "游戏",
+    "tags": [
+      "ribbons",
+      "winning",
+      "victory",
+      "awards",
+      "rosette",
+      "objects",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "medal-military",
+    "component": "MedalMilitary",
+    "label": "奖牌 · military",
+    "category": "游戏",
+    "tags": [
+      "ribbons",
+      "winning",
+      "victory",
+      "awards",
+      "military",
+      "objects",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "meteor",
+    "component": "Meteor",
+    "label": "Meteor",
+    "category": "自然",
+    "tags": [
+      "astronomy",
+      "asteroid",
+      "fireball",
+      "weather",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "microscope",
+    "component": "Microscope",
+    "label": "Microscope",
+    "category": "自然",
+    "tags": [
+      "science",
+      "biology",
+      "experiment",
+      "magnify",
+      "nature",
+      "technology & development",
+      "objects",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "moon",
+    "component": "Moon",
+    "label": "月亮",
+    "category": "自然",
+    "tags": [
+      "night",
+      "evening",
+      "clear",
+      "sleep",
+      "snooze",
+      "night mode",
+      "dark mode",
+      "astronomy",
+      "stargazing",
+      "nature",
+      "system",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "moon-stars",
+    "component": "MoonStars",
+    "label": "月亮 · stars",
+    "category": "自然",
+    "tags": [
+      "night",
+      "evening",
+      "clear",
+      "sleep",
+      "snooze",
+      "night mode",
+      "dark mode",
+      "astronomy",
+      "stargazing",
+      "constellation",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "mountains",
+    "component": "Mountains",
+    "label": "山峦",
+    "category": "自然",
+    "tags": [
+      "*updated*",
+      "hills",
+      "outdoors",
+      "terrain",
+      "geology",
+      "adventure",
+      "nature",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "orange",
+    "component": "Orange",
+    "label": "橙子",
+    "category": "自然",
+    "tags": [
+      "food",
+      "fruit",
+      "juice",
+      "citrus",
+      "groceries",
+      "market",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "orange-slice",
+    "component": "OrangeSlice",
+    "label": "橙子 · slice",
+    "category": "自然",
+    "tags": [
+      "food",
+      "fruit",
+      "juice",
+      "citrus",
+      "groceries",
+      "market",
+      "maps & travel",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "park",
+    "component": "Park",
+    "label": "Park",
+    "category": "自然",
+    "tags": [
+      "bench",
+      "outdoors",
+      "maps & travel",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "paw-print",
+    "component": "PawPrint",
+    "label": "爪印 · print",
+    "category": "自然",
+    "tags": [
+      "pets",
+      "pet store",
+      "pet shop",
+      "animals",
+      "cat",
+      "dog",
+      "veterinarian",
+      "nature",
+      "commerce",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pentagram",
+    "component": "Pentagram",
+    "label": "Pentagram",
+    "category": "游戏",
+    "tags": [
+      "star",
+      "wicca",
+      "satan",
+      "satanism",
+      "religion",
+      "spirituality",
+      "evil",
+      "magic",
+      "games",
+      "design"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pepper",
+    "component": "Pepper",
+    "label": "辣椒",
+    "category": "自然",
+    "tags": [
+      "food",
+      "spicy",
+      "chile",
+      "vegetable",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-simple-hike",
+    "component": "PersonSimpleHike",
+    "label": "Person Simple Hike",
+    "category": "自然",
+    "tags": [
+      "pedestrian",
+      "climbing",
+      "mountaineering",
+      "bouldering",
+      "nature",
+      "health & wellness",
+      "maps & travel",
+      "people"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "person-simple-snowboard",
+    "component": "PersonSimpleSnowboard",
+    "label": "Person Simple Snowboard",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "snowboarding",
+      "winter",
+      "mountain",
+      "games",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "picnic-table",
+    "component": "PicnicTable",
+    "label": "Picnic Table",
+    "category": "自然",
+    "tags": [
+      "bench",
+      "park",
+      "outdoors",
+      "maps & travel",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pill",
+    "component": "Pill",
+    "label": "药片",
+    "category": "健康",
+    "tags": [
+      "capsule",
+      "medicine",
+      "rx",
+      "pharmacy",
+      "pharmacist",
+      "pharmaceuticals",
+      "prescription",
+      "drugs",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ping-pong",
+    "component": "PingPong",
+    "label": "Ping Pong",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "paddle",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pint-glass",
+    "component": "PintGlass",
+    "label": "Pint Glass",
+    "category": "健康",
+    "tags": [
+      "water",
+      "beverage",
+      "drinks",
+      "beverages",
+      "food",
+      "dining",
+      "commerce",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "pinwheel",
+    "component": "Pinwheel",
+    "label": "Pinwheel",
+    "category": "游戏",
+    "tags": [
+      "toys",
+      "whirligig",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "plant",
+    "component": "Plant",
+    "label": "植物",
+    "category": "自然",
+    "tags": [
+      "sprout",
+      "vegan",
+      "farm",
+      "farming",
+      "garden",
+      "gardening",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "poker-chip",
+    "component": "PokerChip",
+    "label": "Poker Chip",
+    "category": "游戏",
+    "tags": [
+      "chips",
+      "tokens",
+      "cards",
+      "gambling",
+      "casino",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "potted-plant",
+    "component": "PottedPlant",
+    "label": "盆栽 · plant",
+    "category": "自然",
+    "tags": [
+      "sprout",
+      "vegan",
+      "garden",
+      "gardening",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "prescription",
+    "component": "Prescription",
+    "label": "Prescription",
+    "category": "健康",
+    "tags": [
+      "rx",
+      "medicine",
+      "drugs",
+      "pharmacy",
+      "pharmacist",
+      "pharmaceuticals",
+      "doctor",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "puzzle-piece",
+    "component": "PuzzlePiece",
+    "label": "拼图 · piece",
+    "category": "游戏",
+    "tags": [
+      "board game",
+      "element",
+      "component",
+      "extension",
+      "plugin",
+      "games",
+      "technology & development"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rabbit",
+    "component": "Rabbit",
+    "label": "兔子",
+    "category": "自然",
+    "tags": [
+      "hare",
+      "fast",
+      "animal",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "racquet",
+    "component": "Racquet",
+    "label": "Racquet",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "tennis",
+      "squash",
+      "pickleball",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "radioactive",
+    "component": "Radioactive",
+    "label": "Radioactive",
+    "category": "自然",
+    "tags": [
+      "radiation",
+      "danger",
+      "warning",
+      "nuclear",
+      "atomic",
+      "nature",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rainbow",
+    "component": "Rainbow",
+    "label": "彩虹",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "rainstorm",
+      "arc",
+      "pride",
+      "lgbtq+",
+      "leprechaun",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "rainbow-cloud",
+    "component": "RainbowCloud",
+    "label": "彩虹 · cloud",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "rainstorm",
+      "cloudy",
+      "partly cloudy",
+      "partly sunny",
+      "pride",
+      "lgbtq+",
+      "leprechaun",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "ranking",
+    "component": "Ranking",
+    "label": "Ranking",
+    "category": "游戏",
+    "tags": [
+      "medal",
+      "rank",
+      "leaderboard",
+      "winner",
+      "sports",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "recycle",
+    "component": "Recycle",
+    "label": "Recycle",
+    "category": "自然",
+    "tags": [
+      "recycling",
+      "trash",
+      "environmental",
+      "green",
+      "arrows",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scooter",
+    "component": "Scooter",
+    "label": "Scooter",
+    "category": "健康",
+    "tags": [
+      "vehicles",
+      "transportation",
+      "travel",
+      "transit",
+      "maps & travel",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "scroll",
+    "component": "Scroll",
+    "label": "Scroll",
+    "category": "游戏",
+    "tags": [
+      "*updated*",
+      "parchment",
+      "paper",
+      "script",
+      "spell",
+      "fantasy",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shooting-star",
+    "component": "ShootingStar",
+    "label": "Shooting Star",
+    "category": "自然",
+    "tags": [
+      "wish",
+      "comet",
+      "meteor",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "shrimp",
+    "component": "Shrimp",
+    "label": "虾",
+    "category": "自然",
+    "tags": [
+      "food",
+      "seafood",
+      "prawn",
+      "commerce",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "skull",
+    "component": "Skull",
+    "label": "骷髅",
+    "category": "游戏",
+    "tags": [
+      "death",
+      "dead",
+      "kill",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sneaker",
+    "component": "Sneaker",
+    "label": "Sneaker",
+    "category": "健康",
+    "tags": [
+      "clothes",
+      "clothing",
+      "shoes",
+      "trainers",
+      "sports",
+      "commerce",
+      "objects",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sneaker-move",
+    "component": "SneakerMove",
+    "label": "Sneaker Move",
+    "category": "健康",
+    "tags": [
+      "*updated*",
+      "clothes",
+      "clothing",
+      "shoes",
+      "trainers",
+      "sports",
+      "commerce",
+      "objects",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "snowflake",
+    "component": "Snowflake",
+    "label": "雪花",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "snowy",
+      "snowing",
+      "snowstorm",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "soccer-ball",
+    "component": "SoccerBall",
+    "label": "Soccer Ball",
+    "category": "健康",
+    "tags": [
+      "*updated*",
+      "sports",
+      "football",
+      "mls",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spade",
+    "component": "Spade",
+    "label": "Spade",
+    "category": "游戏",
+    "tags": [
+      "spades",
+      "suits",
+      "cards",
+      "gambling",
+      "casino",
+      "gaming",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "spray-bottle",
+    "component": "SprayBottle",
+    "label": "Spray Bottle",
+    "category": "健康",
+    "tags": [
+      "cleaner",
+      "cleaning",
+      "objects",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "star-four",
+    "component": "StarFour",
+    "label": "Star Four",
+    "category": "自然",
+    "tags": [
+      "rate",
+      "ratings",
+      "favorites",
+      "favorited",
+      "communications",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "stethoscope",
+    "component": "Stethoscope",
+    "label": "Stethoscope",
+    "category": "健康",
+    "tags": [
+      "hospital",
+      "medical",
+      "medicine",
+      "injury",
+      "safety",
+      "emergency",
+      "doctor",
+      "heart",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "strategy",
+    "component": "Strategy",
+    "label": "Strategy",
+    "category": "游戏",
+    "tags": [
+      "sports",
+      "strategem",
+      "plan",
+      "tic-tac-toe",
+      "games",
+      "finances"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sun",
+    "component": "Sun",
+    "label": "太阳",
+    "category": "自然",
+    "tags": [
+      "day",
+      "daytime",
+      "daylight",
+      "clear",
+      "sunny",
+      "sunshine",
+      "light mode",
+      "brightness",
+      "lighten",
+      "brighten",
+      "nature",
+      "system",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sun-dim",
+    "component": "SunDim",
+    "label": "太阳 · dim",
+    "category": "自然",
+    "tags": [
+      "day",
+      "daytime",
+      "daylight",
+      "clear",
+      "sunny",
+      "sunshine",
+      "light mode",
+      "brightness",
+      "darken",
+      "nature",
+      "system",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sun-horizon",
+    "component": "SunHorizon",
+    "label": "太阳 · horizon",
+    "category": "自然",
+    "tags": [
+      "day",
+      "daytime",
+      "daylight",
+      "clear",
+      "sunny",
+      "sunshine",
+      "sunrise",
+      "sunset",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sunglasses",
+    "component": "Sunglasses",
+    "label": "太阳镜",
+    "category": "健康",
+    "tags": [
+      "vision",
+      "sun",
+      "spectacles",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "swimming-pool",
+    "component": "SwimmingPool",
+    "label": "Swimming Pool",
+    "category": "健康",
+    "tags": [
+      "swim",
+      "sports",
+      "exercise",
+      "olympics",
+      "aquatics",
+      "health & wellness",
+      "maps & travel",
+      "games"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "sword",
+    "component": "Sword",
+    "label": "Sword",
+    "category": "游戏",
+    "tags": [
+      "weapon",
+      "knife",
+      "dagger",
+      "gladius",
+      "video games",
+      "rpg",
+      "gaming",
+      "war",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "syringe",
+    "component": "Syringe",
+    "label": "Syringe",
+    "category": "健康",
+    "tags": [
+      "needle",
+      "hypodermic",
+      "vaccine",
+      "medicine",
+      "doctor",
+      "shot",
+      "hospital",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tennis-ball",
+    "component": "TennisBall",
+    "label": "Tennis Ball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "mlb",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tent",
+    "component": "Tent",
+    "label": "帐篷",
+    "category": "自然",
+    "tags": [
+      "camping",
+      "outdoors",
+      "tarp",
+      "health & wellness",
+      "objects",
+      "nature",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "test-tube",
+    "component": "TestTube",
+    "label": "Test Tube",
+    "category": "自然",
+    "tags": [
+      "science",
+      "chemistry",
+      "experiment",
+      "vial",
+      "technology & development",
+      "nature",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thermometer",
+    "component": "Thermometer",
+    "label": "Thermometer",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "temperature",
+      "degrees",
+      "°",
+      "celcius",
+      "centigrade",
+      "kelvin",
+      "fahrenheit",
+      "hot",
+      "warm",
+      "cold",
+      "weather",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thermometer-cold",
+    "component": "ThermometerCold",
+    "label": "Thermometer Cold",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "temperature",
+      "degrees",
+      "°",
+      "celcius",
+      "centigrade",
+      "kelvin",
+      "fahrenheit",
+      "weather",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thermometer-hot",
+    "component": "ThermometerHot",
+    "label": "Thermometer Hot",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "temperature",
+      "degrees",
+      "°",
+      "celcius",
+      "centigrade",
+      "kelvin",
+      "fahrenheit",
+      "warm",
+      "weather",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "thermometer-simple",
+    "component": "ThermometerSimple",
+    "label": "Thermometer Simple",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "temperature",
+      "degrees",
+      "°",
+      "celcius",
+      "centigrade",
+      "kelvin",
+      "fahrenheit",
+      "hot",
+      "warm",
+      "cold",
+      "weather",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tipi",
+    "component": "Tipi",
+    "label": "Tipi",
+    "category": "自然",
+    "tags": [
+      "teepee",
+      "lodge",
+      "tent",
+      "outdoors",
+      "camping",
+      "tarp",
+      "nature",
+      "objects",
+      "maps & travel"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "toilet",
+    "component": "Toilet",
+    "label": "马桶",
+    "category": "健康",
+    "tags": [
+      "bathroom",
+      "restroom",
+      "lavatory",
+      "water closet",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "toilet-paper",
+    "component": "ToiletPaper",
+    "label": "马桶 · paper",
+    "category": "健康",
+    "tags": [
+      "bathroom",
+      "restroom",
+      "lavatory",
+      "water closet",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tooth",
+    "component": "Tooth",
+    "label": "牙齿",
+    "category": "健康",
+    "tags": [
+      "teeth",
+      "dentistry",
+      "medical",
+      "medicine",
+      "doctor",
+      "cavity",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tornado",
+    "component": "Tornado",
+    "label": "龙卷风",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "twister",
+      "storm",
+      "wind",
+      "disaster",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "treasure-chest",
+    "component": "TreasureChest",
+    "label": "Treasure Chest",
+    "category": "游戏",
+    "tags": [
+      "loot",
+      "lootbox",
+      "inventory",
+      "rewards",
+      "gaming",
+      "pirate",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tree",
+    "component": "Tree",
+    "label": "树",
+    "category": "自然",
+    "tags": [
+      "plants",
+      "branches",
+      "leaves",
+      "green",
+      "environmental",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tree-evergreen",
+    "component": "TreeEvergreen",
+    "label": "树 · evergreen",
+    "category": "自然",
+    "tags": [
+      "plants",
+      "branches",
+      "leaves",
+      "pine",
+      "conifer",
+      "green",
+      "environmental",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "tree-palm",
+    "component": "TreePalm",
+    "label": "树 · palm",
+    "category": "自然",
+    "tags": [
+      "tropical",
+      "beach",
+      "plants",
+      "branches",
+      "leaves",
+      "green",
+      "environmental",
+      "nature"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "trophy",
+    "component": "Trophy",
+    "label": "奖杯",
+    "category": "游戏",
+    "tags": [
+      "ribbons",
+      "medals",
+      "winning",
+      "victory",
+      "awards",
+      "prize",
+      "games",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "umbrella",
+    "component": "Umbrella",
+    "label": "雨伞",
+    "category": "天气",
+    "tags": [
+      "raining",
+      "rainy",
+      "insurance",
+      "objects",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "umbrella-simple",
+    "component": "UmbrellaSimple",
+    "label": "雨伞 · simple",
+    "category": "天气",
+    "tags": [
+      "raining",
+      "rainy",
+      "insurance",
+      "objects",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "virtual-reality",
+    "component": "VirtualReality",
+    "label": "Virtual Reality",
+    "category": "游戏",
+    "tags": [
+      "virtual reality",
+      "vr",
+      "headset",
+      "metaverse",
+      "games",
+      "media"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "virus",
+    "component": "Virus",
+    "label": "Virus",
+    "category": "健康",
+    "tags": [
+      "germs",
+      "disease",
+      "illness",
+      "health & wellness"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "volleyball",
+    "component": "Volleyball",
+    "label": "Volleyball",
+    "category": "健康",
+    "tags": [
+      "sports",
+      "games",
+      "health & wellness",
+      "objects"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "waves",
+    "component": "Waves",
+    "label": "波浪",
+    "category": "自然",
+    "tags": [
+      "ocean",
+      "tides",
+      "surf",
+      "nature",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "wind",
+    "component": "Wind",
+    "label": "风",
+    "category": "天气",
+    "tags": [
+      "meteorology",
+      "windy",
+      "stormy",
+      "blustery",
+      "gusty",
+      "air",
+      "weather"
+    ],
+    "source": "phosphor"
+  },
+  {
+    "name": "yarn",
+    "component": "Yarn",
+    "label": "Yarn",
+    "category": "游戏",
+    "tags": [
+      "knitting",
+      "sewing",
+      "games",
+      "commerce"
+    ],
+    "source": "phosphor"
+  }
+]

@@ -1,0 +1,737 @@
+[
+  {
+    "name": "anchor",
+    "family": "nautical-anchor",
+    "label": "船锚",
+    "category": "功能符号",
+    "visualReason": "圆形吊环、弧形锚臂与两片软圆锚爪。"
+  },
+  {
+    "name": "anchor-simple",
+    "family": "nautical-anchor",
+    "label": "简洁船锚",
+    "category": "功能符号",
+    "visualReason": "省略横梁，保留锚杆、圆环与双臂。"
+  },
+  {
+    "name": "asclepius",
+    "family": "medical-staff",
+    "label": "阿斯克勒庇俄斯之杖",
+    "category": "功能符号",
+    "visualReason": "单蛇沿垂直杖盘绕，蛇头是柔软叶形。"
+  },
+  {
+    "name": "angle",
+    "family": "geometry-angle",
+    "label": "角度",
+    "category": "功能符号",
+    "visualReason": "两条开放射线与独立弧形角标。"
+  },
+  {
+    "name": "bezier-curve",
+    "family": "vector-controls",
+    "label": "贝塞尔曲线",
+    "category": "功能符号",
+    "visualReason": "曲线、控制柄和三个节点呈现真实编辑结构。"
+  },
+  {
+    "name": "bounding-box",
+    "family": "vector-controls",
+    "label": "边界框",
+    "category": "功能符号",
+    "visualReason": "圆角边界框与四个可拖动控制点。"
+  },
+  {
+    "name": "bluetooth",
+    "family": "bluetooth-signal",
+    "label": "蓝牙",
+    "category": "功能符号",
+    "visualReason": "上下两个角形波瓣沿同一根主轴交错。"
+  },
+  {
+    "name": "bluetooth-connected",
+    "family": "bluetooth-signal",
+    "label": "蓝牙已连接",
+    "category": "功能符号",
+    "visualReason": "上下两个角形波瓣沿同一根主轴交错。"
+  },
+  {
+    "name": "bluetooth-slash",
+    "family": "bluetooth-signal",
+    "label": "蓝牙关闭",
+    "category": "功能符号",
+    "visualReason": "上下两个角形波瓣沿同一根主轴交错。"
+  },
+  {
+    "name": "bluetooth-x",
+    "family": "bluetooth-signal",
+    "label": "蓝牙错误",
+    "category": "功能符号",
+    "visualReason": "上下两个角形波瓣沿同一根主轴交错。"
+  },
+  {
+    "name": "cell-signal-none",
+    "family": "signal-bars",
+    "label": "无信号",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-low",
+    "family": "signal-bars",
+    "label": "低信号",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-medium",
+    "family": "signal-bars",
+    "label": "中信号",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-high",
+    "family": "signal-bars",
+    "label": "强信号",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-full",
+    "family": "signal-bars",
+    "label": "满格信号",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-slash",
+    "family": "signal-bars",
+    "label": "信号关闭",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "cell-signal-x",
+    "family": "signal-bars",
+    "label": "信号错误",
+    "category": "功能符号",
+    "visualReason": "四格圆头信号柱用填色数量明确区分强度。"
+  },
+  {
+    "name": "circle",
+    "family": "basic-shapes",
+    "label": "圆形",
+    "category": "功能符号",
+    "visualReason": "柔和实体圆与克制的轮廓弧线。"
+  },
+  {
+    "name": "circle-half",
+    "family": "basic-shapes",
+    "label": "半圆",
+    "category": "功能符号",
+    "visualReason": "左半圆填色，右半圆开放。"
+  },
+  {
+    "name": "circle-half-tilt",
+    "family": "basic-shapes",
+    "label": "斜半圆",
+    "category": "功能符号",
+    "visualReason": "沿四十五度对角线分割。"
+  },
+  {
+    "name": "circle-notch",
+    "family": "basic-shapes",
+    "label": "缺口圆",
+    "category": "功能符号",
+    "visualReason": "开放圆环留出上方缺口，以圆头结束。"
+  },
+  {
+    "name": "circle-dashed",
+    "family": "selection-outline",
+    "label": "虚线圆",
+    "category": "功能符号",
+    "visualReason": "八段圆头弧线构成选择边界。"
+  },
+  {
+    "name": "crop",
+    "family": "vector-controls",
+    "label": "裁剪",
+    "category": "功能符号",
+    "visualReason": "两条交错的裁切尺，彩色重叠区域保留裁剪含义。"
+  },
+  {
+    "name": "cursor",
+    "family": "pointer",
+    "label": "光标",
+    "category": "功能符号",
+    "visualReason": "软圆箭形指针以不对称斜边保持准确指向。"
+  },
+  {
+    "name": "cursor-click",
+    "family": "pointer",
+    "label": "点击光标",
+    "category": "功能符号",
+    "visualReason": "指针周围的三束短线表示点击反馈。"
+  },
+  {
+    "name": "cursor-text",
+    "family": "pointer",
+    "label": "文本光标",
+    "category": "功能符号",
+    "visualReason": "对称插入光标与中央浅色选择带。"
+  },
+  {
+    "name": "dna",
+    "family": "molecular-strands",
+    "label": "DNA 双螺旋",
+    "category": "功能符号",
+    "visualReason": "双曲线以连接横杆交替缠绕。"
+  },
+  {
+    "name": "dot",
+    "family": "punctuation-dots",
+    "label": "点",
+    "category": "功能符号",
+    "visualReason": "一枚清晰的圆实点。"
+  },
+  {
+    "name": "dot-outline",
+    "family": "punctuation-dots",
+    "label": "空心点",
+    "category": "功能符号",
+    "visualReason": "细圆环与内侧浅色环面。"
+  },
+  {
+    "name": "dots-nine",
+    "family": "punctuation-dots",
+    "label": "九点",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-six",
+    "family": "punctuation-dots",
+    "label": "六点",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-six-vertical",
+    "family": "punctuation-dots",
+    "label": "六点竖列",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three",
+    "family": "punctuation-dots",
+    "label": "三点",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three-circle",
+    "family": "punctuation-dots",
+    "label": "三点圆框",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three-circle-vertical",
+    "family": "punctuation-dots",
+    "label": "三点竖列圆框",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three-outline",
+    "family": "punctuation-dots",
+    "label": "三点空心",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three-outline-vertical",
+    "family": "punctuation-dots",
+    "label": "三点竖列空心",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "dots-three-vertical",
+    "family": "punctuation-dots",
+    "label": "三点竖列",
+    "category": "功能符号",
+    "visualReason": "等距圆点以准确数量和排列区分操作入口。"
+  },
+  {
+    "name": "intersect",
+    "family": "boolean-shapes",
+    "label": "交集圆形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "intersect-square",
+    "family": "boolean-shapes",
+    "label": "交集方形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "exclude",
+    "family": "boolean-shapes",
+    "label": "排除交集圆形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "exclude-square",
+    "family": "boolean-shapes",
+    "label": "排除交集方形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "subtract",
+    "family": "boolean-shapes",
+    "label": "减去圆形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "subtract-square",
+    "family": "boolean-shapes",
+    "label": "减去方形",
+    "category": "功能符号",
+    "visualReason": "实体区域准确呈现交集、对称差集或前形减去后形；细轮廓保留操作对象。"
+  },
+  {
+    "name": "intersect-three",
+    "family": "boolean-shapes",
+    "label": "三重交集",
+    "category": "功能符号",
+    "visualReason": "三圆交叠，中央交集单独强调。"
+  },
+  {
+    "name": "file-c",
+    "family": "format-document",
+    "label": "C 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-c-sharp",
+    "family": "format-document",
+    "label": "C# 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-html",
+    "family": "format-document",
+    "label": "HTML 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-ini",
+    "family": "format-document",
+    "label": "配置文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-js",
+    "family": "format-document",
+    "label": "JavaScript 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-py",
+    "family": "format-document",
+    "label": "Python 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-rs",
+    "family": "format-document",
+    "label": "Rust 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-ts",
+    "family": "format-document",
+    "label": "TypeScript 文件",
+    "category": "功能符号",
+    "visualReason": "圆角纸张与折页承托清晰格式字形。"
+  },
+  {
+    "name": "file-dashed",
+    "family": "format-document",
+    "label": "虚线文件",
+    "category": "功能符号",
+    "visualReason": "折页文件采用断续的圆头外轮廓。"
+  },
+  {
+    "name": "folder-user",
+    "family": "person-folder",
+    "label": "用户文件夹",
+    "category": "功能符号",
+    "visualReason": "人物头像与肩线位于文件夹正面。"
+  },
+  {
+    "name": "folder-simple-user",
+    "family": "person-folder",
+    "label": "简洁用户文件夹",
+    "category": "功能符号",
+    "visualReason": "人物头像与肩线位于文件夹正面。"
+  },
+  {
+    "name": "gender-female",
+    "family": "gender-symbol",
+    "label": "女性",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "gender-male",
+    "family": "gender-symbol",
+    "label": "男性",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "gender-neuter",
+    "family": "gender-symbol",
+    "label": "中性",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "gender-nonbinary",
+    "family": "gender-symbol",
+    "label": "非二元性别",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "gender-intersex",
+    "family": "gender-symbol",
+    "label": "间性",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "gender-transgender",
+    "family": "gender-symbol",
+    "label": "跨性别",
+    "category": "功能符号",
+    "visualReason": "统一开放圆环与准确的性别符号端部。"
+  },
+  {
+    "name": "triangle",
+    "family": "basic-polygons",
+    "label": "三角形",
+    "category": "功能符号",
+    "visualReason": "保持准确边数，转角使用实际圆弧。"
+  },
+  {
+    "name": "pentagon",
+    "family": "basic-polygons",
+    "label": "五边形",
+    "category": "功能符号",
+    "visualReason": "保持准确边数，转角使用实际圆弧。"
+  },
+  {
+    "name": "hexagon",
+    "family": "basic-polygons",
+    "label": "六边形",
+    "category": "功能符号",
+    "visualReason": "保持准确边数，转角使用实际圆弧。"
+  },
+  {
+    "name": "octagon",
+    "family": "basic-polygons",
+    "label": "八边形",
+    "category": "功能符号",
+    "visualReason": "保持准确边数，转角使用实际圆弧。"
+  },
+  {
+    "name": "parallelogram",
+    "family": "basic-polygons",
+    "label": "平行四边形",
+    "category": "功能符号",
+    "visualReason": "同向斜边保持平行关系，四角柔化。"
+  },
+  {
+    "name": "polygon",
+    "family": "basic-polygons",
+    "label": "多边形",
+    "category": "功能符号",
+    "visualReason": "不规则五边形的编辑节点与柔化轮廓。"
+  },
+  {
+    "name": "line-segment",
+    "family": "vector-path",
+    "label": "线段",
+    "category": "功能符号",
+    "visualReason": "开放线条连接有意义的起止节点。"
+  },
+  {
+    "name": "line-segments",
+    "family": "vector-path",
+    "label": "折线段",
+    "category": "功能符号",
+    "visualReason": "开放线条连接有意义的起止节点。"
+  },
+  {
+    "name": "path",
+    "family": "vector-path",
+    "label": "路径",
+    "category": "功能符号",
+    "visualReason": "开放线条连接有意义的起止节点。"
+  },
+  {
+    "name": "line-vertical",
+    "family": "vector-path",
+    "label": "竖线",
+    "category": "功能符号",
+    "visualReason": "细直立线配圆润的上下端点。"
+  },
+  {
+    "name": "person-simple",
+    "family": "gesture-people",
+    "label": "站立人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "person-simple-walk",
+    "family": "gesture-people",
+    "label": "行走人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "person-simple-run",
+    "family": "gesture-people",
+    "label": "奔跑人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "person-simple-ski",
+    "family": "gesture-people",
+    "label": "滑雪人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "person-simple-tai-chi",
+    "family": "gesture-people",
+    "label": "太极人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "person-simple-throw",
+    "family": "gesture-people",
+    "label": "投掷人物",
+    "category": "功能符号",
+    "visualReason": "头部与躯干是柔软色块，关节线保留动作姿态。"
+  },
+  {
+    "name": "playlist",
+    "family": "music-list",
+    "label": "播放列表",
+    "category": "功能符号",
+    "visualReason": "三行曲目与独立音乐符号。"
+  },
+  {
+    "name": "pulse",
+    "family": "signal-wave",
+    "label": "脉搏",
+    "category": "功能符号",
+    "visualReason": "连续脉搏曲线与一枚读数节点。"
+  },
+  {
+    "name": "rectangle",
+    "family": "basic-rectangles",
+    "label": "矩形",
+    "category": "功能符号",
+    "visualReason": "横向圆角实体矩形。"
+  },
+  {
+    "name": "square",
+    "family": "basic-rectangles",
+    "label": "正方形",
+    "category": "功能符号",
+    "visualReason": "四边等长的软圆方形。"
+  },
+  {
+    "name": "square-half",
+    "family": "basic-rectangles",
+    "label": "左半方形",
+    "category": "功能符号",
+    "visualReason": "通过分割轴与留白明确半填充或双面板结构。"
+  },
+  {
+    "name": "square-half-bottom",
+    "family": "basic-rectangles",
+    "label": "下半方形",
+    "category": "功能符号",
+    "visualReason": "通过分割轴与留白明确半填充或双面板结构。"
+  },
+  {
+    "name": "square-split-horizontal",
+    "family": "basic-rectangles",
+    "label": "方形左右分割",
+    "category": "功能符号",
+    "visualReason": "通过分割轴与留白明确半填充或双面板结构。"
+  },
+  {
+    "name": "square-split-vertical",
+    "family": "basic-rectangles",
+    "label": "方形上下分割",
+    "category": "功能符号",
+    "visualReason": "通过分割轴与留白明确半填充或双面板结构。"
+  },
+  {
+    "name": "rectangle-dashed",
+    "family": "selection-outline",
+    "label": "虚线矩形",
+    "category": "功能符号",
+    "visualReason": "横向矩形由分段圆头轮廓组成。"
+  },
+  {
+    "name": "triangle-dashed",
+    "family": "selection-outline",
+    "label": "虚线三角形",
+    "category": "功能符号",
+    "visualReason": "三角形由断续圆头线段闭合。"
+  },
+  {
+    "name": "selection",
+    "family": "selection-outline",
+    "label": "选区",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-all",
+    "family": "selection-outline",
+    "label": "全选",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-background",
+    "family": "selection-outline",
+    "label": "选择背景",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-foreground",
+    "family": "selection-outline",
+    "label": "选择前景",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-inverse",
+    "family": "selection-outline",
+    "label": "反向选择",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-plus",
+    "family": "selection-outline",
+    "label": "增加选区",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "selection-slash",
+    "family": "selection-outline",
+    "label": "取消选区",
+    "category": "功能符号",
+    "visualReason": "统一断续边界内通过实心前后层或状态符号区分操作。"
+  },
+  {
+    "name": "resize",
+    "family": "vector-controls",
+    "label": "调整尺寸",
+    "category": "功能符号",
+    "visualReason": "对角控制手柄与两条开放扩展边界。"
+  },
+  {
+    "name": "signature",
+    "family": "handwriting",
+    "label": "签名",
+    "category": "功能符号",
+    "visualReason": "连续流畅的签字笔迹与短基线。"
+  },
+  {
+    "name": "vector-two",
+    "family": "vector-axis",
+    "label": "二维向量",
+    "category": "功能符号",
+    "visualReason": "箭形坐标轴与独立原点。"
+  },
+  {
+    "name": "vector-three",
+    "family": "vector-axis",
+    "label": "三维向量",
+    "category": "功能符号",
+    "visualReason": "箭形坐标轴与独立原点。"
+  },
+  {
+    "name": "wave-sine",
+    "family": "signal-wave",
+    "label": "正弦波",
+    "category": "功能符号",
+    "visualReason": "保留各波形的周期、斜率与台阶关系。"
+  },
+  {
+    "name": "wave-square",
+    "family": "signal-wave",
+    "label": "方波",
+    "category": "功能符号",
+    "visualReason": "保留各波形的周期、斜率与台阶关系。"
+  },
+  {
+    "name": "wave-triangle",
+    "family": "signal-wave",
+    "label": "三角波",
+    "category": "功能符号",
+    "visualReason": "保留各波形的周期、斜率与台阶关系。"
+  },
+  {
+    "name": "wave-sawtooth",
+    "family": "signal-wave",
+    "label": "锯齿波",
+    "category": "功能符号",
+    "visualReason": "保留各波形的周期、斜率与台阶关系。"
+  },
+  {
+    "name": "wheelchair",
+    "family": "accessibility",
+    "label": "轮椅",
+    "category": "功能符号",
+    "visualReason": "圆形车轮、柔软座面与明确的人体姿态。"
+  },
+  {
+    "name": "wheelchair-motion",
+    "family": "accessibility",
+    "label": "运动轮椅",
+    "category": "功能符号",
+    "visualReason": "前倾躯干与车轮构成推进姿态。"
+  }
+]

@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+  <ellipse cx="11" cy="14" rx="8" ry="8" fill="var(--project-art-back, #d9c9ed)" stroke="none"/><path d="M7 8C3 10 4 17 8 19C6 15 7 11 10 8Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none"/><g transform="rotate(25 13 5)"><rect x="10" y="3" width="6" height="4" rx="1" fill="var(--project-art-surface, #f0e9f8)" stroke="none"/></g><path d="M15 5Q18 1 20 4M20 2V4M20 4H22" fill="none"/>
+</svg>

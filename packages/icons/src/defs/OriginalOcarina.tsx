@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g data-colorful-layer="surface" data-colorful-part={0}><path d="M4.06,7.94c3.15,-3.11 6.59,-3.55 10.32,-1.32c0.5,0.3 0.74,0.32 1.26,0.06l4.17,-2.09c0.81,-0.41 1.28,-0.19 1.5,0.69l0.51,2.03c0.14,0.55 0.07,0.79 -0.33,1.19l-2.98,2.98c-0.42,0.42 -0.47,0.66 -0.34,1.23c0.96,4.23 -0.73,6.98 -5.09,8.26c-0.07,0.02 -0.11,0.03 -0.19,0.04c-5.24,0.63 -8.53,-1.01 -9.88,-4.93c-0.02,-0.07 -0.04,-0.1 -0.07,-0.16c-1.28,-2.62 -0.95,-5.23 0.99,-7.85c0.04,-0.06 0.07,-0.08 0.12,-0.13z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="back" data-colorful-part={1}><path d="M4.78,15.56c3.09,1.93 7.19,1.57 12.31,-1.07c0.64,-0.33 1.06,-0.21 1.22,0.49c0.65,2.81 -1.12,4.82 -5.31,6.02c-4.59,1.31 -7.57,0.37 -8.93,-2.84c-0.05,-0.13 -0.07,-0.2 -0.07,-0.34v-1.86c0,-0.48 0.37,-0.66 0.78,-0.4z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={2}><circle cx={7} cy={11} r={1} fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={0}><circle cx={11} cy={10} r={1} fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={1}><circle cx={14} cy={13} r={1} fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={2}><path d="M18 7L20 6" fill="none" /></g></g>;
+export default artwork;

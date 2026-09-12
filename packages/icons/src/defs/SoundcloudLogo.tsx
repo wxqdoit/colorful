@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g data-colorful-layer="surface" data-colorful-part={0}><path d="M12.5,5.9c3.7,-0.61 6.51,1.87 6.78,4.55c0.04,0.44 0.13,0.56 0.55,0.67c3.03,0.81 3.51,2.8 1.46,5.99c-0.15,0.23 -0.26,0.29 -0.53,0.29h-8.11c-0.51,0 -0.65,-0.14 -0.65,-0.65v-10.24c0,-0.41 0.1,-0.55 0.5,-0.62z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="back" data-colorful-part={1}><path d="M12.65,14h8.72c0.42,0 0.56,0.1 0.62,0.52c0.32,2.19 -0.47,3.35 -2.37,3.48c-0.02,0 -0.03,0 -0.04,0h-6.93c-0.51,0 -0.65,-0.14 -0.65,-0.65v-2.7c0,-0.51 0.14,-0.65 0.65,-0.65z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="back" data-colorful-part={2}><path d="M9.3 7H9.3Q10.3 7 10.3 8V17Q10.3 18 9.3 18H9.3Q8.3 18 8.3 17V8Q8.3 7 9.3 7Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={0}><path d="M6.2 9H6.2Q7.1 9 7.1 9.9V17.1Q7.1 18 6.2 18H6.2Q5.3 18 5.3 17.1V9.9Q5.3 9 6.2 9Z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="back" data-colorful-part={1}><path d="M3.3 11H3.3Q4.1 11 4.1 11.8V17.2Q4.1 18 3.3 18H3.3Q2.5 18 2.5 17.2V11.8Q2.5 11 3.3 11Z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={2}><path d="M12 6.5V17.5M9.3 8V17M6.2 10V17M3.3 12V17" fill="none" /></g></g>;
+export default artwork;

@@ -1,0 +1,10 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import SSRBase from "../lib/SSRBase";
+import artwork from "../defs/OriginalDrawstringSack";
+
+/** 抽绳束口袋 · 穿搭 */
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
+I.displayName = "OriginalDrawstringSackIcon";
+export { I as OriginalDrawstringSackIcon, I as OriginalDrawstringSack };

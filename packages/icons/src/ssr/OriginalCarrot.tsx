@@ -1,0 +1,10 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import SSRBase from "../lib/SSRBase";
+import artwork from "../defs/OriginalCarrot";
+
+/** 胡萝卜 · 食物 */
+const I: Icon = forwardRef((props, ref) => <SSRBase ref={ref} {...props} weights={artwork} />);
+I.displayName = "OriginalCarrotIcon";
+export { I as OriginalCarrotIcon, I as OriginalCarrot };

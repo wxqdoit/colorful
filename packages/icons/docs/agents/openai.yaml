@@ -1,0 +1,4 @@
+interface:
+  display_name: "柔和色块插画图标"
+  short_description: "以圆润闭合曲线塑造物件、少量细线点缀，制作统一的浅紫插画图标"
+  default_prompt: "使用 $soft-illustration-icons，为我提供的功能列表设计一套与参考插画一致的 SVG 图标。"

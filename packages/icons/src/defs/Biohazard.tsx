@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g transform="rotate(0 12 12)"><g data-colorful-layer="back" data-colorful-part={0}><path d="M6.84,2.94c-5.16,4.82 -0.59,10.79 4.95,9.12c0.17,-0.05 0.25,-0.05 0.41,0c5.54,1.66 10.11,-4.3 4.95,-9.12c-0.29,-0.27 -0.7,0.06 -0.57,0.43c1.69,4.71 -1.53,6.32 -4.22,4.85c-0.3,-0.17 -0.44,-0.17 -0.74,1e-8c-2.7,1.47 -5.91,-0.15 -4.22,-4.85c0.13,-0.37 -0.28,-0.69 -0.57,-0.43z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g><g transform="rotate(120 12 12)"><g data-colorful-layer="surface" data-colorful-part={1}><path d="M6.84,2.94c-5.16,4.82 -0.59,10.79 4.95,9.12c0.17,-0.05 0.25,-0.05 0.41,0c5.54,1.66 10.11,-4.3 4.95,-9.12c-0.29,-0.27 -0.7,0.06 -0.57,0.43c1.69,4.71 -1.53,6.32 -4.22,4.85c-0.3,-0.17 -0.44,-0.17 -0.74,1e-8c-2.7,1.47 -5.91,-0.15 -4.22,-4.85c0.13,-0.37 -0.28,-0.69 -0.57,-0.43z" fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g></g><g transform="rotate(240 12 12)"><g data-colorful-layer="back" data-colorful-part={2}><path d="M6.84,2.94c-5.16,4.82 -0.59,10.79 4.95,9.12c0.17,-0.05 0.25,-0.05 0.41,0c5.54,1.66 10.11,-4.3 4.95,-9.12c-0.29,-0.27 -0.7,0.06 -0.57,0.43c1.69,4.71 -1.53,6.32 -4.22,4.85c-0.3,-0.17 -0.44,-0.17 -0.74,1e-8c-2.7,1.47 -5.91,-0.15 -4.22,-4.85c0.13,-0.37 -0.28,-0.69 -0.57,-0.43z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g></g><g data-colorful-layer="surface" data-colorful-part={0}><ellipse cx={12} cy={12} rx={2.3} ry={2.3} fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g></g>;
+export default artwork;

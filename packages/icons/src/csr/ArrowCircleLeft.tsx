@@ -1,0 +1,11 @@
+"use client";
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import { forwardRef } from "react";
+import type { Icon } from "../lib/types";
+import IconBase from "../lib/IconBase";
+import artwork from "../defs/ArrowCircleLeft";
+
+/** 圆框向左箭头 · 方向与布局 */
+const I: Icon = forwardRef((props, ref) => <IconBase ref={ref} {...props} weights={artwork} />);
+I.displayName = "ArrowCircleLeftIcon";
+export { I as ArrowCircleLeftIcon, I as ArrowCircleLeft };

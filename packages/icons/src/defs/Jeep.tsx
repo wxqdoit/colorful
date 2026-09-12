@@ -1,0 +1,8 @@
+/* GENERATED FILE — edit assets/regular or assets/catalog.json; run npm run assemble. */
+import type { CSSProperties } from "react";
+import type { ReactElement } from "react";
+
+
+
+const artwork: ReactElement = <g><g data-colorful-layer="back" data-colorful-part={0}><path d="M3,11v-5.35c0,-0.51 0.14,-0.65 0.65,-0.65h11.95c0.32,0 0.44,0.07 0.58,0.36l2.64,5.28c0.14,0.29 0.26,0.36 0.58,0.36h0.96c0.5,0 0.64,0.14 0.64,0.64v6.71c0,0.51 -0.14,0.65 -0.65,0.65h-16.7c-0.51,0 -0.65,-0.14 -0.65,-0.65z" fill="var(--project-art-back, #d9c9ed)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={1}><rect x={5} y={6} width={5} height={5} rx={1} fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={2}><rect x={11} y={6} width={4} height={5} rx={1} fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={0}><ellipse cx={6} cy={19} rx={2} ry={2} fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={1}><ellipse cx={6} cy={19} rx={0.86} ry={0.86} fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={2}><ellipse cx={18} cy={19} rx={2} ry={2} fill="var(--project-art-detail, #aa8bcf)" stroke="none" /></g><g data-colorful-layer="surface" data-colorful-part={0}><ellipse cx={18} cy={19} rx={0.86} ry={0.86} fill="var(--project-art-surface, #f0e9f8)" stroke="none" /></g><g data-colorful-layer="detail" data-colorful-part={1}><path d="M18 13h2M12 13h2" fill="none" /></g></g>;
+export default artwork;

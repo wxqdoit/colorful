@@ -1,0 +1,171 @@
+{
+  "name": "@colorful-icons/react",
+  "version": "0.7.0",
+  "description": "Soft, layered illustration icons for React",
+  "type": "module",
+  "license": "MIT",
+  "sideEffects": [
+    "**/*.css"
+  ],
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.es.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist",
+    "NOTICE.md"
+  ],
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.es.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./ssr": {
+      "import": {
+        "types": "./dist/ssr/index.d.ts",
+        "default": "./dist/ssr/index.es.js"
+      },
+      "require": {
+        "types": "./dist/ssr/index.d.cts",
+        "default": "./dist/ssr/index.cjs"
+      }
+    },
+    "./lib": {
+      "import": {
+        "types": "./dist/lib/index.d.ts",
+        "default": "./dist/lib/index.es.js"
+      },
+      "require": {
+        "types": "./dist/lib/index.d.cts",
+        "default": "./dist/lib/index.cjs"
+      }
+    },
+    "./dist/ssr": {
+      "import": {
+        "types": "./dist/ssr/index.d.ts",
+        "default": "./dist/ssr/index.es.js"
+      },
+      "require": {
+        "types": "./dist/ssr/index.d.cts",
+        "default": "./dist/ssr/index.cjs"
+      }
+    },
+    "./dist/ssr/*": {
+      "import": {
+        "types": "./dist/ssr/*.d.ts",
+        "default": "./dist/ssr/*.es.js"
+      },
+      "require": {
+        "types": "./dist/ssr/*.d.cts",
+        "default": "./dist/ssr/*.cjs"
+      }
+    },
+    "./dist/csr/*": {
+      "import": {
+        "types": "./dist/csr/*.d.ts",
+        "default": "./dist/csr/*.es.js"
+      },
+      "require": {
+        "types": "./dist/csr/*.d.cts",
+        "default": "./dist/csr/*.cjs"
+      }
+    },
+    "./dist/icons/*": {
+      "import": {
+        "types": "./dist/csr/*.d.ts",
+        "default": "./dist/csr/*.es.js"
+      },
+      "require": {
+        "types": "./dist/csr/*.d.cts",
+        "default": "./dist/csr/*.cjs"
+      }
+    },
+    "./dist/lib/*": {
+      "import": {
+        "types": "./dist/lib/*.d.ts",
+        "default": "./dist/lib/*.es.js"
+      },
+      "require": {
+        "types": "./dist/lib/*.d.cts",
+        "default": "./dist/lib/*.cjs"
+      }
+    },
+    "./theme.css": "./dist/theme.css",
+    "./catalog": {
+      "import": {
+        "types": "./dist/catalog.d.ts",
+        "default": "./dist/catalog.es.js"
+      },
+      "require": {
+        "types": "./dist/catalog.d.cts",
+        "default": "./dist/catalog.cjs"
+      }
+    },
+    "./package.json": "./package.json",
+    "./*": {
+      "import": {
+        "types": "./dist/csr/*.d.ts",
+        "default": "./dist/csr/*.es.js"
+      },
+      "require": {
+        "types": "./dist/csr/*.d.cts",
+        "default": "./dist/csr/*.cjs"
+      }
+    },
+    "./umd": "./dist/index.umd.js",
+    "./motion.css": "./dist/motion.css"
+  },
+  "scripts": {
+    "assemble": "tsx scripts/assemble.ts",
+    "assemble:check": "tsx scripts/assemble.ts --check",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run assemble && node scripts/build.mjs",
+    "test": "vitest run",
+    "test:package": "node scripts/test-package.mjs",
+    "check": "npm run test:originals && npm run assemble:check && npm run test:roundness && npm run typecheck && npm test && npm run build && npm run test:package",
+    "prepack": "npm run build",
+    "redesign": "node scripts/redesign.mjs && npm run assemble",
+    "test:geometry": "node design/weights/check-bounds.mjs",
+    "test:roundness": "node scripts/round-icons.mjs --check --all-weights",
+    "originals": "node scripts/build-originals.mjs && npm run assemble",
+    "test:originals": "node scripts/build-originals.mjs --check",
+    "pack:originals": "node scripts/package-originals.mjs",
+    "preview:originals": "node design/originals/preview.mjs"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "@testing-library/react": "^16.3.0",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^22.15.18",
+    "@types/react": "^19.1.4",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.4.1",
+    "esbuild": "^0.25.0",
+    "jsdom": "^26.1.0",
+    "paper": "^0.12.18",
+    "prettier": "^3.9.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sharp": "^0.35.4",
+    "svgpath": "^2.6.0",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vite-plugin-dts": "^4.5.4",
+    "vitest": "^4.1.11"
+  },
+  "unpkg": "./dist/index.umd.js",
+  "jsdelivr": "./dist/index.umd.js"
+}

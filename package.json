@@ -1,0 +1,27 @@
+{
+  "name": "colorful-workspace",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "npm run dev -w @colorful/web",
+    "serve": "npm run dev",
+    "build": "npm run build -w @colorful-icons/react && npm run build -w @colorful/web",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present",
+    "check": "npm run check -w @colorful-icons/react && npm run check -w @colorful/web",
+    "assemble": "npm run assemble -w @colorful-icons/react",
+    "redesign": "npm run redesign -w @colorful-icons/react",
+    "pack:icons": "npm pack -w @colorful-icons/react",
+    "build:icons": "npm run build -w @colorful-icons/react",
+    "build:web": "npm run build -w @colorful/web",
+    "originals": "npm run originals -w @colorful-icons/react",
+    "pack:originals": "npm run pack:originals -w @colorful-icons/react"
+  }
+}

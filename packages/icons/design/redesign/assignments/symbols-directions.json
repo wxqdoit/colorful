@@ -1,0 +1,707 @@
+[
+  {
+    "name": "align-bottom",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-bottom-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-center-horizontal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-center-horizontal-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-center-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-center-vertical-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-left-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-right-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-top",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "align-top-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-arc-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-arc-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-double-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-double-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-left-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-left-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-right-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-right-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-bend-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-circle-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-clockwise",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-counter-clockwise",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-left-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-left-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-right-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-right-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-elbow-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-line-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-line-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-line-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-line-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-lines-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-lines-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-lines-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-lines-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-fat-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-line-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-in",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-out",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-square-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-down-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-down-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-left-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-left-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-right-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-right-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-u-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-up-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrow-up-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-clockwise",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-counter-clockwise",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-down-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-horizontal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-in",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-in-cardinal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-in-line-horizontal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-in-line-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-in-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-left-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-merge",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-out",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-out-cardinal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-out-line-horizontal",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-out-line-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-out-simple",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-split",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "arrows-vertical",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-double-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-double-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-double-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-double-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-circle-up-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-double-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-double-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-double-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-double-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-line-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-line-left",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-line-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-line-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-right",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-up",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "caret-up-down",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "corners-in",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "corners-out",
+    "status": "excluded",
+    "reason": "纯方向、文字、运算或编辑几何，缺少插画物件语义"
+  },
+  {
+    "name": "shuffle",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "shuffle-angular",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "shuffle-simple",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "sort-ascending",
+    "status": "excluded",
+    "reason": "仅方向或排版编辑语义，保留为功能符号"
+  },
+  {
+    "name": "sort-descending",
+    "status": "excluded",
+    "reason": "仅方向或排版编辑语义，保留为功能符号"
+  },
+  {
+    "name": "split-horizontal",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "split-vertical",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "trend-down",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  },
+  {
+    "name": "trend-up",
+    "status": "excluded",
+    "reason": "原始矢量缺少足够的封闭主体色块"
+  }
+]

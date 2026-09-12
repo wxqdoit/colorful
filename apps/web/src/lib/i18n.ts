@@ -1,0 +1,271 @@
+export type Locale = "zh" | "en";
+export const localeStorageKey = "colorful.locale";
+
+export function initialLocale(): Locale {
+  try {
+    const stored = localStorage.getItem(localeStorageKey);
+    if (stored === "zh" || stored === "en") return stored;
+  } catch {
+    /* Storage can be unavailable in private browser contexts. */
+  }
+  return "zh";
+}
+
+export const messages = {
+  zh: {
+    notifications: "通知",
+    title: "Colorful. · 一点色彩，刚刚好。",
+    home: "Colorful 首页",
+    docs: "项目文档",
+    collection: "图标集",
+    language: "界面语言",
+    theme: "外观",
+    light: "浅色",
+    dark: "深色",
+    hero: "一点色彩，刚刚好。",
+    intro: "柔和色块，细腻线条。为你的下一个作品添一点个性。",
+    icons: "枚图标",
+    weights: "种风格",
+    palettes: "套配色",
+    search: "搜索图标、名称或关键词…",
+    searchLabel: "搜索图标",
+    clearSearch: "清空搜索",
+    category: "分类",
+    all: "全部图标",
+    results: "枚图标",
+    previous: "上一页",
+    next: "下一页",
+    page: "页",
+    pagination: "图标分页",
+    details: "图标详情",
+    weight: "风格",
+    palette: "配色",
+    size: "图标尺寸",
+    copiedJSX: "JSX 已复制",
+    copiedSVG: "SVG 已复制",
+    downloaded: "已请求下载 SVG",
+    clipboardFailed: "无法访问剪贴板，请从代码窗口手动复制。",
+    copyJSX: "复制 JSX",
+    copySVG: "复制 SVG",
+    download: "下载 SVG",
+    viewCode: "查看代码",
+    code: "使用这个图标",
+    codeDescription: "将组件代码放入 React 项目，或复制独立 SVG。",
+    copy: "复制",
+    close: "关闭",
+    loading: "加载图标",
+    loadFailed: "图标加载失败",
+    retry: "重试",
+    svgPending: "图标还在加载，请稍后再试。",
+    empty: "换个关键词试试？",
+    emptyDescription: "试试「猫」「咖啡」或「chair」。",
+    resetSearch: "查看全部图标",
+    customColors: "自定义三色",
+    surface: "浅色块",
+    back: "主色块",
+    detail: "细节线",
+    colorValue: "色值",
+    resetColors: "恢复配色",
+    motion: "动效",
+    entrance: "入场",
+    hover: "分层悬停",
+    easing: "缓动",
+    duration: "悬停时长",
+    stagger: "层间延迟",
+    flip: "水平镜像",
+    flipDuration: "镜像过渡",
+    replayEntrance: "重播入场",
+    replayHover: "播放悬停",
+    reducedMotion: "跟随系统的减少动态效果设置。",
+    footer: "小小图标，无限可能。",
+    selected: "已选中",
+    svg: "SVG",
+    jsx: "React",
+    preview: "图标预览",
+    hexHint: "使用完整的十六进制色值，例如 #d9c9ed。",
+  },
+  en: {
+    notifications: "Notifications",
+    title: "Colorful. · A little color. A lot of character.",
+    home: "Colorful home",
+    docs: "Docs",
+    collection: "Icons",
+    language: "Language",
+    theme: "Appearance",
+    light: "Light",
+    dark: "Dark",
+    hero: "A little color. A lot of character.",
+    intro:
+      "Soft shapes. Thoughtful lines. A little personality for your next idea.",
+    icons: "icons",
+    weights: "weights",
+    palettes: "palettes",
+    search: "Search icons, names, or keywords…",
+    searchLabel: "Search icons",
+    clearSearch: "Clear search",
+    category: "Category",
+    all: "All icons",
+    results: "icons",
+    previous: "Previous",
+    next: "Next",
+    page: "Page",
+    pagination: "Icon pages",
+    details: "Icon details",
+    weight: "Weight",
+    palette: "Palette",
+    size: "Icon size",
+    copiedJSX: "JSX copied",
+    copiedSVG: "SVG copied",
+    downloaded: "SVG download requested",
+    clipboardFailed:
+      "Clipboard unavailable. Copy manually from the code window.",
+    copyJSX: "Copy JSX",
+    copySVG: "Copy SVG",
+    download: "Download SVG",
+    viewCode: "View code",
+    code: "Make it yours",
+    codeDescription:
+      "Use the component in your React project, or copy a standalone SVG.",
+    copy: "Copy",
+    close: "Close",
+    loading: "Loading icon",
+    loadFailed: "Couldn't load this icon",
+    retry: "Retry",
+    svgPending: "This icon is still loading. Try again in a moment.",
+    empty: "Try another keyword?",
+    emptyDescription: "Try “cat”, “coffee”, or “chair”.",
+    resetSearch: "Browse all icons",
+    customColors: "Custom colors",
+    surface: "Surface",
+    back: "Main color",
+    detail: "Detail",
+    colorValue: "hex value",
+    resetColors: "Reset colors",
+    motion: "Motion",
+    entrance: "Entrance",
+    hover: "Layered hover",
+    easing: "Easing",
+    duration: "Hover duration",
+    stagger: "Layer delay",
+    flip: "Mirror horizontally",
+    flipDuration: "Mirror transition",
+    replayEntrance: "Replay entrance",
+    replayHover: "Play hover",
+    reducedMotion: "Respects your system’s reduced motion preference.",
+    footer: "Small icons. Endless possibilities.",
+    selected: "Selected",
+    svg: "SVG",
+    jsx: "React",
+    preview: "Icon preview",
+    hexHint: "Use a full hex color, such as #d9c9ed.",
+  },
+} as const;
+export type Messages = { [K in keyof typeof messages.zh]: string };
+
+const categories: Record<string, string> = {
+  家居: "Home",
+  厨房: "Kitchen",
+  穿搭: "Fashion",
+  手作: "Craft",
+  个护: "Personal care",
+  动物: "Animals",
+  植物: "Plants",
+  食物: "Food",
+  饮品: "Drinks",
+  地貌: "Landforms",
+  建筑: "Architecture",
+  出行: "Transport",
+  运动: "Sports",
+  艺术: "Arts",
+  科学: "Science",
+  创作: "Creative",
+  常用: "Essentials",
+  媒体: "Media",
+  自然: "Nature",
+  生活: "Lifestyle",
+  沟通: "Communication",
+  旅行: "Travel",
+  系统: "System",
+  游戏: "Gaming",
+  健康: "Health",
+  办公: "Office",
+  商业: "Business",
+  人物: "People",
+  物件: "Objects",
+  设计: "Design",
+  科技: "Technology",
+  天气: "Weather",
+  方向与布局: "Arrows & layout",
+  文字与运算: "Text & math",
+  品牌标识: "Brands",
+  功能符号: "Symbols",
+};
+const options: Record<string, [string, string]> = {
+  thin: ["纤细", "Thin"],
+  light: ["轻盈", "Light"],
+  regular: ["标准", "Regular"],
+  bold: ["加重", "Bold"],
+  fill: ["色块", "Fill"],
+  duotone: ["双色", "Duotone"],
+  lavender: ["浅紫", "Lavender"],
+  mint: ["薄荷", "Mint"],
+  peach: ["蜜桃", "Peach"],
+  ocean: ["海盐", "Ocean"],
+  rose: ["玫瑰", "Rose"],
+  sand: ["暖杏", "Sand"],
+  graphite: ["石墨黑灰", "Graphite"],
+  tangerine: ["橙柠撞色", "Orange & Lime"],
+  pop: ["轻轻展开", "Pop"],
+  rise: ["向上浮现", "Rise"],
+  fade: ["柔和淡入", "Fade"],
+  none: ["关闭", "None"],
+  morph: ["软糖回弹", "Soft bounce"],
+  lift: ["轻跃登场", "Lift"],
+  wiggle: ["俏皮摇摆", "Wiggle"],
+  pulse: ["气泡鼓起", "Pulse"],
+  spread: ["纸片绽放", "Spread"],
+  smooth: ["柔和", "Smooth"],
+  gentle: ["舒缓", "Gentle"],
+  snappy: ["利落", "Snappy"],
+  spring: ["弹性", "Spring"],
+  linear: ["匀速", "Linear"],
+};
+export function categoryLabel(category: string, locale: Locale) {
+  return locale === "zh" ? category : (categories[category] ?? category);
+}
+export function optionLabel(option: string, locale: Locale) {
+  return options[option]?.[locale === "zh" ? 0 : 1] ?? option;
+}
+export function iconLabel(
+  entry: { label: string; component: string },
+  locale: Locale,
+) {
+  return locale === "zh"
+    ? entry.label
+    : entry.component
+        .replace(/^Original(?=[A-Z])/, "")
+        .replace(/([a-z0-9])([A-Z])/g, "$1 $2")
+        .replace(/([A-Z])([A-Z][a-z])/g, "$1 $2");
+}
+export function matchesQuery(
+  entry: {
+    name: string;
+    component: string;
+    label: string;
+    category: string;
+    tags: readonly string[];
+  },
+  query: string,
+) {
+  const input = query.trim().toLocaleLowerCase();
+  return [
+    entry.name,
+    entry.component,
+    `${entry.component}Icon`,
+    iconLabel(entry, "en"),
+    entry.label,
+    entry.category,
+    categoryLabel(entry.category, "en"),
+    ...entry.tags,
+  ].some((term) => term.toLocaleLowerCase().includes(input));
+}
