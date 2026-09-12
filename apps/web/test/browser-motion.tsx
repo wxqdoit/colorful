@@ -1,6 +1,6 @@
 import { StrictMode, useState } from "react";
 import { createRoot } from "react-dom/client";
-import { StoryIcon } from "@colorful-icons/react/Story";
+import { StoryIcon } from "@colorful-icon/react/Story";
 
 // Deliberately no stylesheet import: exercise the installed package boundary.
 function SmokeTest() {

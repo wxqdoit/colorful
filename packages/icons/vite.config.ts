@@ -8,10 +8,10 @@ export default defineConfig({
   resolve: {
     alias: [
       {
-        find: "@colorful-icons/react/catalog",
+        find: "@colorful-icon/react/catalog",
         replacement: resolve("src/catalog.ts"),
       },
-      { find: "@colorful-icons/react", replacement: resolve("src/index.ts") },
+      { find: "@colorful-icon/react", replacement: resolve("src/index.ts") },
     ],
   },
   plugins: [

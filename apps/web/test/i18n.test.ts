@@ -1,5 +1,5 @@
 import { describe, expect, it, vi } from "vitest";
-import { iconCatalog } from "@colorful-icons/react/catalog";
+import { iconCatalog } from "@colorful-icon/react/catalog";
 import {
   categoryLabel,
   iconLabel,

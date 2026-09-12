@@ -2,7 +2,7 @@ import React from "react";
 import { afterEach, beforeEach, describe, expect, it, vi } from "vitest";
 import { cleanup, fireEvent, render, screen } from "@testing-library/react";
 import { App } from "../src/App";
-import { iconCatalog } from "@colorful-icons/react/catalog";
+import { iconCatalog } from "@colorful-icon/react/catalog";
 
 vi.mock("@/components/catalog/catalog-icon", () => ({
   CatalogIcon: ({ name }: { name: string }) => (
@@ -40,7 +40,7 @@ describe("catalog interactions", () => {
     render(<App />);
     fireEvent.click(screen.getByRole("link", { name: "项目文档" }));
     expect(screen.getByRole("heading", { name: "把一点色彩带进你的界面" })).toBeTruthy();
-    expect(screen.getByText("npm install @colorful-icons/react")).toBeTruthy();
+    expect(screen.getByText("npm install @colorful-icon/react")).toBeTruthy();
     fireEvent.click(screen.getByRole("button", { name: "回到图标集" }));
     expect(screen.getByRole("heading", { name: "一点色彩，刚刚好。" })).toBeTruthy();
   });

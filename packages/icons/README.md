@@ -25,19 +25,19 @@ npm run dev              # http://127.0.0.1:5186
 ```sh
 npm run check            # 资产、类型、测试、构建与打包消费检查
 npm run build            # ESM / CJS / UMD / 类型文件
-npm pack                 # colorful-icons-react-0.7.0.tgz
+npm pack                 # colorful-icon-react-0.7.0.tgz
 ```
 
-包名暂定 `@colorful-icons/react`，**尚未发布到 npm**。在其他项目中安装本地打包文件：
+包名暂定 `@colorful-icon/react`，**尚未发布到 npm**。在其他项目中安装本地打包文件：
 
 ```sh
-npm install /path/to/colorful/colorful-icons-react-0.7.0.tgz
+npm install /path/to/colorful/colorful-icon-react-0.7.0.tgz
 ```
 
 ## 使用
 
 ```tsx
-import { StoryIcon, SceneIcon, WatercolorIcon } from "@colorful-icons/react";
+import { StoryIcon, SceneIcon, WatercolorIcon } from "@colorful-icon/react";
 
 export function CreationTools() {
   return <div>
@@ -53,9 +53,9 @@ export function CreationTools() {
 ### 按图标导入
 
 ```tsx
-import { StoryIcon } from "@colorful-icons/react/Story";
+import { StoryIcon } from "@colorful-icon/react/Story";
 // 与上游路径形式对齐：
-import { SceneIcon } from "@colorful-icons/react/dist/csr/Scene";
+import { SceneIcon } from "@colorful-icon/react/dist/csr/Scene";
 ```
 
 根入口可 tree-shake。产品代码避免导入整个图标命名空间；预览页通过按图标动态加载和每页 48 枚控制加载量。
@@ -103,7 +103,7 @@ import { SceneIcon } from "@colorful-icons/react/dist/csr/Scene";
 | `tangerine` | 橙柠撞色 | `#deee91` / `#ff984d` / `#63851f` |
 
 ```tsx
-import { IconContext, StoryIcon, SceneIcon } from "@colorful-icons/react";
+import { IconContext, StoryIcon, SceneIcon } from "@colorful-icon/react";
 
 <IconContext.Provider value={{ size: 32, theme: "dark", mirrored: true }}>
   <StoryIcon />
@@ -118,7 +118,7 @@ import { IconContext, StoryIcon, SceneIcon } from "@colorful-icons/react";
 默认无需导入 CSS。需要在 HTML 祖先上切换主题时可使用可选样式表：
 
 ```tsx
-import "@colorful-icons/react/theme.css";
+import "@colorful-icon/react/theme.css";
 <section data-colorful-theme="dark"><StoryIcon /></section>
 ```
 
@@ -143,7 +143,7 @@ import "@colorful-icons/react/theme.css";
 
 ```tsx
 import { useState } from "react";
-import { BirdIcon, IconContext } from "@colorful-icons/react";
+import { BirdIcon, IconContext } from "@colorful-icon/react";
 
 function Example() {
   const [mirrored, setMirrored] = useState(false);
@@ -163,15 +163,15 @@ function Example() {
 需要手动管理样式时，在应用入口引入一次 CSS，并关闭自动注册：
 
 ```tsx
-import "@colorful-icons/react/motion.css";
-import { IconContext } from "@colorful-icons/react";
+import "@colorful-icon/react/motion.css";
+import { IconContext } from "@colorful-icon/react";
 
 <IconContext.Provider value={{ motionStyles: "manual" }}>
   <App />
 </IconContext.Provider>
 ```
 
-React 18 服务端没有样式资源去重能力。需要动效首屏在 hydration 前就具有样式时，在文档 `<head>` 放一次 `<MotionStyles />`（从 `@colorful-icons/react/ssr` 导入），客户端会复用它；也可以使用上面的手动 CSS 模式。纯 React 18 SSR 页面同样使用这两种方式之一。React 19 自动处理 SSR 样式及 hydration，无需根级组件。SSR 规则依据 [React 样式资源文档](https://react.dev/reference/react-dom/components/style)。
+React 18 服务端没有样式资源去重能力。需要动效首屏在 hydration 前就具有样式时，在文档 `<head>` 放一次 `<MotionStyles />`（从 `@colorful-icon/react/ssr` 导入），客户端会复用它；也可以使用上面的手动 CSS 模式。纯 React 18 SSR 页面同样使用这两种方式之一。React 19 自动处理 SSR 样式及 hydration，无需根级组件。SSR 规则依据 [React 样式资源文档](https://react.dev/reference/react-dom/components/style)。
 
 预览页导出的 SVG 会固化当前三色、尺寸、weight 和镜像，移除动画；需要动态效果时复制 JSX。
 
@@ -184,9 +184,9 @@ React 18 服务端没有样式资源去重能力。需要动效首屏在 hydrati
 ### SSR / React Server Components
 
 ```tsx
-import { StoryIcon } from "@colorful-icons/react/ssr";
+import { StoryIcon } from "@colorful-icon/react/ssr";
 // 或只加载一个服务端模块：
-import { SceneIcon } from "@colorful-icons/react/dist/ssr/Scene";
+import { SceneIcon } from "@colorful-icon/react/dist/ssr/Scene";
 
 export default function Page() {
   return <StoryIcon size={32} theme="dark" alt="故事" />;
@@ -249,7 +249,7 @@ dist/                   ESM / CJS / UMD / .d.ts / .d.cts
 ```tsx
 import { forwardRef } from "react";
 import type { ReactElement } from "react";
-import { IconBase, type Icon, type IconWeight } from "@colorful-icons/react";
+import { IconBase, type Icon, type IconWeight } from "@colorful-icon/react";
 
 const artwork = <>
   <path d="M4 8Q4 4 8 4H16Q20 4 20 8V16Q20 20 16 20H8Q4 20 4 16Z"

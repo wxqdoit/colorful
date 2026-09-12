@@ -8,7 +8,7 @@
 
 ```
 apps/web/         官网 · React + shadcn/ui + Tailwind CSS
-packages/icons/   @colorful-icons/react · 独立组件包
+packages/icons/   @colorful-icon/react · 独立组件包
 ```
 
 官网通过图标包的公开入口使用组件，包可独立安装和发布，不依赖官网样式。
@@ -35,7 +35,7 @@ npm run pack:originals       # 打包原创系列的六种 SVG 样式
 ## 使用图标包
 
 ```tsx
-import { StoryIcon } from '@colorful-icons/react/Story';
+import { StoryIcon } from '@colorful-icon/react/Story';
 
 <StoryIcon size={32} preset="mint" hoverAnimation="morph" />
 ```

@@ -41,7 +41,7 @@ try {
   fs.copyFileSync(resolve(root, "../../docs/originals-style.md"), resolve(staging, "STYLE.md"));
   fs.writeFileSync(
     resolve(staging, "README.md"),
-    "# Colorful Originals\n\n1,000 original subjects × 6 styles = 6,000 editable SVGs.\n\nEach SVG uses standard hex fills from the three-color Lavender palette for design-tool compatibility. The React package retains dynamic color tokens and themes. The manifest contains Chinese names, English keywords, categories, component names and individual design notes.\n\nUse the same icons in React through @colorful-icons/react; motion styles are registered automatically for animated icons. SVG files in this archive are static artwork.\n",
+    "# Colorful Originals\n\n1,000 original subjects × 6 styles = 6,000 editable SVGs.\n\nEach SVG uses standard hex fills from the three-color Lavender palette for design-tool compatibility. The React package retains dynamic color tokens and themes. The manifest contains Chinese names, English keywords, categories, component names and individual design notes.\n\nUse the same icons in React through @colorful-icon/react; motion styles are registered automatically for animated icons. SVG files in this archive are static artwork.\n",
   );
   execFileSync("zip", ["-qr", archive, "."], { cwd: staging });
   fs.mkdirSync(dirname(target), { recursive: true });

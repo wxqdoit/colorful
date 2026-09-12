@@ -1,5 +1,5 @@
 import { expect, it } from 'vitest';
-import { iconCatalog } from '@colorful-icons/react/catalog';
+import { iconCatalog } from '@colorful-icon/react/catalog';
 import { iconLoaders } from '../src/lib/icon-loaders';
 it('can load every public catalog icon through the package boundary', async () => {
   expect(Object.keys(iconLoaders).sort()).toEqual(iconCatalog.map(i=>i.component).sort());

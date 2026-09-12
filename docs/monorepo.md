@@ -2,7 +2,7 @@
 
 采用 npm workspaces，独立发布包与官网应用共享一份 lockfile。
 
-- `packages/icons`：`@colorful-icons/react`，包含 SVG 资产、绘制源、生成器、React CSR/SSR 组件、类型、主题和动画。图标包不依赖 Tailwind、shadcn 或官网。
+- `packages/icons`：`@colorful-icon/react`，包含 SVG 资产、绘制源、生成器、React CSR/SSR 组件、类型、主题和动画。图标包不依赖 Tailwind、shadcn 或官网。
 - `apps/web`：`@colorful/web`，私有 Vite 应用。通过工作区依赖和图标包公开 exports 消费组件；使用 shadcn/Radix 与 Tailwind v4 构建交互界面。
 - `apps/web/src/lib/icon-loaders.ts`：由公开 catalog 生成独立动态 import，每个图标只在使用时加载。
 - `apps/web/public/brand`：Colorful. SVG 标志、字标与 favicon。

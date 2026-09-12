@@ -116,7 +116,7 @@ export function App() {
   );
   const pageCount = Math.ceil(filtered.length / 48);
   const visible = filtered.slice(page * 48, (page + 1) * 48);
-  const code = `import { ${selected.component}Icon } from "@colorful-icons/react";\nimport "@colorful-icons/react/motion.css";\n\n<${selected.component}Icon\n  size={${size}}\n  weight="${weight}"\n  theme="${theme}"\n  preset="${preset}"${Object.keys(custom).length ? `\n  palette={${JSON.stringify(palette)}}` : ""}\n  entrance="${entrance}"\n  hoverAnimation="${hoverAnimation}"\n  hoverEasing="${hoverEasing}"\n  hoverDuration={${hoverDuration}}\n  hoverStagger={${hoverStagger}}${mirrored ? "\n  mirrored" : ""}\n/>`;
+  const code = `import { ${selected.component}Icon } from "@colorful-icon/react";\nimport "@colorful-icon/react/motion.css";\n\n<${selected.component}Icon\n  size={${size}}\n  weight="${weight}"\n  theme="${theme}"\n  preset="${preset}"${Object.keys(custom).length ? `\n  palette={${JSON.stringify(palette)}}` : ""}\n  entrance="${entrance}"\n  hoverAnimation="${hoverAnimation}"\n  hoverEasing="${hoverEasing}"\n  hoverDuration={${hoverDuration}}\n  hoverStagger={${hoverStagger}}${mirrored ? "\n  mirrored" : ""}\n/>`;
 
   async function copyCode() {
     try {
@@ -760,11 +760,11 @@ export function App() {
                   <span className="code-purple">import</span>{" "}
                   {"{ StoryIcon, IconContext }"}
                   <br /> <span className="code-purple">from</span>{" "}
-                  <span className="code-green">"@colorful-icons/react"</span>;
+                  <span className="code-green">"@colorful-icon/react"</span>;
                   <br />
                   <br />
                   <span className="code-muted">
-                    {'import "@colorful-icons/react/motion.css";'}
+                    {'import "@colorful-icon/react/motion.css";'}
                   </span>
                   <br />
                   {"<IconContext.Provider value={{ size: 26 }}>"}

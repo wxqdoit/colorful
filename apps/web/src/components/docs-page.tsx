@@ -10,7 +10,7 @@ import {
 import { Button } from "@/components/ui/button";
 import { CatalogIcon } from "@/components/catalog/catalog-icon";
 import { messages, type Locale } from "@/lib/i18n";
-import type { IconWeight } from "@colorful-icons/react/lib";
+import type { IconWeight } from "@colorful-icon/react/lib";
 
 interface DocsPageProps {
   locale: Locale;
@@ -138,12 +138,12 @@ export function DocsPage({ locale, onBrowse }: DocsPageProps) {
           <section aria-labelledby="install-title">
             <div className="mb-4 flex items-center gap-3"><PackageIcon className="size-5 text-primary" aria-hidden="true" /><h2 id="install-title" className="text-2xl font-semibold tracking-tight">{t.install}</h2></div>
             <p className="mb-4 text-sm text-muted-foreground">{t.installHint}</p>
-            <CodeBlock>npm install @colorful-icons/react</CodeBlock>
+            <CodeBlock>npm install @colorful-icon/react</CodeBlock>
           </section>
           <section aria-labelledby="quick-title">
             <div className="mb-4 flex items-center gap-3"><Code2Icon className="size-5 text-primary" aria-hidden="true" /><h2 id="quick-title" className="text-2xl font-semibold tracking-tight">{t.quick}</h2></div>
             <p className="mb-4 text-sm text-muted-foreground">{t.quickHint}</p>
-            <CodeBlock>{`import { StoryIcon } from "@colorful-icons/react/Story";
+            <CodeBlock>{`import { StoryIcon } from "@colorful-icon/react/Story";
 
 export function EmptyState() {
   return <StoryIcon size={32} weight="regular" theme="dark" />;
@@ -152,8 +152,8 @@ export function EmptyState() {
           <section aria-labelledby="imports-title">
             <h2 id="imports-title" className="text-2xl font-semibold tracking-tight">{t.imports}</h2>
             <p className="mt-3 mb-4 text-sm leading-6 text-muted-foreground">{t.importsHint}</p>
-            <CodeBlock>{`import { StoryIcon } from "@colorful-icons/react/Story";
-import { StoryIcon as StoryServerIcon } from "@colorful-icons/react/ssr/Story";`}</CodeBlock>
+            <CodeBlock>{`import { StoryIcon } from "@colorful-icon/react/Story";
+import { StoryIcon as StoryServerIcon } from "@colorful-icon/react/ssr/Story";`}</CodeBlock>
           </section>
           <section aria-labelledby="props-title">
             <h2 id="props-title" className="text-2xl font-semibold tracking-tight">{t.props}</h2>

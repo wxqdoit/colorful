@@ -1,5 +1,5 @@
 import { useEffect, useState, type ComponentType } from "react";
-import type { IconProps } from "@colorful-icons/react/lib";
+import type { IconProps } from "@colorful-icon/react/lib";
 import { Skeleton } from "@/components/ui/skeleton";
 import { iconLoaders } from "@/lib/icon-loaders";
 import type { Messages } from "@/lib/i18n";

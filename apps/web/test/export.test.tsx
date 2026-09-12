@@ -1,7 +1,7 @@
 import { render, cleanup } from "@testing-library/react";
 import { afterEach, expect, it } from "vitest";
-import { StoryIcon } from "@colorful-icons/react/Story";
-import { WatercolorIcon } from "@colorful-icons/react/Watercolor";
+import { StoryIcon } from "@colorful-icon/react/Story";
+import { WatercolorIcon } from "@colorful-icon/react/Watercolor";
 import { standaloneSVG } from "../src/export";
 
 afterEach(cleanup);

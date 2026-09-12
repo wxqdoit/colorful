@@ -15,7 +15,7 @@ import {
   ArrowUpRightIcon,
   BookOpenIcon,
 } from "lucide-react";
-import { iconCatalog } from "@colorful-icons/react/catalog";
+import { iconCatalog } from "@colorful-icon/react/catalog";
 import {
   IconContext,
   palettePresets,
@@ -26,7 +26,7 @@ import {
   type IconEntrance,
   type IconHover,
   type IconEasing,
-} from "@colorful-icons/react/lib";
+} from "@colorful-icon/react/lib";
 import { BrandLogo } from "@/components/brand-logo";
 import { DocsPage } from "@/components/docs-page";
 import { CatalogIcon } from "@/components/catalog/catalog-icon";
@@ -178,7 +178,7 @@ export function App() {
     mirrorDuration,
     animationKey,
   };
-  const code = `import { ${selected.component}Icon } from "@colorful-icons/react/${selected.component}";\n\n<${selected.component}Icon\n  size={${size}}\n  weight="${weight}"\n  theme="${theme}"\n  preset="${preset}"${Object.keys(custom).length ? `\n  palette={${JSON.stringify(palette)}}` : ""}\n  entrance="${entrance}"\n  hoverAnimation="${hoverAnimation}"\n  hoverEasing="${hoverEasing}"\n  hoverDuration={${hoverDuration}}\n  hoverStagger={${hoverStagger}}\n  mirrored={${mirrored}}\n  mirrorDuration={${mirrorDuration}}\n/>`;
+  const code = `import { ${selected.component}Icon } from "@colorful-icon/react/${selected.component}";\n\n<${selected.component}Icon\n  size={${size}}\n  weight="${weight}"\n  theme="${theme}"\n  preset="${preset}"${Object.keys(custom).length ? `\n  palette={${JSON.stringify(palette)}}` : ""}\n  entrance="${entrance}"\n  hoverAnimation="${hoverAnimation}"\n  hoverEasing="${hoverEasing}"\n  hoverDuration={${hoverDuration}}\n  hoverStagger={${hoverStagger}}\n  mirrored={${mirrored}}\n  mirrorDuration={${mirrorDuration}}\n/>`;
 
   useEffect(() => {
     document.documentElement.lang = locale === "zh" ? "zh-CN" : "en";

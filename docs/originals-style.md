@@ -39,8 +39,8 @@
 ## 生成与验收
 
 1. 修改物件绘图源，运行 `npm run originals`。统一样式在生成 regular 前应用。
-2. `npm run test:originals -w @colorful-icons/react` 同时检查数量、重复几何、样式密度、三色、圆角与源文件一致性；不合格时拒绝写入资产。
-3. `npm run preview:originals -w @colorful-icons/react` 输出 20 张带名称的 50 / 26 px 联系表，逐张复查。另在深色背景检查代表性物件。
+2. `npm run test:originals -w @colorful-icon/react` 同时检查数量、重复几何、样式密度、三色、圆角与源文件一致性；不合格时拒绝写入资产。
+3. `npm run preview:originals -w @colorful-icon/react` 输出 20 张带名称的 50 / 26 px 联系表，逐张复查。另在深色背景检查代表性物件。
 4. 组件测试、全量圆角和六种样式边界检查通过后，构建组件包与官网，更新 SVG 压缩包。
 
 `design/originals/review/style.json` 是全量样式报告，`geometry.json` 是几何报告；`design/archive/0.7.0-originals` 保留修订前 SVG，可用于复核。原始绘图源与生成资产分别保存，避免后续重建丢失修订。

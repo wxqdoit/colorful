@@ -1,4 +1,4 @@
-import { palettes, type IconTheme, type IconPalette } from "@colorful-icons/react/lib";
+import { palettes, type IconTheme, type IconPalette } from "@colorful-icon/react/lib";
 
 /** Resolve the three scoped CSS tokens so downloaded SVGs work outside this page. */
 export function standaloneSVG(

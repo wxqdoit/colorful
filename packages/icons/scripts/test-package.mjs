@@ -19,7 +19,7 @@ import { renderToStaticMarkup } from "react-dom/server";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const dependencyRoot = resolve(root, "../..", "node_modules");
 const temporary = mkdtempSync(resolve(tmpdir(), "colorful-package-"));
-const name = "@colorful-icons/react";
+const name = "@colorful-icon/react";
 const catalogCount = JSON.parse(
   readFileSync(resolve(root, "assets/catalog.json"), "utf8"),
 ).length;
