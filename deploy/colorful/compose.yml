@@ -1,0 +1,22 @@
+services:
+  colorful-web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: colorful-web:0.7.2
+    container_name: colorful-web
+    restart: unless-stopped
+    networks:
+      frontend:
+        aliases:
+          - colorful-web
+    healthcheck:
+      test: ["CMD", "wget", "-q", "-O", "/dev/null", "http://127.0.0.1/healthz"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+
+networks:
+  frontend:
+    external: true
+    name: aihex_frontend
