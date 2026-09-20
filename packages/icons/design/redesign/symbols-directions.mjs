@@ -170,7 +170,7 @@ const assigned=JSON.parse(await fs.readFile(new URL('./assignments/symbols-direc
 let corners=0;
 for(const {name} of assigned){
  if(!art.has(name))throw Error(`Unimplemented assigned icon: ${name}`);
- const source=`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">${art.get(name)}</svg>`;
+ const source=`<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${art.get(name)}</svg>`;
  const rounded=roundSVG(source);corners+=rounded.corners;
  const check=inspectRoundness(rounded.source);if(check.issues.length)throw Error(`${name}: ${JSON.stringify(check.issues)}`);
  await fs.writeFile(new URL(`../../assets/regular/${name}.svg`,import.meta.url),rounded.source);

@@ -1,6 +1,6 @@
 # colorful.
 
-圆润色块与细线结合的 React 插画图标库。基于项目 [风格规范](docs/SKILL.md)，按照 [Phosphor React](https://github.com/phosphor-icons/react) 的实现架构构建。
+圆润色块与细线结合的 React 插画图标库。基于 [Colorful 图标系统设计规范 (1.2)](docs/design/design-specification.md)，按照 [Phosphor React](https://github.com/phosphor-icons/react) 的实现架构构建。
 
 **v0.7.0 / Colorful Originals：** 新增 1,000 枚原创插画图标，保留已有 1,519 枚。统一支持三色主题、六种样式、圆润造型与分层动效。原创组件使用 `Original` 前缀，每项的造型说明保存在 `design/originals/catalog.json`。
 

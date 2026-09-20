@@ -32,6 +32,10 @@ npm run originals           # 重建原创系列
 npm run pack:originals       # 打包原创系列的六种 SVG 样式
 ```
 
+## 设计规范
+
+详见 [Colorful 图标系统设计规范 (1.2)](docs/design-specification.md)，包含核心设计哲学、24×24 空间栅格、三色语义 Token、六种形态与描边系统、圆角曲率标准、35 大类具体设计标准、分层动效规范及自动化验收矩阵。
+
 ## 使用图标包
 
 ```tsx

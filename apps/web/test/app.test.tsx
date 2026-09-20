@@ -45,6 +45,15 @@ describe("catalog interactions", () => {
     expect(screen.getByRole("heading", { name: "一点色彩，刚刚好。" })).toBeTruthy();
   });
 
+  it("switches to the design specification tab in docs", () => {
+    render(<App />);
+    fireEvent.click(screen.getByRole("link", { name: "项目文档" }));
+    fireEvent.click(screen.getByRole("button", { name: "设计规范" }));
+    expect(screen.getByRole("heading", { name: "Colorful 图标系统设计规范 · 1.2" })).toBeTruthy();
+    expect(screen.getByText("一、 核心设计哲学")).toBeTruthy();
+    expect(screen.getByText("二、 画布、栅格与光学校正")).toBeTruthy();
+  });
+
   it("exports animated JSX without a separate stylesheet import", () => {
     render(<App />);
     fireEvent.click(screen.getByRole("button", { name: "查看代码" }));

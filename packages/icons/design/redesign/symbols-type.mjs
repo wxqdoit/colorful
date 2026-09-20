@@ -166,7 +166,7 @@ const assignments=JSON.parse(fs.readFileSync(new URL('./assignments/symbols-type
 const notes=[];
 for(const {name} of assignments){
  const item=shapes[name];if(!item)throw Error(`Unimplemented assigned symbol: ${name}`);
- const svg=roundSVG(`<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round">${item.body}</svg>`).source;
+ const svg=roundSVG(`<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--project-art-detail, #aa8bcf)" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${item.body}</svg>`).source;
  const check=inspectRoundness(svg);if(check.issues.length)throw Error(`${name}: ${JSON.stringify(check.issues)}`);
  fs.writeFileSync(new URL(`../../assets/regular/${name}.svg`,import.meta.url),svg);
  notes.push({name,label:chineseLabel(name),category:'文字与运算',family:item.family,visualReason:item.visualReason});
